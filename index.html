@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="OUART MODEL 初艺模型分享：简洁的 STL 模型介绍与个人学习资源索引。" />
+    <meta name="theme-color" content="#ffffff" />
+    <title>OUART MODEL｜初艺模型分享</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="./index.html" aria-label="OUART MODEL 首页">
+        <strong>OUART MODEL</strong><span>初艺模型分享</span>
+      </a>
+      <button class="menu-button" type="button" aria-expanded="false" aria-controls="site-nav">
+        <span></span><span></span><span></span><span class="sr-only">打开导航</span>
+      </button>
+      <nav id="site-nav" class="site-nav" aria-label="主导航">
+        <a class="active" href="#latest">最新模型</a>
+        <a href="#archive">全部模型</a>
+        <a href="#guide">使用说明</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-copy">
+          <h1 id="hero-title">每日一件，<br />值得打印的模型</h1>
+          <p>精选并整理可用于个人学习的 STL 模型，清楚介绍，方便查找。</p>
+          <a class="primary-button" href="./model.html?id=axe-3d-print-model">
+            查看最新模型
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M14 6l6 6-6 6" /></svg>
+          </a>
+          <label class="search-field" for="model-search">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7" /><path d="m16.5 16.5 4 4" /></svg>
+            <span class="sr-only">搜索模型</span>
+            <input id="model-search" type="search" placeholder="搜索模型名称或日期" autocomplete="off" />
+          </label>
+        </div>
+        <a class="hero-media" href="./model.html?id=axe-3d-print-model" aria-label="查看 Axe 3D Print Model">
+          <img src="./assets/models/axe/preview-1.jpg" alt="Axe 重甲战士与巨斧模型预览" />
+        </a>
+      </section>
+
+      <section class="archive-section" id="latest" aria-labelledby="latest-title">
+        <div class="section-heading">
+          <h2 id="latest-title">最近更新</h2>
+          <p id="result-count" aria-live="polite"></p>
+        </div>
+        <div class="model-list" id="model-list"></div>
+        <p class="empty-state" id="empty-state" hidden>没有找到匹配的模型。</p>
+        <button class="load-more" id="load-more" type="button">查看更多模型</button>
+      </section>
+
+      <section class="archive-intro" id="archive" aria-labelledby="archive-title">
+        <h2 id="archive-title">一个持续生长的模型档案</h2>
+        <p>按日期记录模型名称、预览图与文件信息。页面保持克制，让查找和下载始终是最直接的两件事。</p>
+      </section>
+
+      <section class="guide" id="guide" aria-labelledby="guide-title">
+        <h2 id="guide-title">使用说明</h2>
+        <ol>
+          <li><span>01</span><p><strong>查看介绍</strong>先确认模型内容与文件信息是否符合需要。</p></li>
+          <li><span>02</span><p><strong>打开网盘</strong>下载链接与四位提取码会分开、清楚地展示。</p></li>
+          <li><span>03</span><p><strong>个人学习</strong>分享内容仅供个人学习与非商业用途。</p></li>
+        </ol>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>OUART MODEL</p><p>初艺模型分享</p>
+    </footer>
+
+    <script src="./data/models.js"></script>
+    <script src="./site.js"></script>
+  </body>
+</html>

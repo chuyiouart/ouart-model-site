@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#ffffff" />
+    <title>模型详情｜OUART MODEL</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="./index.html"><strong>OUART MODEL</strong><span>初艺模型分享</span></a>
+      <button class="menu-button" type="button" aria-expanded="false" aria-controls="site-nav">
+        <span></span><span></span><span></span><span class="sr-only">打开导航</span>
+      </button>
+      <nav id="site-nav" class="site-nav" aria-label="主导航">
+        <a href="./index.html#latest">最新模型</a>
+        <a class="active" href="./index.html#archive">全部模型</a>
+        <a href="./index.html#guide">使用说明</a>
+      </nav>
+    </header>
+
+    <main class="detail-page" id="model-detail">
+      <a class="back-link" href="./index.html#latest">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19 12H5M10 6l-6 6 6 6" /></svg>
+        返回全部模型
+      </a>
+      <div class="detail-layout">
+        <figure class="detail-media"><img id="detail-image" src="" alt="" /></figure>
+        <article class="detail-copy">
+          <h1 id="detail-title"></h1>
+          <time id="detail-date"></time>
+          <p class="detail-lead" id="detail-description"></p>
+          <dl class="model-meta" id="detail-meta"></dl>
+          <h2>模型介绍</h2>
+          <p id="detail-intro"></p>
+        </article>
+      </div>
+
+      <section class="download-panel" id="download-panel" aria-labelledby="download-title">
+        <h2 id="download-title">文件下载</h2>
+        <div class="download-content">
+          <a class="primary-button" id="download-link" href="#" target="_blank" rel="noopener">打开百度网盘</a>
+          <div class="code-block">
+            <span>提取码</span><code id="share-code"></code>
+            <button class="copy-button" id="copy-code" type="button" aria-label="复制提取码">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="8" y="8" width="11" height="12" rx="1" /><path d="M16 8V4H5v12h3" /></svg>
+            </button>
+          </div>
+          <p>仅供个人学习与非商业用途。</p>
+        </div>
+      </section>
+
+      <figure class="detail-secondary" id="detail-secondary-wrap" hidden>
+        <img id="detail-secondary" src="" alt="" />
+      </figure>
+    </main>
+
+    <footer class="site-footer"><p>OUART MODEL</p><p>初艺模型分享</p></footer>
+    <script src="./data/models.js"></script>
+    <script src="./site.js"></script>
+  </body>
+</html>

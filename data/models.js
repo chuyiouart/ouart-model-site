@@ -1,5 +1,22 @@
 window.OUART_MODELS = [
   {
+    "id": "angel-wing-deck-box",
+    "name": "Angel Wing Deck Box",
+    "date": "2026-07-11",
+    "displayDate": "2026.07.11",
+    "format": "STL",
+    "fileCount": 4,
+    "size": "41.55 MB",
+    "usage": "个人学习",
+    "image": "./assets/models/angel-wing-deck-box/preview-1.jpg",
+    "description": "带天使翅膀浮雕的卡牌收纳盒，预览展示盒体、翻盖结构与装卡效果。",
+    "intro": "这是一款以天使翅膀浮雕为主要视觉特征的卡牌收纳盒模型。预览图同时展示关闭与打开状态，可识别盒体、盒盖、卡牌容纳空间和连接结构。压缩包包含 4 个 STL 文件，另有 3MF 参考文件；打印前建议检查翅膀纹理、盒盖连接和小型插销部件的支撑与装配间隙。仅供个人学习与非商业用途。",
+    "downloadUrl": "https://pan.baidu.com/s/1usG2aQp6amCyJTlHTd-A-w",
+    "shareCode": "g0v4",
+    "published": true,
+    "alt": "Angel Wing Deck Box 天使翅膀浮雕卡牌收纳盒，展示盒体、盒盖与装卡效果"
+  },
+  {
     "id": "axe-3d-print-model",
     "name": "Axe 3D Print Model",
     "date": "2026-07-10",

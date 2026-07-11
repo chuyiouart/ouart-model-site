@@ -28,6 +28,36 @@
     return '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M14 6l6 6-6 6" /></svg>';
   }
 
+  function modelUrl(model) {
+    return model.page || `./model.html?id=${encodeURIComponent(model.id)}`;
+  }
+
+  function renderHero() {
+    const latest = models.find((model) => model && model.published === true && model.id && model.image);
+    if (!latest) return;
+
+    const heroLink = document.getElementById("hero-link");
+    const heroLabel = document.getElementById("hero-link-label");
+    const heroMedia = document.getElementById("hero-media");
+    const heroImage = document.getElementById("hero-image");
+    const href = modelUrl(latest);
+
+    if (heroLink) {
+      heroLink.href = href;
+      heroLink.setAttribute("aria-label", `查看 ${latest.name}`);
+    }
+    if (heroLabel) heroLabel.textContent = `查看 ${latest.name}`;
+    if (heroMedia && heroImage) {
+      heroMedia.href = href;
+      heroMedia.setAttribute("aria-label", `查看 ${latest.name}`);
+      heroImage.src = latest.image;
+      heroImage.alt = latest.alt || `${latest.name} 模型预览`;
+      heroMedia.hidden = false;
+    }
+  }
+
+  renderHero();
+
   function renderList(query) {
     if (!list) return;
     const normalized = String(query || "").trim().toLowerCase();
@@ -37,7 +67,7 @@
 
     const visible = normalized ? filtered : filtered.slice(0, visibleCount);
     list.innerHTML = visible.map((model, index) => `
-      <a class="model-row${index === 0 ? " featured" : ""}" href="${model.page || `./model.html?id=${encodeURIComponent(model.id)}`}">
+      <a class="model-row${index === 0 ? " featured" : ""}" href="${modelUrl(model)}">
         <span class="model-thumb"><img src="${model.image}" alt="${model.alt}" loading="${index === 0 ? "eager" : "lazy"}" /></span>
         <span class="model-summary">
           <strong>${model.name}</strong>

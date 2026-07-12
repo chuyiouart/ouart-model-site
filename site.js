@@ -187,7 +187,7 @@
     summary.textContent = `作者：${data.author}｜许可：${data.license}`;
     root.appendChild(summary);
     const links = [
-      ["NASA Science 官方模型页", data.sourceUrl],
+      ["官方模型 / 原始来源页", data.sourceUrl],
       ["Wikimedia Commons 原始文件页", data.wikimediaUrl],
       ["Thingiverse 作者作品页", data.thingiverseUrl],
       [`${data.license || "许可"} 许可文本`, data.licenseUrl]

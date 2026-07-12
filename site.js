@@ -148,4 +148,30 @@
       secondaryWrap.hidden = false;
     }
   }
+
+  function insertModelCommunityCta() {
+    const detailPage = document.querySelector(".detail-page, .legacy-detail");
+    if (!detailPage || document.getElementById("model-community-cta") || document.querySelector(".model-community-cta")) return;
+
+    const section = document.createElement("section");
+    section.id = "model-community-cta";
+    section.className = "model-community-cta";
+    section.setAttribute("aria-label", "加入OUART模型交流群");
+
+    const text = document.createElement("p");
+    text.textContent = "可加微信“chuyimeishu01”，备注“模型资源”入群！";
+
+    const image = document.createElement("img");
+    image.src = "/ouart-model-site/assets/shared/wechat-model-group-qr.png";
+    image.alt = "扫码添加微信，备注模型资源入群";
+    image.width = 472;
+    image.height = 472;
+    image.loading = "lazy";
+
+    section.append(text, image);
+    detailPage.appendChild(section);
+  }
+
+  window.OUART_insertModelCommunityCta = insertModelCommunityCta;
+  insertModelCommunityCta();
 })();

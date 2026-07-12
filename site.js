@@ -152,7 +152,7 @@
     const links = [
       ["Wikimedia Commons 原始文件页", data.wikimediaUrl],
       ["Thingiverse 作者作品页", data.thingiverseUrl],
-      ["CC BY-SA 3.0 许可文本", data.licenseUrl]
+      [`${data.license || "许可"} 许可文本`, data.licenseUrl]
     ].filter((item) => item[1]);
     if (links.length) {
       const list = document.createElement("ul");

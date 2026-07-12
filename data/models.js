@@ -9,8 +9,8 @@ window.OUART_MODELS = [
     "size": "23.80 MB",
     "usage": "CC BY-SA 3.0｜署名并相同方式共享",
     "image": "./assets/models/sitting-ghost/preview-1.png",
-    "description": "披袍坐姿幽灵雕塑，轮廓凝练，适合桌面摆件打印与暗黑题材涂装。",
-    "intro": "Sitting Ghost 是 Jaroslav_g 创作的披袍坐姿幽灵模型，包含 1 个 STL 文件。模型来源于 Wikimedia Commons，原始作品页面同时指向 Thingiverse，按 CC BY-SA 3.0 许可再分发。OUART 版本仅进行文件规范化、打包和署名说明整理；使用与再分发时请保留作者署名、来源和相同许可。打印前建议检查披风褶皱、底部接触面与内部悬空区域的支撑。",
+    "description": "披袍坐姿、空洞面部与沉重垂落的布褶构成安静而有压迫感的幽灵雕塑。",
+    "intro": "Sitting Ghost 以极少的形体元素建立明确气氛：身体完全收进披袍，面部只留下深色空洞，坐姿与向下垂落的褶皱共同形成稳定、沉静的轮廓。",
     "downloadUrl": "https://pan.baidu.com/s/1v4QASnpAxfIhFYluwFixZA",
     "shareCode": "ehnc",
     "published": true,
@@ -18,7 +18,74 @@ window.OUART_MODELS = [
     "author": "Jaroslav_g",
     "license": "CC BY-SA 3.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_STATUE_OF_A_SITTING_GHOST.stl",
-    "sourceCreditUrl": "https://www.thingiverse.com/thing:6462288"
+    "sourceCreditUrl": "https://www.thingiverse.com/thing:6462288",
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计观察",
+        "paragraphs": [
+          "模型以披袍坐姿为核心。头部被兜帽完整包覆，面部没有五官，只保留一个向内收拢的空洞；这一处深色负形与外侧圆钝的罩袍轮廓形成最强对比。",
+          "肩部、胸前与膝部的褶皱逐层汇向下方，袍摆越过坐面后自然垂落。上部收拢、下部展开的重量关系，让静止姿态带有持续向下的压力，也保留了适合成组陈列的简洁剪影。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印与制作",
+        "paragraphs": [
+          "现有 STL 检查确认模型为单个有效 STL。切片前应重点查看兜帽内缘、胸前与膝下褶皱形成的悬空区域、袍摆底部接触面，以及坐姿内部可能出现的遮蔽悬空；支撑策略应以实际切片预览为准，避免为了省支撑损伤空洞面部和薄褶边缘。",
+          "较小打印适合书架边缘、盆景或微缩场景中的重复点缀；中等体量更适合作为桌面单件或三件组合；更大的版本可强化袍褶与空洞面部的明暗，但应同时检查底部稳定性、耗材和支撑拆除空间。这里不预设具体尺寸，建议根据打印机成型范围与使用场景等比缩放。"
+        ]
+      },
+      {
+        "id": "paint",
+        "title": "涂装方向",
+        "paragraphs": [
+          "石膏白或冷灰能够突出大面积布褶和纯净剪影，可用极淡灰色洗涂压低褶皱深处。旧石像方向可叠加石灰质斑驳与克制的青苔色，让模型融入壁龛、台阶或植物场景。",
+          "炭黑版本适合以灰白或冷灰进行边缘干扫，强化兜帽轮廓和褶皱转折；幽灵感方案则可从深冷蓝、灰紫过渡到边缘的淡青白。无论选择哪种方案，面部空洞宜保持最深值，避免加入眼睛或多余五官。"
+        ]
+      },
+      {
+        "id": "scene",
+        "title": "场景应用",
+        "paragraphs": [
+          "可以打印三件不同大小的 Sitting Ghost，沿书架边缘、桌沿或小画框与壁龛的下缘错落摆放。数量以三件最容易形成节奏：一大两小或由大到小递进，朝向略微变化，同时在模型之间保留足够留白，避免把简洁轮廓挤成一团。",
+          "在微缩场景中，可将模型放到台阶转角、万圣节陈列、植物盆景或苔藓地景里。相同造型使用石膏白、旧石灰青苔和炭黑三种颜色，会比堆叠更多道具更有层次；低位侧光或背后的微弱暖光可以强调空洞面部，但灯具与植物应退居背景。"
+        ]
+      },
+      {
+        "id": "extend",
+        "title": "创作延展",
+        "paragraphs": [
+          "成组陈列时可调整大小、座面高度和轻微朝向，让披袍垂线彼此呼应而不完全对称。统一底座适合建立仪式感，分散放置则更像空间中偶然出现的安静角色。",
+          "旧化可集中在袍摆、接触面和褶皱深处；灯光优先从侧上方掠过轮廓，或在后方保留一处低亮度光源。不要用复杂武器、四肢或装饰破坏原模型的克制，重点始终是空洞、重量、静止与留白。"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/sitting-ghost/scene-bookshelf.png",
+        "alt": "三个不同大小的Sitting Ghost模型错落摆放在深色书架边缘",
+        "label": "场景应用示意图｜AI生成"
+      },
+      {
+        "src": "./assets/models/sitting-ghost/scene-paint-variants.png",
+        "alt": "石膏白、旧石灰青苔和炭黑干扫三种Sitting Ghost涂装示意",
+        "label": "场景应用示意图｜AI生成"
+      },
+      {
+        "src": "./assets/models/sitting-ghost/scene-halloween-diorama.png",
+        "alt": "Sitting Ghost模型用于暗色台阶与植物微缩场景的陈列示意",
+        "label": "场景应用示意图｜AI生成"
+      }
+    ],
+    "authorLicense": {
+      "author": "Jaroslav_g",
+      "license": "CC BY-SA 3.0",
+      "wikimediaUrl": "https://commons.wikimedia.org/wiki/File:A_STATUE_OF_A_SITTING_GHOST.stl",
+      "thingiverseUrl": "https://www.thingiverse.com/thing:6462288",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "OUART 版本对文件名、压缩包和署名说明进行了规范化整理。再次分享或改编时，请保留作者署名、来源链接，并按 CC BY-SA 3.0 以相同方式共享。"
+    }
   },
   {
     "id": "angel-wing-deck-box",

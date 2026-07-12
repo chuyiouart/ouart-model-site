@@ -91,6 +91,90 @@
     });
   }
 
+  function renderStructuredSections(model) {
+    const sectionRoot = document.getElementById("detail-sections");
+    const legacyIntro = document.getElementById("detail-legacy-intro");
+    const sections = Array.isArray(model.sections) ? model.sections.filter((item) => item && item.title && Array.isArray(item.paragraphs)) : [];
+    if (!sectionRoot || !sections.length) {
+      if (legacyIntro) legacyIntro.hidden = false;
+      return;
+    }
+    sectionRoot.replaceChildren();
+    sections.forEach((item) => {
+      const article = document.createElement("article");
+      article.className = "model-section";
+      const heading = document.createElement("h2");
+      heading.textContent = item.title;
+      article.appendChild(heading);
+      item.paragraphs.filter(Boolean).forEach((paragraph) => {
+        const text = document.createElement("p");
+        text.textContent = paragraph;
+        article.appendChild(text);
+      });
+      sectionRoot.appendChild(article);
+    });
+    sectionRoot.hidden = false;
+    if (legacyIntro) legacyIntro.hidden = true;
+  }
+
+  function renderGallery(model) {
+    const section = document.getElementById("detail-gallery-section");
+    const root = document.getElementById("detail-gallery");
+    const gallery = Array.isArray(model.gallery) ? model.gallery.filter((item) => item && item.src && item.alt) : [];
+    if (!section || !root || !gallery.length) return;
+    root.replaceChildren();
+    gallery.forEach((item) => {
+      const figure = document.createElement("figure");
+      const image = document.createElement("img");
+      image.src = item.src;
+      image.alt = item.alt;
+      image.loading = "lazy";
+      const caption = document.createElement("figcaption");
+      caption.textContent = item.label || "场景应用示意图｜AI生成";
+      figure.append(image, caption);
+      root.appendChild(figure);
+    });
+    section.hidden = false;
+  }
+
+  function renderAuthorLicense(model) {
+    const section = document.getElementById("detail-author-license");
+    const root = document.getElementById("author-license-content");
+    const data = model.authorLicense;
+    if (!section || !root || !data || !data.author || !data.license) return;
+    root.replaceChildren();
+    const summary = document.createElement("p");
+    summary.textContent = `作者：${data.author}｜许可：${data.license}`;
+    root.appendChild(summary);
+    const links = [
+      ["Wikimedia Commons 原始文件页", data.wikimediaUrl],
+      ["Thingiverse 作者作品页", data.thingiverseUrl],
+      ["CC BY-SA 3.0 许可文本", data.licenseUrl]
+    ].filter((item) => item[1]);
+    if (links.length) {
+      const list = document.createElement("ul");
+      links.forEach(([label, href]) => {
+        const item = document.createElement("li");
+        const link = document.createElement("a");
+        link.textContent = label;
+        link.href = href;
+        link.target = "_blank";
+        link.rel = "noopener";
+        item.appendChild(link);
+        list.appendChild(item);
+      });
+      root.appendChild(list);
+    }
+    if (data.note) {
+      const note = document.createElement("p");
+      note.textContent = data.note;
+      root.appendChild(note);
+    }
+    section.hidden = false;
+    const usageNote = document.getElementById("download-usage-note");
+    if (usageNote) usageNote.textContent = "使用、改编与再分享请遵循本页“作者与许可”说明。";
+  }
+
   const detailRoot = document.getElementById("model-detail");
   if (detailRoot) {
     const id = new URLSearchParams(window.location.search).get("id") || models[0]?.id;
@@ -106,7 +190,10 @@
     date.textContent = model.displayDate;
     date.dateTime = model.date;
     document.getElementById("detail-description").textContent = model.description;
-    document.getElementById("detail-intro").textContent = model.intro;
+    document.getElementById("detail-intro").textContent = model.intro || "";
+    renderStructuredSections(model);
+    renderGallery(model);
+    renderAuthorLicense(model);
     document.getElementById("detail-meta").innerHTML = `
       <div><dt>文件格式</dt><dd>${model.format}</dd></div>
       <div><dt>文件数量</dt><dd>${model.fileCount}</dd></div>
@@ -162,11 +249,13 @@
     text.textContent = "可加微信“chuyimeishu01”，备注“模型资源”入群！";
 
     const image = document.createElement("img");
-    image.src = "/ouart-model-site/assets/shared/wechat-model-group-qr.png";
+    const isLocal = location.hostname === "127.0.0.1" || location.hostname === "localhost";
+    const localQrPath = location.pathname.includes("/content/posts/") ? "../../assets/shared/wechat-model-group-qr.png" : "./assets/shared/wechat-model-group-qr.png";
+    image.src = isLocal ? new URL(localQrPath, location.href).href : "/ouart-model-site/assets/shared/wechat-model-group-qr.png";
     image.alt = "扫码添加微信，备注模型资源入群";
     image.width = 472;
     image.height = 472;
-    image.loading = "lazy";
+    image.loading = "eager";
 
     section.append(text, image);
     detailPage.appendChild(section);

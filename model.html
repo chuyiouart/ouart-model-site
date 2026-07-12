@@ -32,10 +32,27 @@
           <time id="detail-date"></time>
           <p class="detail-lead" id="detail-description"></p>
           <dl class="model-meta" id="detail-meta"></dl>
-          <h2>模型介绍</h2>
-          <p id="detail-intro"></p>
+          <section id="detail-legacy-intro">
+            <h2>模型介绍</h2>
+            <p id="detail-intro"></p>
+          </section>
         </article>
       </div>
+
+      <section class="model-sections" id="detail-sections" aria-label="模型深度解读" hidden></section>
+
+      <section class="model-gallery" id="detail-gallery-section" aria-labelledby="detail-gallery-title" hidden>
+        <div class="section-title-row">
+          <h2 id="detail-gallery-title">场景应用示意</h2>
+          <p>用于展示打印后的组合、涂装与陈列方向，不替代真实模型主图。</p>
+        </div>
+        <div class="gallery-grid" id="detail-gallery"></div>
+      </section>
+
+      <section class="author-license" id="detail-author-license" aria-labelledby="author-license-title" hidden>
+        <h2 id="author-license-title">作者与许可</h2>
+        <div id="author-license-content"></div>
+      </section>
 
       <section class="download-panel" id="download-panel" aria-labelledby="download-title">
         <h2 id="download-title">文件下载</h2>
@@ -47,7 +64,7 @@
               <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="8" y="8" width="11" height="12" rx="1" /><path d="M16 8V4H5v12h3" /></svg>
             </button>
           </div>
-          <p>仅供个人学习与非商业用途。</p>
+          <p id="download-usage-note">仅供个人学习与非商业用途。</p>
         </div>
       </section>
 

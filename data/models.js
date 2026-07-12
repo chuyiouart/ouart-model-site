@@ -1,5 +1,26 @@
 window.OUART_MODELS = [
   {
+    "id": "sitting-ghost",
+    "name": "Sitting Ghost",
+    "date": "2026-07-12",
+    "displayDate": "2026.07.12",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "23.80 MB",
+    "usage": "CC BY-SA 3.0｜署名并相同方式共享",
+    "image": "./assets/models/sitting-ghost/preview-1.png",
+    "description": "披袍坐姿幽灵雕塑，轮廓凝练，适合桌面摆件打印与暗黑题材涂装。",
+    "intro": "Sitting Ghost 是 Jaroslav_g 创作的披袍坐姿幽灵模型，包含 1 个 STL 文件。模型来源于 Wikimedia Commons，原始作品页面同时指向 Thingiverse，按 CC BY-SA 3.0 许可再分发。OUART 版本仅进行文件规范化、打包和署名说明整理；使用与再分发时请保留作者署名、来源和相同许可。打印前建议检查披风褶皱、底部接触面与内部悬空区域的支撑。",
+    "downloadUrl": "https://pan.baidu.com/s/1v4QASnpAxfIhFYluwFixZA",
+    "shareCode": "ehnc",
+    "published": true,
+    "alt": "Sitting Ghost 披袍坐姿幽灵模型预览",
+    "author": "Jaroslav_g",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_STATUE_OF_A_SITTING_GHOST.stl",
+    "sourceCreditUrl": "https://www.thingiverse.com/thing:6462288"
+  },
+  {
     "id": "angel-wing-deck-box",
     "name": "Angel Wing Deck Box",
     "date": "2026-07-11",

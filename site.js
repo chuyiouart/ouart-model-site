@@ -129,9 +129,12 @@
       image.src = item.src;
       image.alt = item.alt;
       image.loading = "lazy";
-      const caption = document.createElement("figcaption");
-      caption.textContent = item.label || "场景应用示意图｜AI生成";
-      figure.append(image, caption);
+      figure.appendChild(image);
+      if (item.label) {
+        const caption = document.createElement("figcaption");
+        caption.textContent = item.label;
+        figure.appendChild(caption);
+      }
       root.appendChild(figure);
     });
     section.hidden = false;

@@ -65,17 +65,17 @@ window.OUART_MODELS = [
       {
         "src": "./assets/models/sitting-ghost/scene-bookshelf.png",
         "alt": "三个不同大小的Sitting Ghost模型错落摆放在深色书架边缘",
-        "label": "场景应用示意图｜AI生成"
+        "label": "书架组合陈列示意"
       },
       {
         "src": "./assets/models/sitting-ghost/scene-paint-variants.png",
         "alt": "石膏白、旧石灰青苔和炭黑干扫三种Sitting Ghost涂装示意",
-        "label": "场景应用示意图｜AI生成"
+        "label": "三种涂装方向示意"
       },
       {
         "src": "./assets/models/sitting-ghost/scene-halloween-diorama.png",
         "alt": "Sitting Ghost模型用于暗色台阶与植物微缩场景的陈列示意",
-        "label": "场景应用示意图｜AI生成"
+        "label": "暗色台阶与植物场景示意"
       }
     ],
     "authorLicense": {

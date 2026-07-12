@@ -1,5 +1,84 @@
 window.OUART_MODELS = [
   {
+    "id": "herakles-archer",
+    "name": "Herakles Archer",
+    "date": "2026-07-12",
+    "displayDate": "2026.07.12",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "17.99 MB",
+    "usage": "CC BY-SA 4.0｜署名并相同方式共享",
+    "image": "./assets/models/herakles-archer/preview-1.png",
+    "description": "以强烈对角线组织跪姿、躯干扭转与张弓动作的古典英雄雕塑扫描模型。",
+    "intro": "Herakles Archer 来自布德尔博物馆藏雕塑的摄影测量模型。跪姿支点、后撤躯干与向前伸展的弓形成高度凝聚的运动张力，既保留雕塑表面的手作起伏，也适合研究古典人体、动态构图与单色材质表现。",
+    "downloadUrl": "https://pan.baidu.com/s/1_sYB17I_Se-H-GW43sTlFQ",
+    "shareCode": "3ja5",
+    "published": true,
+    "alt": "Herakles Archer 跪姿张弓古典雕塑模型真实预览",
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计观察",
+        "paragraphs": [
+          "作品并不依靠复杂道具制造力量感，而是把跪姿腿部、扭转躯干和张开的双臂压进一条连续的斜向力线。弓向画面一侧延伸，身体重量则落向相反方向，使静态雕塑呈现出蓄力瞬间的紧张平衡。",
+          "摄影测量保留了原作表面的细小起伏与非机械化边缘。观看时可重点比较胸廓、腹部与肩胛在扭转中的体块衔接，以及弓的细线如何与厚重人体形成尺度对比。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印与制作",
+        "paragraphs": [
+          "模型为单个二进制 STL，共 626,566 个三角面。切片前应先确认模型单位与目标尺寸；源网格包围盒数值约为 6.42 × 3.60 × 6.58，文件本身不提供可靠的现实单位，不能直接把该数值当作厘米或毫米。",
+          "重点检查弓体、手腕、脚踝及身体下方的悬空区域。树状支撑可减少对躯干表面的接触，但弓和四肢的稳定仍应以逐层预览判断；放大打印更利于保留摄影测量表面，小尺寸输出则应确认弓体最小壁厚。"
+        ]
+      },
+      {
+        "id": "paint",
+        "title": "涂装方向",
+        "paragraphs": [
+          "单色石膏白最能直接阅读体块，可用极淡暖灰洗涂压低腹部、腋下与腿部交叠处，再以偏暖白轻扫受光面。古铜方案适合深棕黑底色，在转折处叠加铜色，并只在凹部克制加入青绿色铜锈。",
+          "若希望保留博物馆复制品气质，可使用暖象牙、砂岩或深炭灰，避免高饱和服饰式分色。弓体宜与人物保持统一材质逻辑，让注意力仍集中在姿态和人体结构。"
+        ]
+      },
+      {
+        "id": "scene",
+        "title": "场景应用",
+        "paragraphs": [
+          "适合作为书房、工作室或模型柜中的单件视觉中心。低位深色底座可以稳定大幅向外展开的轮廓，侧上方掠射光则能同时强调胸廓、背部和腿部的体块变化。",
+          "也可将石膏白、旧铜与炭黑三个版本并置，用相同尺寸比较材质对雕塑阅读的影响。周围道具应保持稀疏，不要让书本、植物或工具遮住弓与头部。"
+        ]
+      }
+    ],
+    "author": "CrlNvl",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Herakles_Archer_-_3D_Model.stl",
+    "authorLicense": {
+      "author": "CrlNvl",
+      "license": "CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Herakles_Archer_-_3D_Model.stl",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "模型由 CrlNvl 于 2016 年使用 188 张照片进行摄影测量制作，原作位于 Musée Bourdelle。OUART 仅规范化文件名、压缩包与署名说明；再次分享或改编须保留署名、来源与许可链接，并以 CC BY-SA 4.0 相同方式共享。"
+    },
+    "cleanup_eligible_at": "2026-07-14T15:18:28+00:00",
+    "gallery": [
+      {
+        "src": "./assets/models/herakles-archer/scene-1.png",
+        "alt": "Herakles Archer古典雕塑置于当代美术馆石灰岩展台的场景示意",
+        "label": "场景应用示意图｜AI生成"
+      },
+      {
+        "src": "./assets/models/herakles-archer/scene-2.png",
+        "alt": "Herakles Archer旧铜涂装模型置于创作者工作台的场景示意",
+        "label": "场景应用示意图｜AI生成"
+      },
+      {
+        "src": "./assets/models/herakles-archer/scene-3.png",
+        "alt": "Herakles Archer象牙色模型置于深色书架的收藏陈列示意",
+        "label": "场景应用示意图｜AI生成"
+      }
+    ]
+  },
+  {
     "id": "sitting-ghost",
     "name": "Sitting Ghost",
     "date": "2026-07-12",

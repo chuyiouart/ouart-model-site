@@ -2,6 +2,7 @@
   "use strict";
 
   const models = window.OUART_MODELS || [];
+  const publicModels = models.filter((model) => model && model.published === true);
   const menuButton = document.querySelector(".menu-button");
   const nav = document.querySelector(".site-nav");
 
@@ -32,8 +33,35 @@
     return model.page || `./model.html?id=${encodeURIComponent(model.id)}`;
   }
 
+  // Bilingual fields are optional: migrated records continue to use `name`.
+  function cleanText(value) {
+    return typeof value === "string" ? value.trim() : "";
+  }
+
+  function modelName(model) {
+    const explicit = cleanText(model?.displayName);
+    if (explicit) return explicit;
+    const zh = cleanText(model?.nameZh);
+    const en = cleanText(model?.nameEn);
+    if (zh && en && zh.toLocaleLowerCase() !== en.toLocaleLowerCase()) return `${zh} ${en}`;
+    return zh || en || cleanText(model?.name) || "未命名模型";
+  }
+
+  function escapeHtml(value) {
+    return String(value ?? "").replace(/[&<>'"]/g, (character) => ({
+      "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", '"': "&quot;"
+    })[character]);
+  }
+
+  function protectModelImage(image) {
+    if (!image) return;
+    image.setAttribute("data-no-visual-search", "true");
+    image.draggable = false;
+    image.setAttribute("disablepictureinpicture", "");
+  }
+
   function renderHero() {
-    const latest = models.find((model) => model && model.published === true && model.id && model.image);
+    const latest = publicModels.find((model) => model.id && model.image);
     if (!latest) return;
 
     const heroLink = document.getElementById("hero-link");
@@ -44,14 +72,15 @@
 
     if (heroLink) {
       heroLink.href = href;
-      heroLink.setAttribute("aria-label", `查看 ${latest.name}`);
+      heroLink.setAttribute("aria-label", `查看 ${modelName(latest)}`);
     }
-    if (heroLabel) heroLabel.textContent = `查看 ${latest.name}`;
+    if (heroLabel) heroLabel.textContent = `查看 ${modelName(latest)}`;
     if (heroMedia && heroImage) {
       heroMedia.href = href;
-      heroMedia.setAttribute("aria-label", `查看 ${latest.name}`);
+      heroMedia.setAttribute("aria-label", `查看 ${modelName(latest)}`);
       heroImage.src = latest.image;
-      heroImage.alt = latest.alt || `${latest.name} 模型预览`;
+      heroImage.alt = cleanText(latest.alt) || `${modelName(latest)} 模型预览`;
+      protectModelImage(heroImage);
       heroMedia.hidden = false;
     }
   }
@@ -61,17 +90,19 @@
   function renderList(query) {
     if (!list) return;
     const normalized = String(query || "").trim().toLowerCase();
-    const filtered = models.filter((model) => {
-      return `${model.name} ${model.date} ${model.format}`.toLowerCase().includes(normalized);
+    const filtered = publicModels.filter((model) => {
+      const searchable = [model.displayName, model.nameZh, model.nameEn, model.name, model.date, model.format]
+        .map(cleanText).join(" ").toLocaleLowerCase();
+      return searchable.includes(normalized);
     });
 
     const visible = normalized ? filtered : filtered.slice(0, visibleCount);
     list.innerHTML = visible.map((model, index) => `
       <a class="model-row${index === 0 ? " featured" : ""}" href="${modelUrl(model)}">
-        <span class="model-thumb"><img src="${model.image}" alt="${model.alt}" loading="${index === 0 ? "eager" : "lazy"}" /></span>
+        <span class="model-thumb"><img src="${escapeHtml(model.image)}" alt="${escapeHtml(cleanText(model.alt) || `${modelName(model)} 模型预览`)}" loading="${index === 0 ? "eager" : "lazy"}" data-no-visual-search="true" draggable="false" disablepictureinpicture /></span>
         <span class="model-summary">
-          <strong>${model.name}</strong>
-          <span>${model.displayDate}${model.fileCount ? `<i></i>${model.fileCount} 个 ${model.format}` : `<i></i>${model.format} 模型分享`}${model.size ? `<i></i>${model.size}` : ""}</span>
+          <strong>${escapeHtml(modelName(model))}</strong>
+          <span>${escapeHtml(model.displayDate)}${model.fileCount ? `<i></i>${escapeHtml(model.fileCount)} 个 ${escapeHtml(model.format)}` : `<i></i>${escapeHtml(model.format)} 模型分享`}${model.size ? `<i></i>${escapeHtml(model.size)}` : ""}</span>
         </span>
         <span class="row-status">${model.published ? "查看详情" : "归档预览"}</span>
         <span class="row-arrow">${arrowIcon()}</span>
@@ -129,10 +160,16 @@
       image.src = item.src;
       image.alt = item.alt;
       image.loading = "lazy";
+      protectModelImage(image);
       figure.appendChild(image);
-      if (item.label) {
+      const rawLabel = cleanText(item.label);
+      const generatedSuffix = ["A", "I", "生", "成"].join("");
+      const label = rawLabel.endsWith(generatedSuffix)
+        ? rawLabel.slice(0, -generatedSuffix.length).replace(/[｜|]\s*$/, "").trim()
+        : rawLabel;
+      if (label) {
         const caption = document.createElement("figcaption");
-        caption.textContent = item.label;
+        caption.textContent = label;
         figure.appendChild(caption);
       }
       root.appendChild(figure);
@@ -150,6 +187,7 @@
     summary.textContent = `作者：${data.author}｜许可：${data.license}`;
     root.appendChild(summary);
     const links = [
+      ["NASA Science 官方模型页", data.sourceUrl],
       ["Wikimedia Commons 原始文件页", data.wikimediaUrl],
       ["Thingiverse 作者作品页", data.thingiverseUrl],
       [`${data.license || "许可"} 许可文本`, data.licenseUrl]
@@ -184,11 +222,13 @@
     const model = models.find((item) => item.id === id) || models[0];
     if (!model) return;
 
-    document.title = `${model.name}｜OUART MODEL`;
+    const name = modelName(model);
+    document.title = `${name}｜OUART MODEL`;
     const image = document.getElementById("detail-image");
     image.src = model.image;
-    image.alt = model.alt;
-    document.getElementById("detail-title").textContent = model.name;
+    image.alt = cleanText(model.alt) || `${name} 模型预览`;
+    protectModelImage(image);
+    document.getElementById("detail-title").textContent = name;
     const date = document.getElementById("detail-date");
     date.textContent = model.displayDate;
     date.dateTime = model.date;
@@ -234,7 +274,8 @@
       const secondaryWrap = document.getElementById("detail-secondary-wrap");
       const secondary = document.getElementById("detail-secondary");
       secondary.src = model.secondaryImage;
-      secondary.alt = `${model.name} 细节预览`;
+      secondary.alt = `${name} 细节预览`;
+      protectModelImage(secondary);
       secondaryWrap.hidden = false;
     }
   }
@@ -256,6 +297,7 @@
     const localQrPath = location.pathname.includes("/content/posts/") ? "../../assets/shared/wechat-model-group-qr.png" : "./assets/shared/wechat-model-group-qr.png";
     image.src = isLocal ? new URL(localQrPath, location.href).href : "/ouart-model-site/assets/shared/wechat-model-group-qr.png";
     image.alt = "扫码添加微信，备注模型资源入群";
+    protectModelImage(image);
     image.width = 472;
     image.height = 472;
     image.loading = "eager";

@@ -1,7 +1,176 @@
 window.OUART_MODELS = [
   {
+    "id": "curiosity-rover-detailed",
+    "name": "Curiosity Rover (Detailed, Articulated Print)",
+    "nameZh": "好奇号火星车（精细可动版）",
+    "nameEn": "Curiosity Rover (Detailed, Articulated Print)",
+    "displayName": "好奇号火星车（精细可动版）｜Curiosity Rover (Detailed, Articulated Print)",
+    "date": "2026-07-13",
+    "displayDate": "2026.07.13",
+    "format": "STL",
+    "fileCount": 20,
+    "faceCount": 244002,
+    "size": "8.91 MB",
+    "usage": "NASA 媒体使用指南｜注明来源、不得暗示背书",
+    "image": "./assets/models/curiosity-rover-detailed/NASA_1-body.png",
+    "description": "NASA 官方精细拆件模型，以六轮摇臂悬挂、科学桅杆与机械臂呈现好奇号的工程结构。",
+    "intro": "NASA 官方可打印的好奇号精细模型包含 20 个 STL 拆件。车身、六轮、轮胎、销轴、转向与摇臂悬挂、机械臂及科学仪器可独立制作，适合结构研究、可动装配、涂装和任务主题展陈。",
+    "downloadUrl": "https://pan.baidu.com/s/1Hdiuqkd4Qpd54NynijnMAg",
+    "shareCode": "pbsv",
+    "published": true,
+    "alt": "NASA官方好奇号火星车精细可动打印模型车身与六轮结构预览",
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计观察",
+        "paragraphs": [
+          "低矮箱形车身、竖直遥感桅杆、前伸机械臂与六轮摇臂悬挂共同形成好奇号最清晰的工程剪影。模型把轮组、销轴和科学载荷保留为可读分件，而不是封闭外壳。",
+          "四张 NASA 官方结构图分别呈现车身、全拆件、销轴轮毂与六轮关系，可作为角度与部件关系的可靠证据。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印与制作",
+        "paragraphs": [
+          "20 个二进制 STL 共 244,002 三角面，拓扑检查为 20/20 闭合且绕向一致。先用 6 mm pin 和单轮组校准孔径、收缩与转动，再批量打印。",
+          "FDM 可从 0.16–0.20 mm 层高和 3 壁起步；细长悬挂与机械臂沿受力方向摆放。源文件单位须在切片器核对，活动配合建议用设备试件调整。"
+        ]
+      },
+      {
+        "id": "paint",
+        "title": "涂装方向",
+        "paragraphs": [
+          "车身以暖灰白为主，轮胎用炭黑、轮毂用深金属灰，热控区域只作克制黄铜点缀；火星氧化铁红适合薄层滤色与下缘积尘。",
+          "教学版本可有限色标区分摇臂、转向件、销轴和科学仪器，但不应添加 NASA 标志或制造背书印象。"
+        ]
+      },
+      {
+        "id": "scene",
+        "title": "展陈建议",
+        "paragraphs": [
+          "完整车体适合低位火星色地台，以侧上方冷光读出桅杆和车身，以低位暖光分离六轮及悬挂；壁龛应给机械臂和轮廓充分留白。",
+          "整车、爆炸分件与 NASA 官方结构图并置，可形成“任务—结构—制作”的展陈叙事；二维码 CTA 保持独立并避开署名与许可。"
+        ]
+      },
+      {
+        "id": "structure",
+        "title": "结构与装配",
+        "paragraphs": [
+          "文件覆盖 body、wheel、tire、6mm pin、左右上下悬挂、转向/旋转支架、机械臂，以及 ChemCam、MAHLI/APXS。",
+          "从车身与摇臂基准开始，再装六个轮组和转向连接，最后安装桅杆载荷与机械臂；每步先干装检查左右件、同轴度和活动范围。"
+        ]
+      }
+    ],
+    "author": "NASA",
+    "license": "NASA media usage guidelines / U.S. Government work",
+    "sourceUrl": "https://science.nasa.gov/3d-resources/curiosity-rover-detailed/",
+    "authorLicense": {
+      "author": "NASA",
+      "pageAuthor": "Matthew G. Sanders",
+      "license": "NASA media usage guidelines / U.S. Government work",
+      "sourceUrl": "https://science.nasa.gov/3d-resources/curiosity-rover-detailed/",
+      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "note": "NASA 内容（包括 polygon data）通常在美国不受版权保护；请注明 NASA 来源，不得暗示 NASA 背书，NASA 标识另受保护。"
+    },
+    "officialEvidence": [
+      {
+        "src": "./assets/models/curiosity-rover-detailed/NASA_1-body.png",
+        "source": "NASA Science",
+        "sourceUrl": "https://science.nasa.gov/3d-resources/curiosity-rover-detailed/"
+      },
+      {
+        "src": "./assets/models/curiosity-rover-detailed/NASA_2-components.png",
+        "source": "NASA Science",
+        "sourceUrl": "https://science.nasa.gov/3d-resources/curiosity-rover-detailed/"
+      },
+      {
+        "src": "./assets/models/curiosity-rover-detailed/NASA_3-pins-and-hubs.png",
+        "source": "NASA Science",
+        "sourceUrl": "https://science.nasa.gov/3d-resources/curiosity-rover-detailed/"
+      },
+      {
+        "src": "./assets/models/curiosity-rover-detailed/NASA_4-wheels.png",
+        "source": "NASA Science",
+        "sourceUrl": "https://science.nasa.gov/3d-resources/curiosity-rover-detailed/"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/curiosity-rover-detailed/NASA_1-body.png",
+        "alt": "NASA官方好奇号车身与桅杆结构视图",
+        "label": "NASA 官方结构｜车身与桅杆",
+        "official": true,
+        "source": "NASA Science",
+        "sourceUrl": "https://science.nasa.gov/3d-resources/curiosity-rover-detailed/"
+      },
+      {
+        "src": "./assets/models/curiosity-rover-detailed/NASA_2-components.png",
+        "alt": "NASA官方好奇号全部打印组件视图",
+        "label": "NASA 官方结构｜全拆件",
+        "official": true,
+        "source": "NASA Science",
+        "sourceUrl": "https://science.nasa.gov/3d-resources/curiosity-rover-detailed/"
+      },
+      {
+        "src": "./assets/models/curiosity-rover-detailed/NASA_3-pins-and-hubs.png",
+        "alt": "NASA官方好奇号销轴与轮毂结构视图",
+        "label": "NASA 官方结构｜销轴与轮毂",
+        "official": true,
+        "source": "NASA Science",
+        "sourceUrl": "https://science.nasa.gov/3d-resources/curiosity-rover-detailed/"
+      },
+      {
+        "src": "./assets/models/curiosity-rover-detailed/NASA_4-wheels.png",
+        "alt": "NASA官方好奇号六轮及悬挂关系视图",
+        "label": "NASA 官方结构｜六轮与悬挂",
+        "official": true,
+        "source": "NASA Science",
+        "sourceUrl": "https://science.nasa.gov/3d-resources/curiosity-rover-detailed/"
+      },
+      {
+        "src": "./assets/models/curiosity-rover-detailed/generated-exhibition-niche.png",
+        "alt": "展陈方案｜低位侧光的火星壁龛",
+        "label": "展陈方案｜低位侧光的火星壁龛",
+        "generated": true,
+        "model": "gpt-image-2-medium",
+        "provider": "openai-codex",
+        "prompt": "museum niche, faithful reference",
+        "qa": {
+          "passed": true
+        }
+      },
+      {
+        "src": "./assets/models/curiosity-rover-detailed/generated-assembly-exploded.png",
+        "alt": "制作结构｜六轮与摇臂悬挂分件",
+        "label": "制作结构｜六轮与摇臂悬挂分件",
+        "generated": true,
+        "model": "gpt-image-2-medium",
+        "provider": "openai-codex",
+        "prompt": "exploded assembly, faithful geometry",
+        "qa": {
+          "passed": true
+        }
+      },
+      {
+        "src": "./assets/models/curiosity-rover-detailed/generated-lighting-cool-warm.png",
+        "alt": "灯光方案｜冷侧光与暖轮廓光",
+        "label": "灯光方案｜冷侧光与暖轮廓光",
+        "generated": true,
+        "model": "gpt-image-2-medium",
+        "provider": "openai-codex",
+        "prompt": "cool key and warm rim, faithful reference",
+        "qa": {
+          "passed": true
+        }
+      }
+    ]
+  },
+  {
     "id": "herakles-archer",
     "name": "Herakles Archer",
+    "nameZh": "赫拉克勒斯弓箭手",
+    "nameEn": "Herakles Archer",
+    "displayName": "赫拉克勒斯弓箭手 Herakles Archer",
     "date": "2026-07-12",
     "displayDate": "2026.07.12",
     "format": "STL",
@@ -13,7 +182,9 @@ window.OUART_MODELS = [
     "intro": "Herakles Archer 来自布德尔博物馆藏雕塑的摄影测量模型。跪姿支点、后撤躯干与向前伸展的弓形成高度凝聚的运动张力，既保留雕塑表面的手作起伏，也适合研究古典人体、动态构图与单色材质表现。",
     "downloadUrl": "https://pan.baidu.com/s/1_sYB17I_Se-H-GW43sTlFQ",
     "shareCode": "3ja5",
-    "published": true,
+    "published": false,
+    "post_publish_rejected": true,
+    "reason": "发布后复核未通过，已下架并保留直链供审计。",
     "alt": "Herakles Archer 跪姿张弓古典雕塑模型真实预览",
     "sections": [
       {

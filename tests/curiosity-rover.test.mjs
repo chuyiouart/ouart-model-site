@@ -1,4 +1,37 @@
-import test from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs';import vm from 'node:vm';import path from 'node:path';
-const root=path.resolve(import.meta.dirname,'..');const sandbox={window:{}};vm.runInNewContext(fs.readFileSync(path.join(root,'data/models.js'),'utf8'),sandbox);const models=sandbox.window.OUART_MODELS;const c=models[0];
-test('Curiosity formal publish data',()=>{assert.equal(c.id,'curiosity-rover-detailed');assert.equal(c.published,true);assert.equal(c.nameZh,'好奇号火星车（精细可动版）');assert.equal(c.nameEn,'Curiosity Rover (Detailed, Articulated Print)');assert.equal(c.displayName,`${c.nameZh}｜${c.nameEn}`);assert.equal(c.gallery.length,7);assert.equal(c.gallery.filter(x=>x.official).length,4);assert.equal(c.gallery.filter(x=>x.generated).length,3);assert.equal(c.gallery.filter(x=>x.generated).map(x=>x.label).join('\n'),['展陈方案｜低位侧光的火星壁龛','制作结构｜六轮与摇臂悬挂分件','灯光方案｜冷侧光与暖轮廓光'].join('\n'));assert.ok(c.gallery.filter(x=>x.generated).every(x=>x.model==='gpt-image-2-medium'&&x.provider==='openai-codex'&&x.prompt&&x.qa.passed));assert.ok(c.gallery.every(x=>!x.label.includes('AI生成')));assert.ok(c.sections.map(x=>x.title).includes('结构与装配'));assert.equal(models.find(x=>x.id==='herakles-archer').published,false);for(const x of c.gallery)assert.ok(fs.existsSync(path.join(root,x.src.replace(/^\.\//,''))));});
-test('Curiosity is first public Hero and search fields are bilingual',()=>{const publicModels=models.filter(x=>x.published===true);assert.equal(publicModels[0].id,c.id);const search=q=>publicModels.filter(x=>[x.displayName,x.nameZh,x.nameEn,x.name,x.date,x.format].filter(Boolean).join(' ').toLowerCase().includes(q.toLowerCase()));assert.equal(search('好奇号')[0].id,c.id);assert.equal(search('Curiosity')[0].id,c.id);assert.equal(search('Herakles').length,0);assert.ok(search('Sitting Ghost').some(x=>x.id==='sitting-ghost'));});
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import vm from 'node:vm';
+import path from 'node:path';
+
+const root = path.resolve(import.meta.dirname, '..');
+const sandbox = { window: {} };
+vm.runInNewContext(fs.readFileSync(path.join(root, 'data/models.js'), 'utf8'), sandbox);
+const models = sandbox.window.OUART_MODELS;
+const curiosity = models.find((model) => model.id === 'curiosity-rover-detailed');
+
+test('Curiosity assets and structured attribution remain intact while record is hidden', () => {
+  assert.equal(curiosity.published, false);
+  assert.equal(curiosity.hidden, true);
+  assert.equal(curiosity.unlisted, true);
+  assert.equal(curiosity.nameZh, '好奇号火星车（精细可动版）');
+  assert.equal(curiosity.nameEn, 'Curiosity Rover (Detailed, Articulated Print)');
+  assert.equal(curiosity.gallery.length, 7);
+  assert.equal(curiosity.gallery.filter((item) => item.official).length, 4);
+  assert.equal(curiosity.gallery.filter((item) => item.generated).length, 3);
+  assert.ok(curiosity.gallery.filter((item) => item.generated).every((item) => item.prompt && item.qa.passed));
+  for (const item of curiosity.gallery) assert.ok(fs.existsSync(path.join(root, item.src.replace(/^\.\//, ''))));
+});
+
+test('Curiosity is absent from public Hero and search without affecting Sitting Ghost', () => {
+  const publicModels = models.filter((model) => model.published === true);
+  assert.equal(publicModels[0].id, 'sitting-ghost');
+  const search = (query) => publicModels.filter((model) =>
+    [model.displayName, model.nameZh, model.nameEn, model.name, model.date, model.format]
+      .filter(Boolean).join(' ').toLowerCase().includes(query.toLowerCase())
+  );
+  assert.equal(search('好奇号').length, 0);
+  assert.equal(search('Curiosity').length, 0);
+  assert.equal(search('Herakles').length, 0);
+  assert.ok(search('Sitting Ghost').some((model) => model.id === 'sitting-ghost'));
+});

@@ -17,7 +17,9 @@ window.OUART_MODELS = [
     "intro": "NASA 官方可打印的好奇号精细模型包含 20 个 STL 拆件。车身、六轮、轮胎、销轴、转向与摇臂悬挂、机械臂及科学仪器可独立制作，适合结构研究、可动装配、涂装和任务主题展陈。",
     "downloadUrl": "https://pan.baidu.com/s/1Hdiuqkd4Qpd54NynijnMAg",
     "shareCode": "pbsv",
-    "published": true,
+    "published": false,
+    "hidden": true,
+    "unlisted": true,
     "alt": "NASA官方好奇号火星车精细可动打印模型车身与六轮结构预览",
     "sections": [
       {
@@ -183,6 +185,8 @@ window.OUART_MODELS = [
     "downloadUrl": "https://pan.baidu.com/s/1_sYB17I_Se-H-GW43sTlFQ",
     "shareCode": "3ja5",
     "published": false,
+    "hidden": true,
+    "unlisted": true,
     "post_publish_rejected": true,
     "reason": "发布后复核未通过，已下架并保留直链供审计。",
     "alt": "Herakles Archer 跪姿张弓古典雕塑模型真实预览",
@@ -351,7 +355,9 @@ window.OUART_MODELS = [
     "intro": "这是一款以天使翅膀浮雕为主要视觉特征的卡牌收纳盒模型。预览图同时展示关闭与打开状态，可识别盒体、盒盖、卡牌容纳空间和连接结构。压缩包包含 4 个 STL 文件，另有 3MF 参考文件；打印前建议检查翅膀纹理、盒盖连接和小型插销部件的支撑与装配间隙。仅供个人学习与非商业用途。",
     "downloadUrl": "https://pan.baidu.com/s/1usG2aQp6amCyJTlHTd-A-w",
     "shareCode": "g0v4",
-    "published": true,
+    "published": false,
+    "hidden": true,
+    "unlisted": true,
     "alt": "Angel Wing Deck Box 天使翅膀浮雕卡牌收纳盒，展示盒体、盒盖与装卡效果"
   },
   {
@@ -370,7 +376,9 @@ window.OUART_MODELS = [
     "intro": "模型以力量型战士为主体，重甲、巨型武器与低重心站姿形成清晰轮廓。切片前建议重点检查斧刃、武器连接处和盔甲外缘的支撑区域。",
     "downloadUrl": "https://pan.baidu.com/s/13cR6Ce3A0Y-UtyAM0RtcJw",
     "shareCode": "ou10",
-    "published": true
+    "published": false,
+    "hidden": true,
+    "unlisted": true
   },
   {
     "id": "sven-dota-2",
@@ -421,7 +429,9 @@ window.OUART_MODELS = [
     "intro": "本期模型已经完成文件整理与预览图匹配，便于查看模型内容并获取个人学习资源。 模型精选与导读： Axe 3D Print Model 简介： 这是一件以战斧为主题的 3D 打印模型，造型重点集中在斧刃轮廓、握柄结构和整体武",
     "downloadUrl": "https://pan.baidu.com/s/12RAP9wvZt5jdaIY9WjNkwg",
     "shareCode": "ouar",
-    "published": true,
+    "published": false,
+    "hidden": true,
+    "unlisted": true,
     "legacy": true,
     "page": "./content/posts/8199.html"
   },

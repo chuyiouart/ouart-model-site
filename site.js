@@ -218,9 +218,20 @@
 
   const detailRoot = document.getElementById("model-detail");
   if (detailRoot) {
-    const id = new URLSearchParams(window.location.search).get("id") || models[0]?.id;
-    const model = models.find((item) => item.id === id) || models[0];
-    if (!model) return;
+    const id = new URLSearchParams(window.location.search).get("id");
+    const model = id ? models.find((item) => item.id === id) : null;
+    if (!model || model.published !== true) {
+      let robots = document.querySelector('meta[name="robots"]');
+      if (!robots) {
+        robots = document.createElement("meta");
+        robots.name = "robots";
+        document.head.appendChild(robots);
+      }
+      robots.content = "noindex, nofollow";
+      document.title = "内容已下架｜OUART MODEL";
+      detailRoot.innerHTML = '<section class="unavailable-model" role="status"><p class="eyebrow">OUART MODEL</p><h1>内容已下架</h1><p>该模型记录不再公开展示。</p><a class="primary-button" href="./index.html#archive">返回全部模型</a></section>';
+      return;
+    }
 
     const name = modelName(model);
     document.title = `${name}｜OUART MODEL`;

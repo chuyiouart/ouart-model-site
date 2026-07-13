@@ -1,5 +1,109 @@
 window.OUART_MODELS = [
   {
+    "id": "jiraiya-x-naruto-kaidan",
+    "name": "自来也与少年鸣人（师徒同行）",
+    "date": "2026-07-13",
+    "displayDate": "2026.07.13",
+    "format": "STL",
+    "fileCount": 38,
+    "size": "1.07 GB",
+    "usage": "用户选定来源分发策略｜保留 Kaidan3D 署名线索",
+    "image": "./assets/models/jiraiya-x-naruto-kaidan/preview-1.jpg",
+    "description": "自来也肩扛少年鸣人穿行林间的双人雕像，以师徒同行、上指手势与岩台蛤蟆构成完整叙事。",
+    "intro": "模型将自来也与少年鸣人的师徒关系压缩成清晰的垂直构图：稳重的行走下盘、肩扛动作与鸣人的上指手势共同形成向上的视觉节奏。38个有效STL覆盖人物、卷轴、头发、岩台、蛤蟆及替换表情与手势，适合树脂分件打印、角色涂装和叙事展陈。",
+    "downloadUrl": "https://pan.baidu.com/s/1VXP7aJ56UXU266GVLvAacQ",
+    "shareCode": "n3uh",
+    "published": true,
+    "secondaryImage": "./assets/models/jiraiya-x-naruto-kaidan/preview-2.jpeg",
+    "nameZh": "自来也与少年鸣人（师徒同行）",
+    "nameEn": "Jiraiya & Young Naruto — Kaidan3D",
+    "displayName": "自来也与少年鸣人（师徒同行）｜Jiraiya & Young Naruto — Kaidan3D",
+    "faceCount": 50583624,
+    "alt": "自来也肩扛少年鸣人的完整双人模型与森林岩台预览",
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计观察",
+        "paragraphs": [
+          "双人肩扛构图把“师徒同行”压缩成清晰的垂直轮廓：自来也稳住下盘，鸣人的上指手势把视线继续向上牵引。红色羽织、橙蓝服装、白色刺发与林地岩台形成高辨识度层级。",
+          "背部卷轴、岩台植物与两只蛤蟆让正面、侧面和背面都有可读内容；替换表情与手臂则允许在不破坏主构图的前提下改变叙事语气。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印与制作",
+        "paragraphs": [
+          "标准包包含38个有效二进制STL，总三角面约50,583,624，覆盖人物头部、躯干、四肢、头发、卷轴、岩台、蛤蟆及替换件。建议树脂打印并按人物、头发、卷轴和地台分批排版。",
+          "白发尖、上指手、凉鞋带、卷轴连接臂与冰淇淋小件属于薄细节风险。抽样网格经顶点合并后多数无边界，但少数头发/手部样本仍有非流形边或边界，切片前应逐件检查并修复。"
+        ]
+      },
+      {
+        "id": "paint",
+        "title": "涂装方向",
+        "paragraphs": [
+          "自来也以灰绿内衣、深红羽织和白发建立沉稳基调，鸣人以高饱和橙蓝成为视觉焦点。护额适合冷银金属，卷轴适合低光泽皮革棕，衣料保持哑光，岩台与植物使用冷暖深浅分层。",
+          "面部红色眼纹、木叶护额与“油”字是优先保留的识别细节；作者图像中的 Kaidan3D 标志与 Patreon 署名线索应保留，不以第三方群二维码替代。"
+        ]
+      },
+      {
+        "id": "scene",
+        "title": "场景应用",
+        "paragraphs": [
+          "低位侧光的深色壁龛可以突出双人剪影；自然光涂装台适合比较布料、金属、皮革与岩石质感；月夜森林框景则强化旅途与传承的故事。",
+          "横向展柜与手机端图库均应完整显示鸣人的上指手势、自来也脚步和整块地台，避免任何裁切。"
+        ]
+      },
+      {
+        "id": "extend",
+        "title": "创作延展",
+        "paragraphs": [
+          "利用替换头部、手臂、冰淇淋和有/无蛤蟆地台，可以组合出旅途、玩笑和训练后休憩等版本，同时保持肩扛主构图不变。",
+          "延展场景可加入低饱和路标、纸灯或卷轴陈列牌；新道具应退居背景，不遮挡人物轮廓，也不增加不存在的四肢或武器。"
+        ]
+      }
+    ],
+    "author": "Kaidan3D（图像署名线索）",
+    "license": "用户选定来源分发策略（非作者官方授权声明）",
+    "authorLicense": {
+      "author": "Kaidan3D（源图 Logo / Patreon 署名线索）",
+      "license": "用户选定来源分发策略（非作者官方授权声明）",
+      "note": "公开资料保留源图中的 Kaidan3D 与 Patreon 署名线索。当前分发依据为用户明确选定的来源运营策略，不将其表述为作者或工作室官方授权。"
+    },
+    "sourcePolicy": "source_policy_selected_telegram_group",
+    "gallery": [
+      {
+        "src": "./assets/models/jiraiya-x-naruto-kaidan/scene-1.jpg",
+        "alt": "自来也肩扛少年鸣人的侧前角度与背部卷轴结构",
+        "label": "真实资料｜侧前角度与卷轴"
+      },
+      {
+        "src": "./assets/models/jiraiya-x-naruto-kaidan/scene-2.jpg",
+        "alt": "自来也与少年鸣人模型的两种手势与蛤蟆地台组合",
+        "label": "真实资料｜手势与地台变体"
+      },
+      {
+        "src": "./assets/models/jiraiya-x-naruto-kaidan/scene-3.jpg",
+        "alt": "自来也与少年鸣人模型人物服装头部卷轴和岩台分件布局",
+        "label": "真实资料｜完整分件布局"
+      },
+      {
+        "src": "./assets/models/jiraiya-x-naruto-kaidan/scene-4.png",
+        "alt": "完整师徒双人模型在低位侧光壁龛中的展陈方案",
+        "label": "展陈方案｜低位侧光的师徒壁龛"
+      },
+      {
+        "src": "./assets/models/jiraiya-x-naruto-kaidan/scene-5.png",
+        "alt": "完整师徒双人模型在自然光涂装台上的材质方案",
+        "label": "涂装方案｜红羽织与织物层次"
+      },
+      {
+        "src": "./assets/models/jiraiya-x-naruto-kaidan/scene-6.png",
+        "alt": "完整师徒双人模型在月夜森林框景中的叙事灯光方案",
+        "label": "叙事灯光｜月下同行的森林记忆"
+      }
+    ]
+  },
+  {
     "id": "curiosity-rover-detailed",
     "name": "Curiosity Rover (Detailed, Articulated Print)",
     "nameZh": "好奇号火星车（精细可动版）",

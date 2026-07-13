@@ -60,6 +60,17 @@
     image.setAttribute("disablepictureinpicture", "");
   }
 
+  function preserveNaturalImageWidth(image) {
+    if (!image) return;
+    const applyNaturalWidth = () => {
+      if (image.naturalWidth > 0) {
+        image.style.setProperty("--detail-image-natural-width", `${image.naturalWidth}px`);
+      }
+    };
+    if (image.complete) applyNaturalWidth();
+    else image.addEventListener("load", applyNaturalWidth, { once: true });
+  }
+
   function renderHero() {
     const latest = publicModels.find((model) => model.id && model.image);
     if (!latest) return;
@@ -239,6 +250,7 @@
     image.src = model.image;
     image.alt = cleanText(model.alt) || `${name} 模型预览`;
     protectModelImage(image);
+    preserveNaturalImageWidth(image);
     document.getElementById("detail-title").textContent = name;
     const date = document.getElementById("detail-date");
     date.textContent = model.displayDate;

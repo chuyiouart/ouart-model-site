@@ -25,7 +25,7 @@ test('Curiosity assets and structured attribution remain intact while record is 
 
 test('Curiosity is absent from public Hero and search without affecting Sitting Ghost', () => {
   const publicModels = models.filter((model) => model.published === true);
-  assert.equal(publicModels[0].id, 'sitting-ghost');
+  assert.equal(publicModels[0].id, 'jiraiya-x-naruto-kaidan');
   const search = (query) => publicModels.filter((model) =>
     [model.displayName, model.nameZh, model.nameEn, model.name, model.date, model.format]
       .filter(Boolean).join(' ').toLowerCase().includes(query.toLowerCase())
@@ -34,4 +34,5 @@ test('Curiosity is absent from public Hero and search without affecting Sitting 
   assert.equal(search('Curiosity').length, 0);
   assert.equal(search('Herakles').length, 0);
   assert.ok(search('Sitting Ghost').some((model) => model.id === 'sitting-ghost'));
+  assert.ok(search('自来也').some((model) => model.id === 'jiraiya-x-naruto-kaidan'));
 });

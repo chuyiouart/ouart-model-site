@@ -1,5 +1,113 @@
 window.OUART_MODELS = [
   {
+    "id": "gabimaru-myanimate",
+    "name": "画眉丸·绯焰忍法场景",
+    "date": "2026-07-14",
+    "displayDate": "2026.07.14",
+    "format": "STL",
+    "fileCount": 61,
+    "size": "755.05 MB",
+    "usage": "用户选定Telegram来源分发策略｜保留 myAnimate 署名线索",
+    "image": "./assets/models/gabimaru-myanimate/preview-1.jpg",
+    "description": "画眉丸以低重心腾跃姿态穿过绯红忍火，环形火焰、古树、花卉与蝶群共同组成完整岛屿生态场景。",
+    "intro": "作品用白发、深蓝忍装与半透明绯红火焰建立极强角色识别，火焰从双臂延伸为大幅环形动线，把人物速度、古树、花卉、蝴蝶与蜈蚣统一成一座可360度观看的叙事雕像。61个有效STL覆盖人物变化件、11组身体火焰、植物昆虫与多段地台，适合树脂分件、透明件涂装和场景化展陈。",
+    "downloadUrl": "https://pan.baidu.com/s/1_o7iuIGk-SERB9-Mg7M1vw",
+    "shareCode": "ox68",
+    "published": true,
+    "nameZh": "画眉丸·绯焰忍法场景",
+    "nameEn": "Gabimaru — myAnimate",
+    "displayName": "画眉丸·绯焰忍法场景｜Gabimaru — myAnimate",
+    "faceCount": 22924894,
+    "alt": "画眉丸在完整绯红环形忍火与古树花卉地台中的全身模型预览",
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计观察",
+        "paragraphs": [
+          "画眉丸以向前腾跃的低重心姿态切入画面，白色刺发、深蓝忍装与横向飘带构成人物核心；半透明绯红火焰由双臂扩展为巨大的环形轮廓，让速度感在正面和侧面都清楚成立。",
+          "扭曲古树、花卉、蝴蝶与蜈蚣把角色忍法置入岛屿生态，地台不只是承重结构，也承担了危险、生命力与幻境感的故事。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印与制作",
+        "paragraphs": [
+          "标准包包含61个有效二进制STL，总三角面22,924,894；分件覆盖头部与面罩变化、头发、躯干四肢、腰带、11组身体火焰、树干、花卉、蝴蝶、蜈蚣和多段地台。建议树脂打印并按人物实体、透明火焰、植物小件与承重地台分批排版。",
+          "发梢、手指、火焰尖端、蝶翼、花茎和细树枝属于薄细节风险。切片前应逐件检查支撑、排液孔、榫位和透明件接触面；大环火焰建议分段定位后再决定粘接次序。"
+        ]
+      },
+      {
+        "id": "paint",
+        "title": "涂装方向",
+        "paragraphs": [
+          "忍装采用消光深靛蓝，白发加入冷灰阴影，腰带与腿部绑带使用略暖灰白；这样可以让人物在高饱和火焰和复杂植物之间保持清晰。",
+          "火焰适合透明红树脂，从暗绯根部过渡到洋红与橙红高光。树木采用冷褐与灰绿苔藓，花卉和蝶翼只做少量珠光点缀；源图中的myAnimate与Patreon署名线索应继续保留。"
+        ]
+      },
+      {
+        "id": "scene",
+        "title": "场景应用",
+        "paragraphs": [
+          "月下古寺以冷蓝环境衬托绯火回环；雨后峡谷利用湿岩与浅水倒影放大透明火焰；夜间美术馆通过暖色聚光与圆形展台检验360度轮廓。",
+          "无论横向展柜或手机图库，都应完整显示头发、双手双脚、环形火焰和整块地台，不能用cover裁切火焰尖端或树枝。"
+        ]
+      },
+      {
+        "id": "extend",
+        "title": "创作延展",
+        "paragraphs": [
+          "可围绕忍法爆发、岛屿生态与材料展陈继续扩展灯光和底座：加入低亮石灯、湿地反射或展台铜线，但背景元素不得遮挡环形火焰。",
+          "透明件可尝试红到紫的渐变、内部微光或局部荧光；植物与昆虫则可通过季节色形成不同版本，同时保持原角色肢体、忍装与无武器设定不变。"
+        ]
+      }
+    ],
+    "author": "myAnimate（包内文件夹与源图署名线索）",
+    "license": "用户选定Telegram来源分发策略（非作者官方授权声明）",
+    "authorLicense": {
+      "author": "myAnimate（包内Gabimaru_myAnimate目录、源图Logo与Patreon署名线索）",
+      "license": "用户选定Telegram来源分发策略（非作者官方授权声明）",
+      "note": "公开资料保留源图中的myAnimate与Patreon署名线索。本次下载与分发依据用户明确选定的Telegram来源运营策略，不将其表述为作者或工作室官方授权。"
+    },
+    "sourcePolicy": "source_policy_selected_telegram_group",
+    "gallery": [
+      {
+        "src": "./assets/models/gabimaru-myanimate/scene-1.jpg",
+        "alt": "画眉丸面部、忍装和手臂火焰的材质近景",
+        "label": "真实资料｜面部与手臂火焰"
+      },
+      {
+        "src": "./assets/models/gabimaru-myanimate/scene-2.jpg",
+        "alt": "画眉丸模型地台的花卉蝴蝶和蜈蚣细节",
+        "label": "真实资料｜生态地台细节"
+      },
+      {
+        "src": "./assets/models/gabimaru-myanimate/scene-3.jpg",
+        "alt": "画眉丸与完整环形绯火及古树地台的侧前全身角度",
+        "label": "真实资料｜侧前三分之四全景"
+      },
+      {
+        "src": "./assets/models/gabimaru-myanimate/scene-4.jpg",
+        "alt": "画眉丸模型环形火焰、古树和分层地台的侧面结构",
+        "label": "真实资料｜侧面火焰与地台结构"
+      },
+      {
+        "src": "./assets/models/gabimaru-myanimate/scene-5.png",
+        "alt": "完整画眉丸绯火雕像置于月下古寺庭院的叙事方案",
+        "label": "月下古寺·绯火回环"
+      },
+      {
+        "src": "./assets/models/gabimaru-myanimate/scene-6.png",
+        "alt": "完整画眉丸绯火雕像置于雨后峡谷浅水边的生态方案",
+        "label": "雨林峡谷·焰影映流"
+      },
+      {
+        "src": "./assets/models/gabimaru-myanimate/scene-7.png",
+        "alt": "完整画眉丸绯火雕像在夜间美术馆圆形展台上的展陈方案",
+        "label": "夜间美术馆·忍火展演"
+      }
+    ]
+  },
+  {
     "id": "jiraiya-x-naruto-kaidan",
     "name": "自来也与少年鸣人（师徒同行）",
     "date": "2026-07-13",

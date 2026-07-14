@@ -30,7 +30,7 @@ const legacyAxe = models.filter((model) =>
 );
 assert.equal(legacyAxe.map((model) => model.id).join(','), 'legacy-8199');
 assert.ok(models.filter((model) => model.published === true).length >= 148);
-assert.equal(models.find((model) => model.published === true && model.id && model.image).id, 'jiraiya-x-naruto-kaidan');
+assert.equal(models.find((model) => model.published === true && model.id && model.image).id, 'gabimaru-myanimate');
 assert.equal(models.find((model) => model.id === 'legacy-8198').published, true, 'unrelated history must stay public');
 assert.equal(models.find((model) => model.id === 'legacy-8192').published, true, 'unrelated history must stay public');
 

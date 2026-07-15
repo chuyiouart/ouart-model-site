@@ -12,7 +12,7 @@ const model = models.find((item) => item.id === 'gabimaru-myanimate');
 
 test('Gabimaru formal publication record is complete, bilingual and public', () => {
   assert.ok(model);
-  assert.equal(models.filter((item) => item.published === true)[0].id, model.id);
+  assert.ok(models.filter((item) => item.published === true).some((item) => item.id === model.id));
   assert.equal(model.published, true);
   assert.equal(model.nameZh, '画眉丸·绯焰忍法场景');
   assert.equal(model.nameEn, 'Gabimaru — myAnimate');

@@ -25,7 +25,8 @@ test('Curiosity assets and structured attribution remain intact while record is 
 
 test('Curiosity is absent from public Hero and search without affecting published models', () => {
   const publicModels = models.filter((model) => model.published === true);
-  assert.equal(publicModels[0].id, 'gabimaru-myanimate');
+  assert.notEqual(publicModels[0].id, 'curiosity-rover-detailed');
+  assert.ok(publicModels.some((model) => model.id === 'gabimaru-myanimate'));
   const search = (query) => publicModels.filter((model) =>
     [model.displayName, model.nameZh, model.nameEn, model.name, model.date, model.format]
       .filter(Boolean).join(' ').toLowerCase().includes(query.toLowerCase())

@@ -1,5 +1,108 @@
 window.OUART_MODELS = [
   {
+    "id": "maka-soul-eater",
+    "name": "玛卡·猎魂魔镰场景",
+    "date": "2026-07-15",
+    "displayDate": "2026.07.15",
+    "format": "STL",
+    "fileCount": 11,
+    "size": "678.80 MB",
+    "usage": "用户选定Telegram来源分发策略｜保留Nomnom Figures署名线索",
+    "image": "./assets/models/maka-soul-eater/preview-1.jpg",
+    "description": "玛卡以巨型黑红魔镰切开烟雾怪物地台，学院制服、斜向武器与翻卷烟团组成强烈猎魂叙事。",
+    "intro": "作品以玛卡、巨型魔镰和烟雾怪物地台构成三层视觉关系：黑红镰刃从低处斜贯画面，角色制服与双马尾稳定人物识别，烟雾、钟体、碎石和红色刃形能量则把战斗动作落到可360度观看的场景基座。标准包包含11件有效STL，兼有75mm预支撑分件和1/10比例结构件，适合树脂打印、分色涂装与叙事展陈。",
+    "downloadUrl": "https://pan.baidu.com/s/1qdDCWYiOZaknDuasDCHAgQ",
+    "shareCode": "tjug",
+    "published": true,
+    "nameZh": "玛卡·猎魂魔镰场景",
+    "nameEn": "Maka — Soul Eater by Nomnom Figures",
+    "displayName": "玛卡·猎魂魔镰场景｜Maka — Soul Eater by Nomnom Figures",
+    "faceCount": 22341254,
+    "alt": "玛卡手持完整黑红魔镰站在烟雾怪物地台上的全身模型预览",
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计观察",
+        "paragraphs": [
+          "玛卡的制服、双马尾和白色长靴形成清晰角色核心；黑红魔镰从左上贯穿至地台，把静态站姿转化为强烈的斜向攻击动线。",
+          "烟雾怪物、钟体、碎石与红色刃形能量让地台承担故事而非单纯承重，正面强调角色与武器，背面则展示烟团和结构层次。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印与制作",
+        "paragraphs": [
+          "标准包包含11件有效二进制STL，总三角面22,341,254；内容覆盖底座、钟体、上下身体、武器、裙摆和烟雾分件，并提供75mm预支撑版本及1/10比例结构件。",
+          "镰刃尖端、双马尾、裙摆、手指和烟雾尖端是薄弱区域。建议树脂打印，武器杆与人物分开排版，并在镰刃、腕部和脚底连接处检查支撑方向与榫位余量。"
+        ]
+      },
+      {
+        "id": "paint",
+        "title": "涂装方向",
+        "paragraphs": [
+          "制服以半消光黑为主，红格裙与黑红镰刃建立色彩呼应；皮肤和金发保持偏暖，白手套与长靴用冷灰阴影控制体积。",
+          "烟雾可使用暖灰、骨白和低饱和褐色渐变，碎石采用冷灰干扫，红色能量件则以深红到亮红高光强化危险感。源图中的Nomnom Figures标识应保留。"
+        ]
+      },
+      {
+        "id": "scene",
+        "title": "场景应用",
+        "paragraphs": [
+          "月下学院突出黑红魔镰与冷蓝建筑的反差；涂装工作台适合观察树脂表面、分色和制作比例；日出屋顶用暖色逆光放大魔镰轮廓与城市叙事。",
+          "手机和桌面图库都必须完整保留人物、镰刃两端、烟雾尖端和圆形底座，不能用cover裁切武器或地台。"
+        ]
+      },
+      {
+        "id": "extend",
+        "title": "创作延展",
+        "paragraphs": [
+          "可围绕学院巡夜、猎魂行动与模型制作三条线继续扩展灯光：月色冷光、工坊暖光和日出边缘光分别对应故事、制作和展陈。",
+          "底座可加入低亮红光或透明烟雾层，但不得改变玛卡的人体比例、单一魔镰和原始烟雾结构；延展图只用于场景方向，不替代真实模型资料。"
+        ]
+      }
+    ],
+    "author": "Nomnom Figures（包内目录与源图Logo线索）",
+    "license": "用户选定Telegram来源分发策略（非作者官方授权声明）",
+    "authorLicense": {
+      "author": "Nomnom Figures（包内目录、源图Logo与Turntable标识线索）",
+      "license": "用户选定Telegram来源分发策略（非作者官方授权声明）",
+      "note": "公开资料保留Nomnom Figures署名线索。本次下载与分发依据用户明确选定的Telegram来源运营策略，不将其表述为作者或工作室官方授权。"
+    },
+    "sourcePolicy": "source_policy_selected_telegram_group",
+    "gallery": [
+      {
+        "src": "./assets/models/maka-soul-eater/scene-1.jpg",
+        "alt": "玛卡与完整黑红魔镰、烟雾怪物地台的正面三分之四真实资料",
+        "label": "真实资料｜正面三分之四"
+      },
+      {
+        "src": "./assets/models/maka-soul-eater/scene-2.jpg",
+        "alt": "玛卡模型背面烟雾怪物、钟体和魔镰结构真实资料",
+        "label": "真实资料｜背面结构"
+      },
+      {
+        "src": "./assets/models/maka-soul-eater/scene-3.png",
+        "alt": "由真实STL网格生成的玛卡模型侧面中性结构图",
+        "label": "真实网格｜侧面结构"
+      },
+      {
+        "src": "./assets/models/maka-soul-eater/scene-4.png",
+        "alt": "完整玛卡魔镰雕像置于月下哥特学院庭院的叙事方案",
+        "label": "月下学院·魔镰巡夜"
+      },
+      {
+        "src": "./assets/models/maka-soul-eater/scene-5.png",
+        "alt": "完整玛卡魔镰雕像置于模型涂装工作台的制作方案",
+        "label": "涂装工坊·刃与烟的层次"
+      },
+      {
+        "src": "./assets/models/maka-soul-eater/scene-6.png",
+        "alt": "完整玛卡魔镰雕像在日出屋顶与城市背景中的场景方案",
+        "label": "日出屋顶·猎魂启程"
+      }
+    ]
+  },
+  {
     "id": "gabimaru-myanimate",
     "name": "画眉丸·绯焰忍法场景",
     "date": "2026-07-14",

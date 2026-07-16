@@ -1,5 +1,108 @@
 window.OUART_MODELS = [
   {
+    "id": "6scale-woman-warrior-ca3d-pre-supported",
+    "name": "赤岩女武士·鎏金战甲场景",
+    "date": "2026-07-16",
+    "displayDate": "2026.07.16",
+    "format": "STL",
+    "fileCount": 11,
+    "size": "647.13 MB",
+    "usage": "用户选定Telegram来源分发策略｜保留CA3D文件名线索",
+    "image": "./assets/models/6scale-woman-warrior-ca3d-pre-supported/preview-1.jpg",
+    "description": "红发女武士侧坐于赤岩之上，鎏金护甲、链饰和横置长剑共同形成沉静而有力量的叙事。",
+    "intro": "作品以侧坐红发女武士、层叠岩台和长剑构成稳定三角关系。头发流线与双腿方向拉开人物轮廓，鎏金肩甲、胸甲、护胫及链饰建立细密材质层次；岩台、分离护具和长剑则把角色从单纯人体雕像转化为可360度观看的休整场景。标准包包含11件有效STL，适合树脂打印、分件涂装与叙事展陈。",
+    "downloadUrl": "https://pan.baidu.com/s/1V0I0hbhy551Zxj3SuA6lAw",
+    "shareCode": "41rm",
+    "published": true,
+    "nameZh": "赤岩女武士·鎏金战甲场景",
+    "nameEn": "Woman Warrior — CA3D",
+    "displayName": "赤岩女武士·鎏金战甲场景｜Woman Warrior — CA3D",
+    "faceCount": 16079686,
+    "alt": "红发女武士身着鎏金战甲侧坐在岩石地台上的完整模型预览",
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计观察",
+        "paragraphs": [
+          "人物采用侧坐而非冲锋姿态：红发、肩甲和腿部共同形成由右上向左下延伸的轮廓，沉静中保留战士力量。",
+          "岩石地台、横置长剑和分离护具承担叙事信息；正面突出面部与金属纹样，背面则展示发束、链饰、剑身和岩层关系。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印与制作",
+        "paragraphs": [
+          "标准包包含11件有效二进制STL，总三角面16,079,686；内容覆盖人物、护甲、长剑与岩石地台分件，并保留预支撑内容。",
+          "建议使用树脂打印。发梢、手指、链饰、剑尖和护甲边缘属于薄弱区域；长剑、人物和岩台应分开排版，装配前检查腕部、脚部、肩甲及地台榫位余量。"
+        ]
+      },
+      {
+        "id": "paint",
+        "title": "涂装方向",
+        "paragraphs": [
+          "红发可由深棕红向铜红高光过渡；护甲以旧金、古铜和深褐洗渍建立层次，肌肤保持偏暖以区别冷灰岩台。",
+          "剑身使用冷银和局部黑铁阴影，链饰以更暗的古铜控制视觉重量；岩台采用深灰底色、浅灰干扫和少量暖褐尘土。"
+        ]
+      },
+      {
+        "id": "scene",
+        "title": "场景应用",
+        "paragraphs": [
+          "石灰岩穹厅强调收藏级展陈与完整轮廓；北窗工坊适合观察金属分色和材质关系；暮色观星遗迹则把休整姿态转化为远征叙事。",
+          "手机和桌面图库都应完整显示发梢、双脚、剑尖、岩台和圆形底座，不应以cover裁切人物或武器。"
+        ]
+      },
+      {
+        "id": "extend",
+        "title": "创作延展",
+        "paragraphs": [
+          "可围绕战后休整、工坊涂装和星台守望三条线配置冷暖光：中性顶光看结构，北窗柔光看材质，暮色侧光看轮廓。",
+          "延展场景应保持单一人物、单一长剑、侧坐岩台和原始护甲关系，不改变人体比例，不以延展图替代真实模型资料。"
+        ]
+      }
+    ],
+    "author": "CA3D（原始文件名线索）",
+    "license": "用户选定Telegram来源分发策略（非作者官方授权声明）",
+    "authorLicense": {
+      "author": "CA3D（原始文件名线索）",
+      "license": "用户选定Telegram来源分发策略（非作者官方授权声明）",
+      "note": "本次下载与分发依据用户明确选定的Telegram来源运营策略，不将其表述为作者或工作室官方授权。"
+    },
+    "sourcePolicy": "source_policy_selected_telegram_group",
+    "gallery": [
+      {
+        "src": "./assets/models/6scale-woman-warrior-ca3d-pre-supported/scene-1.jpg",
+        "alt": "赤岩女武士鎏金护甲、长剑和岩台的正面三分之四真实资料",
+        "label": "真实资料｜正面三分之四"
+      },
+      {
+        "src": "./assets/models/6scale-woman-warrior-ca3d-pre-supported/scene-2.jpg",
+        "alt": "赤岩女武士背部发束、链饰、长剑和岩台的真实资料",
+        "label": "真实资料｜背面结构"
+      },
+      {
+        "src": "./assets/models/6scale-woman-warrior-ca3d-pre-supported/scene-3.png",
+        "alt": "由真实STL网格生成的女武士分件侧向结构资料",
+        "label": "真实网格｜分件结构"
+      },
+      {
+        "src": "./assets/models/6scale-woman-warrior-ca3d-pre-supported/scene-4.png",
+        "alt": "完整赤岩女武士雕像置于石灰岩博物馆穹厅的展陈方案",
+        "label": "石灰岩穹厅·鎏金守望"
+      },
+      {
+        "src": "./assets/models/6scale-woman-warrior-ca3d-pre-supported/scene-5.png",
+        "alt": "完整赤岩女武士雕像置于北窗涂装工坊的材质方案",
+        "label": "北窗工坊·铜甲分色"
+      },
+      {
+        "src": "./assets/models/6scale-woman-warrior-ca3d-pre-supported/scene-6.png",
+        "alt": "完整赤岩女武士雕像置于暮色观星遗迹的叙事方案",
+        "label": "暮色星台·赤岩远征"
+      }
+    ]
+  },
+  {
     "id": "maka-soul-eater",
     "name": "玛卡·猎魂魔镰场景",
     "date": "2026-07-15",

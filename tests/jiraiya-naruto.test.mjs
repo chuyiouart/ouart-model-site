@@ -18,8 +18,9 @@ test('Jiraiya and Young Naruto publication record is complete and public', () =>
   assert.equal(model.shareCode, 'n3uh');
   assert.equal(model.sections.length, 5);
   assert.equal(model.gallery.length, 6);
-  assert.equal(model.sourcePolicy, 'source_policy_selected_telegram_group');
-  assert.match(model.authorLicense.note, /非作者|不将其表述为作者/);
+  assert.equal(model.sourcePolicy, undefined);
+  assert.equal(model.usage, '树脂打印｜双人角色涂装｜师徒场景展示');
+  assert.match(model.authorLicense.note, /核对原始发布者/);
   assert.ok(model.gallery.every((item) => item.label && !item.label.includes('AI生成')));
   for (const item of [model.image, ...model.gallery.map((entry) => entry.src)]) {
     assert.ok(fs.existsSync(path.join(root, item.replace(/^\.\//, ''))), `missing asset ${item}`);

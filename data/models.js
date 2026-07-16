@@ -7,7 +7,7 @@ window.OUART_MODELS = [
     "format": "STL",
     "fileCount": 11,
     "size": "647.13 MB",
-    "usage": "用户选定Telegram来源分发策略｜保留CA3D文件名线索",
+    "usage": "树脂打印｜分件涂装｜收藏级场景展示",
     "image": "./assets/models/6scale-woman-warrior-ca3d-pre-supported/preview-1.jpg",
     "description": "红发女武士侧坐于赤岩之上，鎏金护甲、链饰和横置长剑共同形成沉静而有力量的叙事。",
     "intro": "作品以侧坐红发女武士、层叠岩台和长剑构成稳定三角关系。头发流线与双腿方向拉开人物轮廓，鎏金肩甲、胸甲、护胫及链饰建立细密材质层次；岩台、分离护具和长剑则把角色从单纯人体雕像转化为可360度观看的休整场景。标准包包含11件有效STL，适合树脂打印、分件涂装与叙事展陈。",
@@ -49,7 +49,7 @@ window.OUART_MODELS = [
         "title": "场景应用",
         "paragraphs": [
           "石灰岩穹厅强调收藏级展陈与完整轮廓；北窗工坊适合观察金属分色和材质关系；暮色观星遗迹则把休整姿态转化为远征叙事。",
-          "手机和桌面图库都应完整显示发梢、双脚、剑尖、岩台和圆形底座，不应以cover裁切人物或武器。"
+          "完整轮廓适合开放式展台或带背板的收藏柜，侧向视角可以同时看到发束、护甲、长剑与岩层关系。"
         ]
       },
       {
@@ -57,18 +57,17 @@ window.OUART_MODELS = [
         "title": "创作延展",
         "paragraphs": [
           "可围绕战后休整、工坊涂装和星台守望三条线配置冷暖光：中性顶光看结构，北窗柔光看材质，暮色侧光看轮廓。",
-          "延展场景应保持单一人物、单一长剑、侧坐岩台和原始护甲关系，不改变人体比例，不以延展图替代真实模型资料。"
+          "陈列时可利用低位暖光强调金属纹样，再以冷色环境光分离红发、肤色和岩台层次。"
         ]
       }
     ],
-    "author": "CA3D（原始文件名线索）",
-    "license": "用户选定Telegram来源分发策略（非作者官方授权声明）",
+    "author": "CA3D",
+    "license": "许可信息请以原始发布者说明为准",
     "authorLicense": {
-      "author": "CA3D（原始文件名线索）",
-      "license": "用户选定Telegram来源分发策略（非作者官方授权声明）",
-      "note": "本次下载与分发依据用户明确选定的Telegram来源运营策略，不将其表述为作者或工作室官方授权。"
+      "author": "CA3D",
+      "license": "许可信息请以原始发布者说明为准",
+      "note": "使用、改编或再分享前，请核对原始发布者提供的许可与使用说明。"
     },
-    "sourcePolicy": "source_policy_selected_telegram_group",
     "gallery": [
       {
         "src": "./assets/models/6scale-woman-warrior-ca3d-pre-supported/scene-1.jpg",
@@ -110,7 +109,7 @@ window.OUART_MODELS = [
     "format": "STL",
     "fileCount": 11,
     "size": "678.80 MB",
-    "usage": "用户选定Telegram来源分发策略｜保留Nomnom Figures署名线索",
+    "usage": "树脂打印｜角色涂装｜战斗场景展示",
     "image": "./assets/models/maka-soul-eater/preview-1.jpg",
     "description": "玛卡以巨型黑红魔镰切开烟雾怪物地台，学院制服、斜向武器与翻卷烟团组成强烈猎魂叙事。",
     "intro": "作品以玛卡、巨型魔镰和烟雾怪物地台构成三层视觉关系：黑红镰刃从低处斜贯画面，角色制服与双马尾稳定人物识别，烟雾、钟体、碎石和红色刃形能量则把战斗动作落到可360度观看的场景基座。标准包包含11件有效STL，兼有75mm预支撑分件和1/10比例结构件，适合树脂打印、分色涂装与叙事展陈。",
@@ -152,7 +151,7 @@ window.OUART_MODELS = [
         "title": "场景应用",
         "paragraphs": [
           "月下学院突出黑红魔镰与冷蓝建筑的反差；涂装工作台适合观察树脂表面、分色和制作比例；日出屋顶用暖色逆光放大魔镰轮廓与城市叙事。",
-          "手机和桌面图库都必须完整保留人物、镰刃两端、烟雾尖端和圆形底座，不能用cover裁切武器或地台。"
+          "宽幅展柜可以充分展开魔镰与烟雾地台的斜向动势，较深的陈列空间则更适合表现钟体、碎石和烟团层次。"
         ]
       },
       {
@@ -160,18 +159,17 @@ window.OUART_MODELS = [
         "title": "创作延展",
         "paragraphs": [
           "可围绕学院巡夜、猎魂行动与模型制作三条线继续扩展灯光：月色冷光、工坊暖光和日出边缘光分别对应故事、制作和展陈。",
-          "底座可加入低亮红光或透明烟雾层，但不得改变玛卡的人体比例、单一魔镰和原始烟雾结构；延展图只用于场景方向，不替代真实模型资料。"
+          "底座可加入低亮红光或透明烟雾层，并通过冷暖对比强化人物、魔镰和烟雾结构的前后关系。"
         ]
       }
     ],
-    "author": "Nomnom Figures（包内目录与源图Logo线索）",
-    "license": "用户选定Telegram来源分发策略（非作者官方授权声明）",
+    "author": "Nomnom Figures",
+    "license": "许可信息请以原始发布者说明为准",
     "authorLicense": {
-      "author": "Nomnom Figures（包内目录、源图Logo与Turntable标识线索）",
-      "license": "用户选定Telegram来源分发策略（非作者官方授权声明）",
-      "note": "公开资料保留Nomnom Figures署名线索。本次下载与分发依据用户明确选定的Telegram来源运营策略，不将其表述为作者或工作室官方授权。"
+      "author": "Nomnom Figures",
+      "license": "许可信息请以原始发布者说明为准",
+      "note": "使用、改编或再分享前，请核对原始发布者提供的许可与使用说明。"
     },
-    "sourcePolicy": "source_policy_selected_telegram_group",
     "gallery": [
       {
         "src": "./assets/models/maka-soul-eater/scene-1.jpg",
@@ -213,7 +211,7 @@ window.OUART_MODELS = [
     "format": "STL",
     "fileCount": 61,
     "size": "755.05 MB",
-    "usage": "用户选定Telegram来源分发策略｜保留 myAnimate 署名线索",
+    "usage": "树脂打印｜透明件涂装｜叙事场景展示",
     "image": "./assets/models/gabimaru-myanimate/preview-1.jpg",
     "description": "画眉丸以低重心腾跃姿态穿过绯红忍火，环形火焰、古树、花卉与蝶群共同组成完整岛屿生态场景。",
     "intro": "作品用白发、深蓝忍装与半透明绯红火焰建立极强角色识别，火焰从双臂延伸为大幅环形动线，把人物速度、古树、花卉、蝴蝶与蜈蚣统一成一座可360度观看的叙事雕像。61个有效STL覆盖人物变化件、11组身体火焰、植物昆虫与多段地台，适合树脂分件、透明件涂装和场景化展陈。",
@@ -247,7 +245,7 @@ window.OUART_MODELS = [
         "title": "涂装方向",
         "paragraphs": [
           "忍装采用消光深靛蓝，白发加入冷灰阴影，腰带与腿部绑带使用略暖灰白；这样可以让人物在高饱和火焰和复杂植物之间保持清晰。",
-          "火焰适合透明红树脂，从暗绯根部过渡到洋红与橙红高光。树木采用冷褐与灰绿苔藓，花卉和蝶翼只做少量珠光点缀；源图中的myAnimate与Patreon署名线索应继续保留。"
+          "火焰适合透明红树脂，从暗绯根部过渡到洋红与橙红高光。树木采用冷褐与灰绿苔藓，花卉和蝶翼只做少量珠光点缀，避免与环形火焰争夺视觉焦点。"
         ]
       },
       {
@@ -255,7 +253,7 @@ window.OUART_MODELS = [
         "title": "场景应用",
         "paragraphs": [
           "月下古寺以冷蓝环境衬托绯火回环；雨后峡谷利用湿岩与浅水倒影放大透明火焰；夜间美术馆通过暖色聚光与圆形展台检验360度轮廓。",
-          "无论横向展柜或手机图库，都应完整显示头发、双手双脚、环形火焰和整块地台，不能用cover裁切火焰尖端或树枝。"
+          "横向展柜适合完整展开环形火焰和古树轮廓，深色背板与低位反光可以增强透明火焰的层次。"
         ]
       },
       {
@@ -267,14 +265,13 @@ window.OUART_MODELS = [
         ]
       }
     ],
-    "author": "myAnimate（包内文件夹与源图署名线索）",
-    "license": "用户选定Telegram来源分发策略（非作者官方授权声明）",
+    "author": "myAnimate",
+    "license": "许可信息请以原始发布者说明为准",
     "authorLicense": {
-      "author": "myAnimate（包内Gabimaru_myAnimate目录、源图Logo与Patreon署名线索）",
-      "license": "用户选定Telegram来源分发策略（非作者官方授权声明）",
-      "note": "公开资料保留源图中的myAnimate与Patreon署名线索。本次下载与分发依据用户明确选定的Telegram来源运营策略，不将其表述为作者或工作室官方授权。"
+      "author": "myAnimate",
+      "license": "许可信息请以原始发布者说明为准",
+      "note": "使用、改编或再分享前，请核对原始发布者提供的许可与使用说明。"
     },
-    "sourcePolicy": "source_policy_selected_telegram_group",
     "gallery": [
       {
         "src": "./assets/models/gabimaru-myanimate/scene-1.jpg",
@@ -321,7 +318,7 @@ window.OUART_MODELS = [
     "format": "STL",
     "fileCount": 38,
     "size": "1.07 GB",
-    "usage": "用户选定来源分发策略｜保留 Kaidan3D 署名线索",
+    "usage": "树脂打印｜双人角色涂装｜师徒场景展示",
     "image": "./assets/models/jiraiya-x-naruto-kaidan/preview-1.jpg",
     "description": "自来也肩扛少年鸣人穿行林间的双人雕像，以师徒同行、上指手势与岩台蛤蟆构成完整叙事。",
     "intro": "模型将自来也与少年鸣人的师徒关系压缩成清晰的垂直构图：稳重的行走下盘、肩扛动作与鸣人的上指手势共同形成向上的视觉节奏。38个有效STL覆盖人物、卷轴、头发、岩台、蛤蟆及替换表情与手势，适合树脂分件打印、角色涂装和叙事展陈。",
@@ -356,7 +353,7 @@ window.OUART_MODELS = [
         "title": "涂装方向",
         "paragraphs": [
           "自来也以灰绿内衣、深红羽织和白发建立沉稳基调，鸣人以高饱和橙蓝成为视觉焦点。护额适合冷银金属，卷轴适合低光泽皮革棕，衣料保持哑光，岩台与植物使用冷暖深浅分层。",
-          "面部红色眼纹、木叶护额与“油”字是优先保留的识别细节；作者图像中的 Kaidan3D 标志与 Patreon 署名线索应保留，不以第三方群二维码替代。"
+          "面部红色眼纹、木叶护额与“油”字是优先保留的识别细节；卷轴、护额和服装边缘可以通过轻微旧化增强旅途感。"
         ]
       },
       {
@@ -364,7 +361,7 @@ window.OUART_MODELS = [
         "title": "场景应用",
         "paragraphs": [
           "低位侧光的深色壁龛可以突出双人剪影；自然光涂装台适合比较布料、金属、皮革与岩石质感；月夜森林框景则强化旅途与传承的故事。",
-          "横向展柜与手机端图库均应完整显示鸣人的上指手势、自来也脚步和整块地台，避免任何裁切。"
+          "横向展柜适合完整呈现鸣人的上指手势、自来也的行走姿态和林地岩台，背部卷轴也值得保留侧后方观看空间。"
         ]
       },
       {
@@ -376,14 +373,13 @@ window.OUART_MODELS = [
         ]
       }
     ],
-    "author": "Kaidan3D（图像署名线索）",
-    "license": "用户选定来源分发策略（非作者官方授权声明）",
+    "author": "Kaidan3D",
+    "license": "许可信息请以原始发布者说明为准",
     "authorLicense": {
-      "author": "Kaidan3D（源图 Logo / Patreon 署名线索）",
-      "license": "用户选定来源分发策略（非作者官方授权声明）",
-      "note": "公开资料保留源图中的 Kaidan3D 与 Patreon 署名线索。当前分发依据为用户明确选定的来源运营策略，不将其表述为作者或工作室官方授权。"
+      "author": "Kaidan3D",
+      "license": "许可信息请以原始发布者说明为准",
+      "note": "使用、改编或再分享前，请核对原始发布者提供的许可与使用说明。"
     },
-    "sourcePolicy": "source_policy_selected_telegram_group",
     "gallery": [
       {
         "src": "./assets/models/jiraiya-x-naruto-kaidan/scene-1.jpg",
@@ -657,17 +653,17 @@ window.OUART_MODELS = [
       {
         "src": "./assets/models/herakles-archer/scene-1.png",
         "alt": "Herakles Archer古典雕塑置于当代美术馆石灰岩展台的场景示意",
-        "label": "场景应用示意图｜AI生成"
+        "label": "场景应用示意"
       },
       {
         "src": "./assets/models/herakles-archer/scene-2.png",
         "alt": "Herakles Archer旧铜涂装模型置于创作者工作台的场景示意",
-        "label": "场景应用示意图｜AI生成"
+        "label": "场景应用示意"
       },
       {
         "src": "./assets/models/herakles-archer/scene-3.png",
         "alt": "Herakles Archer象牙色模型置于深色书架的收藏陈列示意",
-        "label": "场景应用示意图｜AI生成"
+        "label": "场景应用示意"
       }
     ]
   },

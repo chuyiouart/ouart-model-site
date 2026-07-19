@@ -10,16 +10,14 @@ const appMeta = [
   '<meta name="apple-mobile-web-app-capable" content="yes" />',
   '<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />',
   '<meta name="apple-mobile-web-app-title" content="OUART MODEL" />',
-  '<link rel="icon" href="../../assets/logo-mark.svg" type="image/svg+xml" />',
   '<link rel="icon" href="../../assets/favicon-32.png" type="image/png" sizes="32x32" />',
   '<link rel="shortcut icon" href="../../favicon.ico" />',
   '<link rel="apple-touch-icon" href="../../assets/apple-touch-icon.png" sizes="180x180" />',
-  '<link rel="mask-icon" href="../../assets/logo-mask.svg" color="#000000" />',
   '<link rel="manifest" href="../../site.webmanifest" />'
 ].join("");
 
 const oldBrand = '<a class="brand" href="../../index.html"><strong>OUART MODEL</strong><span>初艺模型分享</span></a>';
-const newBrand = '<a class="brand" href="../../index.html" aria-label="OUART MODEL 首页"><img class="brand-mark" src="../../assets/logo-mark.svg" alt="" width="42" height="42" /><span class="brand-copy"><strong>OUART MODEL</strong><span>初艺模型分享</span></span></a>';
+const newBrand = '<a class="brand" href="../../index.html" aria-label="OUART MODEL 首页"><img class="brand-mark" src="../../assets/logo-mark.png" alt="" width="42" height="42" /><span class="brand-copy"><strong>OUART MODEL</strong><span>初艺模型分享</span></span></a>';
 
 let changed = 0;
 
@@ -31,6 +29,11 @@ for (const name of readdirSync(posts).filter((file) => file.endsWith(".html"))) 
   if (!after.includes('rel="apple-touch-icon"')) {
     after = after.replace('<meta name="theme-color" content="#ffffff" />', appMeta);
   }
+
+  after = after
+    .replaceAll("../../assets/logo-mark.svg", "../../assets/logo-mark.png")
+    .replaceAll('<link rel="icon" href="../../assets/logo-mark.png" type="image/svg+xml" />', "")
+    .replace(/<link rel="mask-icon"[^>]*\/>/g, "");
 
   after = after.replace(oldBrand, newBrand);
 

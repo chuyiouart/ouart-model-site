@@ -1,39 +1,37 @@
 from pathlib import Path
-from PIL import Image, ImageDraw
+
+from PIL import Image
 
 root = Path(__file__).resolve().parent.parent
 assets = root / "assets"
+source_path = assets / "logo-generated-master.png"
 
 
-def scaled_points(points, scale):
-    return [(round(x * scale), round(y * scale)) for x, y in points]
+def normalized_symbol():
+    source = Image.open(source_path).convert("L")
+    binary = source.point(lambda pixel: 255 if pixel >= 128 else 0)
+    bounds = binary.getbbox()
+    if bounds is None:
+        raise RuntimeError("Generated logo does not contain a visible symbol")
+    return binary.crop(bounds)
+
+
+symbol = normalized_symbol()
 
 
 def render_mark(size):
-    scale_factor = 8
-    canvas_size = size * scale_factor
-    scale = canvas_size / 64
-    image = Image.new("RGBA", (canvas_size, canvas_size), (0, 0, 0, 0))
-    draw = ImageDraw.Draw(image)
-
-    draw.rounded_rectangle(
-        (0, 0, canvas_size - 1, canvas_size - 1),
-        radius=round(14 * scale),
-        fill=(0, 0, 0, 255),
-    )
-    draw.rectangle(
-        (round(27 * scale), round(11 * scale), round(37 * scale), round(20 * scale)),
-        fill=(255, 255, 255, 255),
-    )
-    draw.polygon(scaled_points([(22, 22), (42, 22), (39, 28), (25, 28)], scale), fill="white")
-    draw.polygon(scaled_points([(17, 30), (47, 30), (43, 37), (21, 37)], scale), fill="white")
-    draw.polygon(scaled_points([(11, 39), (53, 39), (47, 50), (17, 50)], scale), fill="white")
-    draw.polygon(scaled_points([(32, 35), (38, 50), (26, 50)], scale), fill="black")
-
-    return image.resize((size, size), Image.Resampling.LANCZOS)
+    canvas = Image.new("RGB", (size, size), "black")
+    target_height = max(1, round(size * 0.78))
+    target_width = max(1, round(target_height * symbol.width / symbol.height))
+    resized = symbol.resize((target_width, target_height), Image.Resampling.LANCZOS)
+    x = round((size - target_width) / 2)
+    y = round((size - target_height) / 2)
+    canvas.paste(Image.merge("RGB", (resized, resized, resized)), (x, y))
+    return canvas
 
 
 outputs = {
+    "logo-mark.png": 512,
     "favicon-16.png": 16,
     "favicon-32.png": 32,
     "apple-touch-icon.png": 180,
@@ -50,4 +48,4 @@ render_mark(512).save(
     sizes=[(16, 16), (32, 32), (48, 48)],
 )
 
-print({"rendered": list(outputs), "ico": "favicon.ico"})
+print({"source": source_path.name, "rendered": list(outputs), "ico": "favicon.ico"})

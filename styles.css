@@ -37,9 +37,11 @@ button, a, input { -webkit-tap-highlight-color: transparent; }
   gap: 36px;
   border-bottom: 1px solid var(--line);
 }
-.brand { display: flex; align-items: baseline; gap: 14px; white-space: nowrap; }
-.brand strong { font-size: clamp(22px, 2vw, 30px); letter-spacing: -0.045em; }
-.brand span { color: var(--muted); font-size: 14px; letter-spacing: 0.08em; }
+.brand { display: inline-flex; align-items: center; gap: 12px; white-space: nowrap; }
+.brand-mark { width: 42px; height: 42px; flex: 0 0 42px; border-radius: 9px; }
+.brand-copy { display: flex; flex-direction: column; align-items: flex-start; gap: 2px; }
+.brand-copy strong { font-size: clamp(20px, 1.75vw, 27px); line-height: 1; letter-spacing: -0.045em; }
+.brand-copy > span { color: var(--muted); font-size: 11px; line-height: 1.2; letter-spacing: 0.12em; }
 .site-nav { display: flex; align-self: stretch; gap: clamp(32px, 4.4vw, 68px); }
 .site-nav a { position: relative; display: grid; place-items: center; font-size: 15px; font-weight: 650; }
 .site-nav a::after { content: ""; position: absolute; left: 0; right: 0; bottom: -1px; height: 3px; background: var(--accent); transform: scaleX(0); transition: transform 180ms ease; }
@@ -207,9 +209,10 @@ main { width: min(100%, var(--max)); margin: 0 auto; padding-inline: var(--gutte
 
 @media (max-width: 620px) {
   :root { --gutter: 18px; }
-  .brand { align-items: flex-start; flex-direction: column; gap: 1px; }
-  .brand strong { font-size: 20px; }
-  .brand span { font-size: 10px; }
+  .brand { gap: 9px; }
+  .brand-mark { width: 36px; height: 36px; flex-basis: 36px; border-radius: 8px; }
+  .brand-copy strong { font-size: 18px; }
+  .brand-copy > span { font-size: 9px; }
   .hero { padding-top: 18px; }
   .hero-copy h1 { font-size: clamp(40px, 12vw, 58px); }
   .hero-copy > p { margin: 18px 0 22px; font-size: 16px; }

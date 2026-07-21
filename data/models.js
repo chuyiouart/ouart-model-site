@@ -1,5 +1,98 @@
 window.OUART_MODELS = [
   {
+    "id": "master-chief-halo",
+    "name": "士官长·光环",
+    "date": "2026-07-21",
+    "displayDate": "2026.07.21",
+    "format": "STL",
+    "fileCount": 31,
+    "size": "1.36 GB",
+    "usage": "个人收藏与非商业打印参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/master-chief-halo/preview-1.png",
+    "description": "竖持长枪的重装士兵以不对称站姿立于岩石与发光科技构件之间，装甲层级和金色面罩形成清晰视觉焦点。",
+    "intro": "模型以竖向武器拉高整体轮廓，肩甲、胸甲、腰甲和腿甲采用密集分层结构；不对称站姿让两腿受力与地台高差形成稳定节奏。标准包包含31件STL，兼有角色、地台分件及合并版本，适合树脂打印、分区涂装与收藏级展陈。",
+    "downloadUrl": "https://pan.baidu.com/s/18w_YODkKJDD_Y16otUaPEg",
+    "shareCode": "5jhd",
+    "published": true,
+    "nameZh": "士官长·光环",
+    "nameEn": "Master Chief — Halo",
+    "displayName": "士官长·光环｜Master Chief — Halo",
+    "alt": "竖持长枪的绿色重装士兵完整模型网格预览",
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计观察",
+        "paragraphs": [
+          "竖向长枪与头盔构成上升主轴，外扩肩甲和收紧腰部强化重装轮廓。",
+          "金色面罩是视觉焦点，岩石与科技构件的软硬对比扩展了地台叙事。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印与制作",
+        "paragraphs": [
+          "标准包包含31件STL，并保留角色与地台合并版本；严格拓扑复核记录显示31件均闭合且单连通。",
+          "建议树脂打印；枪尖、手指、膝甲边缘与地台细杆需重点布置支撑，装配前检查肩甲、腕部、脚底和地台接口。"
+        ]
+      },
+      {
+        "id": "paint",
+        "title": "涂装方向",
+        "paragraphs": [
+          "装甲可用橄榄绿底色、冷灰边缘高光和深褐旧化建立体积，面罩使用金色透明层突出焦点。",
+          "武器控制在枪铁黑与冷银范围，地台岩石采用中性灰；蓝光构件以青蓝渐变保持科幻层次。"
+        ]
+      },
+      {
+        "id": "scene",
+        "title": "场景应用",
+        "paragraphs": [
+          "暗色展龛强调轮廓，北窗工坊展示分色逻辑，环带天穹场景强化哨兵叙事。",
+          "所有展示方向均保留完整角色、唯一竖向武器与完整地台，不替代真实网格资料。"
+        ]
+      }
+    ],
+    "author": "原始模型作者未明确标注",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "原始模型作者未明确标注",
+      "license": "未发现作者官方许可声明",
+      "note": "本页面不主张获得作者或工作室官方授权；角色相关权利归原权利方所有。"
+    },
+    "gallery": [
+      {
+        "src": "./assets/models/master-chief-halo/scene-1.png",
+        "alt": "角色与竖向武器的正面网格结构",
+        "label": "真实网格｜正面结构"
+      },
+      {
+        "src": "./assets/models/master-chief-halo/scene-2.png",
+        "alt": "角色装甲与武器的侧面网格结构",
+        "label": "真实网格｜侧面结构"
+      },
+      {
+        "src": "./assets/models/master-chief-halo/scene-3.png",
+        "alt": "角色背部装甲的网格结构",
+        "label": "真实网格｜背面结构"
+      },
+      {
+        "src": "./assets/models/master-chief-halo/scene-4.png",
+        "alt": "完整重装士兵模型置于暗色展龛",
+        "label": "暗色展龛·蓝光守望"
+      },
+      {
+        "src": "./assets/models/master-chief-halo/scene-5.png",
+        "alt": "完整重装士兵模型置于北窗涂装工坊",
+        "label": "北窗工坊·装甲分色"
+      },
+      {
+        "src": "./assets/models/master-chief-halo/scene-6.png",
+        "alt": "完整重装士兵模型置于环带天穹展陈空间",
+        "label": "环带天穹·边境哨位"
+      }
+    ]
+  },
+  {
     "id": "6scale-woman-warrior-ca3d-pre-supported",
     "name": "赤岩女武士·鎏金战甲场景",
     "date": "2026-07-16",

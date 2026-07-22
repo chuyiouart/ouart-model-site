@@ -8,7 +8,7 @@ window.OUART_MODELS = [
     "fileCount": 13,
     "size": "273.68 MB",
     "usage": "角色模型收藏、树脂打印、切片准备与涂装参考",
-    "image": "./assets/models/sakamoto-days-taro-sakamoto-go3dfigures/preview-1.png",
+    "image": "./assets/models/sakamoto-days-taro-sakamoto-go3dfigures/source-179760.jpg",
     "description": "坂本太郎全身角色模型，以丰满体型、浅色短发、圆眼镜、黄色短袖与宽松蓝裤构成清晰辨识。",
     "intro": "模型采用十三件分件结构，人物、服装、鞋履与主题底座在共享坐标中形成完整构图，适合打印、装配与收藏级涂装展示。",
     "downloadUrl": "https://pan.baidu.com/s/1zqE86mn9pznNTFs9rii69A",
@@ -50,8 +50,8 @@ window.OUART_MODELS = [
         "id": "scene",
         "title": "场景应用",
         "paragraphs": [
-          "来源预览与真实模型渲染用于结构核对，后场休息区、训练仓库与夜间屋顶分别展示静态陈列、制作语境和叙事氛围。",
-          "三张环境画面仅用于展示氛围，不替代来源预览、真实网格和模型结构证据。"
+          "Go3DFigures 来源原图用于确认角色、服装与底座外观；后场休息区、训练仓库与夜间屋顶分别展示静态陈列、制作语境和叙事氛围。",
+          "三张环境画面仅用于展示氛围，不替代来源原图与内部严格 STL 审计证据。"
         ]
       }
     ],
@@ -64,24 +64,9 @@ window.OUART_MODELS = [
     },
     "gallery": [
       {
-        "src": "./assets/models/sakamoto-days-taro-sakamoto-go3dfigures/scene-1.jpg",
+        "src": "./assets/models/sakamoto-days-taro-sakamoto-go3dfigures/source-179760.jpg",
         "alt": "Go3DFigures 坂本太郎模型来源预览",
         "label": "来源预览｜Go3DFigures"
-      },
-      {
-        "src": "./assets/models/sakamoto-days-taro-sakamoto-go3dfigures/scene-2.png",
-        "alt": "坂本太郎完整模型正面技术渲染",
-        "label": "真实模型渲染｜正面"
-      },
-      {
-        "src": "./assets/models/sakamoto-days-taro-sakamoto-go3dfigures/scene-3.png",
-        "alt": "坂本太郎完整模型侧面技术渲染",
-        "label": "真实模型渲染｜侧面"
-      },
-      {
-        "src": "./assets/models/sakamoto-days-taro-sakamoto-go3dfigures/scene-4.png",
-        "alt": "坂本太郎完整模型背面技术渲染",
-        "label": "真实模型渲染｜背面"
       },
       {
         "src": "./assets/models/sakamoto-days-taro-sakamoto-go3dfigures/scene-5.png",
@@ -109,7 +94,7 @@ window.OUART_MODELS = [
     "fileCount": 31,
     "size": "1.36 GB",
     "usage": "个人收藏与非商业打印参考；许可请以原始发布者说明为准",
-    "image": "./assets/models/master-chief-halo/preview-1.png",
+    "image": "./assets/models/master-chief-halo/source-preview.jpg",
     "description": "竖持长枪的重装士兵以不对称站姿立于岩石与发光科技构件之间，装甲层级和金色面罩形成清晰视觉焦点。",
     "intro": "模型以竖向武器拉高整体轮廓，肩甲、胸甲、腰甲和腿甲采用密集分层结构；不对称站姿让两腿受力与地台高差形成稳定节奏。标准包包含31件STL，兼有角色、地台分件及合并版本，适合树脂打印、分区涂装与收藏级展陈。",
     "downloadUrl": "https://pan.baidu.com/s/18w_YODkKJDD_Y16otUaPEg",
@@ -118,7 +103,7 @@ window.OUART_MODELS = [
     "nameZh": "士官长·光环",
     "nameEn": "Master Chief — Halo",
     "displayName": "士官长·光环｜Master Chief — Halo",
-    "alt": "竖持长枪的绿色重装士兵完整模型网格预览",
+    "alt": "竖持长枪的绿色重装士兵彩色来源成品预览",
     "sections": [
       {
         "id": "design",
@@ -149,7 +134,7 @@ window.OUART_MODELS = [
         "title": "场景应用",
         "paragraphs": [
           "暗色展龛强调轮廓，北窗工坊展示分色逻辑，环带天穹场景强化哨兵叙事。",
-          "所有展示方向均保留完整角色、唯一竖向武器与完整地台，不替代真实网格资料。"
+          "所有展示方向均保留完整角色、唯一竖向武器与完整地台，不替代彩色来源图与内部严格 STL 审计。"
         ]
       }
     ],
@@ -162,19 +147,9 @@ window.OUART_MODELS = [
     },
     "gallery": [
       {
-        "src": "./assets/models/master-chief-halo/scene-1.png",
-        "alt": "角色与竖向武器的正面网格结构",
-        "label": "真实网格｜正面结构"
-      },
-      {
-        "src": "./assets/models/master-chief-halo/scene-2.png",
-        "alt": "角色装甲与武器的侧面网格结构",
-        "label": "真实网格｜侧面结构"
-      },
-      {
-        "src": "./assets/models/master-chief-halo/scene-3.png",
-        "alt": "角色背部装甲的网格结构",
-        "label": "真实网格｜背面结构"
+        "src": "./assets/models/master-chief-halo/source-preview.jpg",
+        "alt": "士官长与竖向武器、岩石科技地台的彩色来源成品图",
+        "label": "来源成品图｜士官长完整模型"
       },
       {
         "src": "./assets/models/master-chief-halo/scene-4.png",
@@ -273,11 +248,7 @@ window.OUART_MODELS = [
         "alt": "赤岩女武士背部发束、链饰、长剑和岩台的真实资料",
         "label": "真实资料｜背面结构"
       },
-      {
-        "src": "./assets/models/6scale-woman-warrior-ca3d-pre-supported/scene-3.png",
-        "alt": "由真实STL网格生成的女武士分件侧向结构资料",
-        "label": "真实网格｜分件结构"
-      },
+
       {
         "src": "./assets/models/6scale-woman-warrior-ca3d-pre-supported/scene-4.png",
         "alt": "完整赤岩女武士雕像置于石灰岩博物馆穹厅的展陈方案",
@@ -375,11 +346,7 @@ window.OUART_MODELS = [
         "alt": "玛卡模型背面烟雾怪物、钟体和魔镰结构真实资料",
         "label": "真实资料｜背面结构"
       },
-      {
-        "src": "./assets/models/maka-soul-eater/scene-3.png",
-        "alt": "由真实STL网格生成的玛卡模型侧面中性结构图",
-        "label": "真实网格｜侧面结构"
-      },
+
       {
         "src": "./assets/models/maka-soul-eater/scene-4.png",
         "alt": "完整玛卡魔镰雕像置于月下哥特学院庭院的叙事方案",

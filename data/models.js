@@ -1,5 +1,106 @@
 window.OUART_MODELS = [
   {
+    "id": "sakamoto-days-taro-sakamoto-go3dfigures",
+    "name": "坂本太郎",
+    "date": "2026-07-22",
+    "displayDate": "2026.07.22",
+    "format": "STL",
+    "fileCount": 13,
+    "size": "273.68 MB",
+    "usage": "角色模型收藏、树脂打印、切片准备与涂装参考",
+    "image": "./assets/models/sakamoto-days-taro-sakamoto-go3dfigures/preview-1.png",
+    "description": "坂本太郎全身角色模型，以丰满体型、浅色短发、圆眼镜、黄色短袖与宽松蓝裤构成清晰辨识。",
+    "intro": "模型采用十三件分件结构，人物、服装、鞋履与主题底座在共享坐标中形成完整构图，适合打印、装配与收藏级涂装展示。",
+    "downloadUrl": "https://pan.baidu.com/s/1zqE86mn9pznNTFs9rii69A",
+    "shareCode": "l0hw",
+    "published": true,
+    "secondaryImage": "./assets/models/sakamoto-days-taro-sakamoto-go3dfigures/preview-2.jpg",
+    "nameZh": "坂本太郎",
+    "nameEn": "Taro Sakamoto — Sakamoto Days",
+    "displayName": "坂本太郎｜Taro Sakamoto — Sakamoto Days",
+    "alt": "坂本太郎完整全身角色模型与底座",
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计观察",
+        "paragraphs": [
+          "丰满体型、浅色短发与圆眼镜构成稳定的角色轮廓，黄色短袖和蓝色长裤形成清楚的色块关系。",
+          "抬臂与迈步姿态让身体重心保持动态，同时完整底座为展示提供稳定支撑。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印与制作",
+        "paragraphs": [
+          "标准包包含十三件 STL，覆盖头部、服装、双臂、鞋履、底座与细小配件。",
+          "现有严格记录确认十三件网格均闭合且单连通；装配按分件模型既有共享坐标关系处理。",
+          "建议使用树脂打印，并重点检查眼镜、手指、鞋缘和细小配件的支撑方向。",
+          "清洗固化后先进行干装校验，再处理手臂、鞋履与底座接触位置，避免直接强行粘合。"
+        ]
+      },
+      {
+        "id": "paint",
+        "title": "涂装方向",
+        "paragraphs": [
+          "黄色上衣与蓝色长裤可采用干净的哑光分色，面部、眼镜和鞋履使用克制高光强化层次。",
+          "底座和道具宜控制色彩对比，让人物面部、眼镜与服装轮廓保持视觉焦点。"
+        ]
+      },
+      {
+        "id": "scene",
+        "title": "场景应用",
+        "paragraphs": [
+          "来源预览与真实模型渲染用于结构核对，后场休息区、训练仓库与夜间屋顶分别展示静态陈列、制作语境和叙事氛围。",
+          "三张环境画面仅用于展示氛围，不替代来源预览、真实网格和模型结构证据。"
+        ]
+      }
+    ],
+    "author": "Go3DFigures",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "Go3DFigures",
+      "license": "未发现作者官方许可声明",
+      "note": "本页面不主张获得作者或工作室官方授权；角色相关权利归原权利方所有。"
+    },
+    "gallery": [
+      {
+        "src": "./assets/models/sakamoto-days-taro-sakamoto-go3dfigures/scene-1.jpg",
+        "alt": "Go3DFigures 坂本太郎模型来源预览",
+        "label": "来源预览｜Go3DFigures"
+      },
+      {
+        "src": "./assets/models/sakamoto-days-taro-sakamoto-go3dfigures/scene-2.png",
+        "alt": "坂本太郎完整模型正面技术渲染",
+        "label": "真实模型渲染｜正面"
+      },
+      {
+        "src": "./assets/models/sakamoto-days-taro-sakamoto-go3dfigures/scene-3.png",
+        "alt": "坂本太郎完整模型侧面技术渲染",
+        "label": "真实模型渲染｜侧面"
+      },
+      {
+        "src": "./assets/models/sakamoto-days-taro-sakamoto-go3dfigures/scene-4.png",
+        "alt": "坂本太郎完整模型背面技术渲染",
+        "label": "真实模型渲染｜背面"
+      },
+      {
+        "src": "./assets/models/sakamoto-days-taro-sakamoto-go3dfigures/scene-5.png",
+        "alt": "坂本太郎模型置于无标识后场休息区",
+        "label": "场景延展｜后场休息区"
+      },
+      {
+        "src": "./assets/models/sakamoto-days-taro-sakamoto-go3dfigures/scene-6.png",
+        "alt": "坂本太郎模型置于中性训练仓库",
+        "label": "场景延展｜训练仓库"
+      },
+      {
+        "src": "./assets/models/sakamoto-days-taro-sakamoto-go3dfigures/scene-7.png",
+        "alt": "坂本太郎模型在夜间屋顶守望",
+        "label": "场景延展｜夜间屋顶"
+      }
+    ]
+  },
+  {
     "id": "master-chief-halo",
     "name": "士官长·光环",
     "date": "2026-07-21",

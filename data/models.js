@@ -1,5 +1,85 @@
 window.OUART_MODELS = [
   {
+    "id": "tanuki-figures-maki",
+    "name": "禅院真希",
+    "date": "2026-07-23",
+    "displayDate": "2026.07.23",
+    "format": "STL",
+    "fileCount": 31,
+    "size": "1335.83 MB",
+    "usage": "角色模型收藏、树脂打印、切片准备与涂装参考",
+    "image": "./assets/models/tanuki-figures-maki/source-original-1.jpg",
+    "description": "Tanuki Figures 禅院真希角色模型，保留来源原图中的作者标识与完整人物构图。",
+    "intro": "标准包包含三十一件 STL；公开视觉仅采用逐图确认同模型的来源原图，严格网格核验仅保留为内部 JSON 证据。",
+    "downloadUrl": "https://pan.baidu.com/s/14j4njdyIbwcVXHu8Ix_CVA",
+    "shareCode": "0h8w",
+    "published": true,
+    "schemaVersion": 4,
+    "nameZh": "禅院真希",
+    "nameEn": "Maki Zenin — Jujutsu Kaisen",
+    "displayName": "禅院真希｜Maki Zenin — Jujutsu Kaisen",
+    "mainImageRole": "source_original",
+    "alt": "Tanuki Figures 禅院真希完整角色模型",
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计观察",
+        "paragraphs": [
+          "短发、圆框眼镜、战斗伤痕与多件武器构成禅院真希鲜明而稳定的角色轮廓。",
+          "来源原图完整呈现人物、武器与主题底座，并保留 Tanuki Figures 作者标识。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印与制作",
+        "paragraphs": [
+          "标准包包含三十一件 STL，覆盖人物、服装、武器、配件与分件底座；建议使用树脂打印。",
+          "重点检查眼镜、发梢、手指与武器边缘的支撑，清洗固化后先干装校验人物、武器和底座接点，再进行粘合与补缝。"
+        ]
+      },
+      {
+        "id": "paint",
+        "title": "涂装方向",
+        "paragraphs": [
+          "可先以低饱和深色建立服装层次，再用肤色、镜片高光和金属武器边缘拉开材质差异。",
+          "面部伤痕与眼镜是辨识重点，建议薄涂叠色并控制高光范围，避免遮盖细小刻线。"
+        ]
+      },
+      {
+        "id": "scene",
+        "title": "场景应用",
+        "paragraphs": [
+          "人物与多件武器适合陈列为正面或三分之四视角，主题底座可作为稳定的视觉重心。",
+          "公开页面仅采用逐图确认同模型的来源原图；AI 场景图不是发布硬依赖，技术渲染与严格网格记录不作为公开展示图。"
+        ]
+      },
+      {
+        "id": "provenance",
+        "title": "来源与许可",
+        "paragraphs": [
+          "作者或工作室标识：Tanuki Figures；来源归档为 Tanuki Figures - Maki.rar。",
+          "本记录不主张获得作者或工作室官方授权；许可请以原始发布者说明为准。"
+        ]
+      }
+    ],
+    "author": "Tanuki Figures",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "Tanuki Figures",
+      "license": "未发现作者官方许可声明",
+      "note": "本页面不主张获得作者或工作室官方授权；角色相关权利归原权利方所有。"
+    },
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "gallery": [
+      {
+        "src": "./assets/models/tanuki-figures-maki/source-original-1.jpg",
+        "alt": "禅院真希完整角色模型来源原图",
+        "label": "来源原图｜Tanuki Figures"
+      }
+    ]
+  },
+  {
     "id": "sakamoto-days-taro-sakamoto-go3dfigures",
     "name": "坂本太郎",
     "date": "2026-07-22",
@@ -248,7 +328,6 @@ window.OUART_MODELS = [
         "alt": "赤岩女武士背部发束、链饰、长剑和岩台的真实资料",
         "label": "真实资料｜背面结构"
       },
-
       {
         "src": "./assets/models/6scale-woman-warrior-ca3d-pre-supported/scene-4.png",
         "alt": "完整赤岩女武士雕像置于石灰岩博物馆穹厅的展陈方案",
@@ -346,7 +425,6 @@ window.OUART_MODELS = [
         "alt": "玛卡模型背面烟雾怪物、钟体和魔镰结构真实资料",
         "label": "真实资料｜背面结构"
       },
-
       {
         "src": "./assets/models/maka-soul-eater/scene-4.png",
         "alt": "完整玛卡魔镰雕像置于月下哥特学院庭院的叙事方案",

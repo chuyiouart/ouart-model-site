@@ -88,24 +88,30 @@ window.OUART_MODELS = [
       {
         "src": "./assets/models/chun-li-campus-ca3d/source-original-1.jpg",
         "alt": "春丽校园制服坐姿、椅子与完整人物正面归档宣传渲染",
-        "label": "完整正面｜校园椅场景"
+        "label": "完整正面｜校园椅场景",
+        "sourceTier": "local_archive"
       },
       {
         "src": "./assets/models/chun-li-campus-ca3d/source-original-2.jpg",
         "alt": "春丽校园制服坐姿侧面、发髻丝带与椅子归档宣传渲染",
-        "label": "完整侧面｜服装与发髻"
+        "label": "完整侧面｜服装与发髻",
+        "sourceTier": "local_archive"
       },
       {
         "src": "./assets/models/chun-li-campus-ca3d/source-original-3.jpg",
         "alt": "春丽面部、发髻、蝴蝶结与校服徽章近景归档宣传渲染",
-        "label": "人物近景｜面部与校服徽章"
+        "label": "人物近景｜面部与校服徽章",
+        "sourceTier": "local_archive"
       },
       {
         "src": "./assets/models/chun-li-campus-ca3d/source-original-4.jpg",
         "alt": "春丽鞋袜、交叠腿部与校园椅结构细节归档宣传渲染",
-        "label": "鞋袜细节｜椅子结构"
+        "label": "鞋袜细节｜椅子结构",
+        "sourceTier": "local_archive"
       }
-    ]
+    ],
+    "galleryCount": 4,
+    "imageSourceTier": "local_archive"
   },
   {
     "id": "astro-bot-hero-pose",
@@ -116,9 +122,9 @@ window.OUART_MODELS = [
     "fileCount": 23,
     "size": "602.04 MB",
     "usage": "个人学习、打印、组装与涂装参考；许可请以原始发布者说明为准",
-    "image": "./assets/models/astro-bot-hero-pose/ai-fallback-primary.png",
+    "image": "./assets/models/astro-bot-hero-pose/source-original-1.jpg",
     "description": "圆润机器人以英雄姿态呈现，结构清晰，适合亮面材质与桌面收藏。",
-    "intro": "本次六件模型批次中的独立模型。正式文件夹严格包含模型 ZIP、主图 PNG 和社群说明 TXT；主图类型：AI生成主图（来源渲染暂不可用）。",
+    "intro": "主图采用 Yusei Umehara / Yusei_3D_Art 同名模型页面收录的多色打印成品照片；模型标题、AMS 文件描述与本地包命名相符。AI 图仅保留为末位明确标注的场景扩展。",
     "downloadUrl": "https://pan.baidu.com/s/1ScEmRAtc7C6bKGmXj4iFnw",
     "shareCode": "67b3",
     "published": true,
@@ -127,16 +133,17 @@ window.OUART_MODELS = [
     "nameZh": "宇宙机器人英雄姿态",
     "nameEn": "Astro Bot — Hero Pose",
     "displayName": "宇宙机器人英雄姿态｜Astro Bot — Hero Pose",
-    "mainImageRole": "ai_fallback_labeled",
-    "alt": "宇宙机器人英雄姿态完整模型 AI 生成主图",
-    "author": "来源包未明确标注作者",
+    "mainImageRole": "original_creator_product_photo",
+    "alt": "Yusei Umehara 设计的 Astro Bot 多色打印成品正面来源照片",
+    "author": "Yusei Umehara / Yusei_3D_Art",
     "license": "许可请以原始发布者说明为准",
     "authorLicense": {
-      "author": "来源包未明确标注作者",
-      "license": "未发现可公开确认的开放许可声明",
-      "note": "本页面不主张获得作者、工作室或角色权利方官方授权；许可与后续使用范围请以原始发布者说明为准。"
+      "author": "Yusei Umehara / Yusei_3D_Art",
+      "license": "许可请以原始发布者说明为准",
+      "sourceUrl": "https://thangs.com/designer/Yusei_Umehara/3d-model/Astro%20from%20Astro%20Bot%20%2F%20Astro%27s%20PlayRoom%20%28%203MF%20Multicolor%20Files%20For%20AMS%20included%20%29%20%7C%20Play%20Station%205-1168347",
+      "note": "同名模型页面记录 235 mm、二十余分件与 AMS 多色文件；角色相关权利归原权利方所有。"
     },
-    "imageDisclosure": "AI生成主图（来源渲染暂不可用）；该图不作为来源实拍或网格证据。",
+    "imageDisclosure": "主图为原作者模型页面收录的同模型多色打印成品照片；AI 图仅作为画廊末位的明确标注扩展，不作为来源或几何证据。",
     "publicTechnicalRenders": [],
     "secondaryScenes": [],
     "sections": [
@@ -160,8 +167,8 @@ window.OUART_MODELS = [
         "id": "source",
         "title": "主图与来源说明",
         "paragraphs": [
-          "主图标注：AI生成主图（来源渲染暂不可用）。来源文件未提供可用渲染图，因此按本批次规则使用明确标注的 AI 生成主图；它只承担内容展示，不替代来源或 STL 审计。",
-          "作者/来源记录：来源包未明确标注作者。"
+          "主图为 Yusei Umehara / Yusei_3D_Art 同名模型页面收录的多色打印成品照片。",
+          "AI 图只作为画廊末位的明确标注扩展，不作为来源实拍、许可或几何证据。"
         ]
       },
       {
@@ -176,11 +183,21 @@ window.OUART_MODELS = [
     ],
     "gallery": [
       {
+        "src": "./assets/models/astro-bot-hero-pose/source-original-1.jpg",
+        "alt": "Yusei Umehara Astro Bot 多色打印成品正面原作者来源照片",
+        "label": "原作者成品照｜多色打印",
+        "sourceTier": "original_creator_web"
+      },
+      {
         "src": "./assets/models/astro-bot-hero-pose/ai-fallback-primary.png",
-        "alt": "宇宙机器人英雄姿态完整模型主图",
-        "label": "AI生成主图（来源渲染暂不可用）"
+        "alt": "Astro Bot 英雄姿态 AI 场景扩展图，仅作展示，不作为来源或几何证据",
+        "label": "AI 场景扩展｜非来源证据",
+        "sourceTier": "ai_generated_extension"
       }
-    ]
+    ],
+    "secondaryImage": "./assets/models/astro-bot-hero-pose/ai-fallback-primary.png",
+    "galleryCount": 2,
+    "imageSourceTier": "original_creator_web"
   },
   {
     "id": "christmas-miniature-scene",
@@ -191,9 +208,9 @@ window.OUART_MODELS = [
     "fileCount": 46,
     "size": "1061.45 MB",
     "usage": "个人学习、打印、组装与涂装参考；许可请以原始发布者说明为准",
-    "image": "./assets/models/christmas-miniature-scene/ai-fallback-primary.png",
+    "image": "./assets/models/christmas-miniature-scene/source-original-1.jpg",
     "description": "人物、铃铛、蝴蝶结、糖杖、礼物、姜饼与烟囱地台组成完整节日收藏雕像。",
-    "intro": "本次六件模型批次中的独立模型。正式文件夹严格包含模型 ZIP、主图 PNG 和社群说明 TXT；主图类型：AI生成主图（来源渲染暂不可用）。",
+    "intro": "主图与画廊采用 2023-12-20 Bella Bells 同帖原始彩色渲染、灰模角度、分件与比例图；保留 NomNom/创作者标识，拒绝第三方群二维码与号码。",
     "downloadUrl": "https://pan.baidu.com/s/1-mr0N8BZw33rI9rMXlOFug",
     "shareCode": "ca2a",
     "published": true,
@@ -202,16 +219,16 @@ window.OUART_MODELS = [
     "nameZh": "贝拉铃铛圣诞雕像",
     "nameEn": "Bella Bells — Christmas Figure",
     "displayName": "贝拉铃铛圣诞雕像｜Bella Bells — Christmas Figure",
-    "mainImageRole": "ai_fallback_labeled",
-    "alt": "贝拉铃铛圣诞雕像完整模型 AI 生成主图",
-    "author": "来源包文件名标注 Bella Bells；具体作者未明确",
+    "mainImageRole": "telegram_exact_source_album",
+    "alt": "Bella Bells 圣诞人物、铃铛地台与礼物完整彩色来源渲染",
+    "author": "NomNom / byHehe（来源帖署名）",
     "license": "许可请以原始发布者说明为准",
     "authorLicense": {
-      "author": "来源包文件名标注 Bella Bells；具体作者未明确",
-      "license": "未发现可公开确认的开放许可声明",
-      "note": "本页面不主张获得作者、工作室或角色权利方官方授权；许可与后续使用范围请以原始发布者说明为准。"
+      "author": "NomNom / byHehe（来源帖署名）",
+      "license": "未发现作者官方开放许可声明",
+      "note": "同模型来源相册用于身份与展示核验；角色与模型相关权利归各自权利方所有。"
     },
-    "imageDisclosure": "AI生成主图（来源渲染暂不可用）；该图不作为来源实拍或网格证据。",
+    "imageDisclosure": "主图与画廊来自同模型原始来源相册；保留原作者/工作室标识，不含第三方群二维码或号码。",
     "publicTechnicalRenders": [],
     "secondaryScenes": [],
     "sections": [
@@ -235,8 +252,8 @@ window.OUART_MODELS = [
         "id": "source",
         "title": "主图与来源说明",
         "paragraphs": [
-          "主图标注：AI生成主图（来源渲染暂不可用）。来源文件未提供可用渲染图，因此按本批次规则使用明确标注的 AI 生成主图；它只承担内容展示，不替代来源或 STL 审计。",
-          "作者/来源记录：来源包文件名标注 Bella Bells；具体作者未明确。"
+          "主图与画廊来自 Bella Bells 同帖原始来源相册，包含彩色成品、灰模角度、分件与比例信息。",
+          "来源署名记录为 NomNom / byHehe；图中创作者或工作室标识保留，第三方群二维码与号码未公开。"
         ]
       },
       {
@@ -251,11 +268,57 @@ window.OUART_MODELS = [
     ],
     "gallery": [
       {
-        "src": "./assets/models/christmas-miniature-scene/ai-fallback-primary.png",
-        "alt": "贝拉铃铛圣诞雕像完整模型主图",
-        "label": "AI生成主图（来源渲染暂不可用）"
+        "src": "./assets/models/christmas-miniature-scene/source-original-1.jpg",
+        "alt": "Bella Bells 圣诞人物与铃铛地台完整彩色来源渲染",
+        "label": "彩色主视图｜完整圣诞场景",
+        "sourceTier": "telegram_exact_album"
+      },
+      {
+        "src": "./assets/models/christmas-miniature-scene/source-original-2.jpg",
+        "alt": "Bella Bells 彩色人物、服装与圣诞地台近景来源图",
+        "label": "彩色近景｜人物与地台",
+        "sourceTier": "telegram_exact_album"
+      },
+      {
+        "src": "./assets/models/christmas-miniature-scene/source-original-3.jpg",
+        "alt": "Bella Bells 灰模后侧、头发与铃铛地台结构来源图",
+        "label": "灰模后侧｜轮廓与底座",
+        "sourceTier": "telegram_exact_album"
+      },
+      {
+        "src": "./assets/models/christmas-miniature-scene/source-original-4.jpg",
+        "alt": "Bella Bells 灰模正面比例与完整姿态来源图",
+        "label": "灰模正面｜比例与姿态",
+        "sourceTier": "telegram_exact_album"
+      },
+      {
+        "src": "./assets/models/christmas-miniature-scene/source-original-5.jpg",
+        "alt": "Bella Bells 灰模侧后角度与底座来源图",
+        "label": "灰模侧后｜铃铛与地台",
+        "sourceTier": "telegram_exact_album"
+      },
+      {
+        "src": "./assets/models/christmas-miniature-scene/source-original-6.jpg",
+        "alt": "Bella Bells 同模型分件与装配结构来源图",
+        "label": "分件总览｜装配结构",
+        "sourceTier": "telegram_exact_album"
+      },
+      {
+        "src": "./assets/models/christmas-miniature-scene/source-original-7.jpg",
+        "alt": "Bella Bells 同模型比例与成品尺寸来源图",
+        "label": "比例示意｜成品尺寸",
+        "sourceTier": "telegram_exact_album"
+      },
+      {
+        "src": "./assets/models/christmas-miniature-scene/source-original-8.jpg",
+        "alt": "Bella Bells 同模型彩色多角度完整输出来源图",
+        "label": "彩色多角度｜完整输出",
+        "sourceTier": "telegram_exact_album"
       }
-    ]
+    ],
+    "secondaryImage": "./assets/models/christmas-miniature-scene/source-original-2.jpg",
+    "galleryCount": 8,
+    "imageSourceTier": "telegram_exact_album"
   },
   {
     "id": "sonic-speed-pose",
@@ -327,10 +390,13 @@ window.OUART_MODELS = [
     "gallery": [
       {
         "src": "./assets/models/sonic-speed-pose/source-primary.png",
-        "alt": "索尼克极速姿态完整模型主图",
-        "label": "来源图"
+        "alt": "索尼克完整站姿、圆形底座与手势的 Tantrum House 来源图",
+        "label": "完整正面｜Tantrum House 来源图",
+        "sourceTier": "local_archive"
       }
-    ]
+    ],
+    "galleryCount": 1,
+    "imageSourceTier": "local_archive"
   },
   {
     "id": "panzer-iii-g",
@@ -341,7 +407,7 @@ window.OUART_MODELS = [
     "fileCount": 28,
     "size": "241.87 MB",
     "usage": "个人学习、打印、组装与涂装参考；许可请以原始发布者说明为准",
-    "image": "./assets/models/panzer-iii-g/source-primary.png",
+    "image": "./assets/models/panzer-iii-g/source-original-1.jpg",
     "description": "多分件履带、炮塔与车体细节组成完整历史载具模型，适合结构展示与旧化练习。",
     "intro": "本次六件模型批次中的独立模型。正式文件夹严格包含模型 ZIP、主图 PNG 和社群说明 TXT；主图类型：来源图。",
     "downloadUrl": "https://pan.baidu.com/s/1iKKvJ3STP1GSex0o7tFwRw",
@@ -401,11 +467,57 @@ window.OUART_MODELS = [
     ],
     "gallery": [
       {
-        "src": "./assets/models/panzer-iii-g/source-primary.png",
-        "alt": "三号坦克 G 型完整模型主图",
-        "label": "来源图"
+        "src": "./assets/models/panzer-iii-g/source-original-1.jpg",
+        "alt": "三号坦克 G 型 1941 DAK 前左涂装完成图",
+        "label": "DAK 涂装前左",
+        "sourceTier": "local_archive"
+      },
+      {
+        "src": "./assets/models/panzer-iii-g/source-original-2.jpg",
+        "alt": "三号坦克 G 型 1941 DAK 侧面涂装完成图",
+        "label": "DAK 涂装侧面",
+        "sourceTier": "local_archive"
+      },
+      {
+        "src": "./assets/models/panzer-iii-g/source-original-3.jpg",
+        "alt": "三号坦克 G 型 1941 DAK 前右涂装完成图",
+        "label": "DAK 涂装前右",
+        "sourceTier": "local_archive"
+      },
+      {
+        "src": "./assets/models/panzer-iii-g/source-original-4.jpg",
+        "alt": "三号坦克 G 型 1941 DAK 完整侧视涂装图",
+        "label": "DAK 涂装完整侧视",
+        "sourceTier": "local_archive"
+      },
+      {
+        "src": "./assets/models/panzer-iii-g/source-original-5.jpg",
+        "alt": "三号坦克 G 型结构拆分与装配总览",
+        "label": "结构拆分总览",
+        "sourceTier": "local_archive"
+      },
+      {
+        "src": "./assets/models/panzer-iii-g/source-original-6.jpg",
+        "alt": "三号坦克 G 型多视角装配来源图",
+        "label": "装配视角",
+        "sourceTier": "local_archive"
+      },
+      {
+        "src": "./assets/models/panzer-iii-g/source-original-7.jpg",
+        "alt": "三号坦克 G 型标准与 DAK 版本对照",
+        "label": "标准型与 DAK 型",
+        "sourceTier": "local_archive"
+      },
+      {
+        "src": "./assets/models/panzer-iii-g/source-original-8.jpg",
+        "alt": "三号坦克 G 型高细节与历史履带说明",
+        "label": "高细节与履带",
+        "sourceTier": "local_archive"
       }
-    ]
+    ],
+    "secondaryImage": "./assets/models/panzer-iii-g/source-original-2.jpg",
+    "galleryCount": 8,
+    "imageSourceTier": "local_archive"
   },
   {
     "id": "marder-iii-ausf-h",
@@ -416,7 +528,7 @@ window.OUART_MODELS = [
     "fileCount": 12,
     "size": "1023.28 MB",
     "usage": "个人学习、打印、组装与涂装参考；许可请以原始发布者说明为准",
-    "image": "./assets/models/marder-iii-ausf-h/source-primary.png",
+    "image": "./assets/models/marder-iii-ausf-h/source-original-1.jpg",
     "description": "开放式战斗舱、分件履带与车体结构适合机械细节观察、组装与旧化练习。",
     "intro": "本次六件模型批次中的独立模型。正式文件夹严格包含模型 ZIP、主图 PNG 和社群说明 TXT；主图类型：来源图。",
     "downloadUrl": "https://pan.baidu.com/s/1vL7XdqOEdbEd3-Du09-r2Q",
@@ -476,11 +588,45 @@ window.OUART_MODELS = [
     ],
     "gallery": [
       {
-        "src": "./assets/models/marder-iii-ausf-h/source-primary.png",
-        "alt": "马德三世 H 型完整模型主图",
-        "label": "来源图"
+        "src": "./assets/models/marder-iii-ausf-h/source-original-1.jpg",
+        "alt": "马德三世 H 型前左完整来源渲染",
+        "label": "前左完整视角",
+        "sourceTier": "local_archive"
+      },
+      {
+        "src": "./assets/models/marder-iii-ausf-h/source-original-2.jpg",
+        "alt": "马德三世 H 型左侧比例尺寸来源图",
+        "label": "左侧尺寸参考",
+        "sourceTier": "local_archive"
+      },
+      {
+        "src": "./assets/models/marder-iii-ausf-h/source-original-3.jpg",
+        "alt": "马德三世 H 型后右开放战斗舱来源渲染",
+        "label": "后右战斗舱",
+        "sourceTier": "local_archive"
+      },
+      {
+        "src": "./assets/models/marder-iii-ausf-h/source-original-4.jpg",
+        "alt": "马德三世 H 型顶部战斗舱结构来源渲染",
+        "label": "顶部战斗舱",
+        "sourceTier": "local_archive"
+      },
+      {
+        "src": "./assets/models/marder-iii-ausf-h/source-original-5.jpg",
+        "alt": "马德三世 H 型右侧车体与炮位来源渲染",
+        "label": "右侧结构",
+        "sourceTier": "local_archive"
+      },
+      {
+        "src": "./assets/models/marder-iii-ausf-h/source-original-6.jpg",
+        "alt": "马德三世 H 型前右完整来源渲染",
+        "label": "前右完整视角",
+        "sourceTier": "local_archive"
       }
-    ]
+    ],
+    "secondaryImage": "./assets/models/marder-iii-ausf-h/source-original-2.jpg",
+    "galleryCount": 6,
+    "imageSourceTier": "local_archive"
   },
   {
     "id": "enel-one-piece",

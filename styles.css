@@ -156,8 +156,16 @@ main { width: min(100%, var(--max)); margin: 0 auto; padding-inline: var(--gutte
 .section-title-row > p { max-width: 600px; margin: 0; color: var(--muted); font-size: 14px; line-height: 1.7; text-align: right; }
 .gallery-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
 .gallery-grid figure { margin: 0; min-width: 0; border: 1px solid var(--line); background: var(--soft); }
+.gallery-open { display: block; width: 100%; padding: 0; border: 0; background: transparent; cursor: zoom-in; }
+.gallery-open:focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
 .gallery-grid img { width: 100%; height: auto; object-fit: contain; }
 .gallery-grid figcaption { padding: 13px 15px; color: var(--muted); font-size: 13px; line-height: 1.5; }
+.gallery-lightbox { width: min(94vw, 1200px); max-width: none; padding: 18px; border: 0; background: #111; color: #fff; }
+.gallery-lightbox::backdrop { background: rgba(0,0,0,.82); }
+.gallery-lightbox img { display: block; width: 100%; max-height: 82vh; object-fit: contain; }
+.gallery-lightbox p { margin: 14px 42px 0 0; color: #ddd; line-height: 1.5; }
+.gallery-lightbox-close { position: absolute; top: 6px; right: 8px; width: 40px; height: 40px; border: 0; border-radius: 999px; background: rgba(255,255,255,.9); color: #111; font-size: 30px; line-height: 1; cursor: pointer; }
+.gallery-lightbox-close:focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
 .author-license { padding: clamp(24px, 3.5vw, 42px); border: 1px solid var(--line); background: var(--soft); }
 .author-license > div { margin-top: 20px; }
 .author-license p { margin: 10px 0; color: #444; line-height: 1.75; }

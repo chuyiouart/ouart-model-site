@@ -211,20 +211,58 @@
     if (legacyIntro) legacyIntro.hidden = true;
   }
 
+  function ensureGalleryLightbox() {
+    let dialog = document.getElementById("gallery-lightbox");
+    if (dialog) return dialog;
+    dialog = document.createElement("dialog");
+    dialog.id = "gallery-lightbox";
+    dialog.className = "gallery-lightbox";
+    dialog.setAttribute("aria-label", "模型图片大图预览");
+    const close = document.createElement("button");
+    close.type = "button";
+    close.className = "gallery-lightbox-close";
+    close.setAttribute("aria-label", "关闭大图预览");
+    close.textContent = "×";
+    close.addEventListener("click", () => dialog.close());
+    const image = document.createElement("img");
+    image.alt = "";
+    const caption = document.createElement("p");
+    dialog.append(close, image, caption);
+    dialog.addEventListener("click", (event) => {
+      if (event.target === dialog) dialog.close();
+    });
+    document.body.appendChild(dialog);
+    return dialog;
+  }
+
   function renderGallery(model) {
     const section = document.getElementById("detail-gallery-section");
     const root = document.getElementById("detail-gallery");
     const gallery = Array.isArray(model.gallery) ? model.gallery.filter((item) => item && item.src && item.alt) : [];
     if (!section || !root || !gallery.length) return;
+    const lightbox = ensureGalleryLightbox();
     root.replaceChildren();
     gallery.forEach((item) => {
       const figure = document.createElement("figure");
+      const trigger = document.createElement("button");
+      trigger.type = "button";
+      trigger.className = "gallery-open";
+      trigger.setAttribute("aria-label", `查看大图：${item.alt}`);
       const image = document.createElement("img");
       image.src = item.src;
       image.alt = item.alt;
       image.loading = "lazy";
       protectModelImage(image);
-      figure.appendChild(image);
+      trigger.appendChild(image);
+      trigger.addEventListener("click", () => {
+        const full = lightbox.querySelector("img");
+        const caption = lightbox.querySelector("p");
+        full.src = item.src;
+        full.alt = item.alt;
+        caption.textContent = cleanText(item.label) || item.alt;
+        lightbox.showModal();
+      });
+      figure.appendChild(trigger);
       const rawLabel = cleanText(item.label);
       const generatedSuffix = ["A", "I", "生", "成"].join("");
       const label = rawLabel.endsWith(generatedSuffix)

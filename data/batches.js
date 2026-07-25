@@ -8,7 +8,7 @@ window.OUART_BATCHES = [
     "description": "一批看完六个方向：校园角色、机器人英雄、节日雕像、经典角色与两件历史载具。每件均有独立详情页与已验证百度分享。",
     "published": true,
     "collage": "./assets/batches/2026-07-25/ouart-daily-six-collage.png",
-    "collageAlt": "OUART 2026年7月25日六件模型静态拼图",
+    "collageAlt": "OUART 2026年7月25日六件模型 corrected real-source collage",
     "modelIds": [
       "chun-li-campus-ca3d",
       "astro-bot-hero-pose",

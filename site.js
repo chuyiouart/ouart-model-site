@@ -3,6 +3,8 @@
 
   const models = window.OUART_MODELS || [];
   const publicModels = models.filter((model) => model && model.published === true);
+  const batches = Array.isArray(window.OUART_BATCHES) ? window.OUART_BATCHES : [];
+  const publicBatches = batches.filter((batch) => batch && batch.published === true);
   const menuButton = document.querySelector(".menu-button");
   const nav = document.querySelector(".site-nav");
 
@@ -72,6 +74,25 @@
   }
 
   function renderHero() {
+    const latestBatch = publicBatches.find((batch) => batch.id && batch.collage);
+    if (latestBatch) {
+      const heroLink = document.getElementById("hero-link");
+      const heroLabel = document.getElementById("hero-link-label");
+      const heroMedia = document.getElementById("hero-media");
+      const heroImage = document.getElementById("hero-image");
+      const href = `./batch.html?id=${encodeURIComponent(latestBatch.id)}`;
+      if (heroLink) heroLink.href = href;
+      if (heroLabel) heroLabel.textContent = "查看今日六件";
+      if (heroMedia && heroImage) {
+        heroMedia.href = href;
+        heroMedia.setAttribute("aria-label", latestBatch.title || "查看今日六件");
+        heroImage.src = latestBatch.collage;
+        heroImage.alt = latestBatch.collageAlt || "OUART MODEL 今日六件模型拼图";
+        protectModelImage(heroImage);
+        heroMedia.hidden = false;
+      }
+      return;
+    }
     const latest = publicModels.find((model) => model.id && model.image);
     if (!latest) return;
 
@@ -97,6 +118,37 @@
   }
 
   renderHero();
+
+  function renderDailyBatch() {
+    const section = document.getElementById("daily-batch");
+    const batch = publicBatches[0];
+    if (!section || !batch || !Array.isArray(batch.modelIds) || batch.modelIds.length !== 6) return;
+    const href = `./batch.html?id=${encodeURIComponent(batch.id)}`;
+    const link = document.getElementById("daily-batch-link");
+    const collageLink = document.getElementById("daily-batch-collage-link");
+    const collage = document.getElementById("daily-batch-collage");
+    const cards = document.getElementById("daily-batch-cards");
+    if (link) link.href = href;
+    if (collageLink) collageLink.href = href;
+    if (collage) {
+      collage.src = batch.collage;
+      collage.alt = batch.collageAlt || "OUART MODEL 今日六件模型拼图";
+      protectModelImage(collage);
+    }
+    if (cards) {
+      cards.replaceChildren();
+      batch.modelIds.map((id) => publicModels.find((model) => model.id === id)).filter(Boolean).forEach((model, index) => {
+        const card = document.createElement("a");
+        card.className = "batch-quick-card";
+        card.href = modelUrl(model);
+        card.innerHTML = `<span>${String(index + 1).padStart(2, "0")}</span><strong>${escapeHtml(modelName(model))}</strong>`;
+        cards.appendChild(card);
+      });
+    }
+    section.hidden = false;
+  }
+
+  renderDailyBatch();
 
   function renderList(query) {
     if (!list) return;
@@ -300,6 +352,47 @@
       secondary.alt = `${name} 细节预览`;
       protectModelImage(secondary);
       secondaryWrap.hidden = false;
+    }
+  }
+
+  const batchRoot = document.getElementById("batch-detail");
+  if (batchRoot) {
+    const id = new URLSearchParams(window.location.search).get("id");
+    const batch = id ? publicBatches.find((item) => item.id === id) : publicBatches[0];
+    if (!batch || !Array.isArray(batch.modelIds) || batch.modelIds.length !== 6) {
+      document.title = "合集暂不可用｜OUART MODEL";
+      batchRoot.innerHTML = '<section class="unavailable-model" role="status"><h1>合集暂不可用</h1><a class="primary-button" href="./index.html">返回首页</a></section>';
+    } else {
+      document.title = `${batch.title}｜OUART MODEL`;
+      document.getElementById("batch-title").textContent = batch.title;
+      document.getElementById("batch-description").textContent = batch.description || "";
+      const collage = document.getElementById("batch-collage");
+      collage.src = batch.collage;
+      collage.alt = batch.collageAlt || `${batch.title} 六件模型拼图`;
+      protectModelImage(collage);
+      const actions = document.getElementById("batch-actions");
+      if (actions && batch.downloadUrl) {
+        const download = document.createElement("a");
+        download.className = "primary-button";
+        download.href = batch.downloadUrl;
+        download.target = "_blank";
+        download.rel = "noopener noreferrer";
+        download.textContent = "打开六件合集";
+        const code = document.createElement("span");
+        code.className = "batch-share-code";
+        code.textContent = batch.shareCode ? `提取码 ${batch.shareCode}` : "";
+        actions.replaceChildren(download, code);
+      }
+      const root = document.getElementById("batch-models");
+      batch.modelIds.map((modelId) => publicModels.find((model) => model.id === modelId)).filter(Boolean).forEach((model, index) => {
+        const section = document.createElement("article");
+        section.className = "batch-model-section";
+        section.id = `model-${model.id}`;
+        section.innerHTML = `
+          <a class="batch-model-image" href="${modelUrl(model)}"><img src="${escapeHtml(model.image)}" alt="${escapeHtml(model.alt || `${modelName(model)} 模型预览`)}" loading="${index < 2 ? "eager" : "lazy"}" data-no-visual-search="true" draggable="false" disablepictureinpicture /></a>
+          <div><p class="batch-number">${String(index + 1).padStart(2, "0")} / 06</p><h2>${escapeHtml(modelName(model))}</h2><p>${escapeHtml(model.description || "")}</p><a class="primary-button" href="${modelUrl(model)}">查看详情</a></div>`;
+        root.appendChild(section);
+      });
     }
   }
 

@@ -108,6 +108,381 @@ window.OUART_MODELS = [
     ]
   },
   {
+    "id": "astro-bot-hero-pose",
+    "name": "宇宙机器人英雄姿态",
+    "date": "2026-07-25",
+    "displayDate": "2026.07.25",
+    "format": "STL",
+    "fileCount": 23,
+    "size": "602.04 MB",
+    "usage": "个人学习、打印、组装与涂装参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/astro-bot-hero-pose/ai-fallback-primary.png",
+    "description": "圆润机器人以英雄姿态呈现，结构清晰，适合亮面材质与桌面收藏。",
+    "intro": "本次六件模型批次中的独立模型。正式文件夹严格包含模型 ZIP、主图 PNG 和社群说明 TXT；主图类型：AI生成主图（来源渲染暂不可用）。",
+    "downloadUrl": "https://pan.baidu.com/s/1ScEmRAtc7C6bKGmXj4iFnw",
+    "shareCode": "67b3",
+    "published": true,
+    "schemaVersion": 5,
+    "batchId": "ouart-daily-six-20260725",
+    "nameZh": "宇宙机器人英雄姿态",
+    "nameEn": "Astro Bot — Hero Pose",
+    "displayName": "宇宙机器人英雄姿态｜Astro Bot — Hero Pose",
+    "mainImageRole": "ai_fallback_labeled",
+    "alt": "宇宙机器人英雄姿态完整模型 AI 生成主图",
+    "author": "来源包未明确标注作者",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源包未明确标注作者",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页面不主张获得作者、工作室或角色权利方官方授权；许可与后续使用范围请以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI生成主图（来源渲染暂不可用）；该图不作为来源实拍或网格证据。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与内容",
+        "paragraphs": [
+          "圆润机器人以英雄姿态呈现，结构清晰，适合亮面材质与桌面收藏。",
+          "本模型归入“机器人/角色”类别，与同日其他五件形成角色、机器人、节日装饰与历史载具的组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "文件与制作",
+        "paragraphs": [
+          "正式模型包记录 23 个 STL。下载后请逐件检查单位、尺寸、法线、支撑、排液和切片层预览。",
+          "打印参数、树脂或耗材、缩放比例和装配方式会改变结果；请先试打关键接口与薄件。"
+        ]
+      },
+      {
+        "id": "source",
+        "title": "主图与来源说明",
+        "paragraphs": [
+          "主图标注：AI生成主图（来源渲染暂不可用）。来源文件未提供可用渲染图，因此按本批次规则使用明确标注的 AI 生成主图；它只承担内容展示，不替代来源或 STL 审计。",
+          "作者/来源记录：来源包未明确标注作者。"
+        ]
+      },
+      {
+        "id": "risk",
+        "title": "使用与许可",
+        "paragraphs": [
+          "资源用于个人学习、切片、打印、装配和涂装参考；公开页面不展示内部审计、远端库存或交易控制字段。",
+          "角色、商标、模型与图像相关权利归各自权利人所有；许可与后续使用范围请以原始发布者说明为准。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/astro-bot-hero-pose/ai-fallback-primary.png",
+        "alt": "宇宙机器人英雄姿态完整模型主图",
+        "label": "AI生成主图（来源渲染暂不可用）"
+      }
+    ]
+  },
+  {
+    "id": "christmas-miniature-scene",
+    "name": "贝拉铃铛圣诞雕像",
+    "date": "2026-07-25",
+    "displayDate": "2026.07.25",
+    "format": "STL",
+    "fileCount": 46,
+    "size": "1061.45 MB",
+    "usage": "个人学习、打印、组装与涂装参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/christmas-miniature-scene/ai-fallback-primary.png",
+    "description": "人物、铃铛、蝴蝶结、糖杖、礼物、姜饼与烟囱地台组成完整节日收藏雕像。",
+    "intro": "本次六件模型批次中的独立模型。正式文件夹严格包含模型 ZIP、主图 PNG 和社群说明 TXT；主图类型：AI生成主图（来源渲染暂不可用）。",
+    "downloadUrl": "https://pan.baidu.com/s/1-mr0N8BZw33rI9rMXlOFug",
+    "shareCode": "ca2a",
+    "published": true,
+    "schemaVersion": 5,
+    "batchId": "ouart-daily-six-20260725",
+    "nameZh": "贝拉铃铛圣诞雕像",
+    "nameEn": "Bella Bells — Christmas Figure",
+    "displayName": "贝拉铃铛圣诞雕像｜Bella Bells — Christmas Figure",
+    "mainImageRole": "ai_fallback_labeled",
+    "alt": "贝拉铃铛圣诞雕像完整模型 AI 生成主图",
+    "author": "来源包文件名标注 Bella Bells；具体作者未明确",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源包文件名标注 Bella Bells；具体作者未明确",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页面不主张获得作者、工作室或角色权利方官方授权；许可与后续使用范围请以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI生成主图（来源渲染暂不可用）；该图不作为来源实拍或网格证据。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与内容",
+        "paragraphs": [
+          "人物、铃铛、蝴蝶结、糖杖、礼物、姜饼与烟囱地台组成完整节日收藏雕像。",
+          "本模型归入“节日角色/装饰”类别，与同日其他五件形成角色、机器人、节日装饰与历史载具的组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "文件与制作",
+        "paragraphs": [
+          "正式模型包记录 46 个 STL。下载后请逐件检查单位、尺寸、法线、支撑、排液和切片层预览。",
+          "打印参数、树脂或耗材、缩放比例和装配方式会改变结果；请先试打关键接口与薄件。"
+        ]
+      },
+      {
+        "id": "source",
+        "title": "主图与来源说明",
+        "paragraphs": [
+          "主图标注：AI生成主图（来源渲染暂不可用）。来源文件未提供可用渲染图，因此按本批次规则使用明确标注的 AI 生成主图；它只承担内容展示，不替代来源或 STL 审计。",
+          "作者/来源记录：来源包文件名标注 Bella Bells；具体作者未明确。"
+        ]
+      },
+      {
+        "id": "risk",
+        "title": "使用与许可",
+        "paragraphs": [
+          "资源用于个人学习、切片、打印、装配和涂装参考；公开页面不展示内部审计、远端库存或交易控制字段。",
+          "角色、商标、模型与图像相关权利归各自权利人所有；许可与后续使用范围请以原始发布者说明为准。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/christmas-miniature-scene/ai-fallback-primary.png",
+        "alt": "贝拉铃铛圣诞雕像完整模型主图",
+        "label": "AI生成主图（来源渲染暂不可用）"
+      }
+    ]
+  },
+  {
+    "id": "sonic-speed-pose",
+    "name": "索尼克极速姿态",
+    "date": "2026-07-25",
+    "displayDate": "2026.07.25",
+    "format": "STL",
+    "fileCount": 6,
+    "size": "280.87 MB",
+    "usage": "个人学习、打印、组装与涂装参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/sonic-speed-pose/source-primary.png",
+    "description": "高速姿态与夸张鞋手比例形成清晰动势，适合高饱和分色与动感地台。",
+    "intro": "本次六件模型批次中的独立模型。正式文件夹严格包含模型 ZIP、主图 PNG 和社群说明 TXT；主图类型：来源图。",
+    "downloadUrl": "https://pan.baidu.com/s/1VIi7SbY67mCIFhiKufm7hg",
+    "shareCode": "59ce",
+    "published": true,
+    "schemaVersion": 5,
+    "batchId": "ouart-daily-six-20260725",
+    "nameZh": "索尼克极速姿态",
+    "nameEn": "Sonic — Speed Pose",
+    "displayName": "索尼克极速姿态｜Sonic — Speed Pose",
+    "mainImageRole": "source_original",
+    "alt": "索尼克极速姿态完整模型来源图",
+    "author": "来源包未明确标注作者",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源包未明确标注作者",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页面不主张获得作者、工作室或角色权利方官方授权；许可与后续使用范围请以原始发布者说明为准。"
+    },
+    "imageDisclosure": "来源图；已通过同模型身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与内容",
+        "paragraphs": [
+          "高速姿态与夸张鞋手比例形成清晰动势，适合高饱和分色与动感地台。",
+          "本模型归入“角色/雕塑”类别，与同日其他五件形成角色、机器人、节日装饰与历史载具的组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "文件与制作",
+        "paragraphs": [
+          "正式模型包记录 6 个 STL。下载后请逐件检查单位、尺寸、法线、支撑、排液和切片层预览。",
+          "打印参数、树脂或耗材、缩放比例和装配方式会改变结果；请先试打关键接口与薄件。"
+        ]
+      },
+      {
+        "id": "source",
+        "title": "主图与来源说明",
+        "paragraphs": [
+          "主图标注：来源图。该图来自同一来源文件夹并已通过同模型身份检查；保留原作者或工作室标记。",
+          "作者/来源记录：来源包未明确标注作者。"
+        ]
+      },
+      {
+        "id": "risk",
+        "title": "使用与许可",
+        "paragraphs": [
+          "资源用于个人学习、切片、打印、装配和涂装参考；公开页面不展示内部审计、远端库存或交易控制字段。",
+          "角色、商标、模型与图像相关权利归各自权利人所有；许可与后续使用范围请以原始发布者说明为准。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/sonic-speed-pose/source-primary.png",
+        "alt": "索尼克极速姿态完整模型主图",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "panzer-iii-g",
+    "name": "三号坦克 G 型",
+    "date": "2026-07-25",
+    "displayDate": "2026.07.25",
+    "format": "STL",
+    "fileCount": 28,
+    "size": "241.87 MB",
+    "usage": "个人学习、打印、组装与涂装参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/panzer-iii-g/source-primary.png",
+    "description": "多分件履带、炮塔与车体细节组成完整历史载具模型，适合结构展示与旧化练习。",
+    "intro": "本次六件模型批次中的独立模型。正式文件夹严格包含模型 ZIP、主图 PNG 和社群说明 TXT；主图类型：来源图。",
+    "downloadUrl": "https://pan.baidu.com/s/1iKKvJ3STP1GSex0o7tFwRw",
+    "shareCode": "42d6",
+    "published": true,
+    "schemaVersion": 5,
+    "batchId": "ouart-daily-six-20260725",
+    "nameZh": "三号坦克 G 型",
+    "nameEn": "Panzer III Ausf. G",
+    "displayName": "三号坦克 G 型｜Panzer III Ausf. G",
+    "mainImageRole": "source_original",
+    "alt": "三号坦克 G 型完整模型来源图",
+    "author": "来源包未明确标注作者",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源包未明确标注作者",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页面不主张获得作者、工作室或角色权利方官方授权；许可与后续使用范围请以原始发布者说明为准。"
+    },
+    "imageDisclosure": "来源图；已通过同模型身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与内容",
+        "paragraphs": [
+          "多分件履带、炮塔与车体细节组成完整历史载具模型，适合结构展示与旧化练习。",
+          "本模型归入“载具/历史模型”类别，与同日其他五件形成角色、机器人、节日装饰与历史载具的组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "文件与制作",
+        "paragraphs": [
+          "正式模型包记录 28 个 STL。下载后请逐件检查单位、尺寸、法线、支撑、排液和切片层预览。",
+          "打印参数、树脂或耗材、缩放比例和装配方式会改变结果；请先试打关键接口与薄件。"
+        ]
+      },
+      {
+        "id": "source",
+        "title": "主图与来源说明",
+        "paragraphs": [
+          "主图标注：来源图。该图来自同一来源文件夹并已通过同模型身份检查；保留原作者或工作室标记。",
+          "作者/来源记录：来源包未明确标注作者。"
+        ]
+      },
+      {
+        "id": "risk",
+        "title": "使用与许可",
+        "paragraphs": [
+          "资源用于个人学习、切片、打印、装配和涂装参考；公开页面不展示内部审计、远端库存或交易控制字段。",
+          "角色、商标、模型与图像相关权利归各自权利人所有；许可与后续使用范围请以原始发布者说明为准。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/panzer-iii-g/source-primary.png",
+        "alt": "三号坦克 G 型完整模型主图",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "marder-iii-ausf-h",
+    "name": "马德三世 H 型",
+    "date": "2026-07-25",
+    "displayDate": "2026.07.25",
+    "format": "STL",
+    "fileCount": 12,
+    "size": "1023.28 MB",
+    "usage": "个人学习、打印、组装与涂装参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/marder-iii-ausf-h/source-primary.png",
+    "description": "开放式战斗舱、分件履带与车体结构适合机械细节观察、组装与旧化练习。",
+    "intro": "本次六件模型批次中的独立模型。正式文件夹严格包含模型 ZIP、主图 PNG 和社群说明 TXT；主图类型：来源图。",
+    "downloadUrl": "https://pan.baidu.com/s/1vL7XdqOEdbEd3-Du09-r2Q",
+    "shareCode": "0139",
+    "published": true,
+    "schemaVersion": 5,
+    "batchId": "ouart-daily-six-20260725",
+    "nameZh": "马德三世 H 型",
+    "nameEn": "Marder III Ausf. H",
+    "displayName": "马德三世 H 型｜Marder III Ausf. H",
+    "mainImageRole": "source_original",
+    "alt": "马德三世 H 型完整模型来源图",
+    "author": "来源包未明确标注作者",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源包未明确标注作者",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页面不主张获得作者、工作室或角色权利方官方授权；许可与后续使用范围请以原始发布者说明为准。"
+    },
+    "imageDisclosure": "来源图；已通过同模型身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与内容",
+        "paragraphs": [
+          "开放式战斗舱、分件履带与车体结构适合机械细节观察、组装与旧化练习。",
+          "本模型归入“载具/历史模型”类别，与同日其他五件形成角色、机器人、节日装饰与历史载具的组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "文件与制作",
+        "paragraphs": [
+          "正式模型包记录 12 个 STL。下载后请逐件检查单位、尺寸、法线、支撑、排液和切片层预览。",
+          "打印参数、树脂或耗材、缩放比例和装配方式会改变结果；请先试打关键接口与薄件。"
+        ]
+      },
+      {
+        "id": "source",
+        "title": "主图与来源说明",
+        "paragraphs": [
+          "主图标注：来源图。该图来自同一来源文件夹并已通过同模型身份检查；保留原作者或工作室标记。",
+          "作者/来源记录：来源包未明确标注作者。"
+        ]
+      },
+      {
+        "id": "risk",
+        "title": "使用与许可",
+        "paragraphs": [
+          "资源用于个人学习、切片、打印、装配和涂装参考；公开页面不展示内部审计、远端库存或交易控制字段。",
+          "角色、商标、模型与图像相关权利归各自权利人所有；许可与后续使用范围请以原始发布者说明为准。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/marder-iii-ausf-h/source-primary.png",
+        "alt": "马德三世 H 型完整模型主图",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
     "id": "enel-one-piece",
     "name": "艾尼路",
     "date": "2026-07-24",

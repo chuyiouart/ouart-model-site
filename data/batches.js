@@ -1,5 +1,28 @@
 window.OUART_BATCHES = [
   {
+    "schemaVersion": 2,
+    "id": "ouart-daily-six-20260726",
+    "date": "2026-07-26",
+    "displayDate": "2026.07.26",
+    "title": "2026.07.26｜OUART 今日六件",
+    "description": "机械幻想、机器人角色、功能灯具、动物雕塑、建筑浮雕与分层造型，一次浏览六种制作方向。",
+    "published": true,
+    "collage": "./assets/batches/2026-07-26/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026年7月26日六模型静态拼图",
+    "modelIds": [
+      "mechamon-charizard",
+      "bmo-console-robot",
+      "origami-table-lamp",
+      "sleeping-cat-sculpture",
+      "great-wall-relief",
+      "porsche-911-layered"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1XDH2-4x2TU_iG3D59ZLy0g",
+    "shareCode": "2518",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-07-26T12:53:19+08:00"
+  },
+  {
     "schemaVersion": 1,
     "id": "ouart-daily-six-20260725",
     "date": "2026-07-25",

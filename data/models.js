@@ -1,5 +1,467 @@
 window.OUART_MODELS = [
   {
+    "id": "mechamon-charizard",
+    "name": "机械喷火龙",
+    "date": "2026-07-26",
+    "displayDate": "2026.07.26",
+    "format": "STL",
+    "fileCount": 21,
+    "size": "557.41 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可以原始发布者说明为准",
+    "image": "./assets/models/mechamon-charizard/mechamon-charizard-主图@初艺ouart.png",
+    "description": "龙形轮廓与机械装甲分件结合，适合金属分色、发光细节和科幻展示。",
+    "intro": "2026.07.26 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1VD90NoRhEBpgzzcD4XyUOw",
+    "shareCode": "fa38",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260726",
+    "nameZh": "机械喷火龙",
+    "nameEn": "Mechamon — Mechanical Charizard",
+    "displayName": "机械喷火龙｜Mechamon — Mechanical Charizard",
+    "category": "机械/幻想生物",
+    "mainImageRole": "source_original",
+    "alt": "机械喷火龙同模型来源图",
+    "author": "Mechamon（来源目录署名）",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "Mechamon（来源目录署名）",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "龙形轮廓与机械装甲分件结合，适合金属分色、发光细节和科幻展示。",
+          "该模型与同批其他类别形成角色、幻想生物、机械载具、功能场景与动物雕塑的多样组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 21 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，三种方案分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/mechamon-charizard/mechamon-charizard-主图@初艺ouart.png",
+        "alt": "机械喷火龙主图",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "bmo-console-robot",
+    "name": "BMO 游戏机机器人",
+    "date": "2026-07-26",
+    "displayDate": "2026.07.26",
+    "format": "STL",
+    "fileCount": 6,
+    "size": "93.98 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可以原始发布者说明为准",
+    "image": "./assets/models/bmo-console-robot/bmo-console-robot-主图@初艺ouart.png",
+    "description": "游戏机外形与角色化四肢构成高辨识度机器人，适合屏幕、按键与外壳分色。",
+    "intro": "2026.07.26 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1EhMOBZRPDEXHdnXtgkM5FQ",
+    "shareCode": "d0d0",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260726",
+    "nameZh": "BMO 游戏机机器人",
+    "nameEn": "BMO — Console Robot",
+    "displayName": "BMO 游戏机机器人｜BMO — Console Robot",
+    "category": "机器人/角色",
+    "mainImageRole": "source_original",
+    "alt": "BMO 游戏机机器人同模型来源图",
+    "author": "来源包未明确标注作者",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源包未明确标注作者",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "游戏机外形与角色化四肢构成高辨识度机器人，适合屏幕、按键与外壳分色。",
+          "该模型与同批其他类别形成角色、幻想生物、机械载具、功能场景与动物雕塑的多样组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 6 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，三种方案分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/bmo-console-robot/bmo-console-robot-主图@初艺ouart.png",
+        "alt": "BMO 游戏机机器人主图",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "origami-table-lamp",
+    "name": "折纸桌灯",
+    "date": "2026-07-26",
+    "displayDate": "2026.07.26",
+    "format": "STL",
+    "fileCount": 6,
+    "size": "46.59 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可以原始发布者说明为准",
+    "image": "./assets/models/origami-table-lamp/origami-table-lamp-主图@初艺ouart.png",
+    "description": "折纸几何灯罩与桌灯结构结合，适合半透明材料、暖光测试和功能原型。",
+    "intro": "2026.07.26 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1Z2z-vadtT5a1kWQ6wplF4Q",
+    "shareCode": "1b0b",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260726",
+    "nameZh": "折纸桌灯",
+    "nameEn": "Origami Table Lamp",
+    "displayName": "折纸桌灯｜Origami Table Lamp",
+    "category": "功能/FDM/灯具",
+    "mainImageRole": "source_original",
+    "alt": "折纸桌灯同模型来源图",
+    "author": "来源包未明确标注作者",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源包未明确标注作者",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "折纸几何灯罩与桌灯结构结合，适合半透明材料、暖光测试和功能原型。",
+          "该模型与同批其他类别形成角色、幻想生物、机械载具、功能场景与动物雕塑的多样组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 6 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，三种方案分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/origami-table-lamp/origami-table-lamp-主图@初艺ouart.png",
+        "alt": "折纸桌灯主图",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "sleeping-cat-sculpture",
+    "name": "熟睡猫咪雕塑",
+    "date": "2026-07-26",
+    "displayDate": "2026.07.26",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "37.99 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可以原始发布者说明为准",
+    "image": "./assets/models/sleeping-cat-sculpture/sleeping-cat-sculpture-主图@初艺ouart.png",
+    "description": "蜷卧猫咪以柔和体块呈现安静姿态，适合毛发层次、单色材质和桌面摆件。",
+    "intro": "2026.07.26 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1FVyHO-KC5FbsR3HQcOeE4g",
+    "shareCode": "c707",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260726",
+    "nameZh": "熟睡猫咪雕塑",
+    "nameEn": "Sleeping Cat Sculpture",
+    "displayName": "熟睡猫咪雕塑｜Sleeping Cat Sculpture",
+    "category": "动物/雕塑",
+    "mainImageRole": "source_original",
+    "alt": "熟睡猫咪雕塑同模型来源图",
+    "author": "来源包未明确标注作者",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源包未明确标注作者",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "蜷卧猫咪以柔和体块呈现安静姿态，适合毛发层次、单色材质和桌面摆件。",
+          "该模型与同批其他类别形成角色、幻想生物、机械载具、功能场景与动物雕塑的多样组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，三种方案分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/sleeping-cat-sculpture/sleeping-cat-sculpture-主图@初艺ouart.png",
+        "alt": "熟睡猫咪雕塑主图",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "great-wall-relief",
+    "name": "长城浮雕",
+    "date": "2026-07-26",
+    "displayDate": "2026.07.26",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "35.05 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可以原始发布者说明为准",
+    "image": "./assets/models/great-wall-relief/great-wall-relief-主图@初艺ouart.png",
+    "description": "长城城墙与山势以浅浮雕方式组织，适合墙面装饰、层次着色和文化场景展示。",
+    "intro": "2026.07.26 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1dikKbHMSR0mSPxVPT2zkKA",
+    "shareCode": "7fb6",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260726",
+    "nameZh": "长城浮雕",
+    "nameEn": "Great Wall Relief",
+    "displayName": "长城浮雕｜Great Wall Relief",
+    "category": "建筑/浮雕/场景",
+    "mainImageRole": "visual_illustration",
+    "alt": "长城浮雕模型视觉示意",
+    "author": "来源包未明确标注作者",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源包未明确标注作者",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "模型视觉示意，不作为原作者渲染或几何证据。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "长城城墙与山势以浅浮雕方式组织，适合墙面装饰、层次着色和文化场景展示。",
+          "该模型与同批其他类别形成角色、幻想生物、机械载具、功能场景与动物雕塑的多样组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，三种方案分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/great-wall-relief/great-wall-relief-主图@初艺ouart.png",
+        "alt": "长城浮雕主图",
+        "label": "模型视觉示意"
+      }
+    ]
+  },
+  {
+    "id": "porsche-911-layered",
+    "name": "保时捷 911 分层模型",
+    "date": "2026-07-26",
+    "displayDate": "2026.07.26",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "4.47 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可以原始发布者说明为准",
+    "image": "./assets/models/porsche-911-layered/porsche-911-layered-主图@初艺ouart.png",
+    "description": "经典跑车侧影以分层结构组织，适合多色叠层、墙面装饰和车辆轮廓研究。",
+    "intro": "2026.07.26 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1iaGCAGet_0fTcLAra1jlCg",
+    "shareCode": "7dc4",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260726",
+    "nameZh": "保时捷 911 分层模型",
+    "nameEn": "Porsche 911 — Layered Model",
+    "displayName": "保时捷 911 分层模型｜Porsche 911 — Layered Model",
+    "category": "机械/载具/浮雕",
+    "mainImageRole": "visual_illustration",
+    "alt": "保时捷 911 分层模型模型视觉示意",
+    "author": "来源包未明确标注作者",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源包未明确标注作者",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "模型视觉示意，不作为原作者渲染或几何证据。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "经典跑车侧影以分层结构组织，适合多色叠层、墙面装饰和车辆轮廓研究。",
+          "该模型与同批其他类别形成角色、幻想生物、机械载具、功能场景与动物雕塑的多样组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，三种方案分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/porsche-911-layered/porsche-911-layered-主图@初艺ouart.png",
+        "alt": "保时捷 911 分层模型主图",
+        "label": "模型视觉示意"
+      }
+    ]
+  },
+  {
     "id": "chun-li-campus-ca3d",
     "name": "春丽校园造型",
     "date": "2026-07-25",

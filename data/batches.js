@@ -1,6 +1,29 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20260727",
+    "date": "2026-07-27",
+    "displayDate": "2026.07.27",
+    "title": "2026.07.27｜OUART 今日六件",
+    "description": "对战场景、角色雕像、重型机甲与暗黑奇幻叙事套组，一次浏览六种可打印主题。",
+    "published": true,
+    "collage": "./assets/batches/2026-07-27/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026年7月27日六模型静态拼图",
+    "modelIds": [
+      "ichigo-vs-ulquiorra",
+      "ellie-gambody-figure",
+      "king-crab-mwo-mech",
+      "titanfall-ogre-mech",
+      "grendels-mother-portrait",
+      "spectral-rider-and-horse"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1WXx5-rmgPWDCuR5boRi6vA",
+    "shareCode": "f92c",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-07-27T17:52:07+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20260726",
     "date": "2026-07-26",
     "displayDate": "2026.07.26",

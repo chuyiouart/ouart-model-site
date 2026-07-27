@@ -1,5 +1,567 @@
 window.OUART_MODELS = [
   {
+    "id": "ichigo-vs-ulquiorra",
+    "name": "黑崎一护 VS 乌尔奇奥拉",
+    "date": "2026-07-27",
+    "displayDate": "2026.07.27",
+    "format": "STL",
+    "fileCount": 37,
+    "size": "746.30 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可以原始发布者说明为准",
+    "image": "./assets/models/ichigo-vs-ulquiorra/ichigo-vs-ulquiorra-主图@初艺ouart.png",
+    "description": "双角色对战姿态、武器与地台构成完整战斗叙事，适合能量色、冷暖对比与层次旧化。",
+    "intro": "2026.07.27 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1ELUeWFcEKXhrZhLZo04JdA",
+    "shareCode": "3f52",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260727",
+    "nameZh": "黑崎一护 VS 乌尔奇奥拉",
+    "nameEn": "Ichigo vs Ulquiorra — Kaidan",
+    "displayName": "黑崎一护 VS 乌尔奇奥拉｜Ichigo vs Ulquiorra — Kaidan",
+    "category": "叙事/对战场景",
+    "mainImageRole": "source_original",
+    "alt": "黑崎一护 VS 乌尔奇奥拉同模型来源图",
+    "author": "Kaidan（来源目录署名）",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "Kaidan（来源目录署名）",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "双角色对战姿态、武器与地台构成完整战斗叙事，适合能量色、冷暖对比与层次旧化。",
+          "该模型与同批的对战场景、角色雕像、重型机甲及暗黑奇幻套组形成多样组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 37 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，三种方案分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/ichigo-vs-ulquiorra/gallery-01.jpg",
+        "alt": "黑崎一护 VS 乌尔奇奥拉来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "ellie-gambody-figure",
+    "name": "艾莉收藏雕像",
+    "date": "2026-07-27",
+    "displayDate": "2026.07.27",
+    "format": "STL",
+    "fileCount": 28,
+    "size": "361.67 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可以原始发布者说明为准",
+    "image": "./assets/models/ellie-gambody-figure/ellie-gambody-figure-主图@初艺ouart.png",
+    "description": "写实人物姿态与装备细节形成清晰生存叙事，适合织物、皮革、金属与旧化分层。",
+    "intro": "2026.07.27 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1-X_7D1-BkgHdtPeFKNGU_A",
+    "shareCode": "ad1d",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260727",
+    "nameZh": "艾莉收藏雕像",
+    "nameEn": "Ellie — Gambody Figure",
+    "displayName": "艾莉收藏雕像｜Ellie — Gambody Figure",
+    "category": "角色/雕塑",
+    "mainImageRole": "source_original",
+    "alt": "艾莉收藏雕像同模型来源图",
+    "author": "Gambody（来源目录署名）",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "Gambody（来源目录署名）",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "写实人物姿态与装备细节形成清晰生存叙事，适合织物、皮革、金属与旧化分层。",
+          "该模型与同批的对战场景、角色雕像、重型机甲及暗黑奇幻套组形成多样组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 28 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，三种方案分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/ellie-gambody-figure/gallery-01.png",
+        "alt": "艾莉收藏雕像来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/ellie-gambody-figure/gallery-02.webp",
+        "alt": "艾莉收藏雕像来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/ellie-gambody-figure/gallery-03.webp",
+        "alt": "艾莉收藏雕像来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/ellie-gambody-figure/gallery-04.webp",
+        "alt": "艾莉收藏雕像来源图 4",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/ellie-gambody-figure/gallery-05.webp",
+        "alt": "艾莉收藏雕像来源图 5",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/ellie-gambody-figure/gallery-06.png",
+        "alt": "艾莉收藏雕像来源图 6",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "king-crab-mwo-mech",
+    "name": "帝王蟹重型机甲",
+    "date": "2026-07-27",
+    "displayDate": "2026.07.27",
+    "format": "STL",
+    "fileCount": 63,
+    "size": "333.90 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可以原始发布者说明为准",
+    "image": "./assets/models/king-crab-mwo-mech/king-crab-mwo-mech-主图@初艺ouart.png",
+    "description": "重型机甲以宽体装甲、机械足与武器舱建立强烈轮廓，适合金属分色、战损与灯光细节。",
+    "intro": "2026.07.27 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1yX0LHbqGCmhn2NP71CQf-A",
+    "shareCode": "84fe",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260727",
+    "nameZh": "帝王蟹重型机甲",
+    "nameEn": "King Crab — MWO Mech",
+    "displayName": "帝王蟹重型机甲｜King Crab — MWO Mech",
+    "category": "机械/机器人",
+    "mainImageRole": "source_original",
+    "alt": "帝王蟹重型机甲同模型来源图",
+    "author": "来源目录标注 King Crab MWO；具体作者未明确",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源目录标注 King Crab MWO；具体作者未明确",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "重型机甲以宽体装甲、机械足与武器舱建立强烈轮廓，适合金属分色、战损与灯光细节。",
+          "该模型与同批的对战场景、角色雕像、重型机甲及暗黑奇幻套组形成多样组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 63 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，三种方案分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/king-crab-mwo-mech/gallery-01.jpg",
+        "alt": "帝王蟹重型机甲来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "titanfall-ogre-mech",
+    "name": "泰坦陨落 Ogre 机甲",
+    "date": "2026-07-27",
+    "displayDate": "2026.07.27",
+    "format": "STL",
+    "fileCount": 54,
+    "size": "1350.24 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可以原始发布者说明为准",
+    "image": "./assets/models/titanfall-ogre-mech/titanfall-ogre-mech-主图@初艺ouart.png",
+    "description": "厚重装甲、关节结构与驾驶舱语言组成工业机甲，适合军用涂装、警示标识与旧化展示。",
+    "intro": "2026.07.27 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1JSG2bRLSGM_FmmXx45l3sg",
+    "shareCode": "a70d",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260727",
+    "nameZh": "泰坦陨落 Ogre 机甲",
+    "nameEn": "Titanfall — Ogre Mech",
+    "displayName": "泰坦陨落 Ogre 机甲｜Titanfall — Ogre Mech",
+    "category": "机器人/机甲",
+    "mainImageRole": "source_original",
+    "alt": "泰坦陨落 Ogre 机甲同模型来源图",
+    "author": "来源目录标注 Titanfall Ogre；具体作者未明确",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源目录标注 Titanfall Ogre；具体作者未明确",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "厚重装甲、关节结构与驾驶舱语言组成工业机甲，适合军用涂装、警示标识与旧化展示。",
+          "该模型与同批的对战场景、角色雕像、重型机甲及暗黑奇幻套组形成多样组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 54 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，三种方案分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/titanfall-ogre-mech/gallery-01.jpg",
+        "alt": "泰坦陨落 Ogre 机甲来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/titanfall-ogre-mech/gallery-02.jpg",
+        "alt": "泰坦陨落 Ogre 机甲来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/titanfall-ogre-mech/gallery-03.jpg",
+        "alt": "泰坦陨落 Ogre 机甲来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/titanfall-ogre-mech/gallery-04.jpg",
+        "alt": "泰坦陨落 Ogre 机甲来源图 4",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/titanfall-ogre-mech/gallery-05.jpg",
+        "alt": "泰坦陨落 Ogre 机甲来源图 5",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/titanfall-ogre-mech/gallery-06.jpg",
+        "alt": "泰坦陨落 Ogre 机甲来源图 6",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/titanfall-ogre-mech/gallery-07.jpg",
+        "alt": "泰坦陨落 Ogre 机甲来源图 7",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "grendels-mother-portrait",
+    "name": "格伦德尔之母雕像",
+    "date": "2026-07-27",
+    "displayDate": "2026.07.27",
+    "format": "STL",
+    "fileCount": 13,
+    "size": "1124.18 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可以原始发布者说明为准",
+    "image": "./assets/models/grendels-mother-portrait/grendels-mother-portrait-主图@初艺ouart.png",
+    "description": "格伦德尔之母、龙形基座与环绕饰件构成完整叙事雕像，适合金属肤色、鳞片与暗黑奇幻层次。",
+    "intro": "2026.07.27 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1fjw-10c407izEYA7b7UGAA",
+    "shareCode": "0f34",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260727",
+    "nameZh": "格伦德尔之母雕像",
+    "nameEn": "Grendel’s Mother — Beowulf Diorama",
+    "displayName": "格伦德尔之母雕像｜Grendel’s Mother — Beowulf Diorama",
+    "category": "角色/雕塑",
+    "mainImageRole": "source_original",
+    "alt": "格伦德尔之母雕像同模型来源图",
+    "author": "来源目录标注 Angelina Jolie / Beowulf；具体雕刻作者未明确",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源目录标注 Angelina Jolie / Beowulf；具体雕刻作者未明确",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "格伦德尔之母、龙形基座与环绕饰件构成完整叙事雕像，适合金属肤色、鳞片与暗黑奇幻层次。",
+          "该模型与同批的对战场景、角色雕像、重型机甲及暗黑奇幻套组形成多样组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 13 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，三种方案分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/grendels-mother-portrait/gallery-01.jpg",
+        "alt": "格伦德尔之母雕像来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/grendels-mother-portrait/gallery-02.jpg",
+        "alt": "格伦德尔之母雕像来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/grendels-mother-portrait/gallery-03.jpg",
+        "alt": "格伦德尔之母雕像来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/grendels-mother-portrait/gallery-04.jpg",
+        "alt": "格伦德尔之母雕像来源图 4",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/grendels-mother-portrait/gallery-05.jpg",
+        "alt": "格伦德尔之母雕像来源图 5",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/grendels-mother-portrait/gallery-06.jpg",
+        "alt": "格伦德尔之母雕像来源图 6",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/grendels-mother-portrait/gallery-07.jpg",
+        "alt": "格伦德尔之母雕像来源图 7",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/grendels-mother-portrait/gallery-08.jpg",
+        "alt": "格伦德尔之母雕像来源图 8",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "spectral-rider-and-horse",
+    "name": "幽灵荒原角色套组",
+    "date": "2026-07-27",
+    "displayDate": "2026.07.27",
+    "format": "STL",
+    "fileCount": 27,
+    "size": "716.55 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可以原始发布者说明为准",
+    "image": "./assets/models/spectral-rider-and-horse/spectral-rider-and-horse-主图@初艺ouart.png",
+    "description": "Bolburra、Collector 与 Crew 三组幽灵荒原角色构成完整主题套组，适合骨质、幽灵冷光、皮革与荒原旧化分层。",
+    "intro": "2026.07.27 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1IjideRbC4HOWTiu_Tp9y-g",
+    "shareCode": "23af",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260727",
+    "nameZh": "幽灵荒原角色套组",
+    "nameEn": "Spectral Wasteland Character Set",
+    "displayName": "幽灵荒原角色套组｜Spectral Wasteland Character Set",
+    "category": "生物/叙事场景",
+    "mainImageRole": "source_original",
+    "alt": "幽灵荒原角色套组同模型来源图",
+    "author": "来源包未明确标注作者",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源包未明确标注作者",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "Bolburra、Collector 与 Crew 三组幽灵荒原角色构成完整主题套组，适合骨质、幽灵冷光、皮革与荒原旧化分层。",
+          "该模型与同批的对战场景、角色雕像、重型机甲及暗黑奇幻套组形成多样组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 27 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，三种方案分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/spectral-rider-and-horse/gallery-01.jpg",
+        "alt": "幽灵荒原角色套组来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/spectral-rider-and-horse/gallery-02.jpg",
+        "alt": "幽灵荒原角色套组来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/spectral-rider-and-horse/gallery-03.jpg",
+        "alt": "幽灵荒原角色套组来源图 3",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
     "id": "mechamon-charizard",
     "name": "机械喷火龙",
     "date": "2026-07-26",

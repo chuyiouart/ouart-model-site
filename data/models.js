@@ -1,5 +1,482 @@
 window.OUART_MODELS = [
   {
+    "id": "magnificity-warehouse-set",
+    "name": "Magnificity 仓库场景套组",
+    "date": "2026-07-28",
+    "displayDate": "2026.07.28",
+    "format": "STL",
+    "fileCount": 75,
+    "size": "1063.25 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/magnificity-warehouse-set/magnificity-warehouse-set-主图@初艺ouart.png",
+    "description": "模块化仓库建筑、结构件与场景配件适合构建工业叙事空间，并可延展为桌面陈列或模型摄影背景。",
+    "intro": "2026.07.28 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/19f209jcwGa53QgNhsrP-2Q",
+    "shareCode": "ab3d",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260728",
+    "nameZh": "Magnificity 仓库场景套组",
+    "nameEn": "Magnificity Warehouse Set",
+    "displayName": "Magnificity 仓库场景套组｜Magnificity Warehouse Set",
+    "category": "功能/FDM/场景",
+    "mainImageRole": "source_original",
+    "alt": "Magnificity 仓库场景套组同模型来源图",
+    "author": "来源目录标注 Magnificity；具体作者未明确",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源目录标注 Magnificity；具体作者未明确",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "模块化仓库建筑、结构件与场景配件适合构建工业叙事空间，并可延展为桌面陈列或模型摄影背景。",
+          "该模型归入“功能/FDM/场景”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 75 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/magnificity-warehouse-set/gallery-01.jpg",
+        "alt": "Magnificity 仓库场景套组来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "oliver-spaeth-animal-collection",
+    "name": "Oliver Spaeth 动物雕塑组",
+    "date": "2026-07-28",
+    "displayDate": "2026.07.28",
+    "format": "STL",
+    "fileCount": 89,
+    "size": "1329.25 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/oliver-spaeth-animal-collection/oliver-spaeth-animal-collection-主图@初艺ouart.png",
+    "description": "多种动物轮廓与姿态构成自然主题收藏，适合毛发、皮肤、羽毛和生态环境的差异化上色。",
+    "intro": "2026.07.28 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1SYrTMlMlsjFTRGFKrsshvg",
+    "shareCode": "2d29",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260728",
+    "nameZh": "Oliver Spaeth 动物雕塑组",
+    "nameEn": "Animal Collection — Oliver Spaeth",
+    "displayName": "Oliver Spaeth 动物雕塑组｜Animal Collection — Oliver Spaeth",
+    "category": "生物/动物",
+    "mainImageRole": "source_original",
+    "alt": "Oliver Spaeth 动物雕塑组同模型来源图",
+    "author": "Oliver Spaeth（来源目录署名）",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "Oliver Spaeth（来源目录署名）",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "多种动物轮廓与姿态构成自然主题收藏，适合毛发、皮肤、羽毛和生态环境的差异化上色。",
+          "该模型归入“生物/动物”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 89 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/oliver-spaeth-animal-collection/gallery-01.jpg",
+        "alt": "Oliver Spaeth 动物雕塑组来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "smuggler-truck-vehicle-set",
+    "name": "Smuggler Truck 载具套组",
+    "date": "2026-07-28",
+    "displayDate": "2026.07.28",
+    "format": "STL",
+    "fileCount": 20,
+    "size": "453.74 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/smuggler-truck-vehicle-set/smuggler-truck-vehicle-set-主图@初艺ouart.png",
+    "description": "模块化卡车与运输载具结构兼顾机械层次和场景叙事，适合工业涂装、旧化与货运主题扩展。",
+    "intro": "2026.07.28 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1YKOkyezj6KLAZcTQ1pS0TA",
+    "shareCode": "a912",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260728",
+    "nameZh": "Smuggler Truck 载具套组",
+    "nameEn": "Smuggler Truck Vehicle Set",
+    "displayName": "Smuggler Truck 载具套组｜Smuggler Truck Vehicle Set",
+    "category": "机械/载具",
+    "mainImageRole": "source_original",
+    "alt": "Smuggler Truck 载具套组同模型来源图",
+    "author": "来源目录标注 Smuggler Truck；具体作者未明确",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源目录标注 Smuggler Truck；具体作者未明确",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "模块化卡车与运输载具结构兼顾机械层次和场景叙事，适合工业涂装、旧化与货运主题扩展。",
+          "该模型归入“机械/载具”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 20 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/smuggler-truck-vehicle-set/gallery-01.jpg",
+        "alt": "Smuggler Truck 载具套组来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "hinata-naruto-figure-set",
+    "name": "日向雏田角色雕像组",
+    "date": "2026-07-28",
+    "displayDate": "2026.07.28",
+    "format": "STL",
+    "fileCount": 75,
+    "size": "1036.09 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/hinata-naruto-figure-set/hinata-naruto-figure-set-主图@初艺ouart.png",
+    "description": "角色姿态、服装和发型特征鲜明，可通过肤色、织物、发丝与能量效果建立层次。",
+    "intro": "2026.07.28 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1EobpcDbGZsqu99xR8XO1yQ",
+    "shareCode": "2b76",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260728",
+    "nameZh": "日向雏田角色雕像组",
+    "nameEn": "Hinata — Naruto Figure Set",
+    "displayName": "日向雏田角色雕像组｜Hinata — Naruto Figure Set",
+    "category": "角色/雕塑",
+    "mainImageRole": "source_original",
+    "alt": "日向雏田角色雕像组同模型来源图",
+    "author": "来源目录标注 Naruto / Hinata；具体作者未明确",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源目录标注 Naruto / Hinata；具体作者未明确",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "角色姿态、服装和发型特征鲜明，可通过肤色、织物、发丝与能量效果建立层次。",
+          "该模型归入“角色/雕塑”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 75 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/hinata-naruto-figure-set/gallery-01.jpg",
+        "alt": "日向雏田角色雕像组来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "windmill-architecture-model",
+    "name": "风车建筑模型",
+    "date": "2026-07-28",
+    "displayDate": "2026.07.28",
+    "format": "STL",
+    "fileCount": 28,
+    "size": "641.81 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/windmill-architecture-model/windmill-architecture-model-主图@初艺ouart.png",
+    "description": "风车主体、叶片与建筑细节形成完整地标式造型，适合木材、石材与自然旧化表现。",
+    "intro": "2026.07.28 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/182YpAPO3hFNfoBTOCdH5Ow",
+    "shareCode": "3f1f",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260728",
+    "nameZh": "风车建筑模型",
+    "nameEn": "WindMill Architecture Model",
+    "displayName": "风车建筑模型｜WindMill Architecture Model",
+    "category": "家居/建筑/装饰",
+    "mainImageRole": "source_original",
+    "alt": "风车建筑模型同模型来源图",
+    "author": "来源目录标注 WindMill；具体作者未明确",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源目录标注 WindMill；具体作者未明确",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "风车主体、叶片与建筑细节形成完整地标式造型，适合木材、石材与自然旧化表现。",
+          "该模型归入“家居/建筑/装饰”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 28 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/windmill-architecture-model/gallery-01.png",
+        "alt": "风车建筑模型来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "samus-aran-p2-figure",
+    "name": "萨姆斯·阿兰 P2 雕像",
+    "date": "2026-07-28",
+    "displayDate": "2026.07.28",
+    "format": "STL",
+    "fileCount": 27,
+    "size": "449.42 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/samus-aran-p2-figure/samus-aran-p2-figure-主图@初艺ouart.png",
+    "description": "动力装甲轮廓、姿态与科幻构件清晰，适合金属分色、发光效果与战损层次。",
+    "intro": "2026.07.28 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/10wcKXWTZaUuf09to39GQ3A",
+    "shareCode": "9924",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260728",
+    "nameZh": "萨姆斯·阿兰 P2 雕像",
+    "nameEn": "Samus Aran P2 — ES Monster",
+    "displayName": "萨姆斯·阿兰 P2 雕像｜Samus Aran P2 — ES Monster",
+    "category": "角色/科幻雕塑",
+    "mainImageRole": "source_original",
+    "alt": "萨姆斯·阿兰 P2 雕像同模型来源图",
+    "author": "ES Monster（来源目录署名）",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "ES Monster（来源目录署名）",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "动力装甲轮廓、姿态与科幻构件清晰，适合金属分色、发光效果与战损层次。",
+          "该模型归入“角色/科幻雕塑”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 27 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/samus-aran-p2-figure/gallery-01.jpg",
+        "alt": "萨姆斯·阿兰 P2 雕像来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/samus-aran-p2-figure/gallery-02.jpg",
+        "alt": "萨姆斯·阿兰 P2 雕像来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/samus-aran-p2-figure/gallery-03.jpg",
+        "alt": "萨姆斯·阿兰 P2 雕像来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/samus-aran-p2-figure/gallery-04.jpg",
+        "alt": "萨姆斯·阿兰 P2 雕像来源图 4",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
     "id": "ichigo-vs-ulquiorra",
     "name": "黑崎一护 VS 乌尔奇奥拉",
     "date": "2026-07-27",

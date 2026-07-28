@@ -1,6 +1,29 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20260728",
+    "date": "2026-07-28",
+    "displayDate": "2026.07.28",
+    "title": "2026.07.28｜OUART 今日六件",
+    "description": "建筑场景、动物雕塑、机械载具与角色主题并置，一次浏览六种可打印方向。",
+    "published": true,
+    "collage": "./assets/batches/2026-07-28/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-07-28 六模型静态拼图",
+    "modelIds": [
+      "magnificity-warehouse-set",
+      "oliver-spaeth-animal-collection",
+      "smuggler-truck-vehicle-set",
+      "hinata-naruto-figure-set",
+      "windmill-architecture-model",
+      "samus-aran-p2-figure"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1RRUTFqE8nuH7beCDo9XTHw",
+    "shareCode": "e405",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-07-28T10:36:22+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20260727",
     "date": "2026-07-27",
     "displayDate": "2026.07.27",

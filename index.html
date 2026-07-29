@@ -36,7 +36,13 @@
       <section class="hero" aria-labelledby="hero-title">
         <div class="hero-copy">
           <h1 id="hero-title">每日一件，<br />值得打印的模型</h1>
-          <p>精选并整理可用于个人学习的 STL 模型，清楚介绍，方便查找。</p>
+          <figure class="daily-quote" id="daily-quote">
+            <blockquote id="daily-quote-text">“最重要的是被感动：去爱、去希望、去战栗、去生活。”</blockquote>
+            <figcaption>
+              <span id="daily-quote-author">奥古斯特·罗丹｜19世纪｜法国</span>
+              <a id="daily-quote-source" href="https://en.wikiquote.org/wiki/Auguste_Rodin" target="_blank" rel="noopener noreferrer">查看出处</a>
+            </figcaption>
+          </figure>
           <a class="primary-button" id="hero-link" href="#latest">
             <span id="hero-link-label">查看最新模型</span>
             <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M14 6l6 6-6 6" /></svg>
@@ -44,8 +50,10 @@
           <label class="search-field" for="model-search">
             <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7" /><path d="m16.5 16.5 4 4" /></svg>
             <span class="sr-only">搜索模型</span>
-            <input id="model-search" type="search" placeholder="搜索模型名称或日期" autocomplete="off" />
+            <input id="model-search" type="search" role="combobox" placeholder="搜索名称、作者、分类或日期" autocomplete="off" aria-autocomplete="list" aria-expanded="false" aria-controls="search-results" aria-describedby="search-status" />
           </label>
+          <p class="search-status" id="search-status" aria-live="polite">输入关键词，结果会立即显示在这里。</p>
+          <div class="search-results" id="search-results" role="listbox" aria-label="模型搜索结果" hidden></div>
         </div>
         <a class="hero-media" id="hero-media" href="#latest" aria-label="查看最新模型" hidden>
           <img id="hero-image" alt="" />
@@ -94,6 +102,8 @@
 
     <script defer src="./data/models.js?v=daily-six-v2"></script>
     <script defer src="./data/batches.js?v=daily-six-v2"></script>
-    <script defer src="./site.js?v=image-performance-v1"></script>
+    <script defer src="./data/quotes.js?v=daily-quotes-v1"></script>
+    <script defer src="./search.js?v=search-v1"></script>
+    <script defer src="./site.js?v=homepage-tools-v2"></script>
   </body>
 </html>

@@ -25,14 +25,24 @@
   const empty = document.getElementById("empty-state");
   const resultCount = document.getElementById("result-count");
   const loadMore = document.getElementById("load-more");
+  const searchResults = document.getElementById("search-results");
+  const searchStatus = document.getElementById("search-status");
+  const searchApi = window.OUART_SEARCH;
   let visibleCount = 8;
+  let activeSearchIndex = -1;
 
   function arrowIcon() {
     return '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M14 6l6 6-6 6" /></svg>';
   }
 
   function modelUrl(model) {
-    return model.page || `./model.html?id=${encodeURIComponent(model.id)}`;
+    const candidate = model.page || `./model.html?id=${encodeURIComponent(model.id)}`;
+    try {
+      const url = new URL(candidate, window.location.href);
+      return ["http:", "https:"].includes(url.protocol) ? url.href : "#latest";
+    } catch {
+      return "#latest";
+    }
   }
 
   // Bilingual fields are optional: migrated records continue to use `name`.
@@ -132,6 +142,52 @@
     else image.addEventListener("load", applyNaturalWidth, { once: true });
   }
 
+  function beijingDateKey(date = new Date()) {
+    const parts = new Intl.DateTimeFormat("en-CA", {
+      timeZone: "Asia/Shanghai",
+      year: "numeric",
+      month: "2-digit",
+      day: "2-digit"
+    }).formatToParts(date);
+    const values = Object.fromEntries(parts.map((part) => [part.type, part.value]));
+    return `${values.year}-${values.month}-${values.day}`;
+  }
+
+  let renderedQuoteDateKey = "";
+
+  function renderDailyQuote(date = new Date()) {
+    const selectQuote = window.OUART_DAILY_QUOTE_FOR_DATE;
+    if (typeof selectQuote !== "function") return;
+    const currentDateKey = beijingDateKey(date);
+    if (currentDateKey === renderedQuoteDateKey) return;
+    const quote = selectQuote(currentDateKey);
+    if (!quote) return;
+    const text = document.getElementById("daily-quote-text");
+    const author = document.getElementById("daily-quote-author");
+    const source = document.getElementById("daily-quote-source");
+    if (text) text.textContent = `“${quote.textZh}”`;
+    if (author) {
+      const context = [quote.authorZh, quote.period, quote.country].filter(Boolean);
+      author.textContent = context.join("｜");
+    }
+    if (source && quote.sourceUrl) {
+      try {
+        const sourceUrl = new URL(quote.sourceUrl, window.location.href);
+        if (["http:", "https:"].includes(sourceUrl.protocol)) {
+          source.href = sourceUrl.href;
+          source.title = quote.sourceTitle || "查看名言出处";
+          source.hidden = false;
+        }
+      } catch {
+        source.hidden = true;
+      }
+    }
+    renderedQuoteDateKey = currentDateKey;
+  }
+
+  renderDailyQuote();
+  window.setInterval(renderDailyQuote, 60_000);
+
   function renderHero() {
     const latestBatch = publicBatches.find((batch) => batch.id && batch.collage);
     if (latestBatch) {
@@ -209,14 +265,98 @@
 
   renderDailyBatch();
 
-  function renderList(query) {
-    if (!list) return;
-    const normalized = String(query || "").trim().toLowerCase();
-    const filtered = publicModels.filter((model) => {
-      const searchable = [model.displayName, model.nameZh, model.nameEn, model.name, model.date, model.format]
+  function searchOptions() {
+    return searchResults ? Array.from(searchResults.querySelectorAll('[role="option"]')) : [];
+  }
+
+  function resetActiveSearchOption() {
+    activeSearchIndex = -1;
+    search?.removeAttribute("aria-activedescendant");
+    searchOptions().forEach((option) => option.setAttribute("aria-selected", "false"));
+  }
+
+  function moveActiveSearchOption(direction) {
+    const options = searchOptions();
+    if (!options.length) return false;
+    activeSearchIndex = activeSearchIndex < 0
+      ? (direction > 0 ? 0 : options.length - 1)
+      : (activeSearchIndex + direction + options.length) % options.length;
+    options.forEach((option, index) => option.setAttribute("aria-selected", String(index === activeSearchIndex)));
+    const active = options[activeSearchIndex];
+    search?.setAttribute("aria-activedescendant", active.id);
+    active.scrollIntoView({ block: "nearest" });
+    return true;
+  }
+
+  function renderSearchResults(query, filtered) {
+    if (!searchResults || !searchStatus) return;
+    const hasQuery = Boolean(String(query || "").trim());
+    if (!hasQuery) {
+      searchResults.hidden = true;
+      searchResults.replaceChildren();
+      resetActiveSearchOption();
+      search?.setAttribute("aria-expanded", "false");
+      searchStatus.textContent = "输入关键词，结果会立即显示在这里。";
+      return;
+    }
+    searchStatus.textContent = filtered.length === 1
+      ? "找到 1 个模型；按回车可直接打开详情。"
+      : filtered.length > 1
+        ? `找到 ${filtered.length} 个模型；按回车可查看完整结果。`
+        : "没有找到匹配的模型，可以换一个名称、作者、分类或日期。";
+    if (!filtered.length) {
+      searchResults.hidden = true;
+      searchResults.replaceChildren();
+      resetActiveSearchOption();
+      search?.setAttribute("aria-expanded", "false");
+      return;
+    }
+    searchResults.replaceChildren();
+    resetActiveSearchOption();
+    filtered.slice(0, 6).forEach((model, index) => {
+      const result = document.createElement("a");
+      const title = document.createElement("strong");
+      const meta = document.createElement("span");
+      result.className = "search-result";
+      result.id = `search-result-${index}`;
+      result.href = modelUrl(model);
+      result.setAttribute("role", "option");
+      result.setAttribute("aria-selected", "false");
+      result.tabIndex = -1;
+      title.textContent = modelName(model);
+      meta.textContent = `${model.displayDate || model.date || ""}${model.category ? ` · ${model.category}` : ""}`;
+      result.append(title, meta);
+      searchResults.appendChild(result);
+    });
+    if (filtered.length > 6) {
+      const more = document.createElement("a");
+      more.className = "search-result search-result-more";
+      more.id = "search-result-more";
+      more.href = "#latest";
+      more.setAttribute("role", "option");
+      more.setAttribute("aria-selected", "false");
+      more.tabIndex = -1;
+      more.textContent = `查看全部 ${filtered.length} 个结果`;
+      searchResults.appendChild(more);
+    }
+    searchResults.hidden = false;
+    search?.setAttribute("aria-expanded", "true");
+  }
+
+  function matchingModels(query) {
+    if (searchApi?.filterModels) return searchApi.filterModels(publicModels, query);
+    const normalized = String(query || "").trim().toLocaleLowerCase();
+    return publicModels.filter((model) => {
+      const searchable = [model.displayName, model.nameZh, model.nameEn, model.name, model.date, model.displayDate, model.format, model.category, model.author]
         .map(cleanText).join(" ").toLocaleLowerCase();
       return searchable.includes(normalized);
     });
+  }
+
+  function renderList(query) {
+    if (!list) return;
+    const normalized = String(query || "").trim();
+    const filtered = matchingModels(normalized);
 
     const visible = normalized ? filtered : filtered.slice(0, visibleCount);
     list.innerHTML = visible.map((model, index) => `
@@ -233,14 +373,43 @@
     empty.hidden = filtered.length !== 0;
     if (resultCount) resultCount.textContent = normalized ? `找到 ${filtered.length} 个结果` : `${filtered.length} 个模型`;
     if (loadMore) loadMore.hidden = Boolean(normalized) || visible.length >= filtered.length;
+    renderSearchResults(normalized, filtered);
   }
 
   if (list) {
     renderList("");
-    search.addEventListener("input", (event) => renderList(event.target.value));
+    if (search) {
+      search.addEventListener("input", () => {
+        resetActiveSearchOption();
+        renderList(search.value);
+      });
+      search.addEventListener("keydown", (event) => {
+        if (event.isComposing) return;
+        if (event.key === "ArrowDown" || event.key === "ArrowUp") {
+          if (moveActiveSearchOption(event.key === "ArrowDown" ? 1 : -1)) event.preventDefault();
+          return;
+        }
+        if (event.key === "Escape") {
+          search.value = "";
+          resetActiveSearchOption();
+          renderList("");
+          return;
+        }
+        if (event.key !== "Enter" || !search.value.trim()) return;
+        event.preventDefault();
+        const active = searchOptions()[activeSearchIndex];
+        if (active) {
+          active.click();
+          return;
+        }
+        const matches = matchingModels(search.value);
+        if (matches.length === 1) window.location.href = modelUrl(matches[0]);
+        else document.getElementById("latest")?.scrollIntoView({ behavior: "smooth", block: "start" });
+      });
+    }
     loadMore?.addEventListener("click", () => {
       visibleCount += 8;
-      renderList(search.value);
+      renderList(search?.value || "");
     });
   }
 

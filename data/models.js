@@ -1,5 +1,512 @@
 window.OUART_MODELS = [
   {
+    "id": "rhino-beetle-lamp",
+    "name": "独角仙甲虫灯",
+    "date": "2026-07-29",
+    "displayDate": "2026.07.29",
+    "format": "STL",
+    "fileCount": 7,
+    "size": "603.59 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/rhino-beetle-lamp/rhino-beetle-lamp-主图@初艺ouart.png",
+    "description": "以独角仙外形组织灯具外壳与分件结构，兼具生物造型、装配和照明应用价值。",
+    "intro": "2026.07.29 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1ejDv0B70vCRiKOEiLb34Rg",
+    "shareCode": "028e",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260729",
+    "nameZh": "独角仙甲虫灯",
+    "nameEn": "Rhino Beetle Lamp",
+    "displayName": "独角仙甲虫灯｜Rhino Beetle Lamp",
+    "category": "功能/FDM",
+    "mainImageRole": "source_original",
+    "alt": "独角仙甲虫灯同模型来源图",
+    "author": "来源库存标注 Rhino Beetle Lamp 6651490；具体作者以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注 Rhino Beetle Lamp 6651490；具体作者以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以独角仙外形组织灯具外壳与分件结构，兼具生物造型、装配和照明应用价值。",
+          "该模型归入“功能/FDM”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 7 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/rhino-beetle-lamp/gallery-01.png",
+        "alt": "独角仙甲虫灯来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/rhino-beetle-lamp/gallery-02.png",
+        "alt": "独角仙甲虫灯来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/rhino-beetle-lamp/gallery-03.png",
+        "alt": "独角仙甲虫灯来源图 3",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "makima-il-paddyy",
+    "name": "玛琪玛雕像",
+    "date": "2026-07-29",
+    "displayDate": "2026.07.29",
+    "format": "STL",
+    "fileCount": 10,
+    "size": "924.15 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/makima-il-paddyy/makima-il-paddyy-主图@初艺ouart.png",
+    "description": "以头发、手部、身体与底座分件构成的角色雕像，适合树脂打印、装配与分区涂装。",
+    "intro": "2026.07.29 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1sriioxrHmFpDhewS0Z0AvQ",
+    "shareCode": "a871",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260729",
+    "nameZh": "玛琪玛雕像",
+    "nameEn": "Makima by Il Paddyy",
+    "displayName": "玛琪玛雕像｜Makima by Il Paddyy",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "玛琪玛雕像同模型来源图",
+    "author": "Il Paddyy（依来源库存命名）",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "Il Paddyy（依来源库存命名）",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以头发、手部、身体与底座分件构成的角色雕像，适合树脂打印、装配与分区涂装。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 10 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/makima-il-paddyy/gallery-01.jpg",
+        "alt": "玛琪玛雕像来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/makima-il-paddyy/gallery-02.jpg",
+        "alt": "玛琪玛雕像来源图 2",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "iron-spider-wall-display",
+    "name": "钢铁蜘蛛侠墙面展示",
+    "date": "2026-07-29",
+    "displayDate": "2026.07.29",
+    "format": "STL",
+    "fileCount": 37,
+    "size": "317.18 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/iron-spider-wall-display/iron-spider-wall-display-主图@初艺ouart.png",
+    "description": "将钢铁蜘蛛侠多分件造型转化为墙面展示构图，兼具角色表现与空间陈列用途。",
+    "intro": "2026.07.29 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1Z4AhauzZWZ03s0lLMVdOPQ",
+    "shareCode": "133f",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260729",
+    "nameZh": "钢铁蜘蛛侠墙面展示",
+    "nameEn": "Iron Spider Wall Display",
+    "displayName": "钢铁蜘蛛侠墙面展示｜Iron Spider Wall Display",
+    "category": "机械/装饰",
+    "mainImageRole": "source_original",
+    "alt": "钢铁蜘蛛侠墙面展示同模型来源图",
+    "author": "Malix3D（依来源库存命名）",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "Malix3D（依来源库存命名）",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "将钢铁蜘蛛侠多分件造型转化为墙面展示构图，兼具角色表现与空间陈列用途。",
+          "该模型归入“机械/装饰”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 37 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/iron-spider-wall-display/gallery-01.png",
+        "alt": "钢铁蜘蛛侠墙面展示来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "realsteone-december-dark-fantasy",
+    "name": "暗黑幻想角色组",
+    "date": "2026-07-29",
+    "displayDate": "2026.07.29",
+    "format": "STL",
+    "fileCount": 26,
+    "size": "535.81 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/realsteone-december-dark-fantasy/realsteone-december-dark-fantasy-主图@初艺ouart.png",
+    "description": "由多件暗黑幻想角色与场景分件组成，适合系列打印、叙事编排和收藏级涂装。",
+    "intro": "2026.07.29 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1Nbe2nDOcCmeZB2ZwRzdcGQ",
+    "shareCode": "85dd",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260729",
+    "nameZh": "暗黑幻想角色组",
+    "nameEn": "Realsteone December Dark Fantasy Set",
+    "displayName": "暗黑幻想角色组｜Realsteone December Dark Fantasy Set",
+    "category": "生物/叙事",
+    "mainImageRole": "source_original",
+    "alt": "暗黑幻想角色组同模型来源图",
+    "author": "Realsteone（依来源库存命名）",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "Realsteone（依来源库存命名）",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "由多件暗黑幻想角色与场景分件组成，适合系列打印、叙事编排和收藏级涂装。",
+          "该模型归入“生物/叙事”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 26 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/realsteone-december-dark-fantasy/gallery-01.png",
+        "alt": "暗黑幻想角色组来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/realsteone-december-dark-fantasy/gallery-02.png",
+        "alt": "暗黑幻想角色组来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/realsteone-december-dark-fantasy/gallery-03.png",
+        "alt": "暗黑幻想角色组来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/realsteone-december-dark-fantasy/gallery-04.png",
+        "alt": "暗黑幻想角色组来源图 4",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/realsteone-december-dark-fantasy/gallery-05.png",
+        "alt": "暗黑幻想角色组来源图 5",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "majin-buu-bust-iron-titan",
+    "name": "魔人布欧胸像",
+    "date": "2026-07-29",
+    "displayDate": "2026.07.29",
+    "format": "STL",
+    "fileCount": 2,
+    "size": "518.00 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/majin-buu-bust-iron-titan/majin-buu-bust-iron-titan-主图@初艺ouart.png",
+    "description": "主体与底座分离的经典角色胸像，轮廓明确，适合尺度测试、表面处理与重点涂装。",
+    "intro": "2026.07.29 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1n5fhnKkiEyAtBJA7zDwGWA",
+    "shareCode": "0c4d",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260729",
+    "nameZh": "魔人布欧胸像",
+    "nameEn": "Majin Buu Bust",
+    "displayName": "魔人布欧胸像｜Majin Buu Bust",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "魔人布欧胸像同模型来源图",
+    "author": "Iron Titan Studios（依来源库存命名）",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "Iron Titan Studios（依来源库存命名）",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "主体与底座分离的经典角色胸像，轮廓明确，适合尺度测试、表面处理与重点涂装。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 2 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/majin-buu-bust-iron-titan/gallery-01.jpg",
+        "alt": "魔人布欧胸像来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/majin-buu-bust-iron-titan/gallery-02.jpg",
+        "alt": "魔人布欧胸像来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/majin-buu-bust-iron-titan/gallery-03.jpg",
+        "alt": "魔人布欧胸像来源图 3",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "curved-fish-animal-set",
+    "name": "曲线鱼群模型组",
+    "date": "2026-07-29",
+    "displayDate": "2026.07.29",
+    "format": "STL",
+    "fileCount": 63,
+    "size": "430.35 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/curved-fish-animal-set/curved-fish-animal-set-主图@初艺ouart.png",
+    "description": "由多种弯曲鱼体和支撑版本组成，可用于群体节奏研究、水景陈列与生物主题装饰。",
+    "intro": "2026.07.29 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1laczseKCazSdYjo2sOAGwA",
+    "shareCode": "f507",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260729",
+    "nameZh": "曲线鱼群模型组",
+    "nameEn": "Curved Fish Animal Set",
+    "displayName": "曲线鱼群模型组｜Curved Fish Animal Set",
+    "category": "生物/叙事",
+    "mainImageRole": "source_original",
+    "alt": "曲线鱼群模型组同模型来源图",
+    "author": "来源库存标注 animal-set-1-fish；具体作者以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注 animal-set-1-fish；具体作者以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "由多种弯曲鱼体和支撑版本组成，可用于群体节奏研究、水景陈列与生物主题装饰。",
+          "该模型归入“生物/叙事”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 63 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/curved-fish-animal-set/gallery-01.jpg",
+        "alt": "曲线鱼群模型组来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
     "id": "magnificity-warehouse-set",
     "name": "Magnificity 仓库场景套组",
     "date": "2026-07-28",

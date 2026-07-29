@@ -8,6 +8,17 @@
 node server.mjs
 ```
 
+## 图片性能
+
+新增或替换模型图片后，发布前运行：
+
+```powershell
+python scripts/generate-web-thumbnails.py
+node --test tests/*.test.mjs
+```
+
+脚本会为模型主图、详情图库和“今日六件”拼图生成轻量 WebP。网页优先加载这些衍生图，仅在用户点开图库大图时请求原文件；如果某张衍生图尚未生成，页面会自动退回原图，不会出现破图。
+
 浏览器打开 `http://127.0.0.1:4173/`。
 
 ## 内容入口

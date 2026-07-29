@@ -25,7 +25,7 @@
   const empty = document.getElementById("empty-state");
   const resultCount = document.getElementById("result-count");
   const loadMore = document.getElementById("load-more");
-  let visibleCount = 12;
+  let visibleCount = 8;
 
   function arrowIcon() {
     return '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M14 6l6 6-6 6" /></svg>';
@@ -62,6 +62,65 @@
     image.setAttribute("disablepictureinpicture", "");
   }
 
+  function modelThumb(model, width) {
+    return `./assets/thumbs/models/${encodeURIComponent(model.id)}-${width}.webp`;
+  }
+
+  function galleryThumb(model, index) {
+    return `./assets/thumbs/gallery/${encodeURIComponent(model.id)}-${String(index + 1).padStart(2, "0")}.webp`;
+  }
+
+  function batchThumb(batch, width) {
+    return `./assets/thumbs/batches/${encodeURIComponent(batch.id)}-${width}.webp`;
+  }
+
+  function responsiveModelAttributes(model, context = "list", priority = false) {
+    const sizes = context === "detail"
+      ? "(max-width: 900px) 100vw, 58vw"
+      : context === "batch"
+        ? "(max-width: 900px) 100vw, 55vw"
+        : "180px";
+    return [
+      `src="${escapeHtml(modelThumb(model, 480))}"`,
+      `srcset="${escapeHtml(modelThumb(model, 480))} 480w, ${escapeHtml(modelThumb(model, 960))} 960w"`,
+      `sizes="${sizes}"`,
+      `data-fallback="${escapeHtml(model.image)}"`,
+      `loading="${priority ? "eager" : "lazy"}"`,
+      'decoding="async"',
+      priority ? 'fetchpriority="high"' : ""
+    ].filter(Boolean).join(" ");
+  }
+
+  function setResponsiveModelImage(image, model, context = "detail", priority = false) {
+    image.src = modelThumb(model, 480);
+    image.srcset = `${modelThumb(model, 480)} 480w, ${modelThumb(model, 960)} 960w`;
+    image.sizes = context === "detail" ? "(max-width: 900px) 100vw, 58vw" : "180px";
+    image.dataset.fallback = model.image;
+    image.loading = priority ? "eager" : "lazy";
+    image.decoding = "async";
+    if (priority) image.fetchPriority = "high";
+  }
+
+  function setResponsiveBatchImage(image, batch, priority = false) {
+    image.src = batchThumb(batch, 720);
+    image.srcset = `${batchThumb(batch, 720)} 720w, ${batchThumb(batch, 1200)} 1200w`;
+    image.sizes = "(max-width: 900px) 100vw, 70vw";
+    image.dataset.fallback = batch.collage;
+    image.loading = priority ? "eager" : "lazy";
+    image.decoding = "async";
+    if (priority) image.fetchPriority = "high";
+  }
+
+  document.addEventListener("error", (event) => {
+    const image = event.target;
+    if (!(image instanceof HTMLImageElement) || !image.dataset.fallback) return;
+    const fallback = image.dataset.fallback;
+    delete image.dataset.fallback;
+    image.removeAttribute("srcset");
+    image.removeAttribute("sizes");
+    image.src = fallback;
+  }, true);
+
   function preserveNaturalImageWidth(image) {
     if (!image) return;
     const applyNaturalWidth = () => {
@@ -86,7 +145,7 @@
       if (heroMedia && heroImage) {
         heroMedia.href = href;
         heroMedia.setAttribute("aria-label", latestBatch.title || "查看今日六件");
-        heroImage.src = latestBatch.collage;
+        setResponsiveBatchImage(heroImage, latestBatch, true);
         heroImage.alt = latestBatch.collageAlt || "OUART MODEL 今日六件模型拼图";
         protectModelImage(heroImage);
         heroMedia.hidden = false;
@@ -110,7 +169,7 @@
     if (heroMedia && heroImage) {
       heroMedia.href = href;
       heroMedia.setAttribute("aria-label", `查看 ${modelName(latest)}`);
-      heroImage.src = latest.image;
+      setResponsiveModelImage(heroImage, latest, "detail", true);
       heroImage.alt = cleanText(latest.alt) || `${modelName(latest)} 模型预览`;
       protectModelImage(heroImage);
       heroMedia.hidden = false;
@@ -131,7 +190,7 @@
     if (link) link.href = href;
     if (collageLink) collageLink.href = href;
     if (collage) {
-      collage.src = batch.collage;
+      setResponsiveBatchImage(collage, batch);
       collage.alt = batch.collageAlt || "OUART MODEL 今日六件模型拼图";
       protectModelImage(collage);
     }
@@ -162,7 +221,7 @@
     const visible = normalized ? filtered : filtered.slice(0, visibleCount);
     list.innerHTML = visible.map((model, index) => `
       <a class="model-row${index === 0 ? " featured" : ""}" href="${modelUrl(model)}">
-        <span class="model-thumb"><img src="${escapeHtml(model.image)}" alt="${escapeHtml(cleanText(model.alt) || `${modelName(model)} 模型预览`)}" loading="${index === 0 ? "eager" : "lazy"}" data-no-visual-search="true" draggable="false" disablepictureinpicture /></span>
+        <span class="model-thumb"><img ${responsiveModelAttributes(model)} alt="${escapeHtml(cleanText(model.alt) || `${modelName(model)} 模型预览`)}" data-no-visual-search="true" draggable="false" disablepictureinpicture /></span>
         <span class="model-summary">
           <strong>${escapeHtml(modelName(model))}</strong>
           <span>${escapeHtml(model.displayDate)}${model.fileCount ? `<i></i>${escapeHtml(model.fileCount)} 个 ${escapeHtml(model.format)}` : `<i></i>${escapeHtml(model.format)} 模型分享`}${model.size ? `<i></i>${escapeHtml(model.size)}` : ""}</span>
@@ -180,7 +239,7 @@
     renderList("");
     search.addEventListener("input", (event) => renderList(event.target.value));
     loadMore?.addEventListener("click", () => {
-      visibleCount += 12;
+      visibleCount += 8;
       renderList(search.value);
     });
   }
@@ -242,16 +301,18 @@
     if (!section || !root || !gallery.length) return;
     const lightbox = ensureGalleryLightbox();
     root.replaceChildren();
-    gallery.forEach((item) => {
+    gallery.forEach((item, index) => {
       const figure = document.createElement("figure");
       const trigger = document.createElement("button");
       trigger.type = "button";
       trigger.className = "gallery-open";
       trigger.setAttribute("aria-label", `查看大图：${item.alt}`);
       const image = document.createElement("img");
-      image.src = item.src;
+      image.src = galleryThumb(model, index);
+      image.dataset.fallback = item.src;
       image.alt = item.alt;
       image.loading = "lazy";
+      image.decoding = "async";
       protectModelImage(image);
       trigger.appendChild(image);
       trigger.addEventListener("click", () => {
@@ -337,7 +398,7 @@
     const name = modelName(model);
     document.title = `${name}｜OUART MODEL`;
     const image = document.getElementById("detail-image");
-    image.src = model.image;
+    setResponsiveModelImage(image, model, "detail", true);
     image.alt = cleanText(model.alt) || `${name} 模型预览`;
     protectModelImage(image);
     preserveNaturalImageWidth(image);
@@ -388,6 +449,8 @@
       const secondary = document.getElementById("detail-secondary");
       secondary.src = model.secondaryImage;
       secondary.alt = `${name} 细节预览`;
+      secondary.loading = "lazy";
+      secondary.decoding = "async";
       protectModelImage(secondary);
       secondaryWrap.hidden = false;
     }
@@ -405,7 +468,7 @@
       document.getElementById("batch-title").textContent = batch.title;
       document.getElementById("batch-description").textContent = batch.description || "";
       const collage = document.getElementById("batch-collage");
-      collage.src = batch.collage;
+      setResponsiveBatchImage(collage, batch, true);
       collage.alt = batch.collageAlt || `${batch.title} 六件模型拼图`;
       protectModelImage(collage);
       const actions = document.getElementById("batch-actions");
@@ -427,7 +490,7 @@
         section.className = "batch-model-section";
         section.id = `model-${model.id}`;
         section.innerHTML = `
-          <a class="batch-model-image" href="${modelUrl(model)}"><img src="${escapeHtml(model.image)}" alt="${escapeHtml(model.alt || `${modelName(model)} 模型预览`)}" loading="${index < 2 ? "eager" : "lazy"}" data-no-visual-search="true" draggable="false" disablepictureinpicture /></a>
+          <a class="batch-model-image" href="${modelUrl(model)}"><img ${responsiveModelAttributes(model, "batch", index === 0)} alt="${escapeHtml(model.alt || `${modelName(model)} 模型预览`)}" data-no-visual-search="true" draggable="false" disablepictureinpicture /></a>
           <div><p class="batch-number">${String(index + 1).padStart(2, "0")} / 06</p><h2>${escapeHtml(modelName(model))}</h2><p>${escapeHtml(model.description || "")}</p><a class="primary-button" href="${modelUrl(model)}">查看详情</a></div>`;
         root.appendChild(section);
       });

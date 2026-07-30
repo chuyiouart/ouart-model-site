@@ -1,5 +1,557 @@
 window.OUART_MODELS = [
   {
+    "id": "chibi-going-merry",
+    "name": "Q版黄金梅丽号",
+    "date": "2026-07-30",
+    "displayDate": "2026.07.30",
+    "format": "STL",
+    "fileCount": 20,
+    "size": "837.53 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/chibi-going-merry/chibi-going-merry-主图@初艺ouart.png",
+    "description": "以黄金梅丽号的船体轮廓和多处分件组织小型展示模型，适合装配、涂装与海贼主题陈列。",
+    "intro": "2026.07.30 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1XBc-gGbupw3zBRA4afBeHg",
+    "shareCode": "1227",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260730",
+    "nameZh": "Q版黄金梅丽号",
+    "nameEn": "Chibi Going Merry",
+    "displayName": "Q版黄金梅丽号｜Chibi Going Merry",
+    "category": "载具/机械",
+    "mainImageRole": "source_original",
+    "alt": "Q版黄金梅丽号同模型来源图",
+    "author": "来源库存标注 Chibi Going Merry；具体作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注 Chibi Going Merry；具体作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以黄金梅丽号的船体轮廓和多处分件组织小型展示模型，适合装配、涂装与海贼主题陈列。",
+          "该模型归入“载具/机械”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 20 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/chibi-going-merry/gallery-01.jpg",
+        "alt": "Q版黄金梅丽号来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/chibi-going-merry/gallery-02.jpg",
+        "alt": "Q版黄金梅丽号来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/chibi-going-merry/gallery-03.jpg",
+        "alt": "Q版黄金梅丽号来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/chibi-going-merry/gallery-04.jpg",
+        "alt": "Q版黄金梅丽号来源图 4",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/chibi-going-merry/gallery-05.jpg",
+        "alt": "Q版黄金梅丽号来源图 5",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "flatline-city-second-wave",
+    "name": "模块化城市素材组",
+    "date": "2026-07-30",
+    "displayDate": "2026.07.30",
+    "format": "STL",
+    "fileCount": 117,
+    "size": "493.53 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/flatline-city-second-wave/flatline-city-second-wave-主图@初艺ouart.png",
+    "description": "由多件城市建筑与模块化构件组成，适合场景搭建、尺度规划和桌面叙事。",
+    "intro": "2026.07.30 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1QQHPydiDWJfN8ngWPcOLjQ",
+    "shareCode": "9ba6",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260730",
+    "nameZh": "模块化城市素材组",
+    "nameEn": "Flatline City 2nd Wave",
+    "displayName": "模块化城市素材组｜Flatline City 2nd Wave",
+    "category": "建筑/CNC",
+    "mainImageRole": "source_original",
+    "alt": "模块化城市素材组同模型来源图",
+    "author": "Flatline City（依来源库存命名；授权范围以原始文件说明为准）",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "Flatline City（依来源库存命名；授权范围以原始文件说明为准）",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "由多件城市建筑与模块化构件组成，适合场景搭建、尺度规划和桌面叙事。",
+          "该模型归入“建筑/CNC”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 117 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/flatline-city-second-wave/gallery-01.jpg",
+        "alt": "模块化城市素材组来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/flatline-city-second-wave/gallery-02.jpg",
+        "alt": "模块化城市素材组来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/flatline-city-second-wave/gallery-03.jpg",
+        "alt": "模块化城市素材组来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/flatline-city-second-wave/gallery-04.jpg",
+        "alt": "模块化城市素材组来源图 4",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/flatline-city-second-wave/gallery-05.jpg",
+        "alt": "模块化城市素材组来源图 5",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/flatline-city-second-wave/gallery-06.jpg",
+        "alt": "模块化城市素材组来源图 6",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "farm-animals-set",
+    "name": "农场动物模型组",
+    "date": "2026-07-30",
+    "displayDate": "2026.07.30",
+    "format": "STL",
+    "fileCount": 19,
+    "size": "436.05 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/farm-animals-set/farm-animals-set-主图@初艺ouart.png",
+    "description": "由牛、马等农场动物构成的系列模型，适合场景编排、尺度练习与群组涂装。",
+    "intro": "2026.07.30 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1Q8x0vw6HFgGmW8GmquR0mQ",
+    "shareCode": "28a6",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260730",
+    "nameZh": "农场动物模型组",
+    "nameEn": "Farm Animals Set",
+    "displayName": "农场动物模型组｜Farm Animals Set",
+    "category": "生物/叙事",
+    "mainImageRole": "source_original",
+    "alt": "农场动物模型组同模型来源图",
+    "author": "来源库存标注 farm-animals；具体作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注 farm-animals；具体作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "由牛、马等农场动物构成的系列模型，适合场景编排、尺度练习与群组涂装。",
+          "该模型归入“生物/叙事”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 19 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/farm-animals-set/gallery-01.jpg",
+        "alt": "农场动物模型组来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/farm-animals-set/gallery-02.png",
+        "alt": "农场动物模型组来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/farm-animals-set/gallery-03.png",
+        "alt": "农场动物模型组来源图 3",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "pulp-fiction-characters",
+    "name": "低俗小说角色组",
+    "date": "2026-07-30",
+    "displayDate": "2026.07.30",
+    "format": "STL",
+    "fileCount": 8,
+    "size": "1499.08 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/pulp-fiction-characters/pulp-fiction-characters-主图@初艺ouart.png",
+    "description": "以电影人物关系和标志性造型构成角色模型组，适合树脂打印、分区涂装和组合陈列。",
+    "intro": "2026.07.30 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/12t-Esh_K3MB29bnd9B1bTA",
+    "shareCode": "8e64",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260730",
+    "nameZh": "低俗小说角色组",
+    "nameEn": "Pulp Fiction Character Set",
+    "displayName": "低俗小说角色组｜Pulp Fiction Character Set",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "低俗小说角色组同模型来源图",
+    "author": "来源库存标注“低俗小说”；具体作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注“低俗小说”；具体作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以电影人物关系和标志性造型构成角色模型组，适合树脂打印、分区涂装和组合陈列。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 8 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/pulp-fiction-characters/gallery-01.jpg",
+        "alt": "低俗小说角色组来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/pulp-fiction-characters/gallery-02.jpg",
+        "alt": "低俗小说角色组来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/pulp-fiction-characters/gallery-03.jpg",
+        "alt": "低俗小说角色组来源图 3",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "winter-soldier-bust",
+    "name": "冬兵胸像",
+    "date": "2026-07-30",
+    "displayDate": "2026.07.30",
+    "format": "STL",
+    "fileCount": 13,
+    "size": "587.92 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/winter-soldier-bust/winter-soldier-bust-主图@初艺ouart.png",
+    "description": "以面部、护具与长发层次塑造角色识别度，适合胸像打印、表面处理与重点涂装。",
+    "intro": "2026.07.30 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1a2cBamTvZJ2Oj-d-CYYusg",
+    "shareCode": "dc18",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260730",
+    "nameZh": "冬兵胸像",
+    "nameEn": "Winter Soldier Bust",
+    "displayName": "冬兵胸像｜Winter Soldier Bust",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "冬兵胸像同模型来源图",
+    "author": "WICKED（依来源库存命名；授权范围以原始文件说明为准）",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "WICKED（依来源库存命名；授权范围以原始文件说明为准）",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以面部、护具与长发层次塑造角色识别度，适合胸像打印、表面处理与重点涂装。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 13 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/winter-soldier-bust/gallery-01.jpg",
+        "alt": "冬兵胸像来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "vengeance-data-character",
+    "name": "Data 科幻角色模型",
+    "date": "2026-07-30",
+    "displayDate": "2026.07.30",
+    "format": "STL",
+    "fileCount": 49,
+    "size": "1216.27 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/vengeance-data-character/vengeance-data-character-主图@初艺ouart.png",
+    "description": "以科幻角色的面部、制服和姿态层次组织多分件模型，适合树脂打印、装配与细节涂装。",
+    "intro": "2026.07.30 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1jGnmCUoJ7Xk_ny5Ojh0pjQ",
+    "shareCode": "aa4b",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260730",
+    "nameZh": "Data 科幻角色模型",
+    "nameEn": "Vengeance Studios Data Character",
+    "displayName": "Data 科幻角色模型｜Vengeance Studios Data Character",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "Data 科幻角色模型同模型来源图",
+    "author": "Vengeance Studios（依来源库存命名；授权范围以原始文件说明为准）",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "Vengeance Studios（依来源库存命名；授权范围以原始文件说明为准）",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以科幻角色的面部、制服和姿态层次组织多分件模型，适合树脂打印、装配与细节涂装。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 49 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/vengeance-data-character/gallery-01.jpg",
+        "alt": "Data 科幻角色模型来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/vengeance-data-character/gallery-02.jpg",
+        "alt": "Data 科幻角色模型来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/vengeance-data-character/gallery-03.jpg",
+        "alt": "Data 科幻角色模型来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/vengeance-data-character/gallery-04.jpg",
+        "alt": "Data 科幻角色模型来源图 4",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/vengeance-data-character/gallery-05.jpg",
+        "alt": "Data 科幻角色模型来源图 5",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/vengeance-data-character/gallery-06.jpg",
+        "alt": "Data 科幻角色模型来源图 6",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
     "id": "rhino-beetle-lamp",
     "name": "独角仙甲虫灯",
     "date": "2026-07-29",

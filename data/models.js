@@ -1,5 +1,482 @@
 window.OUART_MODELS = [
   {
+    "id": "model-298812274889730-f859bc",
+    "name": "伏地魔半身像",
+    "date": "2026-07-31",
+    "displayDate": "2026.07.31",
+    "format": "STL",
+    "fileCount": 22,
+    "size": "1188.81 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-298812274889730-f859bc/model-298812274889730-f859bc-主图@初艺ouart.png",
+    "description": "以生物形态和叙事关系组织模型，适合系列打印、场景编排与主题涂装。",
+    "intro": "2026.07.31 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1aHZ0GZJUH3ITkg1Wf56IIw",
+    "shareCode": "3895",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260731",
+    "nameZh": "伏地魔半身像",
+    "nameEn": "伏地魔半身像",
+    "displayName": "伏地魔半身像｜伏地魔半身像",
+    "category": "生物/叙事",
+    "mainImageRole": "source_original",
+    "alt": "伏地魔半身像同模型来源图",
+    "author": "来源库存标注 伏地魔半身像；具体作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注 伏地魔半身像；具体作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以生物形态和叙事关系组织模型，适合系列打印、场景编排与主题涂装。",
+          "该模型归入“生物/叙事”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 22 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-298812274889730-f859bc/gallery-01.jpg",
+        "alt": "伏地魔半身像来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "model-1073985132872017-120558",
+    "name": "姜饼人万圣节",
+    "date": "2026-07-31",
+    "displayDate": "2026.07.31",
+    "format": "STL",
+    "fileCount": 3,
+    "size": "346.54 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-1073985132872017-120558/model-1073985132872017-120558-主图@初艺ouart.png",
+    "description": "以角色轮廓、姿态和分件结构为核心，适合树脂打印、装配与重点涂装。",
+    "intro": "2026.07.31 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/19PjXrAQlQsXe6JF21OXHHA",
+    "shareCode": "2de0",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260731",
+    "nameZh": "姜饼人万圣节",
+    "nameEn": "姜饼人万圣节",
+    "displayName": "姜饼人万圣节｜姜饼人万圣节",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "姜饼人万圣节同模型来源图",
+    "author": "来源库存标注 姜饼人万圣节；具体作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注 姜饼人万圣节；具体作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以角色轮廓、姿态和分件结构为核心，适合树脂打印、装配与重点涂装。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 3 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-1073985132872017-120558/gallery-01.webp",
+        "alt": "姜饼人万圣节来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "model-371200786854609-dbc9e7",
+    "name": "魔女宅急便",
+    "date": "2026-07-31",
+    "displayDate": "2026.07.31",
+    "format": "STL",
+    "fileCount": 21,
+    "size": "784.94 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-371200786854609-dbc9e7/model-371200786854609-dbc9e7-主图@初艺ouart.png",
+    "description": "以生物形态和叙事关系组织模型，适合系列打印、场景编排与主题涂装。",
+    "intro": "2026.07.31 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1NoPifSzzEcXMh6ssaU4mVA",
+    "shareCode": "32de",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260731",
+    "nameZh": "魔女宅急便",
+    "nameEn": "魔女宅急便",
+    "displayName": "魔女宅急便｜魔女宅急便",
+    "category": "生物/叙事",
+    "mainImageRole": "source_original",
+    "alt": "魔女宅急便同模型来源图",
+    "author": "来源库存标注 魔女宅急便；具体作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注 魔女宅急便；具体作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以生物形态和叙事关系组织模型，适合系列打印、场景编排与主题涂装。",
+          "该模型归入“生物/叙事”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 21 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-371200786854609-dbc9e7/gallery-01.jpg",
+        "alt": "魔女宅急便来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/model-371200786854609-dbc9e7/gallery-02.jpg",
+        "alt": "魔女宅急便来源图 2",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "model-1031678465306772-10c461",
+    "name": "暗裔巨蝎群像",
+    "date": "2026-07-31",
+    "displayDate": "2026.07.31",
+    "format": "STL",
+    "fileCount": 48,
+    "size": "1085.80 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-1031678465306772-10c461/model-1031678465306772-10c461-主图@初艺ouart.png",
+    "description": "由巨蝎、蛛形女王与多种异形生物构成的系列模型，适合小比例军团打印、怪物阵列和暗黑场景编排。",
+    "intro": "2026.07.31 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/17sYnP9i1sMKWla5rbx8qMw",
+    "shareCode": "9e26",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260731",
+    "nameZh": "暗裔巨蝎群像",
+    "nameEn": "Realsteone May Creature Collection",
+    "displayName": "暗裔巨蝎群像｜Realsteone May Creature Collection",
+    "category": "生物/叙事",
+    "mainImageRole": "source_original",
+    "alt": "暗裔巨蝎群像同模型来源图",
+    "author": "来源图标注 REALSTEONE；原作者及许可范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源图标注 REALSTEONE；原作者及许可范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "由巨蝎、蛛形女王与多种异形生物构成的系列模型，适合小比例军团打印、怪物阵列和暗黑场景编排。",
+          "该模型归入“生物/叙事”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 48 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-1031678465306772-10c461/gallery-01.jpg",
+        "alt": "暗裔巨蝎群像来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "model-885854090642432-6b3b8e",
+    "name": "《我是传奇》威尔·史密斯场景",
+    "date": "2026-07-31",
+    "displayDate": "2026.07.31",
+    "format": "STL",
+    "fileCount": 41,
+    "size": "802.45 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-885854090642432-6b3b8e/model-885854090642432-6b3b8e-主图@初艺ouart.png",
+    "description": "人物、犬只、街灯、消防栓与城市标识组成完整末日场景，适合分件打印、写实涂装和叙事陈列。",
+    "intro": "2026.07.31 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1QaIU8AwlfGGaOwdyOxyQTw",
+    "shareCode": "d856",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260731",
+    "nameZh": "《我是传奇》威尔·史密斯场景",
+    "nameEn": "I Am Legend — Will Smith Diorama",
+    "displayName": "《我是传奇》威尔·史密斯场景｜I Am Legend — Will Smith Diorama",
+    "category": "名人肖像",
+    "mainImageRole": "source_original",
+    "alt": "《我是传奇》威尔·史密斯场景同模型来源图",
+    "author": "来源图保留 MXO 标识；原作者及许可范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源图保留 MXO 标识；原作者及许可范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "人物、犬只、街灯、消防栓与城市标识组成完整末日场景，适合分件打印、写实涂装和叙事陈列。",
+          "该模型归入“名人肖像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 41 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-885854090642432-6b3b8e/gallery-01.jpeg",
+        "alt": "《我是传奇》威尔·史密斯场景来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/model-885854090642432-6b3b8e/gallery-02.jpeg",
+        "alt": "《我是传奇》威尔·史密斯场景来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/model-885854090642432-6b3b8e/gallery-03.jpeg",
+        "alt": "《我是传奇》威尔·史密斯场景来源图 3",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "b-00347a",
+    "name": "恐怖修女雕像",
+    "date": "2026-07-31",
+    "displayDate": "2026.07.31",
+    "format": "STL",
+    "fileCount": 7,
+    "size": "564.18 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/b-00347a/b-00347a-主图@初艺ouart.png",
+    "description": "包含全身姿态、替换面部、披风与主题底座，适合树脂打印、恐怖质感涂装和电影角色陈列。",
+    "intro": "2026.07.31 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1J8HjZ6K-8jZ2sdHFBOLO7A",
+    "shareCode": "0521",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260731",
+    "nameZh": "恐怖修女雕像",
+    "nameEn": "The Nun Horror Figure",
+    "displayName": "恐怖修女雕像｜The Nun Horror Figure",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "恐怖修女雕像同模型来源图",
+    "author": "来源图标注 PIKKO Modelador 3D；原作者及许可范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源图标注 PIKKO Modelador 3D；原作者及许可范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "包含全身姿态、替换面部、披风与主题底座，适合树脂打印、恐怖质感涂装和电影角色陈列。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 7 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/b-00347a/gallery-01.jpg",
+        "alt": "恐怖修女雕像来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
     "id": "chibi-going-merry",
     "name": "Q版黄金梅丽号",
     "date": "2026-07-30",

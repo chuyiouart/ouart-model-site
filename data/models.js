@@ -1,5 +1,467 @@
 window.OUART_MODELS = [
   {
+    "id": "model-828491767122651-bcc737",
+    "name": "白甲军官角色模型",
+    "date": "2026-08-01",
+    "displayDate": "2026.08.01",
+    "format": "STL",
+    "fileCount": 14,
+    "size": "800.32 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-828491767122651-bcc737/model-828491767122651-bcc737-主图@初艺ouart.png",
+    "description": "白甲军官造型具有明确的盔甲分区与站姿层次，适合练习硬表面分件装配、洁净底色和磨损细节。",
+    "intro": "2026.08.01 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1sDWLpk0iqWURrpGPrV5Cpw",
+    "shareCode": "8817",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260801",
+    "nameZh": "白甲军官角色模型",
+    "nameEn": "White-Armored Officer Figure",
+    "displayName": "白甲军官角色模型｜White-Armored Officer Figure",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "白甲军官角色模型同模型来源图",
+    "author": "作者未在库存元数据中明确标注；署名与许可范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "作者未在库存元数据中明确标注；署名与许可范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "白甲军官造型具有明确的盔甲分区与站姿层次，适合练习硬表面分件装配、洁净底色和磨损细节。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 14 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-828491767122651-bcc737/gallery-01.png",
+        "alt": "白甲军官角色模型来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "model-721371531093032-90bac6",
+    "name": "美少女战士角色雕像",
+    "date": "2026-08-01",
+    "displayDate": "2026.08.01",
+    "format": "STL",
+    "fileCount": 15,
+    "size": "442.78 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-721371531093032-90bac6/model-721371531093032-90bac6-主图@初艺ouart.png",
+    "description": "经典水手服角色造型，适合表现长发、服装褶皱与配色边界，并用于角色涂装和展示收藏。",
+    "intro": "2026.08.01 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1JJjUaKT-7zs3VIBYXaZqww",
+    "shareCode": "d983",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260801",
+    "nameZh": "美少女战士角色雕像",
+    "nameEn": "Sailor Warrior Character Figure",
+    "displayName": "美少女战士角色雕像｜Sailor Warrior Character Figure",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "美少女战士角色雕像同模型来源图",
+    "author": "作者未在库存元数据中明确标注；署名与许可范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "作者未在库存元数据中明确标注；署名与许可范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "经典水手服角色造型，适合表现长发、服装褶皱与配色边界，并用于角色涂装和展示收藏。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 15 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-721371531093032-90bac6/gallery-01.jpg",
+        "alt": "美少女战士角色雕像来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "model-577709908224805-06eb23",
+    "name": "组合式人物模型",
+    "date": "2026-08-01",
+    "displayDate": "2026.08.01",
+    "format": "STL",
+    "fileCount": 45,
+    "size": "832.06 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-577709908224805-06eb23/model-577709908224805-06eb23-主图@初艺ouart.png",
+    "description": "多分件组合式人物结构便于观察接口、装配顺序与姿态关系，适合模块化打印和后期表面处理。",
+    "intro": "2026.08.01 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1tdlkEH5DA55VUJiq1H8fmA",
+    "shareCode": "f993",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260801",
+    "nameZh": "组合式人物模型",
+    "nameEn": "Modular Character Figure",
+    "displayName": "组合式人物模型｜Modular Character Figure",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "组合式人物模型同模型来源图",
+    "author": "作者未在库存元数据中明确标注；署名与许可范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "作者未在库存元数据中明确标注；署名与许可范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "多分件组合式人物结构便于观察接口、装配顺序与姿态关系，适合模块化打印和后期表面处理。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 45 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-577709908224805-06eb23/gallery-01.jpg",
+        "alt": "组合式人物模型来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "model-555697177971714-ce98cf",
+    "name": "瓶形棺材组件套装",
+    "date": "2026-08-01",
+    "displayDate": "2026.08.01",
+    "format": "STL",
+    "fileCount": 59,
+    "size": "1515.07 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-555697177971714-ce98cf/model-555697177971714-ce98cf-主图@初艺ouart.png",
+    "description": "瓶形与棺材意象结合的多组件套装，可用于哥特主题道具、桌面陈设和结构拼装实验。",
+    "intro": "2026.08.01 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1iIYb_tUbN65w4-Zz1lIpqQ",
+    "shareCode": "6de1",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260801",
+    "nameZh": "瓶形棺材组件套装",
+    "nameEn": "Bottle-Shaped Coffin Parts Set",
+    "displayName": "瓶形棺材组件套装｜Bottle-Shaped Coffin Parts Set",
+    "category": "道具与装饰",
+    "mainImageRole": "source_original",
+    "alt": "瓶形棺材组件套装同模型来源图",
+    "author": "作者未在库存元数据中明确标注；署名与许可范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "作者未在库存元数据中明确标注；署名与许可范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "瓶形与棺材意象结合的多组件套装，可用于哥特主题道具、桌面陈设和结构拼装实验。",
+          "该模型归入“道具与装饰”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 59 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-555697177971714-ce98cf/gallery-01.jpg",
+        "alt": "瓶形棺材组件套装来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "model-497737995640813-1eb6be",
+    "name": "角色特效组件 A",
+    "date": "2026-08-01",
+    "displayDate": "2026.08.01",
+    "format": "STL",
+    "fileCount": 13,
+    "size": "525.33 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-497737995640813-1eb6be/model-497737995640813-1eb6be-主图@初艺ouart.png",
+    "description": "包含多件角色特效与打印工程文件，适合扩展动态展示、透明材质实验和场景能量效果。",
+    "intro": "2026.08.01 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/140ydTnXsFIwZ06Ht0tYVhg",
+    "shareCode": "7723",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260801",
+    "nameZh": "角色特效组件 A",
+    "nameEn": "Character Effects Parts A",
+    "displayName": "角色特效组件 A｜Character Effects Parts A",
+    "category": "场景与特效",
+    "mainImageRole": "source_original",
+    "alt": "角色特效组件 A同模型来源图",
+    "author": "作者未在库存元数据中明确标注；署名与许可范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "作者未在库存元数据中明确标注；署名与许可范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "包含多件角色特效与打印工程文件，适合扩展动态展示、透明材质实验和场景能量效果。",
+          "该模型归入“场景与特效”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 13 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-497737995640813-1eb6be/gallery-01.jpg",
+        "alt": "角色特效组件 A来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "model-369447235580283-fbd810",
+    "name": "角色特效组件 B",
+    "date": "2026-08-01",
+    "displayDate": "2026.08.01",
+    "format": "STL",
+    "fileCount": 43,
+    "size": "1390.45 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-369447235580283-fbd810/model-369447235580283-fbd810-主图@初艺ouart.png",
+    "description": "较丰富的特效分件组合适合构建动作轨迹、能量层次与角色周边场景，并练习多件定位装配。",
+    "intro": "2026.08.01 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1qWBpEHHN5mMOhwhdsVTd_w",
+    "shareCode": "bb9b",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260801",
+    "nameZh": "角色特效组件 B",
+    "nameEn": "Character Effects Parts B",
+    "displayName": "角色特效组件 B｜Character Effects Parts B",
+    "category": "场景与特效",
+    "mainImageRole": "source_original",
+    "alt": "角色特效组件 B同模型来源图",
+    "author": "作者未在库存元数据中明确标注；署名与许可范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "作者未在库存元数据中明确标注；署名与许可范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "较丰富的特效分件组合适合构建动作轨迹、能量层次与角色周边场景，并练习多件定位装配。",
+          "该模型归入“场景与特效”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 43 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-369447235580283-fbd810/gallery-01.jpg",
+        "alt": "角色特效组件 B来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
     "id": "model-298812274889730-f859bc",
     "name": "伏地魔半身像",
     "date": "2026-07-31",

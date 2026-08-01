@@ -1,6 +1,29 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20260801",
+    "date": "2026-08-01",
+    "displayDate": "2026.08.01",
+    "title": "2026.08.01｜OUART 今日六件",
+    "description": "建筑场景、动物雕塑、机械载具与角色主题并置，一次浏览六种可打印方向。",
+    "published": true,
+    "collage": "./assets/batches/2026-08-01/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-08-01 六模型静态拼图",
+    "modelIds": [
+      "model-828491767122651-bcc737",
+      "model-721371531093032-90bac6",
+      "model-577709908224805-06eb23",
+      "model-555697177971714-ce98cf",
+      "model-497737995640813-1eb6be",
+      "model-369447235580283-fbd810"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/11eO8TsbrixG7rAao5VOF1Q",
+    "shareCode": "040b",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-08-01T10:32:01+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20260731",
     "date": "2026-07-31",
     "displayDate": "2026.07.31",

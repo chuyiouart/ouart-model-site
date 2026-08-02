@@ -1,6 +1,29 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20260802",
+    "date": "2026-08-02",
+    "displayDate": "2026.08.02",
+    "title": "2026.08.02｜OUART 今日六件",
+    "description": "建筑场景、动物雕塑、机械载具与角色主题并置，一次浏览六种可打印方向。",
+    "published": true,
+    "collage": "./assets/batches/2026-08-02/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-08-02 六模型静态拼图",
+    "modelIds": [
+      "candle-holder-set-v3-print3dworld-7dbc79",
+      "g-i-robot-mask-print3dworld-820a6c",
+      "model-242271035635727-a49241",
+      "model-1115053564653711-39ff78",
+      "sypha-belnades-1b82e5",
+      "toppers-706d74"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1LdAybXiEpb8acOPJmTJ_iQ",
+    "shareCode": "420b",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-08-02T10:32:18+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20260801",
     "date": "2026-08-01",
     "displayDate": "2026.08.01",

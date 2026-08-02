@@ -1,5 +1,497 @@
 window.OUART_MODELS = [
   {
+    "id": "candle-holder-set-v3-print3dworld-7dbc79",
+    "name": "V3 三件套烛台",
+    "date": "2026-08-02",
+    "displayDate": "2026.08.02",
+    "format": "STL",
+    "fileCount": 3,
+    "size": "629.78 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/candle-holder-set-v3-print3dworld-7dbc79/candle-holder-set-v3-print3dworld-7dbc79-主图@初艺ouart.png",
+    "description": "三件成组的烛台兼顾陈列节奏与实用尺度，适合 FDM 打印、表面纹理处理和家居场景组合。",
+    "intro": "2026.08.02 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/11ppEYZaoR8aXNeF17PyBiQ",
+    "shareCode": "bb4c",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260802",
+    "nameZh": "V3 三件套烛台",
+    "nameEn": "Candle Holder Set V3",
+    "displayName": "V3 三件套烛台｜Candle Holder Set V3",
+    "category": "家居/装饰",
+    "mainImageRole": "source_original",
+    "alt": "V3 三件套烛台同模型来源图",
+    "author": "库存来源标注 Print3DWorld；具体设计者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存来源标注 Print3DWorld；具体设计者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "三件成组的烛台兼顾陈列节奏与实用尺度，适合 FDM 打印、表面纹理处理和家居场景组合。",
+          "该模型归入“家居/装饰”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 3 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/candle-holder-set-v3-print3dworld-7dbc79/gallery-01.jpg",
+        "alt": "V3 三件套烛台来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "g-i-robot-mask-print3dworld-820a6c",
+    "name": "G.I. 机器人面具",
+    "date": "2026-08-02",
+    "displayDate": "2026.08.02",
+    "format": "STL",
+    "fileCount": 26,
+    "size": "721.12 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/g-i-robot-mask-print3dworld-820a6c/g-i-robot-mask-print3dworld-820a6c-主图@初艺ouart.png",
+    "description": "以机器人面罩轮廓和多分件结构为重点，适合尺寸校准、装配测试、旧化涂装与壁挂展示。",
+    "intro": "2026.08.02 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1W9zGAgPX_GKexL_FwBuGCw",
+    "shareCode": "9059",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260802",
+    "nameZh": "G.I. 机器人面具",
+    "nameEn": "G.I. Robot Mask",
+    "displayName": "G.I. 机器人面具｜G.I. Robot Mask",
+    "category": "机械/道具",
+    "mainImageRole": "source_original",
+    "alt": "G.I. 机器人面具同模型来源图",
+    "author": "库存来源标注 Print3DWorld；具体设计者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存来源标注 Print3DWorld；具体设计者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以机器人面罩轮廓和多分件结构为重点，适合尺寸校准、装配测试、旧化涂装与壁挂展示。",
+          "该模型归入“机械/道具”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 26 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/g-i-robot-mask-print3dworld-820a6c/gallery-01.png",
+        "alt": "G.I. 机器人面具来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/g-i-robot-mask-print3dworld-820a6c/gallery-02.png",
+        "alt": "G.I. 机器人面具来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/g-i-robot-mask-print3dworld-820a6c/gallery-03.png",
+        "alt": "G.I. 机器人面具来源图 3",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "model-242271035635727-a49241",
+    "name": "麦当劳叔叔坐姿雕像",
+    "date": "2026-08-02",
+    "displayDate": "2026.08.02",
+    "format": "STL",
+    "fileCount": 4,
+    "size": "312.22 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-242271035635727-a49241/model-242271035635727-a49241-主图@初艺ouart.png",
+    "description": "坐姿角色与座椅形成完整叙事轮廓，适合树脂打印、分色涂装和小型情景陈列。",
+    "intro": "2026.08.02 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1L4WXW-oVo_N9eP3BDpSKGA",
+    "shareCode": "2cce",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260802",
+    "nameZh": "麦当劳叔叔坐姿雕像",
+    "nameEn": "Ronald McDonald Seated Figure",
+    "displayName": "麦当劳叔叔坐姿雕像｜Ronald McDonald Seated Figure",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "麦当劳叔叔坐姿雕像同模型来源图",
+    "author": "库存来源标注“麦当劳坐椅子”；具体设计者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存来源标注“麦当劳坐椅子”；具体设计者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "坐姿角色与座椅形成完整叙事轮廓，适合树脂打印、分色涂装和小型情景陈列。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 4 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-242271035635727-a49241/gallery-01.png",
+        "alt": "麦当劳叔叔坐姿雕像来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "model-1115053564653711-39ff78",
+    "name": "喜多川海梦角色雕像",
+    "date": "2026-08-02",
+    "displayDate": "2026.08.02",
+    "format": "STL",
+    "fileCount": 11,
+    "size": "326.89 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-1115053564653711-39ff78/model-1115053564653711-39ff78-主图@初艺ouart.png",
+    "description": "以人物姿态、服饰细节和分件关系为核心，适合树脂打印、精细装配与角色涂装。",
+    "intro": "2026.08.02 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1XJmhsQC_EYu6-kHToVuBhA",
+    "shareCode": "33a9",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260802",
+    "nameZh": "喜多川海梦角色雕像",
+    "nameEn": "Marin Kitagawa Character Figure",
+    "displayName": "喜多川海梦角色雕像｜Marin Kitagawa Character Figure",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "喜多川海梦角色雕像同模型来源图",
+    "author": "库存来源标注“喜多川海夢”；具体设计者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存来源标注“喜多川海夢”；具体设计者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以人物姿态、服饰细节和分件关系为核心，适合树脂打印、精细装配与角色涂装。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 11 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-1115053564653711-39ff78/gallery-01.jpg",
+        "alt": "喜多川海梦角色雕像来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/model-1115053564653711-39ff78/gallery-02.jpg",
+        "alt": "喜多川海梦角色雕像来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/model-1115053564653711-39ff78/gallery-03.jpg",
+        "alt": "喜多川海梦角色雕像来源图 3",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "sypha-belnades-1b82e5",
+    "name": "赛法·贝尔纳德斯角色雕像",
+    "date": "2026-08-02",
+    "displayDate": "2026.08.02",
+    "format": "STL",
+    "fileCount": 26,
+    "size": "703.77 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/sypha-belnades-1b82e5/sypha-belnades-1b82e5-主图@初艺ouart.png",
+    "description": "强调施法姿态、服饰层次和多分件结构，适合树脂打印、动态构图与冷暖法术效果涂装。",
+    "intro": "2026.08.02 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1cRigApCYaiq9iqK6P1odKQ",
+    "shareCode": "8c2b",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260802",
+    "nameZh": "赛法·贝尔纳德斯角色雕像",
+    "nameEn": "Sypha Belnades",
+    "displayName": "赛法·贝尔纳德斯角色雕像｜Sypha Belnades",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "赛法·贝尔纳德斯角色雕像同模型来源图",
+    "author": "库存来源标注“赛法·贝尔纳德斯（Sypha Belnades）”；具体设计者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存来源标注“赛法·贝尔纳德斯（Sypha Belnades）”；具体设计者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "强调施法姿态、服饰层次和多分件结构，适合树脂打印、动态构图与冷暖法术效果涂装。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 26 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/sypha-belnades-1b82e5/gallery-01.jpg",
+        "alt": "赛法·贝尔纳德斯角色雕像来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/sypha-belnades-1b82e5/gallery-02.jpg",
+        "alt": "赛法·贝尔纳德斯角色雕像来源图 2",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "toppers-706d74",
+    "name": "破裂冰面场景组件",
+    "date": "2026-08-02",
+    "displayDate": "2026.08.02",
+    "format": "STL",
+    "fileCount": 47,
+    "size": "599.25 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/toppers-706d74/toppers-706d74-主图@初艺ouart.png",
+    "description": "以裂冰纹理和层叠地表构成环境组件，适合场景底座、寒地叙事与透明材质效果实验。",
+    "intro": "2026.08.02 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1V9HFTZtEslhqCYmWJBYsxw",
+    "shareCode": "9181",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260802",
+    "nameZh": "破裂冰面场景组件",
+    "nameEn": "Cracked Ice Scenic Toppers",
+    "displayName": "破裂冰面场景组件｜Cracked Ice Scenic Toppers",
+    "category": "场景/叙事",
+    "mainImageRole": "source_original",
+    "alt": "破裂冰面场景组件同模型来源图",
+    "author": "库存来源标注“破裂冰面造型 Toppers”；具体设计者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存来源标注“破裂冰面造型 Toppers”；具体设计者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以裂冰纹理和层叠地表构成环境组件，适合场景底座、寒地叙事与透明材质效果实验。",
+          "该模型归入“场景/叙事”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 47 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/toppers-706d74/gallery-01.jpg",
+        "alt": "破裂冰面场景组件来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/toppers-706d74/gallery-02.jpg",
+        "alt": "破裂冰面场景组件来源图 2",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
     "id": "model-828491767122651-bcc737",
     "name": "白甲军官角色模型",
     "date": "2026-08-01",

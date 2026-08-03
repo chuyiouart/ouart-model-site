@@ -1,6 +1,29 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20260803",
+    "date": "2026-08-03",
+    "displayDate": "2026.08.03",
+    "title": "2026.08.03｜OUART 今日六件",
+    "description": "建筑场景、动物雕塑、机械载具与角色主题并置，一次浏览六种可打印方向。",
+    "published": true,
+    "collage": "./assets/batches/2026-08-03/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-08-03 六模型静态拼图",
+    "modelIds": [
+      "model-1104723657520705-e00553",
+      "harry-potter-stl-844373",
+      "turbo-granny-presupported-e5b51b",
+      "nerikson-queen-of-spades-bust-t-me-9981c3",
+      "ryu-dd29ac",
+      "starter-poktmon-and-evolutions-and-pikachu-set-70be58"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1PGsYJwanfFwCJwS_upv8zg",
+    "shareCode": "1757",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-08-03T10:31:18+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20260802",
     "date": "2026-08-02",
     "displayDate": "2026.08.02",

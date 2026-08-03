@@ -1,5 +1,517 @@
 window.OUART_MODELS = [
   {
+    "id": "model-1104723657520705-e00553",
+    "name": "电锯人",
+    "date": "2026-08-03",
+    "displayDate": "2026.08.03",
+    "format": "STL",
+    "fileCount": 39,
+    "size": "1386.53 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-1104723657520705-e00553/model-1104723657520705-e00553-主图@初艺ouart.png",
+    "description": "多分件角色套件突出电锯轮廓与动态姿态，适合树脂打印、分区装配及金属与血色质感涂装。",
+    "intro": "2026.08.03 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/11zx1X8G90Mai9o8W2g9htw",
+    "shareCode": "0b9b",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260803",
+    "nameZh": "电锯人",
+    "nameEn": "电锯人",
+    "displayName": "电锯人",
+    "category": "动漫角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "电锯人同模型来源图",
+    "author": "原库存未标明作者；作品题材为《电锯人》，作者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "原库存未标明作者；作品题材为《电锯人》，作者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "多分件角色套件突出电锯轮廓与动态姿态，适合树脂打印、分区装配及金属与血色质感涂装。",
+          "该模型归入“动漫角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 39 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-1104723657520705-e00553/gallery-01.jpg",
+        "alt": "电锯人来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/model-1104723657520705-e00553/gallery-02.jpg",
+        "alt": "电锯人来源图 2",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "harry-potter-stl-844373",
+    "name": "哈利波特",
+    "date": "2026-08-03",
+    "displayDate": "2026.08.03",
+    "format": "STL",
+    "fileCount": 8,
+    "size": "661.29 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/harry-potter-stl-844373/harry-potter-stl-844373-主图@初艺ouart.png",
+    "description": "以巫师服饰、道具和人物识别特征为重点，适合角色收藏打印、细节刻画与学院主题配色。",
+    "intro": "2026.08.03 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1DxQwtw-RBYlMOjmWq62_ww",
+    "shareCode": "bc7f",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260803",
+    "nameZh": "哈利波特",
+    "nameEn": "Harry Potter STL",
+    "displayName": "哈利波特",
+    "category": "影视角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "哈利波特同模型来源图",
+    "author": "原库存未标明作者；作品题材为《哈利·波特》，作者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "原库存未标明作者；作品题材为《哈利·波特》，作者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以巫师服饰、道具和人物识别特征为重点，适合角色收藏打印、细节刻画与学院主题配色。",
+          "该模型归入“影视角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 8 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/harry-potter-stl-844373/gallery-01.jpg",
+        "alt": "哈利波特来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/harry-potter-stl-844373/gallery-02.jpg",
+        "alt": "哈利波特来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/harry-potter-stl-844373/gallery-03.jpg",
+        "alt": "哈利波特来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/harry-potter-stl-844373/gallery-04.jpg",
+        "alt": "哈利波特来源图 4",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "turbo-granny-presupported-e5b51b",
+    "name": "高速婆婆",
+    "date": "2026-08-03",
+    "displayDate": "2026.08.03",
+    "format": "STL",
+    "fileCount": 9,
+    "size": "342.21 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/turbo-granny-presupported-e5b51b/turbo-granny-presupported-e5b51b-主图@初艺ouart.png",
+    "description": "夸张面部与高速动作感形成鲜明叙事性，预支撑分件适合树脂打印并可强化旧化、皮肤与服饰对比。",
+    "intro": "2026.08.03 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1RYk2RTTH2-5eZNm5nLRvmA",
+    "shareCode": "b09d",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260803",
+    "nameZh": "高速婆婆",
+    "nameEn": "Turbo Granny Presupported",
+    "displayName": "高速婆婆",
+    "category": "怪物与叙事",
+    "mainImageRole": "source_original",
+    "alt": "高速婆婆同模型来源图",
+    "author": "原库存标注“Turbo Granny Presupported”；具体作者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "原库存标注“Turbo Granny Presupported”；具体作者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "夸张面部与高速动作感形成鲜明叙事性，预支撑分件适合树脂打印并可强化旧化、皮肤与服饰对比。",
+          "该模型归入“怪物与叙事”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 9 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/turbo-granny-presupported-e5b51b/gallery-01.png",
+        "alt": "高速婆婆来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "nerikson-queen-of-spades-bust-t-me-9981c3",
+    "name": "黑桃皇后",
+    "date": "2026-08-03",
+    "displayDate": "2026.08.03",
+    "format": "STL",
+    "fileCount": 6,
+    "size": "437.33 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/nerikson-queen-of-spades-bust-t-me-9981c3/nerikson-queen-of-spades-bust-t-me-9981c3-主图@初艺ouart.png",
+    "description": "胸像构图集中呈现面部、冠饰与服装层次，适合高精度树脂打印以及黑、红、金主题涂装。",
+    "intro": "2026.08.03 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1r9L8HREjitcqcCWXf9HQBw",
+    "shareCode": "da47",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260803",
+    "nameZh": "黑桃皇后",
+    "nameEn": "Nerikson Queen of Spades Bust t.me_MOXOMOR_aka",
+    "displayName": "黑桃皇后",
+    "category": "胸像雕塑",
+    "mainImageRole": "source_original",
+    "alt": "黑桃皇后同模型来源图",
+    "author": "Nerikson（据库存名称标注）；具体作者归属、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "Nerikson（据库存名称标注）；具体作者归属、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "胸像构图集中呈现面部、冠饰与服装层次，适合高精度树脂打印以及黑、红、金主题涂装。",
+          "该模型归入“胸像雕塑”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 6 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/nerikson-queen-of-spades-bust-t-me-9981c3/gallery-01.jpg",
+        "alt": "黑桃皇后来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/nerikson-queen-of-spades-bust-t-me-9981c3/gallery-02.jpg",
+        "alt": "黑桃皇后来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/nerikson-queen-of-spades-bust-t-me-9981c3/gallery-03.jpg",
+        "alt": "黑桃皇后来源图 3",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "ryu-dd29ac",
+    "name": "隆",
+    "date": "2026-08-03",
+    "displayDate": "2026.08.03",
+    "format": "STL",
+    "fileCount": 39,
+    "size": "702.82 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/ryu-dd29ac/ryu-dd29ac-主图@初艺ouart.png",
+    "description": "格斗姿态与道服褶皱提供清晰视觉重心，多分件结构适合树脂打印、装配和肌理层次涂装。",
+    "intro": "2026.08.03 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1JStjBMZky11tBhG6XUKbdQ",
+    "shareCode": "e312",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260803",
+    "nameZh": "隆",
+    "nameEn": "Ryu",
+    "displayName": "隆",
+    "category": "格斗角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "隆同模型来源图",
+    "author": "原库存未标明作者；角色标注为 Ryu，作者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "原库存未标明作者；角色标注为 Ryu，作者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "格斗姿态与道服褶皱提供清晰视觉重心，多分件结构适合树脂打印、装配和肌理层次涂装。",
+          "该模型归入“格斗角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 39 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/ryu-dd29ac/gallery-01.png",
+        "alt": "隆来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "starter-poktmon-and-evolutions-and-pikachu-set-70be58",
+    "name": "卡宝可梦",
+    "date": "2026-08-03",
+    "displayDate": "2026.08.03",
+    "format": "STL",
+    "fileCount": 10,
+    "size": "1011.77 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/starter-poktmon-and-evolutions-and-pikachu-set-70be58/starter-poktmon-and-evolutions-and-pikachu-set-70be58-主图@初艺ouart.png",
+    "description": "以角色轮廓、姿态和分件结构为核心，适合树脂打印、装配与重点涂装。",
+    "intro": "2026.08.03 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1y3FHOE63TFFiWSrt6X5eww",
+    "shareCode": "2641",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260803",
+    "nameZh": "卡宝可梦",
+    "nameEn": "Starter_Poktmon_and_Evolutions_and_Pikachu_Set_of_10_t_me_MOXOMOR",
+    "displayName": "卡宝可梦",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "卡宝可梦同模型来源图",
+    "author": "来源库存标注 卡宝可梦Starter_Poktmon_and_Evolutions_and_Pikachu_Set_of_10_t_me_MOXOMOR；具体作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注 卡宝可梦Starter_Poktmon_and_Evolutions_and_Pikachu_Set_of_10_t_me_MOXOMOR；具体作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以角色轮廓、姿态和分件结构为核心，适合树脂打印、装配与重点涂装。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 10 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/starter-poktmon-and-evolutions-and-pikachu-set-70be58/gallery-01.jpg",
+        "alt": "卡宝可梦来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/starter-poktmon-and-evolutions-and-pikachu-set-70be58/gallery-02.jpeg",
+        "alt": "卡宝可梦来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/starter-poktmon-and-evolutions-and-pikachu-set-70be58/gallery-03.jpeg",
+        "alt": "卡宝可梦来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/starter-poktmon-and-evolutions-and-pikachu-set-70be58/gallery-04.jpeg",
+        "alt": "卡宝可梦来源图 4",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/starter-poktmon-and-evolutions-and-pikachu-set-70be58/gallery-05.jpg",
+        "alt": "卡宝可梦来源图 5",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
     "id": "candle-holder-set-v3-print3dworld-7dbc79",
     "name": "V3 三件套烛台",
     "date": "2026-08-02",

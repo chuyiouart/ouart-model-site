@@ -1,7 +1,7 @@
 window.OUART_MODELS = [
   {
     "id": "model-1104723657520705-e00553",
-    "name": "电锯人",
+    "name": "玛琪玛与电次｜Makima & Denji — Chainsaw Man",
     "date": "2026-08-03",
     "displayDate": "2026.08.03",
     "format": "STL",
@@ -16,12 +16,12 @@ window.OUART_MODELS = [
     "published": true,
     "schemaVersion": 6,
     "batchId": "ouart-daily-six-20260803",
-    "nameZh": "电锯人",
-    "nameEn": "电锯人",
-    "displayName": "电锯人",
+    "nameZh": "玛琪玛与电次",
+    "nameEn": "Makima & Denji — Chainsaw Man",
+    "displayName": "玛琪玛与电次｜Makima & Denji — Chainsaw Man",
     "category": "动漫角色雕像",
     "mainImageRole": "source_original",
-    "alt": "电锯人同模型来源图",
+    "alt": "玛琪玛与电次｜Makima & Denji — Chainsaw Man 同模型来源图",
     "author": "原库存未标明作者；作品题材为《电锯人》，作者、许可与使用范围以原始文件说明为准",
     "license": "许可请以原始发布者说明为准",
     "authorLicense": {
@@ -71,19 +71,19 @@ window.OUART_MODELS = [
     "gallery": [
       {
         "src": "./assets/models/model-1104723657520705-e00553/gallery-01.jpg",
-        "alt": "电锯人来源图 1",
+        "alt": "玛琪玛与电次｜Makima & Denji — Chainsaw Man 来源图 1",
         "label": "来源图"
       },
       {
         "src": "./assets/models/model-1104723657520705-e00553/gallery-02.jpg",
-        "alt": "电锯人来源图 2",
+        "alt": "玛琪玛与电次｜Makima & Denji — Chainsaw Man 来源图 2",
         "label": "来源图"
       }
     ]
   },
   {
     "id": "harry-potter-stl-844373",
-    "name": "哈利波特",
+    "name": "哈利·波特｜Harry Potter",
     "date": "2026-08-03",
     "displayDate": "2026.08.03",
     "format": "STL",
@@ -98,12 +98,12 @@ window.OUART_MODELS = [
     "published": true,
     "schemaVersion": 6,
     "batchId": "ouart-daily-six-20260803",
-    "nameZh": "哈利波特",
-    "nameEn": "Harry Potter STL",
-    "displayName": "哈利波特",
+    "nameZh": "哈利·波特",
+    "nameEn": "Harry Potter",
+    "displayName": "哈利·波特｜Harry Potter",
     "category": "影视角色雕像",
     "mainImageRole": "source_original",
-    "alt": "哈利波特同模型来源图",
+    "alt": "哈利·波特｜Harry Potter 同模型来源图",
     "author": "原库存未标明作者；作品题材为《哈利·波特》，作者、许可与使用范围以原始文件说明为准",
     "license": "许可请以原始发布者说明为准",
     "authorLicense": {
@@ -153,29 +153,29 @@ window.OUART_MODELS = [
     "gallery": [
       {
         "src": "./assets/models/harry-potter-stl-844373/gallery-01.jpg",
-        "alt": "哈利波特来源图 1",
+        "alt": "哈利·波特｜Harry Potter 来源图 1",
         "label": "来源图"
       },
       {
         "src": "./assets/models/harry-potter-stl-844373/gallery-02.jpg",
-        "alt": "哈利波特来源图 2",
+        "alt": "哈利·波特｜Harry Potter 来源图 2",
         "label": "来源图"
       },
       {
         "src": "./assets/models/harry-potter-stl-844373/gallery-03.jpg",
-        "alt": "哈利波特来源图 3",
+        "alt": "哈利·波特｜Harry Potter 来源图 3",
         "label": "来源图"
       },
       {
         "src": "./assets/models/harry-potter-stl-844373/gallery-04.jpg",
-        "alt": "哈利波特来源图 4",
+        "alt": "哈利·波特｜Harry Potter 来源图 4",
         "label": "来源图"
       }
     ]
   },
   {
     "id": "turbo-granny-presupported-e5b51b",
-    "name": "高速婆婆",
+    "name": "高速婆婆｜Turbo Granny (Presupported)",
     "date": "2026-08-03",
     "displayDate": "2026.08.03",
     "format": "STL",
@@ -191,11 +191,11 @@ window.OUART_MODELS = [
     "schemaVersion": 6,
     "batchId": "ouart-daily-six-20260803",
     "nameZh": "高速婆婆",
-    "nameEn": "Turbo Granny Presupported",
-    "displayName": "高速婆婆",
+    "nameEn": "Turbo Granny (Presupported)",
+    "displayName": "高速婆婆｜Turbo Granny (Presupported)",
     "category": "怪物与叙事",
     "mainImageRole": "source_original",
-    "alt": "高速婆婆同模型来源图",
+    "alt": "高速婆婆｜Turbo Granny (Presupported) 同模型来源图",
     "author": "原库存标注“Turbo Granny Presupported”；具体作者、许可与使用范围以原始文件说明为准",
     "license": "许可请以原始发布者说明为准",
     "authorLicense": {
@@ -245,14 +245,14 @@ window.OUART_MODELS = [
     "gallery": [
       {
         "src": "./assets/models/turbo-granny-presupported-e5b51b/gallery-01.png",
-        "alt": "高速婆婆来源图 1",
+        "alt": "高速婆婆｜Turbo Granny (Presupported) 来源图 1",
         "label": "来源图"
       }
     ]
   },
   {
     "id": "nerikson-queen-of-spades-bust-t-me-9981c3",
-    "name": "黑桃皇后",
+    "name": "黑桃皇后胸像｜Queen of Spades Bust — Nerikson",
     "date": "2026-08-03",
     "displayDate": "2026.08.03",
     "format": "STL",
@@ -267,12 +267,12 @@ window.OUART_MODELS = [
     "published": true,
     "schemaVersion": 6,
     "batchId": "ouart-daily-six-20260803",
-    "nameZh": "黑桃皇后",
-    "nameEn": "Nerikson Queen of Spades Bust t.me_MOXOMOR_aka",
-    "displayName": "黑桃皇后",
+    "nameZh": "黑桃皇后胸像",
+    "nameEn": "Queen of Spades Bust — Nerikson",
+    "displayName": "黑桃皇后胸像｜Queen of Spades Bust — Nerikson",
     "category": "胸像雕塑",
     "mainImageRole": "source_original",
-    "alt": "黑桃皇后同模型来源图",
+    "alt": "黑桃皇后胸像｜Queen of Spades Bust — Nerikson 同模型来源图",
     "author": "Nerikson（据库存名称标注）；具体作者归属、许可与使用范围以原始文件说明为准",
     "license": "许可请以原始发布者说明为准",
     "authorLicense": {
@@ -322,24 +322,24 @@ window.OUART_MODELS = [
     "gallery": [
       {
         "src": "./assets/models/nerikson-queen-of-spades-bust-t-me-9981c3/gallery-01.jpg",
-        "alt": "黑桃皇后来源图 1",
+        "alt": "黑桃皇后胸像｜Queen of Spades Bust — Nerikson 来源图 1",
         "label": "来源图"
       },
       {
         "src": "./assets/models/nerikson-queen-of-spades-bust-t-me-9981c3/gallery-02.jpg",
-        "alt": "黑桃皇后来源图 2",
+        "alt": "黑桃皇后胸像｜Queen of Spades Bust — Nerikson 来源图 2",
         "label": "来源图"
       },
       {
         "src": "./assets/models/nerikson-queen-of-spades-bust-t-me-9981c3/gallery-03.jpg",
-        "alt": "黑桃皇后来源图 3",
+        "alt": "黑桃皇后胸像｜Queen of Spades Bust — Nerikson 来源图 3",
         "label": "来源图"
       }
     ]
   },
   {
     "id": "ryu-dd29ac",
-    "name": "隆",
+    "name": "隆｜Ryu",
     "date": "2026-08-03",
     "displayDate": "2026.08.03",
     "format": "STL",
@@ -356,10 +356,10 @@ window.OUART_MODELS = [
     "batchId": "ouart-daily-six-20260803",
     "nameZh": "隆",
     "nameEn": "Ryu",
-    "displayName": "隆",
+    "displayName": "隆｜Ryu",
     "category": "格斗角色雕像",
     "mainImageRole": "source_original",
-    "alt": "隆同模型来源图",
+    "alt": "隆｜Ryu 同模型来源图",
     "author": "原库存未标明作者；角色标注为 Ryu，作者、许可与使用范围以原始文件说明为准",
     "license": "许可请以原始发布者说明为准",
     "authorLicense": {
@@ -409,14 +409,14 @@ window.OUART_MODELS = [
     "gallery": [
       {
         "src": "./assets/models/ryu-dd29ac/gallery-01.png",
-        "alt": "隆来源图 1",
+        "alt": "隆｜Ryu 来源图 1",
         "label": "来源图"
       }
     ]
   },
   {
     "id": "starter-poktmon-and-evolutions-and-pikachu-set-70be58",
-    "name": "卡宝可梦",
+    "name": "宝可梦初始伙伴进化组与皮卡丘套装｜Starter Pokémon Evolutions and Pikachu Set (10 Pieces)",
     "date": "2026-08-03",
     "displayDate": "2026.08.03",
     "format": "STL",
@@ -431,12 +431,12 @@ window.OUART_MODELS = [
     "published": true,
     "schemaVersion": 6,
     "batchId": "ouart-daily-six-20260803",
-    "nameZh": "卡宝可梦",
-    "nameEn": "Starter_Poktmon_and_Evolutions_and_Pikachu_Set_of_10_t_me_MOXOMOR",
-    "displayName": "卡宝可梦",
+    "nameZh": "宝可梦初始伙伴进化组与皮卡丘套装",
+    "nameEn": "Starter Pokémon Evolutions and Pikachu Set (10 Pieces)",
+    "displayName": "宝可梦初始伙伴进化组与皮卡丘套装｜Starter Pokémon Evolutions and Pikachu Set (10 Pieces)",
     "category": "角色雕像",
     "mainImageRole": "source_original",
-    "alt": "卡宝可梦同模型来源图",
+    "alt": "宝可梦初始伙伴进化组与皮卡丘套装｜Starter Pokémon Evolutions and Pikachu Set (10 Pieces) 同模型来源图",
     "author": "来源库存标注 卡宝可梦Starter_Poktmon_and_Evolutions_and_Pikachu_Set_of_10_t_me_MOXOMOR；具体作者与授权范围以原始文件说明为准",
     "license": "许可请以原始发布者说明为准",
     "authorLicense": {
@@ -486,27 +486,27 @@ window.OUART_MODELS = [
     "gallery": [
       {
         "src": "./assets/models/starter-poktmon-and-evolutions-and-pikachu-set-70be58/gallery-01.jpg",
-        "alt": "卡宝可梦来源图 1",
+        "alt": "宝可梦初始伙伴进化组与皮卡丘套装｜Starter Pokémon Evolutions and Pikachu Set (10 Pieces) 来源图 1",
         "label": "来源图"
       },
       {
         "src": "./assets/models/starter-poktmon-and-evolutions-and-pikachu-set-70be58/gallery-02.jpeg",
-        "alt": "卡宝可梦来源图 2",
+        "alt": "宝可梦初始伙伴进化组与皮卡丘套装｜Starter Pokémon Evolutions and Pikachu Set (10 Pieces) 来源图 2",
         "label": "来源图"
       },
       {
         "src": "./assets/models/starter-poktmon-and-evolutions-and-pikachu-set-70be58/gallery-03.jpeg",
-        "alt": "卡宝可梦来源图 3",
+        "alt": "宝可梦初始伙伴进化组与皮卡丘套装｜Starter Pokémon Evolutions and Pikachu Set (10 Pieces) 来源图 3",
         "label": "来源图"
       },
       {
         "src": "./assets/models/starter-poktmon-and-evolutions-and-pikachu-set-70be58/gallery-04.jpeg",
-        "alt": "卡宝可梦来源图 4",
+        "alt": "宝可梦初始伙伴进化组与皮卡丘套装｜Starter Pokémon Evolutions and Pikachu Set (10 Pieces) 来源图 4",
         "label": "来源图"
       },
       {
         "src": "./assets/models/starter-poktmon-and-evolutions-and-pikachu-set-70be58/gallery-05.jpg",
-        "alt": "卡宝可梦来源图 5",
+        "alt": "宝可梦初始伙伴进化组与皮卡丘套装｜Starter Pokémon Evolutions and Pikachu Set (10 Pieces) 来源图 5",
         "label": "来源图"
       }
     ]

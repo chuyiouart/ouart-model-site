@@ -675,6 +675,13 @@
     section.className = "model-community-cta";
     section.setAttribute("aria-label", "加入OUART模型交流群");
 
+    const telegram = document.createElement("a");
+    telegram.className = "model-community-telegram";
+    telegram.href = "https://t.me/OUARTSTL";
+    telegram.target = "_blank";
+    telegram.rel = "noopener noreferrer";
+    telegram.textContent = "点击加入 OUART STL Telegram 频道";
+
     const text = document.createElement("p");
     text.textContent = "可加微信“chuyimeishu01”，备注“模型资源”入群！";
 
@@ -688,7 +695,7 @@
     image.height = 472;
     image.loading = "eager";
 
-    section.append(text, image);
+    section.append(telegram, text, image);
     detailPage.appendChild(section);
   }
 

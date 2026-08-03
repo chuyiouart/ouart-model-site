@@ -6,15 +6,35 @@ const model = fs.readFileSync('model.html', 'utf8');
 const legacy = fs.readFileSync('content/posts/8198.html', 'utf8');
 const home = fs.readFileSync('index.html', 'utf8');
 const text = '可加微信“chuyimeishu01”，备注“模型资源”入群！';
+const channelBlue = '#006699';
+const luminance = (hex) => {
+  const values = hex.match(/[0-9a-f]{2}/gi).map((pair) => parseInt(pair, 16) / 255)
+    .map((value) => value <= 0.04045 ? value / 12.92 : ((value + 0.055) / 1.055) ** 2.4);
+  return 0.2126 * values[0] + 0.7152 * values[1] + 0.0722 * values[2];
+};
+const contrast = (a, b) => {
+  const values = [luminance(a), luminance(b)].sort((x, y) => y - x);
+  return (values[0] + 0.05) / (values[1] + 0.05);
+};
 assert.ok(js.includes(text));
 assert.ok(js.includes('.detail-page, .legacy-detail'));
 assert.ok(js.includes('getElementById("model-community-cta")'));
 assert.ok(js.includes('/ouart-model-site/assets/shared/wechat-model-group-qr.png'));
 assert.ok(js.includes('扫码添加微信，备注模型资源入群'));
+assert.ok(js.includes('https://t.me/OUARTSTL'));
+assert.ok(js.includes('点击加入 OUART STL Telegram 频道'));
+assert.ok(js.includes('telegram.target = "_blank"'));
+assert.ok(js.includes('telegram.rel = "noopener noreferrer"'));
+assert.ok(js.includes('section.append(telegram, text, image)'));
 assert.ok(css.includes('.model-community-cta'));
+assert.ok(css.includes('.model-community-telegram'));
+assert.ok(css.includes(channelBlue));
+assert.ok(contrast(channelBlue, '#ffffff') >= 4.5);
 assert.ok(css.includes('width: 220px'));
 assert.ok(css.includes('width: 180px'));
 assert.ok(model.includes('class="detail-page"'));
+assert.ok(model.includes('./styles.css?v=detail-telegram-v2'));
+assert.ok(model.includes('./site.js?v=detail-telegram-v2'));
 assert.ok(legacy.includes('class="legacy-detail"'));
 assert.ok(!home.includes('model-community-cta'));
 assert.ok(fs.statSync('assets/shared/wechat-model-group-qr.png').size > 0);

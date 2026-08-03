@@ -227,6 +227,26 @@ main { width: min(100%, var(--max)); margin: 0 auto; padding-inline: var(--gutte
   font-weight: 700;
   line-height: 1.7;
 }
+.model-community-telegram {
+  display: inline-flex;
+  min-height: 48px;
+  padding: 0 26px;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #006699;
+  color: #006699;
+  font-weight: 700;
+  text-decoration: none;
+}
+.model-community-telegram:hover,
+.model-community-telegram:focus-visible {
+  background: #006699;
+  color: #fff;
+}
+.model-community-telegram:focus-visible {
+  outline: 3px solid #111;
+  outline-offset: 3px;
+}
 .model-community-cta img {
   width: 220px;
   height: auto;

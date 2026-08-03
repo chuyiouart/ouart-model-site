@@ -57,9 +57,14 @@ main { width: min(100%, var(--max)); margin: 0 auto; padding-inline: var(--gutte
 .daily-quote figcaption { margin-top: 10px; display: flex; flex-wrap: wrap; align-items: center; gap: 8px 14px; color: #8a8a8a; font-size: 12px; line-height: 1.55; }
 .daily-quote figcaption a { color: var(--accent); font-weight: 700; }
 .daily-quote figcaption a[hidden] { display: none; }
+.hero-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; }
 .primary-button { width: fit-content; min-height: 54px; padding: 0 24px; border: 1px solid var(--accent); background: var(--accent); color: #fff; display: inline-flex; align-items: center; justify-content: center; gap: 52px; font-size: 15px; font-weight: 700; transition: background 160ms ease, transform 160ms ease; }
 .primary-button:hover { background: var(--accent-dark); transform: translateY(-1px); }
 .primary-button svg, .back-link svg, .row-arrow svg { width: 22px; fill: none; stroke: currentColor; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
+.telegram-button { width: fit-content; min-height: 54px; padding: 0 20px; border: 1px solid #111; background: #111; color: #fff; display: inline-flex; align-items: center; justify-content: center; gap: 18px; font-size: 15px; font-weight: 700; transition: background 160ms ease, transform 160ms ease; }
+.telegram-button:hover { background: #2d2d2d; transform: translateY(-1px); }
+.telegram-button svg { width: 20px; fill: currentColor; }
+.primary-button:focus-visible, .telegram-button:focus-visible { outline: 3px solid color-mix(in srgb, var(--accent) 46%, transparent); outline-offset: 3px; }
 .search-field { margin-top: 28px; width: min(100%, 510px); height: 54px; display: flex; align-items: center; gap: 14px; padding: 0 17px; border: 1px solid var(--line); background: #fff; transition: border-color 160ms ease; }
 .search-field:focus-within { border-color: var(--accent); }
 .search-field svg { width: 21px; fill: none; stroke: currentColor; stroke-width: 1.5; }
@@ -262,7 +267,10 @@ main { width: min(100%, var(--max)); margin: 0 auto; padding-inline: var(--gutte
   .hero-copy h1 { font-size: clamp(40px, 12vw, 58px); }
   .daily-quote { margin: 16px 0 22px; }
   .daily-quote blockquote { font-size: 16px; }
+  .hero-actions { width: 100%; display: grid; grid-template-columns: 1fr; }
+  .hero-actions .primary-button, .hero-actions .telegram-button { width: 100%; justify-content: space-between; }
   .primary-button { min-height: 50px; }
+  .telegram-button { min-height: 50px; }
   .model-row { min-height: 84px; grid-template-columns: 92px 1fr 38px; }
   .model-summary { padding: 12px 14px; gap: 7px; }
   .model-summary strong { font-size: 15px; }

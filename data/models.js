@@ -1,5 +1,482 @@
 window.OUART_MODELS = [
   {
+    "id": "joker-bust-7bfd98",
+    "name": "小丑胸像｜Joker Bust",
+    "date": "2026-08-04",
+    "displayDate": "2026.08.04",
+    "format": "STL",
+    "fileCount": 5,
+    "size": "323.65 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/joker-bust-7bfd98/joker-bust-7bfd98-主图@初艺ouart.png",
+    "description": "突出夸张面部表情与胸像体块，适合练习树脂打印、肤色层次、服装材质和展示底座处理。",
+    "intro": "2026.08.04 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1EH3G2MCAUjU5tNhSqypuYw",
+    "shareCode": "366f",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260804",
+    "nameZh": "小丑胸像",
+    "nameEn": "Joker Bust",
+    "displayName": "小丑胸像｜Joker Bust",
+    "category": "角色胸像",
+    "mainImageRole": "source_original",
+    "alt": "小丑胸像｜Joker Bust同模型来源图",
+    "author": "来源库存未提供可独立核验的作者信息；具体作者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存未提供可独立核验的作者信息；具体作者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "突出夸张面部表情与胸像体块，适合练习树脂打印、肤色层次、服装材质和展示底座处理。",
+          "该模型归入“角色胸像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 5 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/joker-bust-7bfd98/gallery-01.jpg",
+        "alt": "小丑胸像｜Joker Bust来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "jesus-christ-jesus-cristo-d34871",
+    "name": "耶稣雕像｜Jesus Christ Sculpture",
+    "date": "2026-08-04",
+    "displayDate": "2026.08.04",
+    "format": "STL",
+    "fileCount": 2,
+    "size": "690.91 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/jesus-christ-jesus-cristo-d34871/jesus-christ-jesus-cristo-d34871-主图@初艺ouart.png",
+    "description": "以人物神态、衣褶与纪念性构图为重点，适合树脂打印、石材质感涂装及静态陈设。",
+    "intro": "2026.08.04 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1tHD_wOUQBCCyWugIfQ-JPg",
+    "shareCode": "d5b7",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260804",
+    "nameZh": "耶稣雕像",
+    "nameEn": "Jesus Christ Sculpture",
+    "displayName": "耶稣雕像｜Jesus Christ Sculpture",
+    "category": "宗教雕塑",
+    "mainImageRole": "source_original",
+    "alt": "耶稣雕像｜Jesus Christ Sculpture同模型来源图",
+    "author": "来源库存未提供可独立核验的作者信息；具体作者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存未提供可独立核验的作者信息；具体作者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以人物神态、衣褶与纪念性构图为重点，适合树脂打印、石材质感涂装及静态陈设。",
+          "该模型归入“宗教雕塑”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 2 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/jesus-christ-jesus-cristo-d34871/gallery-01.jpg",
+        "alt": "耶稣雕像｜Jesus Christ Sculpture来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "tanukifigures-2025-02-chihiro-chibi-752c76",
+    "name": "千寻与无脸男｜Chihiro & No-Face Chibi",
+    "date": "2026-08-04",
+    "displayDate": "2026.08.04",
+    "format": "STL",
+    "fileCount": 13,
+    "size": "1167.28 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/tanukifigures-2025-02-chihiro-chibi-752c76/tanukifigures-2025-02-chihiro-chibi-752c76-主图@初艺ouart.png",
+    "description": "以双角色关系和场景化陈列为重点，适合分件装配、色块控制与小型叙事展示。",
+    "intro": "2026.08.04 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1ySs3KX-sTgFdLNEsCMwQzg",
+    "shareCode": "c097",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260804",
+    "nameZh": "千寻与无脸男",
+    "nameEn": "Chihiro & No-Face Chibi",
+    "displayName": "千寻与无脸男｜Chihiro & No-Face Chibi",
+    "category": "动漫场景",
+    "mainImageRole": "source_original",
+    "alt": "千寻与无脸男｜Chihiro & No-Face Chibi同模型来源图",
+    "author": "来源库存标注 TanukiFigures；具体作者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注 TanukiFigures；具体作者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以双角色关系和场景化陈列为重点，适合分件装配、色块控制与小型叙事展示。",
+          "该模型归入“动漫场景”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 13 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/tanukifigures-2025-02-chihiro-chibi-752c76/gallery-01.jpg",
+        "alt": "千寻与无脸男｜Chihiro & No-Face Chibi来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/tanukifigures-2025-02-chihiro-chibi-752c76/gallery-02.jpg",
+        "alt": "千寻与无脸男｜Chihiro & No-Face Chibi来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/tanukifigures-2025-02-chihiro-chibi-752c76/gallery-03.jpg",
+        "alt": "千寻与无脸男｜Chihiro & No-Face Chibi来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/tanukifigures-2025-02-chihiro-chibi-752c76/gallery-04.jpg",
+        "alt": "千寻与无脸男｜Chihiro & No-Face Chibi来源图 4",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "futurama-coleccion-completa-dc81df",
+    "name": "飞出个未来角色合集｜Futurama Character Collection",
+    "date": "2026-08-04",
+    "displayDate": "2026.08.04",
+    "format": "STL",
+    "fileCount": 17,
+    "size": "393.43 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/futurama-coleccion-completa-dc81df/futurama-coleccion-completa-dc81df-主图@初艺ouart.png",
+    "description": "多角色简化造型便于统一比例打印与系列化上色，适合桌面陈列、角色编组和批量工艺测试。",
+    "intro": "2026.08.04 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1CjJkvSYj3lKBTnmFxUVDMA",
+    "shareCode": "657c",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260804",
+    "nameZh": "飞出个未来角色合集",
+    "nameEn": "Futurama Character Collection",
+    "displayName": "飞出个未来角色合集｜Futurama Character Collection",
+    "category": "科幻角色合集",
+    "mainImageRole": "source_original",
+    "alt": "飞出个未来角色合集｜Futurama Character Collection同模型来源图",
+    "author": "来源库存未提供可独立核验的作者信息；具体作者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存未提供可独立核验的作者信息；具体作者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "多角色简化造型便于统一比例打印与系列化上色，适合桌面陈列、角色编组和批量工艺测试。",
+          "该模型归入“科幻角色合集”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 17 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/futurama-coleccion-completa-dc81df/gallery-01.jpg",
+        "alt": "飞出个未来角色合集｜Futurama Character Collection来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "swolceror-mini-83d74b",
+    "name": "阅读中的肌肉术士｜Swolceror Mini",
+    "date": "2026-08-04",
+    "displayDate": "2026.08.04",
+    "format": "STL",
+    "fileCount": 31,
+    "size": "704.32 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/swolceror-mini-83d74b/swolceror-mini-83d74b-主图@初艺ouart.png",
+    "description": "将夸张体格与阅读动作结合，适合微缩打印、肌肉明暗、布料与道具细节的分区涂装。",
+    "intro": "2026.08.04 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1B6dyXhpGzID1cA_2Xqh3hw",
+    "shareCode": "8bb1",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260804",
+    "nameZh": "阅读中的肌肉术士",
+    "nameEn": "Swolceror Mini",
+    "displayName": "阅读中的肌肉术士｜Swolceror Mini",
+    "category": "奇幻桌游微缩",
+    "mainImageRole": "source_original",
+    "alt": "阅读中的肌肉术士｜Swolceror Mini同模型来源图",
+    "author": "来源库存未提供可独立核验的作者信息；具体作者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存未提供可独立核验的作者信息；具体作者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "将夸张体格与阅读动作结合，适合微缩打印、肌肉明暗、布料与道具细节的分区涂装。",
+          "该模型归入“奇幻桌游微缩”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 31 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/swolceror-mini-83d74b/gallery-01.png",
+        "alt": "阅读中的肌肉术士｜Swolceror Mini来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "jehuty-9d3b61",
+    "name": "杰夫提机甲｜Jehuty",
+    "date": "2026-08-04",
+    "displayDate": "2026.08.04",
+    "format": "STL",
+    "fileCount": 36,
+    "size": "797.57 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/jehuty-9d3b61/jehuty-9d3b61-主图@初艺ouart.png",
+    "description": "机甲轮廓与多分件结构适合检验接口精度、装配顺序、金属分色和动态陈列。",
+    "intro": "2026.08.04 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1AspNdDnr78Q3__89XBULtQ",
+    "shareCode": "03eb",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260804",
+    "nameZh": "杰夫提机甲",
+    "nameEn": "Jehuty",
+    "displayName": "杰夫提机甲｜Jehuty",
+    "category": "机甲雕像",
+    "mainImageRole": "source_original",
+    "alt": "杰夫提机甲｜Jehuty同模型来源图",
+    "author": "来源库存未提供可独立核验的作者信息；具体作者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存未提供可独立核验的作者信息；具体作者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "机甲轮廓与多分件结构适合检验接口精度、装配顺序、金属分色和动态陈列。",
+          "该模型归入“机甲雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 36 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/jehuty-9d3b61/gallery-01.jpg",
+        "alt": "杰夫提机甲｜Jehuty来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
     "id": "model-1104723657520705-e00553",
     "name": "玛琪玛与电次｜Makima & Denji — Chainsaw Man",
     "date": "2026-08-03",

@@ -1,6 +1,29 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20260805",
+    "date": "2026-08-05",
+    "displayDate": "2026.08.05",
+    "title": "2026.08.05｜OUART 今日六件",
+    "description": "建筑场景、动物雕塑、机械载具与角色主题并置，一次浏览六种可打印方向。",
+    "published": true,
+    "collage": "./assets/batches/2026-08-05/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-08-05 六模型静态拼图",
+    "modelIds": [
+      "crane-f66ad6",
+      "jehuty-9d3b61",
+      "street-fighter-bust-10-cdcabe",
+      "donquixote-doflamingo-one-piece-969c53",
+      "vs3d-alpa-chino-t-memoxomor-aka-58d078",
+      "mega-man-helmet-print3dworld-86b4b1"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1cvKsbqUGiqHte7GFR1OIoQ",
+    "shareCode": "f7c1",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-08-05T10:32:27+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20260804",
     "date": "2026-08-04",
     "displayDate": "2026.08.04",

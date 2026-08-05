@@ -1,5 +1,542 @@
 window.OUART_MODELS = [
   {
+    "id": "crane-f66ad6",
+    "name": "吊车｜Crane",
+    "date": "2026-08-05",
+    "displayDate": "2026.08.05",
+    "format": "STL",
+    "fileCount": 25,
+    "size": "658.06 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/crane-f66ad6/crane-f66ad6-主图@初艺ouart.png",
+    "description": "以起重臂、车体和机械分件关系为重点，适合结构装配、工程车辆涂装与桌面场景展示。",
+    "intro": "2026.08.05 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1wE2XZvEuMowEgHEx679buA",
+    "shareCode": "3412",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260805",
+    "nameZh": "吊车",
+    "nameEn": "Crane",
+    "displayName": "吊车｜Crane",
+    "category": "载具/机械",
+    "mainImageRole": "source_original",
+    "alt": "吊车｜Crane同模型来源图",
+    "author": "来源库存未提供可独立核验的作者信息；具体署名与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存未提供可独立核验的作者信息；具体署名与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以起重臂、车体和机械分件关系为重点，适合结构装配、工程车辆涂装与桌面场景展示。",
+          "该模型归入“载具/机械”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 25 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/crane-f66ad6/gallery-01.png",
+        "alt": "吊车｜Crane来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "jehuty-9d3b61",
+    "name": "杰夫提｜Jehuty",
+    "date": "2026-08-05",
+    "displayDate": "2026.08.05",
+    "format": "STL",
+    "fileCount": 36,
+    "size": "797.57 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/jehuty-9d3b61/jehuty-9d3b61-主图@初艺ouart.png",
+    "description": "以杰夫提机甲的锐利轮廓、装甲层次与多分件结构为重点，适合精细打印、机甲涂装和动态陈列。",
+    "intro": "2026.08.05 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1hSBSxUtOdyevAC4NdYqEYw",
+    "shareCode": "fcae",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260805",
+    "nameZh": "杰夫提",
+    "nameEn": "Jehuty",
+    "displayName": "杰夫提｜Jehuty",
+    "category": "载具/机械",
+    "mainImageRole": "source_original",
+    "alt": "杰夫提｜Jehuty同模型来源图",
+    "author": "来源库存未提供可独立核验的作者信息；具体署名与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存未提供可独立核验的作者信息；具体署名与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以杰夫提机甲的锐利轮廓、装甲层次与多分件结构为重点，适合精细打印、机甲涂装和动态陈列。",
+          "该模型归入“载具/机械”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 36 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/jehuty-9d3b61/gallery-01.jpg",
+        "alt": "杰夫提｜Jehuty来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "street-fighter-bust-10-cdcabe",
+    "name": "街头霸王胸像合集｜Street Fighter Bust Collection (10)",
+    "date": "2026-08-05",
+    "displayDate": "2026.08.05",
+    "format": "STL",
+    "fileCount": 25,
+    "size": "917.81 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/street-fighter-bust-10-cdcabe/street-fighter-bust-10-cdcabe-主图@初艺ouart.png",
+    "description": "包含十款街头霸王角色胸像，适合系列化树脂打印、角色差异化涂装与成组陈列。",
+    "intro": "2026.08.05 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1zihosuN_SjTKFd9y0P6GOg",
+    "shareCode": "1e02",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260805",
+    "nameZh": "街头霸王胸像合集",
+    "nameEn": "Street Fighter Bust Collection (10)",
+    "displayName": "街头霸王胸像合集｜Street Fighter Bust Collection (10)",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "街头霸王胸像合集｜Street Fighter Bust Collection (10)同模型来源图",
+    "author": "来源库存未提供可独立核验的作者信息；具体署名与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存未提供可独立核验的作者信息；具体署名与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "包含十款街头霸王角色胸像，适合系列化树脂打印、角色差异化涂装与成组陈列。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 25 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/street-fighter-bust-10-cdcabe/gallery-01.jpg",
+        "alt": "街头霸王胸像合集｜Street Fighter Bust Collection (10)来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/street-fighter-bust-10-cdcabe/gallery-02.png",
+        "alt": "街头霸王胸像合集｜Street Fighter Bust Collection (10)来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/street-fighter-bust-10-cdcabe/gallery-03.jpg",
+        "alt": "街头霸王胸像合集｜Street Fighter Bust Collection (10)来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/street-fighter-bust-10-cdcabe/gallery-04.jpg",
+        "alt": "街头霸王胸像合集｜Street Fighter Bust Collection (10)来源图 4",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/street-fighter-bust-10-cdcabe/gallery-05.jpg",
+        "alt": "街头霸王胸像合集｜Street Fighter Bust Collection (10)来源图 5",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "donquixote-doflamingo-one-piece-969c53",
+    "name": "唐吉诃德·多弗朗明哥｜Donquixote Doflamingo — One Piece",
+    "date": "2026-08-05",
+    "displayDate": "2026.08.05",
+    "format": "STL",
+    "fileCount": 65,
+    "size": "1046.61 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/donquixote-doflamingo-one-piece-969c53/donquixote-doflamingo-one-piece-969c53-主图@初艺ouart.png",
+    "description": "以多弗朗明哥鲜明的姿态、服饰轮廓与多分件结构为重点，适合树脂打印、层次涂装和角色陈列。",
+    "intro": "2026.08.05 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1CFJRBFmZHqqA0X04W7yVjg",
+    "shareCode": "4790",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260805",
+    "nameZh": "唐吉诃德·多弗朗明哥",
+    "nameEn": "Donquixote Doflamingo — One Piece",
+    "displayName": "唐吉诃德·多弗朗明哥｜Donquixote Doflamingo — One Piece",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "唐吉诃德·多弗朗明哥｜Donquixote Doflamingo — One Piece同模型来源图",
+    "author": "来源库存未提供可独立核验的作者信息；具体署名与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存未提供可独立核验的作者信息；具体署名与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以多弗朗明哥鲜明的姿态、服饰轮廓与多分件结构为重点，适合树脂打印、层次涂装和角色陈列。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 65 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/donquixote-doflamingo-one-piece-969c53/gallery-01.jpg",
+        "alt": "唐吉诃德·多弗朗明哥｜Donquixote Doflamingo — One Piece来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "vs3d-alpa-chino-t-memoxomor-aka-58d078",
+    "name": "阿普拉·奇诺｜Apla Chino — Tropic Thunder",
+    "date": "2026-08-05",
+    "displayDate": "2026.08.05",
+    "format": "STL",
+    "fileCount": 26,
+    "size": "1417.85 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/vs3d-alpa-chino-t-memoxomor-aka-58d078/vs3d-alpa-chino-t-memoxomor-aka-58d078-主图@初艺ouart.png",
+    "description": "以《热带惊雷》中阿普拉·奇诺的全身造型、装备层次与场景底座为重点，适合高精度树脂打印、写实涂装与角色陈列。",
+    "intro": "2026.08.05 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/17EL5dLOBhhdadS50VeDmYQ",
+    "shareCode": "bee1",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260805",
+    "nameZh": "阿普拉·奇诺",
+    "nameEn": "Apla Chino — Tropic Thunder",
+    "displayName": "阿普拉·奇诺｜Apla Chino — Tropic Thunder",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "阿普拉·奇诺｜Apla Chino — Tropic Thunder同模型来源图",
+    "author": "库存与来源图标注 VS3D；具体署名与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存与来源图标注 VS3D；具体署名与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以《热带惊雷》中阿普拉·奇诺的全身造型、装备层次与场景底座为重点，适合高精度树脂打印、写实涂装与角色陈列。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 26 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/vs3d-alpa-chino-t-memoxomor-aka-58d078/gallery-01.png",
+        "alt": "阿普拉·奇诺｜Apla Chino — Tropic Thunder来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/vs3d-alpa-chino-t-memoxomor-aka-58d078/gallery-02.png",
+        "alt": "阿普拉·奇诺｜Apla Chino — Tropic Thunder来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/vs3d-alpa-chino-t-memoxomor-aka-58d078/gallery-03.png",
+        "alt": "阿普拉·奇诺｜Apla Chino — Tropic Thunder来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/vs3d-alpa-chino-t-memoxomor-aka-58d078/gallery-04.png",
+        "alt": "阿普拉·奇诺｜Apla Chino — Tropic Thunder来源图 4",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/vs3d-alpa-chino-t-memoxomor-aka-58d078/gallery-05.png",
+        "alt": "阿普拉·奇诺｜Apla Chino — Tropic Thunder来源图 5",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/vs3d-alpa-chino-t-memoxomor-aka-58d078/gallery-06.png",
+        "alt": "阿普拉·奇诺｜Apla Chino — Tropic Thunder来源图 6",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "mega-man-helmet-print3dworld-86b4b1",
+    "name": "洛克人头盔面具｜Mega Man Helmet",
+    "date": "2026-08-05",
+    "displayDate": "2026.08.05",
+    "format": "STL",
+    "fileCount": 11,
+    "size": "461.65 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/mega-man-helmet-print3dworld-86b4b1/mega-man-helmet-print3dworld-86b4b1-主图@初艺ouart.png",
+    "description": "以洛克人头盔的可穿戴外形与分件装配为重点，适合 FDM 打印、尺寸适配、表面处理与道具展示。",
+    "intro": "2026.08.05 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1aVe83VSNCq2Uz1ZLqdkp_Q",
+    "shareCode": "6180",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260805",
+    "nameZh": "洛克人头盔面具",
+    "nameEn": "Mega Man Helmet",
+    "displayName": "洛克人头盔面具｜Mega Man Helmet",
+    "category": "功能/FDM",
+    "mainImageRole": "source_original",
+    "alt": "洛克人头盔面具｜Mega Man Helmet同模型来源图",
+    "author": "库存标注 Print3DWorld；具体署名与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存标注 Print3DWorld；具体署名与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以洛克人头盔的可穿戴外形与分件装配为重点，适合 FDM 打印、尺寸适配、表面处理与道具展示。",
+          "该模型归入“功能/FDM”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 11 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/mega-man-helmet-print3dworld-86b4b1/gallery-01.png",
+        "alt": "洛克人头盔面具｜Mega Man Helmet来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/mega-man-helmet-print3dworld-86b4b1/gallery-02.png",
+        "alt": "洛克人头盔面具｜Mega Man Helmet来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/mega-man-helmet-print3dworld-86b4b1/gallery-03.png",
+        "alt": "洛克人头盔面具｜Mega Man Helmet来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/mega-man-helmet-print3dworld-86b4b1/gallery-04.png",
+        "alt": "洛克人头盔面具｜Mega Man Helmet来源图 4",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/mega-man-helmet-print3dworld-86b4b1/gallery-05.png",
+        "alt": "洛克人头盔面具｜Mega Man Helmet来源图 5",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/mega-man-helmet-print3dworld-86b4b1/gallery-06.png",
+        "alt": "洛克人头盔面具｜Mega Man Helmet来源图 6",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/mega-man-helmet-print3dworld-86b4b1/gallery-07.png",
+        "alt": "洛克人头盔面具｜Mega Man Helmet来源图 7",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
     "id": "joker-bust-7bfd98",
     "name": "小丑胸像｜Joker Bust",
     "date": "2026-08-04",
@@ -395,83 +932,6 @@ window.OUART_MODELS = [
       {
         "src": "./assets/models/swolceror-mini-83d74b/gallery-01.png",
         "alt": "阅读中的肌肉术士｜Swolceror Mini来源图 1",
-        "label": "来源图"
-      }
-    ]
-  },
-  {
-    "id": "jehuty-9d3b61",
-    "name": "杰夫提机甲｜Jehuty",
-    "date": "2026-08-04",
-    "displayDate": "2026.08.04",
-    "format": "STL",
-    "fileCount": 36,
-    "size": "797.57 MB",
-    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
-    "image": "./assets/models/jehuty-9d3b61/jehuty-9d3b61-主图@初艺ouart.png",
-    "description": "机甲轮廓与多分件结构适合检验接口精度、装配顺序、金属分色和动态陈列。",
-    "intro": "2026.08.04 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
-    "downloadUrl": "https://pan.baidu.com/s/1AspNdDnr78Q3__89XBULtQ",
-    "shareCode": "03eb",
-    "published": true,
-    "schemaVersion": 6,
-    "batchId": "ouart-daily-six-20260804",
-    "nameZh": "杰夫提机甲",
-    "nameEn": "Jehuty",
-    "displayName": "杰夫提机甲｜Jehuty",
-    "category": "机甲雕像",
-    "mainImageRole": "source_original",
-    "alt": "杰夫提机甲｜Jehuty同模型来源图",
-    "author": "来源库存未提供可独立核验的作者信息；具体作者、许可与使用范围以原始文件说明为准",
-    "license": "许可请以原始发布者说明为准",
-    "authorLicense": {
-      "author": "来源库存未提供可独立核验的作者信息；具体作者、许可与使用范围以原始文件说明为准",
-      "license": "未发现可公开确认的开放许可声明",
-      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
-    },
-    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
-    "publicTechnicalRenders": [],
-    "secondaryScenes": [],
-    "sections": [
-      {
-        "id": "design",
-        "title": "设计与功能观察",
-        "paragraphs": [
-          "机甲轮廓与多分件结构适合检验接口精度、装配顺序、金属分色和动态陈列。",
-          "该模型归入“机甲雕像”，与同批另外五件形成多样的展示与制作组合。"
-        ]
-      },
-      {
-        "id": "print",
-        "title": "打印、结构与风险",
-        "paragraphs": [
-          "内部审计记录 36 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
-          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
-        ]
-      },
-      {
-        "id": "finish",
-        "title": "材料与表面方案",
-        "paragraphs": [
-          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
-          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
-          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
-        ]
-      },
-      {
-        "id": "use",
-        "title": "使用与延展",
-        "paragraphs": [
-          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
-          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
-          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
-        ]
-      }
-    ],
-    "gallery": [
-      {
-        "src": "./assets/models/jehuty-9d3b61/gallery-01.jpg",
-        "alt": "杰夫提机甲｜Jehuty来源图 1",
         "label": "来源图"
       }
     ]

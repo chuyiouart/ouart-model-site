@@ -1,5 +1,527 @@
 window.OUART_MODELS = [
   {
+    "id": "hell-boy-glove-print3dworld-f30818",
+    "name": "地狱男爵巨拳｜Hellboy Glove",
+    "date": "2026-08-06",
+    "displayDate": "2026.08.06",
+    "format": "STL",
+    "fileCount": 10,
+    "size": "739.11 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/hell-boy-glove-print3dworld-f30818/hell-boy-glove-print3dworld-f30818-主图@初艺ouart.png",
+    "description": "夸张拳套轮廓、岩石裂纹与护腕结构适合道具化展示，可重点实践厚重体积、旧化和多材质分区。",
+    "intro": "2026.08.06 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1vzYN3yoFZiG2hxkie6xQJQ",
+    "shareCode": "0f14",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260806",
+    "nameZh": "地狱男爵巨拳",
+    "nameEn": "Hellboy Glove",
+    "displayName": "地狱男爵巨拳｜Hellboy Glove",
+    "category": "机械/道具",
+    "mainImageRole": "source_original",
+    "alt": "地狱男爵巨拳｜Hellboy Glove同模型来源图",
+    "author": "库存来源标注：Print3DWorld；作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存来源标注：Print3DWorld；作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "夸张拳套轮廓、岩石裂纹与护腕结构适合道具化展示，可重点实践厚重体积、旧化和多材质分区。",
+          "该模型归入“机械/道具”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 10 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/hell-boy-glove-print3dworld-f30818/gallery-01.jpg",
+        "alt": "地狱男爵巨拳｜Hellboy Glove来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/hell-boy-glove-print3dworld-f30818/gallery-02.jpg",
+        "alt": "地狱男爵巨拳｜Hellboy Glove来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/hell-boy-glove-print3dworld-f30818/gallery-03.jpg",
+        "alt": "地狱男爵巨拳｜Hellboy Glove来源图 3",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "exclusive-teacher-library-b7591c",
+    "name": "图书馆教师｜Library Teacher",
+    "date": "2026-08-06",
+    "displayDate": "2026.08.06",
+    "format": "STL",
+    "fileCount": 17,
+    "size": "1000.30 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/exclusive-teacher-library-b7591c/exclusive-teacher-library-b7591c-主图@初艺ouart.png",
+    "description": "人物姿态与图书馆主题形成明确场景线索，适合人物打印、服饰层次处理和室内叙事陈列。",
+    "intro": "2026.08.06 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1OIaEb_hDIOZupj3f5HjtxQ",
+    "shareCode": "9c2f",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260806",
+    "nameZh": "图书馆教师",
+    "nameEn": "Library Teacher",
+    "displayName": "图书馆教师｜Library Teacher",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "图书馆教师｜Library Teacher同模型来源图",
+    "author": "库存来源标注：Exclusive Teacher Library；作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存来源标注：Exclusive Teacher Library；作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "人物姿态与图书馆主题形成明确场景线索，适合人物打印、服饰层次处理和室内叙事陈列。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 17 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/exclusive-teacher-library-b7591c/gallery-01.jpg",
+        "alt": "图书馆教师｜Library Teacher来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "life-size-creeper-f90aa9",
+    "name": "等身苦力怕｜Life Size Creeper",
+    "date": "2026-08-06",
+    "displayDate": "2026.08.06",
+    "format": "STL",
+    "fileCount": 135,
+    "size": "1259.56 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/life-size-creeper-f90aa9/life-size-creeper-f90aa9-主图@初艺ouart.png",
+    "description": "等身像素生物造型与多分件结构兼具展示张力，适合大型装配、表面修整与方块化配色实践。",
+    "intro": "2026.08.06 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/15xVZID2NmVkH3JEyYYw6rg",
+    "shareCode": "1177",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260806",
+    "nameZh": "等身苦力怕",
+    "nameEn": "Life Size Creeper",
+    "displayName": "等身苦力怕｜Life Size Creeper",
+    "category": "生物/叙事",
+    "mainImageRole": "source_original",
+    "alt": "等身苦力怕｜Life Size Creeper同模型来源图",
+    "author": "库存来源标注：Life Size Creeper；作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存来源标注：Life Size Creeper；作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "等身像素生物造型与多分件结构兼具展示张力，适合大型装配、表面修整与方块化配色实践。",
+          "该模型归入“生物/叙事”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 135 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/life-size-creeper-f90aa9/gallery-01.jpg",
+        "alt": "等身苦力怕｜Life Size Creeper来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/life-size-creeper-f90aa9/gallery-02.jpg",
+        "alt": "等身苦力怕｜Life Size Creeper来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/life-size-creeper-f90aa9/gallery-03.jpg",
+        "alt": "等身苦力怕｜Life Size Creeper来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/life-size-creeper-f90aa9/gallery-04.jpg",
+        "alt": "等身苦力怕｜Life Size Creeper来源图 4",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "life-size-steve-minecraft-3e56aa",
+    "name": "等身史蒂夫｜Life Size Steve Minecraft",
+    "date": "2026-08-06",
+    "displayDate": "2026.08.06",
+    "format": "STL",
+    "fileCount": 112,
+    "size": "678.95 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/life-size-steve-minecraft-3e56aa/life-size-steve-minecraft-3e56aa-主图@初艺ouart.png",
+    "description": "等身像素角色提供清晰的块面、比例与装配关系，适合大型打印规划、接缝处理和经典配色还原。",
+    "intro": "2026.08.06 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/15cwhPfuWQ3ecCy-F2Nz5sg",
+    "shareCode": "88cd",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260806",
+    "nameZh": "等身史蒂夫",
+    "nameEn": "Life Size Steve Minecraft",
+    "displayName": "等身史蒂夫｜Life Size Steve Minecraft",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "等身史蒂夫｜Life Size Steve Minecraft同模型来源图",
+    "author": "库存来源标注：Life Size Steve Minecraft；作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存来源标注：Life Size Steve Minecraft；作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "等身像素角色提供清晰的块面、比例与装配关系，适合大型打印规划、接缝处理和经典配色还原。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 112 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/life-size-steve-minecraft-3e56aa/gallery-01.jpg",
+        "alt": "等身史蒂夫｜Life Size Steve Minecraft来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/life-size-steve-minecraft-3e56aa/gallery-02.jpg",
+        "alt": "等身史蒂夫｜Life Size Steve Minecraft来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/life-size-steve-minecraft-3e56aa/gallery-03.jpg",
+        "alt": "等身史蒂夫｜Life Size Steve Minecraft来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/life-size-steve-minecraft-3e56aa/gallery-04.jpg",
+        "alt": "等身史蒂夫｜Life Size Steve Minecraft来源图 4",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "g-o-w-kratos-axe-7225ef",
+    "name": "持斧战神｜G.O.W. Kratos Axe",
+    "date": "2026-08-06",
+    "displayDate": "2026.08.06",
+    "format": "STL",
+    "fileCount": 10,
+    "size": "613.81 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/g-o-w-kratos-axe-7225ef/g-o-w-kratos-axe-7225ef-主图@初艺ouart.png",
+    "description": "持斧姿态与盔甲层次形成强烈叙事焦点，适合分件装配、金属质感涂装与战损细节刻画。",
+    "intro": "2026.08.06 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1wDxtofNcavFeg9dR2BFRqw",
+    "shareCode": "e663",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260806",
+    "nameZh": "持斧战神",
+    "nameEn": "G.O.W. Kratos Axe",
+    "displayName": "持斧战神｜G.O.W. Kratos Axe",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "持斧战神｜G.O.W. Kratos Axe同模型来源图",
+    "author": "库存来源标注：G.O.W. Kratos Axe；作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存来源标注：G.O.W. Kratos Axe；作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "持斧姿态与盔甲层次形成强烈叙事焦点，适合分件装配、金属质感涂装与战损细节刻画。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 10 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/g-o-w-kratos-axe-7225ef/gallery-01.jpg",
+        "alt": "持斧战神｜G.O.W. Kratos Axe来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "nomnom-figures-f50692",
+    "name": "角色主题键帽｜Character Keycaps",
+    "date": "2026-08-06",
+    "displayDate": "2026.08.06",
+    "format": "STL",
+    "fileCount": 44,
+    "size": "1483.33 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/nomnom-figures-f50692/nomnom-figures-f50692-主图@初艺ouart.png",
+    "description": "角色造型与键帽结构结合，兼顾桌面个性化和小型精细制作，适合接口尺寸复核、树脂打印与系列化配色。",
+    "intro": "2026.08.06 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1nzyMvPAYf9Fq3wgsgwG9OA",
+    "shareCode": "dfe0",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260806",
+    "nameZh": "角色主题键帽",
+    "nameEn": "Character Keycaps",
+    "displayName": "角色主题键帽｜Character Keycaps",
+    "category": "功能/FDM",
+    "mainImageRole": "source_original",
+    "alt": "角色主题键帽｜Character Keycaps同模型来源图",
+    "author": "库存来源标注：Nomnom Figures；作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存来源标注：Nomnom Figures；作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "角色造型与键帽结构结合，兼顾桌面个性化和小型精细制作，适合接口尺寸复核、树脂打印与系列化配色。",
+          "该模型归入“功能/FDM”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 44 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/nomnom-figures-f50692/gallery-01.png",
+        "alt": "角色主题键帽｜Character Keycaps来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/nomnom-figures-f50692/gallery-02.png",
+        "alt": "角色主题键帽｜Character Keycaps来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/nomnom-figures-f50692/gallery-03.png",
+        "alt": "角色主题键帽｜Character Keycaps来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/nomnom-figures-f50692/gallery-04.jpg",
+        "alt": "角色主题键帽｜Character Keycaps来源图 4",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/nomnom-figures-f50692/gallery-05.jpg",
+        "alt": "角色主题键帽｜Character Keycaps来源图 5",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
     "id": "crane-f66ad6",
     "name": "吊车｜Crane",
     "date": "2026-08-05",

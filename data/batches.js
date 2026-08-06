@@ -1,6 +1,29 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20260806",
+    "date": "2026-08-06",
+    "displayDate": "2026.08.06",
+    "title": "2026.08.06｜OUART 今日六件",
+    "description": "建筑场景、动物雕塑、机械载具与角色主题并置，一次浏览六种可打印方向。",
+    "published": true,
+    "collage": "./assets/batches/2026-08-06/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-08-06 六模型静态拼图",
+    "modelIds": [
+      "hell-boy-glove-print3dworld-f30818",
+      "exclusive-teacher-library-b7591c",
+      "life-size-creeper-f90aa9",
+      "life-size-steve-minecraft-3e56aa",
+      "g-o-w-kratos-axe-7225ef",
+      "nomnom-figures-f50692"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1mPaC2-HEYZLzdC8WuRXFCw",
+    "shareCode": "add3",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-08-06T16:56:07+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20260805",
     "date": "2026-08-05",
     "displayDate": "2026.08.05",

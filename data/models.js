@@ -1,5 +1,512 @@
 window.OUART_MODELS = [
   {
+    "id": "valak-the-nun-2dde5f",
+    "name": "瓦拉克修女｜Valak the Nun",
+    "date": "2026-08-07",
+    "displayDate": "2026.08.07",
+    "format": "STL",
+    "fileCount": 7,
+    "size": "996.01 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/valak-the-nun-2dde5f/valak-the-nun-2dde5f-主图@初艺ouart.png",
+    "description": "修女头巾与纵向衣褶形成鲜明恐怖轮廓，适合树脂打印、暗部层次涂装与主题陈列。",
+    "intro": "2026.08.07 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1C5t68eS3TEjvzmZZ_c9lOg",
+    "shareCode": "c557",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260807",
+    "nameZh": "瓦拉克修女",
+    "nameEn": "Valak the Nun",
+    "displayName": "瓦拉克修女｜Valak the Nun",
+    "category": "恐怖角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "瓦拉克修女｜Valak the Nun同模型来源图",
+    "author": "来源库存标注：Valak the Nun；作者与许可范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注：Valak the Nun；作者与许可范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "修女头巾与纵向衣褶形成鲜明恐怖轮廓，适合树脂打印、暗部层次涂装与主题陈列。",
+          "该模型归入“恐怖角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 7 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/valak-the-nun-2dde5f/gallery-01.jpg",
+        "alt": "瓦拉克修女｜Valak the Nun来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/valak-the-nun-2dde5f/gallery-02.jpg",
+        "alt": "瓦拉克修女｜Valak the Nun来源图 2",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "model-829642277903524-b9471a",
+    "name": "虫柱·蝴蝶忍｜Shinobu Kocho",
+    "date": "2026-08-07",
+    "displayDate": "2026.08.07",
+    "format": "STL",
+    "fileCount": 36,
+    "size": "1279.69 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-829642277903524-b9471a/model-829642277903524-b9471a-主图@初艺ouart.png",
+    "description": "轻盈姿态与羽织细节适合精细树脂打印，可重点表现渐变色、纹样与人物动态。",
+    "intro": "2026.08.07 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1WPVtunV-4pLEgE7WE_KmqQ",
+    "shareCode": "241b",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260807",
+    "nameZh": "虫柱·蝴蝶忍",
+    "nameEn": "Shinobu Kocho",
+    "displayName": "虫柱·蝴蝶忍｜Shinobu Kocho",
+    "category": "动漫角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "虫柱·蝴蝶忍｜Shinobu Kocho同模型来源图",
+    "author": "来源库存标注：蝴蝶忍／虫柱；作者与许可范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注：蝴蝶忍／虫柱；作者与许可范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "轻盈姿态与羽织细节适合精细树脂打印，可重点表现渐变色、纹样与人物动态。",
+          "该模型归入“动漫角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 36 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-829642277903524-b9471a/gallery-01.jpg",
+        "alt": "虫柱·蝴蝶忍｜Shinobu Kocho来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "red-hulk-hands-print3dworld-6be558",
+    "name": "红浩克巨手｜Red Hulk Hands",
+    "date": "2026-08-07",
+    "displayDate": "2026.08.07",
+    "format": "STL",
+    "fileCount": 8,
+    "size": "367.45 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/red-hulk-hands-print3dworld-6be558/red-hulk-hands-print3dworld-6be558-主图@初艺ouart.png",
+    "description": "夸张拳部体量适合制作穿戴或展示道具，可探索轻量化分件、表面肌理与旧化涂装。",
+    "intro": "2026.08.07 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1oh8NYcJ4gFFztRhqCUOcvg",
+    "shareCode": "409f",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260807",
+    "nameZh": "红浩克巨手",
+    "nameEn": "Red Hulk Hands",
+    "displayName": "红浩克巨手｜Red Hulk Hands",
+    "category": "穿戴与展示道具",
+    "mainImageRole": "source_original",
+    "alt": "红浩克巨手｜Red Hulk Hands同模型来源图",
+    "author": "来源库存标注：Print3DWorld／Red Hulk Hands；作者与许可范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注：Print3DWorld／Red Hulk Hands；作者与许可范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "夸张拳部体量适合制作穿戴或展示道具，可探索轻量化分件、表面肌理与旧化涂装。",
+          "该模型归入“穿戴与展示道具”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 8 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/red-hulk-hands-print3dworld-6be558/gallery-01.jpg",
+        "alt": "红浩克巨手｜Red Hulk Hands来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/red-hulk-hands-print3dworld-6be558/gallery-02.jpg",
+        "alt": "红浩克巨手｜Red Hulk Hands来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/red-hulk-hands-print3dworld-6be558/gallery-03.jpg",
+        "alt": "红浩克巨手｜Red Hulk Hands来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/red-hulk-hands-print3dworld-6be558/gallery-04.jpg",
+        "alt": "红浩克巨手｜Red Hulk Hands来源图 4",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "hatsune-miku-inaki-sculpts-cf26a9",
+    "name": "初音未来雕像｜Hatsune Miku Figure",
+    "date": "2026-08-07",
+    "displayDate": "2026.08.07",
+    "format": "STL",
+    "fileCount": 14,
+    "size": "1385.42 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/hatsune-miku-inaki-sculpts-cf26a9/hatsune-miku-inaki-sculpts-cf26a9-主图@初艺ouart.png",
+    "description": "完整人物姿态、双马尾和舞台底座适合精细树脂打印，可重点处理发丝层次、服装材质与明快配色。",
+    "intro": "2026.08.07 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1vTy7vQ6R7Sfex4gLaI6jzg",
+    "shareCode": "81ab",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260807",
+    "nameZh": "初音未来雕像",
+    "nameEn": "Hatsune Miku Figure",
+    "displayName": "初音未来雕像｜Hatsune Miku Figure",
+    "category": "动漫角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "初音未来雕像｜Hatsune Miku Figure同模型来源图",
+    "author": "来源库存标注：Inaki Sculpts／Hatsune Miku；作者与许可范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注：Inaki Sculpts／Hatsune Miku；作者与许可范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整人物姿态、双马尾和舞台底座适合精细树脂打印，可重点处理发丝层次、服装材质与明快配色。",
+          "该模型归入“动漫角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 14 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/hatsune-miku-inaki-sculpts-cf26a9/gallery-01.png",
+        "alt": "初音未来雕像｜Hatsune Miku Figure来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/hatsune-miku-inaki-sculpts-cf26a9/gallery-02.png",
+        "alt": "初音未来雕像｜Hatsune Miku Figure来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/hatsune-miku-inaki-sculpts-cf26a9/gallery-03.png",
+        "alt": "初音未来雕像｜Hatsune Miku Figure来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/hatsune-miku-inaki-sculpts-cf26a9/gallery-04.png",
+        "alt": "初音未来雕像｜Hatsune Miku Figure来源图 4",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/hatsune-miku-inaki-sculpts-cf26a9/gallery-05.png",
+        "alt": "初音未来雕像｜Hatsune Miku Figure来源图 5",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "joker-jack-nicholson-3d-print-model-stl-fee635",
+    "name": "尼科尔森版小丑｜Joker — Jack Nicholson",
+    "date": "2026-08-07",
+    "displayDate": "2026.08.07",
+    "format": "STL",
+    "fileCount": 12,
+    "size": "488.61 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/joker-jack-nicholson-3d-print-model-stl-fee635/joker-jack-nicholson-3d-print-model-stl-fee635-主图@初艺ouart.png",
+    "description": "鲜明的影视人物造型适合肖像打印与表情刻画，可重点处理服装色块和舞台化陈列。",
+    "intro": "2026.08.07 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1U4RvdWC11nQI6_oyBZXuSA",
+    "shareCode": "25e0",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260807",
+    "nameZh": "尼科尔森版小丑",
+    "nameEn": "Joker — Jack Nicholson",
+    "displayName": "尼科尔森版小丑｜Joker — Jack Nicholson",
+    "category": "影视人物雕像",
+    "mainImageRole": "source_original",
+    "alt": "尼科尔森版小丑｜Joker — Jack Nicholson同模型来源图",
+    "author": "来源库存标注：Joker／Jack Nicholson；作者与许可范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注：Joker／Jack Nicholson；作者与许可范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "鲜明的影视人物造型适合肖像打印与表情刻画，可重点处理服装色块和舞台化陈列。",
+          "该模型归入“影视人物雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 12 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/joker-jack-nicholson-3d-print-model-stl-fee635/gallery-01.jpg",
+        "alt": "尼科尔森版小丑｜Joker — Jack Nicholson来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "nerikson-atropos-the-moirai-1c6caf",
+    "name": "命运女神·阿特洛波斯｜Atropos the Moirai",
+    "date": "2026-08-07",
+    "displayDate": "2026.08.07",
+    "format": "STL",
+    "fileCount": 23,
+    "size": "907.58 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/nerikson-atropos-the-moirai-1c6caf/nerikson-atropos-the-moirai-1c6caf-主图@初艺ouart.png",
+    "description": "强烈角色姿态与服饰层次适合树脂打印、分件装配和具有戏剧感的明暗涂装。",
+    "intro": "2026.08.07 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1XYaGT4wSSS4hDDD07CddqQ",
+    "shareCode": "ca8b",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260807",
+    "nameZh": "命运女神·阿特洛波斯",
+    "nameEn": "Atropos the Moirai",
+    "displayName": "命运女神·阿特洛波斯｜Atropos the Moirai",
+    "category": "神话角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "命运女神·阿特洛波斯｜Atropos the Moirai同模型来源图",
+    "author": "来源库存标注：Nerikson／Atropos the Moirai；作者与许可范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注：Nerikson／Atropos the Moirai；作者与许可范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "强烈角色姿态与服饰层次适合树脂打印、分件装配和具有戏剧感的明暗涂装。",
+          "该模型归入“神话角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 23 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/nerikson-atropos-the-moirai-1c6caf/gallery-01.jpg",
+        "alt": "命运女神·阿特洛波斯｜Atropos the Moirai来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/nerikson-atropos-the-moirai-1c6caf/gallery-02.jpg",
+        "alt": "命运女神·阿特洛波斯｜Atropos the Moirai来源图 2",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
     "id": "hell-boy-glove-print3dworld-f30818",
     "name": "地狱男爵巨拳｜Hellboy Glove",
     "date": "2026-08-06",

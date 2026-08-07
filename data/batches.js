@@ -1,6 +1,29 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20260807",
+    "date": "2026-08-07",
+    "displayDate": "2026.08.07",
+    "title": "2026.08.07｜OUART 今日六件",
+    "description": "建筑场景、动物雕塑、机械载具与角色主题并置，一次浏览六种可打印方向。",
+    "published": true,
+    "collage": "./assets/batches/2026-08-07/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-08-07 六模型静态拼图",
+    "modelIds": [
+      "valak-the-nun-2dde5f",
+      "model-829642277903524-b9471a",
+      "red-hulk-hands-print3dworld-6be558",
+      "hatsune-miku-inaki-sculpts-cf26a9",
+      "joker-jack-nicholson-3d-print-model-stl-fee635",
+      "nerikson-atropos-the-moirai-1c6caf"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1VY8mS64PDjHP2TFb7qQ7Dg",
+    "shareCode": "55c0",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-08-07T10:32:03+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20260806",
     "date": "2026-08-06",
     "displayDate": "2026.08.06",

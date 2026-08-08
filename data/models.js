@@ -1,5 +1,467 @@
 window.OUART_MODELS = [
   {
+    "id": "nerikson-lakhesis-the-moirai-t-me-moxomor-b38b1d",
+    "name": "拉克西斯·命运三女神｜Lakhesis the Moirai",
+    "date": "2026-08-08",
+    "displayDate": "2026.08.08",
+    "format": "STL",
+    "fileCount": 25,
+    "size": "1004.48 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/nerikson-lakhesis-the-moirai-t-me-moxomor-b38b1d/nerikson-lakhesis-the-moirai-t-me-moxomor-b38b1d-主图@初艺ouart.png",
+    "description": "拉克西斯的神话角色轮廓、层叠服饰与命运主题配件适合高精度树脂打印，可用织物渐变、金属点缀和石质底座建立层次。",
+    "intro": "2026.08.08 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1VsWlggajT7KsnJxZEbUtCA",
+    "shareCode": "0dee",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260808",
+    "nameZh": "拉克西斯·命运三女神",
+    "nameEn": "Lakhesis the Moirai",
+    "displayName": "拉克西斯·命运三女神｜Lakhesis the Moirai",
+    "category": "神话叙事",
+    "mainImageRole": "source_original",
+    "alt": "拉克西斯·命运三女神｜Lakhesis the Moirai同模型来源图",
+    "author": "来源库存标注 Nerikson；具体创作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注 Nerikson；具体创作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "拉克西斯的神话角色轮廓、层叠服饰与命运主题配件适合高精度树脂打印，可用织物渐变、金属点缀和石质底座建立层次。",
+          "该模型归入“神话叙事”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 25 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/nerikson-lakhesis-the-moirai-t-me-moxomor-b38b1d/gallery-01.jpg",
+        "alt": "拉克西斯·命运三女神｜Lakhesis the Moirai来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "phase-shift-8280d8",
+    "name": "相位转移｜Phase Shift",
+    "date": "2026-08-08",
+    "displayDate": "2026.08.08",
+    "format": "STL",
+    "fileCount": 22,
+    "size": "1110.80 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/phase-shift-8280d8/phase-shift-8280d8-主图@初艺ouart.png",
+    "description": "相位转移主题强调人物轮廓、动态姿态与层叠分件，适合树脂打印、装配，并可用冷暖渐变和半透明质感强化视觉效果。",
+    "intro": "2026.08.08 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1uhZzN6hwytxgTCjG09LHpw",
+    "shareCode": "f3a2",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260808",
+    "nameZh": "相位转移",
+    "nameEn": "Phase Shift",
+    "displayName": "相位转移｜Phase Shift",
+    "category": "科幻战术",
+    "mainImageRole": "source_original",
+    "alt": "相位转移｜Phase Shift同模型来源图",
+    "author": "来源库存标注 相位转移Phase Shift；具体作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注 相位转移Phase Shift；具体作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "相位转移主题强调人物轮廓、动态姿态与层叠分件，适合树脂打印、装配，并可用冷暖渐变和半透明质感强化视觉效果。",
+          "该模型归入“科幻战术”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 22 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/phase-shift-8280d8/gallery-01.jpg",
+        "alt": "相位转移｜Phase Shift来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "mcor-d8a3b5",
+    "name": "麦科尔｜Mcor",
+    "date": "2026-08-08",
+    "displayDate": "2026.08.08",
+    "format": "STL",
+    "fileCount": 9,
+    "size": "606.67 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/mcor-d8a3b5/mcor-d8a3b5-主图@初艺ouart.png",
+    "description": "麦科尔的人物轮廓与分件结构适合树脂打印和装配，可通过服饰层次、材质对比与重点色建立清晰展示效果。",
+    "intro": "2026.08.08 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1N2rWIm4F24q-PZ3PzoJByQ",
+    "shareCode": "b885",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260808",
+    "nameZh": "麦科尔",
+    "nameEn": "Mcor",
+    "displayName": "麦科尔｜Mcor",
+    "category": "科幻战术",
+    "mainImageRole": "source_original",
+    "alt": "麦科尔｜Mcor同模型来源图",
+    "author": "来源库存标注 麦科尔Mcor；具体作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注 麦科尔Mcor；具体作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "麦科尔的人物轮廓与分件结构适合树脂打印和装配，可通过服饰层次、材质对比与重点色建立清晰展示效果。",
+          "该模型归入“科幻战术”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 9 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/mcor-d8a3b5/gallery-01.jpg",
+        "alt": "麦科尔｜Mcor来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "marylin-monroe-903b83",
+    "name": "玛丽莲·梦露｜Marilyn Monroe",
+    "date": "2026-08-08",
+    "displayDate": "2026.08.08",
+    "format": "STL",
+    "fileCount": 7,
+    "size": "978.11 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/marylin-monroe-903b83/marylin-monroe-903b83-主图@初艺ouart.png",
+    "description": "经典裙摆、人物姿态与面部特征构成清晰轮廓，适合树脂打印、肤色层次与织物高光涂装。",
+    "intro": "2026.08.08 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1rzvcLCJGOgN9p8Li5lQt7Q",
+    "shareCode": "1825",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260808",
+    "nameZh": "玛丽莲·梦露",
+    "nameEn": "Marilyn Monroe",
+    "displayName": "玛丽莲·梦露｜Marilyn Monroe",
+    "category": "人物角色",
+    "mainImageRole": "source_original",
+    "alt": "玛丽莲·梦露｜Marilyn Monroe同模型来源图",
+    "author": "来源库存未提供可核验作者；具体创作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存未提供可核验作者；具体创作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "经典裙摆、人物姿态与面部特征构成清晰轮廓，适合树脂打印、肤色层次与织物高光涂装。",
+          "该模型归入“人物角色”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 7 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/marylin-monroe-903b83/gallery-01.jpg",
+        "alt": "玛丽莲·梦露｜Marilyn Monroe来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "nympha-ms-bellum-the-powerpuff-girls-raw-61a0a0",
+    "name": "莎拉·贝伦小姐｜Ms. Bellum — The Powerpuff Girls",
+    "date": "2026-08-08",
+    "displayDate": "2026.08.08",
+    "format": "STL",
+    "fileCount": 54,
+    "size": "2280.28 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/nympha-ms-bellum-the-powerpuff-girls-raw-61a0a0/nympha-ms-bellum-the-powerpuff-girls-raw-61a0a0-主图@初艺ouart.png",
+    "description": "高挑人物比例、波浪长发与职业装形成鲜明轮廓，适合树脂打印、分件装配与服装材质涂装。",
+    "intro": "2026.08.08 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1cWROslB199I7Lwto5HcKaw",
+    "shareCode": "0fb8",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260808",
+    "nameZh": "莎拉·贝伦小姐",
+    "nameEn": "Ms. Bellum — The Powerpuff Girls",
+    "displayName": "莎拉·贝伦小姐｜Ms. Bellum — The Powerpuff Girls",
+    "category": "人物角色",
+    "mainImageRole": "source_original",
+    "alt": "莎拉·贝伦小姐｜Ms. Bellum — The Powerpuff Girls同模型来源图",
+    "author": "来源库存标注 NYMPHA 3D；具体创作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注 NYMPHA 3D；具体创作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "高挑人物比例、波浪长发与职业装形成鲜明轮廓，适合树脂打印、分件装配与服装材质涂装。",
+          "该模型归入“人物角色”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 54 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/nympha-ms-bellum-the-powerpuff-girls-raw-61a0a0/gallery-01.jpg",
+        "alt": "莎拉·贝伦小姐｜Ms. Bellum — The Powerpuff Girls来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "artillery-witch-trench-crusade-raw-1070638927-02cbdd",
+    "name": "炮兵女巫｜Artillery Witch — Trench Crusade",
+    "date": "2026-08-08",
+    "displayDate": "2026.08.08",
+    "format": "STL",
+    "fileCount": 37,
+    "size": "2992.22 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/artillery-witch-trench-crusade-raw-1070638927-02cbdd/artillery-witch-trench-crusade-raw-1070638927-02cbdd-主图@初艺ouart.png",
+    "description": "战壕奇幻风格的炮兵女巫结合军装、武器与暗黑宗教意象，适合树脂打印、分件装配及旧化涂装。",
+    "intro": "2026.08.08 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1FdKvOVXwkrewqzS2QrgCKw",
+    "shareCode": "111b",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260808",
+    "nameZh": "炮兵女巫",
+    "nameEn": "Artillery Witch — Trench Crusade",
+    "displayName": "炮兵女巫｜Artillery Witch — Trench Crusade",
+    "category": "暗黑叙事",
+    "mainImageRole": "source_original",
+    "alt": "炮兵女巫｜Artillery Witch — Trench Crusade同模型来源图",
+    "author": "来源库存未提供可核验作者；具体创作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存未提供可核验作者；具体创作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "战壕奇幻风格的炮兵女巫结合军装、武器与暗黑宗教意象，适合树脂打印、分件装配及旧化涂装。",
+          "该模型归入“暗黑叙事”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 37 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/artillery-witch-trench-crusade-raw-1070638927-02cbdd/gallery-01.jpg",
+        "alt": "炮兵女巫｜Artillery Witch — Trench Crusade来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
     "id": "valak-the-nun-2dde5f",
     "name": "瓦拉克修女｜Valak the Nun",
     "date": "2026-08-07",

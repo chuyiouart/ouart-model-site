@@ -1,6 +1,29 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20260808",
+    "date": "2026-08-08",
+    "displayDate": "2026.08.08",
+    "title": "2026.08.08｜OUART 今日六件",
+    "description": "建筑场景、动物雕塑、机械载具与角色主题并置，一次浏览六种可打印方向。",
+    "published": true,
+    "collage": "./assets/batches/2026-08-08/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-08-08 六模型静态拼图",
+    "modelIds": [
+      "nerikson-lakhesis-the-moirai-t-me-moxomor-b38b1d",
+      "phase-shift-8280d8",
+      "mcor-d8a3b5",
+      "marylin-monroe-903b83",
+      "nympha-ms-bellum-the-powerpuff-girls-raw-61a0a0",
+      "artillery-witch-trench-crusade-raw-1070638927-02cbdd"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1k4FjJ0ZrH1NlqBCUAVErVg",
+    "shareCode": "4dc2",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-08-08T22:06:44+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20260807",
     "date": "2026-08-07",
     "displayDate": "2026.08.07",

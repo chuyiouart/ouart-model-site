@@ -1,5 +1,482 @@
 window.OUART_MODELS = [
   {
+    "id": "carlos-vp-videl-gran-saiyaman-2-49f64c",
+    "name": "比迪丽（赛亚超人2号）｜Videl as Great Saiyaman No. 2",
+    "date": "2026-08-09",
+    "displayDate": "2026.08.09",
+    "format": "STL",
+    "fileCount": 25,
+    "size": "1694.22 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/carlos-vp-videl-gran-saiyaman-2-49f64c/carlos-vp-videl-gran-saiyaman-2-49f64c-主图@初艺ouart.png",
+    "description": "以动态站姿、服装层次与角色配件为重点，适合树脂打印、分件装配和动画风格涂装。",
+    "intro": "2026.08.09 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1bHc_sGmJmjolgth5eIF_ZA",
+    "shareCode": "e2ac",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260809",
+    "nameZh": "比迪丽（赛亚超人2号）",
+    "nameEn": "Videl as Great Saiyaman No. 2",
+    "displayName": "比迪丽（赛亚超人2号）｜Videl as Great Saiyaman No. 2",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "比迪丽（赛亚超人2号）｜Videl as Great Saiyaman No. 2同模型来源图",
+    "author": "来源库存标注 Carlos VP；作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注 Carlos VP；作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以动态站姿、服装层次与角色配件为重点，适合树脂打印、分件装配和动画风格涂装。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 25 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/carlos-vp-videl-gran-saiyaman-2-49f64c/gallery-01.jpg",
+        "alt": "比迪丽（赛亚超人2号）｜Videl as Great Saiyaman No. 2来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/carlos-vp-videl-gran-saiyaman-2-49f64c/gallery-02.jpg",
+        "alt": "比迪丽（赛亚超人2号）｜Videl as Great Saiyaman No. 2来源图 2",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "february24-kidgoku-carlosvp-22738c",
+    "name": "童年悟空｜Kid Goku — Carlos VP",
+    "date": "2026-08-09",
+    "displayDate": "2026.08.09",
+    "format": "STL",
+    "fileCount": 22,
+    "size": "937.45 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/february24-kidgoku-carlosvp-22738c/february24-kidgoku-carlosvp-22738c-主图@初艺ouart.png",
+    "description": "紧凑角色比例与标志性造型适合小比例树脂打印、轮廓校准和清晰配色练习。",
+    "intro": "2026.08.09 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1k7q-u1x_odTYt2W8_srUEw",
+    "shareCode": "10cc",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260809",
+    "nameZh": "童年悟空",
+    "nameEn": "Kid Goku — Carlos VP",
+    "displayName": "童年悟空｜Kid Goku — Carlos VP",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "童年悟空｜Kid Goku — Carlos VP同模型来源图",
+    "author": "来源库存标注 Carlos VP；作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注 Carlos VP；作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "紧凑角色比例与标志性造型适合小比例树脂打印、轮廓校准和清晰配色练习。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 22 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/february24-kidgoku-carlosvp-22738c/gallery-01.jpg",
+        "alt": "童年悟空｜Kid Goku — Carlos VP来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "janemba-dragon-ball-lucas-perez-4bb327",
+    "name": "邪念波｜Janemba — Dragon Ball",
+    "date": "2026-08-09",
+    "displayDate": "2026.08.09",
+    "format": "STL",
+    "fileCount": 71,
+    "size": "2223.68 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/janemba-dragon-ball-lucas-perez-4bb327/janemba-dragon-ball-lucas-perez-4bb327-主图@初艺ouart.png",
+    "description": "夸张生物轮廓与装甲般体块适合表现强烈明暗、分件结构和戏剧化展示。",
+    "intro": "2026.08.09 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1UbXI9gRXdys_zfehGQZ3aw",
+    "shareCode": "f60f",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260809",
+    "nameZh": "邪念波",
+    "nameEn": "Janemba — Dragon Ball",
+    "displayName": "邪念波｜Janemba — Dragon Ball",
+    "category": "生物/叙事",
+    "mainImageRole": "source_original",
+    "alt": "邪念波｜Janemba — Dragon Ball同模型来源图",
+    "author": "来源库存标注 Lucas Perez；作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注 Lucas Perez；作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "夸张生物轮廓与装甲般体块适合表现强烈明暗、分件结构和戏剧化展示。",
+          "该模型归入“生物/叙事”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 71 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/janemba-dragon-ball-lucas-perez-4bb327/gallery-01.jpg",
+        "alt": "邪念波｜Janemba — Dragon Ball来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/janemba-dragon-ball-lucas-perez-4bb327/gallery-02.jpg",
+        "alt": "邪念波｜Janemba — Dragon Ball来源图 2",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "camargue-horses-run-5b80f6",
+    "name": "卡马格奔马｜Camargue Horses Running",
+    "date": "2026-08-09",
+    "displayDate": "2026.08.09",
+    "format": "STL",
+    "fileCount": 8,
+    "size": "822.14 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/camargue-horses-run-5b80f6/camargue-horses-run-5b80f6-主图@初艺ouart.png",
+    "description": "奔跑马群的连续姿态突出速度、肌肉与支撑关系，适合动态雕塑打印、结构加固和写实涂装。",
+    "intro": "2026.08.09 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1ikFGZ938jdvMHFwA7ydoHQ",
+    "shareCode": "6ba7",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260809",
+    "nameZh": "卡马格奔马",
+    "nameEn": "Camargue Horses Running",
+    "displayName": "卡马格奔马｜Camargue Horses Running",
+    "category": "动物雕塑",
+    "mainImageRole": "source_original",
+    "alt": "卡马格奔马｜Camargue Horses Running同模型来源图",
+    "author": "来源库存未标明具体作者；作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存未标明具体作者；作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "奔跑马群的连续姿态突出速度、肌肉与支撑关系，适合动态雕塑打印、结构加固和写实涂装。",
+          "该模型归入“动物雕塑”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 8 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/camargue-horses-run-5b80f6/gallery-01.jpg",
+        "alt": "卡马格奔马｜Camargue Horses Running来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "gohan-ede97f",
+    "name": "孙悟饭｜Gohan",
+    "date": "2026-08-09",
+    "displayDate": "2026.08.09",
+    "format": "STL",
+    "fileCount": 37,
+    "size": "2219.67 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/gohan-ede97f/gohan-ede97f-主图@初艺ouart.png",
+    "description": "角色姿态与战斗服细节适合树脂打印、分件装配和高对比度动画风格涂装。",
+    "intro": "2026.08.09 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1bRD0u3G0jXnzNCWl3RMxjg",
+    "shareCode": "5430",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260809",
+    "nameZh": "孙悟饭",
+    "nameEn": "Gohan",
+    "displayName": "孙悟饭｜Gohan",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "孙悟饭｜Gohan同模型来源图",
+    "author": "来源库存未标明具体作者；作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存未标明具体作者；作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "角色姿态与战斗服细节适合树脂打印、分件装配和高对比度动画风格涂装。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 37 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/gohan-ede97f/gallery-01.jpg",
+        "alt": "孙悟饭｜Gohan来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "son-goku-first-transformation-eee33e",
+    "name": "孙悟空初次变身｜Son Goku — First Transformation",
+    "date": "2026-08-09",
+    "displayDate": "2026.08.09",
+    "format": "STL",
+    "fileCount": 17,
+    "size": "1144.00 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/son-goku-first-transformation-eee33e/son-goku-first-transformation-eee33e-主图@初艺ouart.png",
+    "description": "爆发姿态、服装动态与变身特效构成强烈叙事，适合分件树脂打印和能量感涂装。",
+    "intro": "2026.08.09 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1vJra6cdTe7CVzF0oGq6_-Q",
+    "shareCode": "ad62",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260809",
+    "nameZh": "孙悟空初次变身",
+    "nameEn": "Son Goku — First Transformation",
+    "displayName": "孙悟空初次变身｜Son Goku — First Transformation",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "孙悟空初次变身｜Son Goku — First Transformation同模型来源图",
+    "author": "来源库存未标明具体作者；作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存未标明具体作者；作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "爆发姿态、服装动态与变身特效构成强烈叙事，适合分件树脂打印和能量感涂装。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 17 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/son-goku-first-transformation-eee33e/gallery-01.jpg",
+        "alt": "孙悟空初次变身｜Son Goku — First Transformation来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/son-goku-first-transformation-eee33e/gallery-02.jpg",
+        "alt": "孙悟空初次变身｜Son Goku — First Transformation来源图 2",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
     "id": "nerikson-lakhesis-the-moirai-t-me-moxomor-b38b1d",
     "name": "拉克西斯·命运三女神｜Lakhesis the Moirai",
     "date": "2026-08-08",

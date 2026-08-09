@@ -1,6 +1,29 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20260809",
+    "date": "2026-08-09",
+    "displayDate": "2026.08.09",
+    "title": "2026.08.09｜OUART 今日六件",
+    "description": "建筑场景、动物雕塑、机械载具与角色主题并置，一次浏览六种可打印方向。",
+    "published": true,
+    "collage": "./assets/batches/2026-08-09/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-08-09 六模型静态拼图",
+    "modelIds": [
+      "carlos-vp-videl-gran-saiyaman-2-49f64c",
+      "february24-kidgoku-carlosvp-22738c",
+      "janemba-dragon-ball-lucas-perez-4bb327",
+      "camargue-horses-run-5b80f6",
+      "gohan-ede97f",
+      "son-goku-first-transformation-eee33e"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1tESRtyr_rIzT0qB5ccil7w",
+    "shareCode": "d163",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-08-09T11:27:40+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20260808",
     "date": "2026-08-08",
     "displayDate": "2026.08.08",

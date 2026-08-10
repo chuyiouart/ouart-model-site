@@ -1,5 +1,3377 @@
 window.OUART_MODELS = [
   {
+    "id": "goten-trunks-diorama-carlos-vp-25d436",
+    "name": "悟天与特兰克斯场景｜Goten & Trunks Diorama",
+    "date": "2026-08-10",
+    "displayDate": "2026.08.10",
+    "format": "STL",
+    "fileCount": 25,
+    "size": "2042.31 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/goten-trunks-diorama-carlos-vp-25d436/goten-trunks-diorama-carlos-vp-25d436-主图@初艺ouart.png",
+    "description": "以双角色互动和场景化构图为核心，适合验证人物比例、分件装配与叙事涂装。",
+    "intro": "2026.08.10 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1hGwXVzLt2U8Hpu_KbpzGQA",
+    "shareCode": "5584",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260810",
+    "nameZh": "悟天与特兰克斯场景",
+    "nameEn": "Goten & Trunks Diorama",
+    "displayName": "悟天与特兰克斯场景｜Goten & Trunks Diorama",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "悟天与特兰克斯场景｜Goten & Trunks Diorama同模型来源图",
+    "author": "来源库存标注为 Carlos VP；具体作者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注为 Carlos VP；具体作者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以双角色互动和场景化构图为核心，适合验证人物比例、分件装配与叙事涂装。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 25 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/goten-trunks-diorama-carlos-vp-25d436/gallery-01.jpg",
+        "alt": "悟天与特兰克斯场景｜Goten & Trunks Diorama来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "shenron-goku-dragon-ball-telegram-kokun-figures-3d6952",
+    "name": "神龙与悟空｜Shenron & Goku — Dragon Ball",
+    "date": "2026-08-10",
+    "displayDate": "2026.08.10",
+    "format": "STL",
+    "fileCount": 32,
+    "size": "1077.52 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/shenron-goku-dragon-ball-telegram-kokun-figures-3d6952/shenron-goku-dragon-ball-telegram-kokun-figures-3d6952-主图@初艺ouart.png",
+    "description": "以神龙的曲线体量围合悟空主体，适合检验大型分件、动态支撑与场景层次涂装。",
+    "intro": "2026.08.10 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1AArMR-GnRNUKIkfw-zmhBg",
+    "shareCode": "afeb",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260810",
+    "nameZh": "神龙与悟空",
+    "nameEn": "Shenron & Goku — Dragon Ball",
+    "displayName": "神龙与悟空｜Shenron & Goku — Dragon Ball",
+    "category": "生物/叙事",
+    "mainImageRole": "source_original",
+    "alt": "神龙与悟空｜Shenron & Goku — Dragon Ball同模型来源图",
+    "author": "库存来源文字提及 KOKUN FIGURES；具体作者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存来源文字提及 KOKUN FIGURES；具体作者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以神龙的曲线体量围合悟空主体，适合检验大型分件、动态支撑与场景层次涂装。",
+          "该模型归入“生物/叙事”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 32 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/shenron-goku-dragon-ball-telegram-kokun-figures-3d6952/gallery-01.png",
+        "alt": "神龙与悟空｜Shenron & Goku — Dragon Ball来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "model-82680030684466-689ffd",
+    "name": "黑天鹅｜Black Swan",
+    "date": "2026-08-10",
+    "displayDate": "2026.08.10",
+    "format": "STL",
+    "fileCount": 11,
+    "size": "765.53 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-82680030684466-689ffd/model-82680030684466-689ffd-主图@初艺ouart.png",
+    "description": "以优雅人物轮廓、服饰层次与细节分件为重点，适合精细树脂打印和渐层涂装。",
+    "intro": "2026.08.10 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1TLi7RrghKg_16EyLJrKNyg",
+    "shareCode": "9dd9",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260810",
+    "nameZh": "黑天鹅",
+    "nameEn": "Black Swan",
+    "displayName": "黑天鹅｜Black Swan",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "黑天鹅｜Black Swan同模型来源图",
+    "author": "库存未标注明确作者；具体作者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存未标注明确作者；具体作者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以优雅人物轮廓、服饰层次与细节分件为重点，适合精细树脂打印和渐层涂装。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 11 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-82680030684466-689ffd/gallery-01.jpg",
+        "alt": "黑天鹅｜Black Swan来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/model-82680030684466-689ffd/gallery-02.jpg",
+        "alt": "黑天鹅｜Black Swan来源图 2",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "dbz-chichi-y-goku-novios-stl-zone-17a2f8",
+    "name": "琪琪与悟空婚礼场景｜Chi-Chi & Goku Wedding Diorama",
+    "date": "2026-08-10",
+    "displayDate": "2026.08.10",
+    "format": "STL",
+    "fileCount": 26,
+    "size": "1202.99 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/dbz-chichi-y-goku-novios-stl-zone-17a2f8/dbz-chichi-y-goku-novios-stl-zone-17a2f8-主图@初艺ouart.png",
+    "description": "双角色婚礼构图突出人物互动与纪念性场景，适合验证表情细节、分件关系和综合色彩搭配。",
+    "intro": "2026.08.10 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1zm__F1lkzNia7EjQrzq0yQ",
+    "shareCode": "fc7c",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260810",
+    "nameZh": "琪琪与悟空婚礼场景",
+    "nameEn": "Chi-Chi & Goku Wedding Diorama",
+    "displayName": "琪琪与悟空婚礼场景｜Chi-Chi & Goku Wedding Diorama",
+    "category": "场景/装饰",
+    "mainImageRole": "source_original",
+    "alt": "琪琪与悟空婚礼场景｜Chi-Chi & Goku Wedding Diorama同模型来源图",
+    "author": "库存未标注明确作者；具体作者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存未标注明确作者；具体作者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "双角色婚礼构图突出人物互动与纪念性场景，适合验证表情细节、分件关系和综合色彩搭配。",
+          "该模型归入“场景/装饰”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 26 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/dbz-chichi-y-goku-novios-stl-zone-17a2f8/gallery-01.jpg",
+        "alt": "琪琪与悟空婚礼场景｜Chi-Chi & Goku Wedding Diorama来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "gotenks-and-trunks-kids-3d-print-model-aaa859",
+    "name": "少年悟天克斯与特兰克斯｜Kid Gotenks & Trunks",
+    "date": "2026-08-10",
+    "displayDate": "2026.08.10",
+    "format": "STL",
+    "fileCount": 38,
+    "size": "3208.81 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/gotenks-and-trunks-kids-3d-print-model-aaa859/gotenks-and-trunks-kids-3d-print-model-aaa859-主图@初艺ouart.png",
+    "description": "双角色少年造型强调动作呼应与比例关系，适合树脂打印、分件装配和明快动画风涂装。",
+    "intro": "2026.08.10 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1_DUpGjWx4jW5JHp6H0Ti7A",
+    "shareCode": "39c8",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260810",
+    "nameZh": "少年悟天克斯与特兰克斯",
+    "nameEn": "Kid Gotenks & Trunks",
+    "displayName": "少年悟天克斯与特兰克斯｜Kid Gotenks & Trunks",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "少年悟天克斯与特兰克斯｜Kid Gotenks & Trunks同模型来源图",
+    "author": "库存未标注明确作者；具体作者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存未标注明确作者；具体作者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "双角色少年造型强调动作呼应与比例关系，适合树脂打印、分件装配和明快动画风涂装。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 38 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/gotenks-and-trunks-kids-3d-print-model-aaa859/gallery-01.jpg",
+        "alt": "少年悟天克斯与特兰克斯｜Kid Gotenks & Trunks来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "goku-vs-piccolo-b82a63",
+    "name": "悟空对战比克｜Goku vs. Piccolo Diorama",
+    "date": "2026-08-10",
+    "displayDate": "2026.08.10",
+    "format": "STL",
+    "fileCount": 20,
+    "size": "741.97 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/goku-vs-piccolo-b82a63/goku-vs-piccolo-b82a63-主图@初艺ouart.png",
+    "description": "对战构图通过相向动作形成强烈张力，适合检验动态支撑、角色间距和战斗场景涂装。",
+    "intro": "2026.08.10 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/12ed8tTY_-XBJHpmrvoIwYw",
+    "shareCode": "6d3a",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260810",
+    "nameZh": "悟空对战比克",
+    "nameEn": "Goku vs. Piccolo Diorama",
+    "displayName": "悟空对战比克｜Goku vs. Piccolo Diorama",
+    "category": "生物/叙事",
+    "mainImageRole": "source_original",
+    "alt": "悟空对战比克｜Goku vs. Piccolo Diorama同模型来源图",
+    "author": "库存未标注明确作者；具体作者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存未标注明确作者；具体作者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "对战构图通过相向动作形成强烈张力，适合检验动态支撑、角色间距和战斗场景涂装。",
+          "该模型归入“生物/叙事”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 20 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/goku-vs-piccolo-b82a63/gallery-01.jpg",
+        "alt": "悟空对战比克｜Goku vs. Piccolo Diorama来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "carlos-vp-videl-gran-saiyaman-2-49f64c",
+    "name": "比迪丽（赛亚超人2号）｜Videl as Great Saiyaman No. 2",
+    "date": "2026-08-09",
+    "displayDate": "2026.08.09",
+    "format": "STL",
+    "fileCount": 25,
+    "size": "1694.22 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/carlos-vp-videl-gran-saiyaman-2-49f64c/carlos-vp-videl-gran-saiyaman-2-49f64c-主图@初艺ouart.png",
+    "description": "以动态站姿、服装层次与角色配件为重点，适合树脂打印、分件装配和动画风格涂装。",
+    "intro": "2026.08.09 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1bHc_sGmJmjolgth5eIF_ZA",
+    "shareCode": "e2ac",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260809",
+    "nameZh": "比迪丽（赛亚超人2号）",
+    "nameEn": "Videl as Great Saiyaman No. 2",
+    "displayName": "比迪丽（赛亚超人2号）｜Videl as Great Saiyaman No. 2",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "比迪丽（赛亚超人2号）｜Videl as Great Saiyaman No. 2同模型来源图",
+    "author": "来源库存标注 Carlos VP；作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注 Carlos VP；作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以动态站姿、服装层次与角色配件为重点，适合树脂打印、分件装配和动画风格涂装。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 25 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/carlos-vp-videl-gran-saiyaman-2-49f64c/gallery-01.jpg",
+        "alt": "比迪丽（赛亚超人2号）｜Videl as Great Saiyaman No. 2来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/carlos-vp-videl-gran-saiyaman-2-49f64c/gallery-02.jpg",
+        "alt": "比迪丽（赛亚超人2号）｜Videl as Great Saiyaman No. 2来源图 2",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "february24-kidgoku-carlosvp-22738c",
+    "name": "童年悟空｜Kid Goku — Carlos VP",
+    "date": "2026-08-09",
+    "displayDate": "2026.08.09",
+    "format": "STL",
+    "fileCount": 22,
+    "size": "937.45 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/february24-kidgoku-carlosvp-22738c/february24-kidgoku-carlosvp-22738c-主图@初艺ouart.png",
+    "description": "紧凑角色比例与标志性造型适合小比例树脂打印、轮廓校准和清晰配色练习。",
+    "intro": "2026.08.09 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1k7q-u1x_odTYt2W8_srUEw",
+    "shareCode": "10cc",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260809",
+    "nameZh": "童年悟空",
+    "nameEn": "Kid Goku — Carlos VP",
+    "displayName": "童年悟空｜Kid Goku — Carlos VP",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "童年悟空｜Kid Goku — Carlos VP同模型来源图",
+    "author": "来源库存标注 Carlos VP；作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注 Carlos VP；作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "紧凑角色比例与标志性造型适合小比例树脂打印、轮廓校准和清晰配色练习。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 22 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/february24-kidgoku-carlosvp-22738c/gallery-01.jpg",
+        "alt": "童年悟空｜Kid Goku — Carlos VP来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "janemba-dragon-ball-lucas-perez-4bb327",
+    "name": "邪念波｜Janemba — Dragon Ball",
+    "date": "2026-08-09",
+    "displayDate": "2026.08.09",
+    "format": "STL",
+    "fileCount": 71,
+    "size": "2223.68 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/janemba-dragon-ball-lucas-perez-4bb327/janemba-dragon-ball-lucas-perez-4bb327-主图@初艺ouart.png",
+    "description": "夸张生物轮廓与装甲般体块适合表现强烈明暗、分件结构和戏剧化展示。",
+    "intro": "2026.08.09 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1UbXI9gRXdys_zfehGQZ3aw",
+    "shareCode": "f60f",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260809",
+    "nameZh": "邪念波",
+    "nameEn": "Janemba — Dragon Ball",
+    "displayName": "邪念波｜Janemba — Dragon Ball",
+    "category": "生物/叙事",
+    "mainImageRole": "source_original",
+    "alt": "邪念波｜Janemba — Dragon Ball同模型来源图",
+    "author": "来源库存标注 Lucas Perez；作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注 Lucas Perez；作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "夸张生物轮廓与装甲般体块适合表现强烈明暗、分件结构和戏剧化展示。",
+          "该模型归入“生物/叙事”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 71 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/janemba-dragon-ball-lucas-perez-4bb327/gallery-01.jpg",
+        "alt": "邪念波｜Janemba — Dragon Ball来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/janemba-dragon-ball-lucas-perez-4bb327/gallery-02.jpg",
+        "alt": "邪念波｜Janemba — Dragon Ball来源图 2",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "camargue-horses-run-5b80f6",
+    "name": "卡马格奔马｜Camargue Horses Running",
+    "date": "2026-08-09",
+    "displayDate": "2026.08.09",
+    "format": "STL",
+    "fileCount": 8,
+    "size": "822.14 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/camargue-horses-run-5b80f6/camargue-horses-run-5b80f6-主图@初艺ouart.png",
+    "description": "奔跑马群的连续姿态突出速度、肌肉与支撑关系，适合动态雕塑打印、结构加固和写实涂装。",
+    "intro": "2026.08.09 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1ikFGZ938jdvMHFwA7ydoHQ",
+    "shareCode": "6ba7",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260809",
+    "nameZh": "卡马格奔马",
+    "nameEn": "Camargue Horses Running",
+    "displayName": "卡马格奔马｜Camargue Horses Running",
+    "category": "动物雕塑",
+    "mainImageRole": "source_original",
+    "alt": "卡马格奔马｜Camargue Horses Running同模型来源图",
+    "author": "来源库存未标明具体作者；作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存未标明具体作者；作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "奔跑马群的连续姿态突出速度、肌肉与支撑关系，适合动态雕塑打印、结构加固和写实涂装。",
+          "该模型归入“动物雕塑”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 8 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/camargue-horses-run-5b80f6/gallery-01.jpg",
+        "alt": "卡马格奔马｜Camargue Horses Running来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "gohan-ede97f",
+    "name": "孙悟饭｜Gohan",
+    "date": "2026-08-09",
+    "displayDate": "2026.08.09",
+    "format": "STL",
+    "fileCount": 37,
+    "size": "2219.67 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/gohan-ede97f/gohan-ede97f-主图@初艺ouart.png",
+    "description": "角色姿态与战斗服细节适合树脂打印、分件装配和高对比度动画风格涂装。",
+    "intro": "2026.08.09 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1bRD0u3G0jXnzNCWl3RMxjg",
+    "shareCode": "5430",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260809",
+    "nameZh": "孙悟饭",
+    "nameEn": "Gohan",
+    "displayName": "孙悟饭｜Gohan",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "孙悟饭｜Gohan同模型来源图",
+    "author": "来源库存未标明具体作者；作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存未标明具体作者；作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "角色姿态与战斗服细节适合树脂打印、分件装配和高对比度动画风格涂装。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 37 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/gohan-ede97f/gallery-01.jpg",
+        "alt": "孙悟饭｜Gohan来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "son-goku-first-transformation-eee33e",
+    "name": "孙悟空初次变身｜Son Goku — First Transformation",
+    "date": "2026-08-09",
+    "displayDate": "2026.08.09",
+    "format": "STL",
+    "fileCount": 17,
+    "size": "1144.00 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/son-goku-first-transformation-eee33e/son-goku-first-transformation-eee33e-主图@初艺ouart.png",
+    "description": "爆发姿态、服装动态与变身特效构成强烈叙事，适合分件树脂打印和能量感涂装。",
+    "intro": "2026.08.09 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1vJra6cdTe7CVzF0oGq6_-Q",
+    "shareCode": "ad62",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260809",
+    "nameZh": "孙悟空初次变身",
+    "nameEn": "Son Goku — First Transformation",
+    "displayName": "孙悟空初次变身｜Son Goku — First Transformation",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "孙悟空初次变身｜Son Goku — First Transformation同模型来源图",
+    "author": "来源库存未标明具体作者；作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存未标明具体作者；作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "爆发姿态、服装动态与变身特效构成强烈叙事，适合分件树脂打印和能量感涂装。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 17 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/son-goku-first-transformation-eee33e/gallery-01.jpg",
+        "alt": "孙悟空初次变身｜Son Goku — First Transformation来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/son-goku-first-transformation-eee33e/gallery-02.jpg",
+        "alt": "孙悟空初次变身｜Son Goku — First Transformation来源图 2",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "nerikson-lakhesis-the-moirai-t-me-moxomor-b38b1d",
+    "name": "拉克西斯·命运三女神｜Lakhesis the Moirai",
+    "date": "2026-08-08",
+    "displayDate": "2026.08.08",
+    "format": "STL",
+    "fileCount": 25,
+    "size": "1004.48 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/nerikson-lakhesis-the-moirai-t-me-moxomor-b38b1d/nerikson-lakhesis-the-moirai-t-me-moxomor-b38b1d-主图@初艺ouart.png",
+    "description": "拉克西斯的神话角色轮廓、层叠服饰与命运主题配件适合高精度树脂打印，可用织物渐变、金属点缀和石质底座建立层次。",
+    "intro": "2026.08.08 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1VsWlggajT7KsnJxZEbUtCA",
+    "shareCode": "0dee",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260808",
+    "nameZh": "拉克西斯·命运三女神",
+    "nameEn": "Lakhesis the Moirai",
+    "displayName": "拉克西斯·命运三女神｜Lakhesis the Moirai",
+    "category": "神话叙事",
+    "mainImageRole": "source_original",
+    "alt": "拉克西斯·命运三女神｜Lakhesis the Moirai同模型来源图",
+    "author": "来源库存标注 Nerikson；具体创作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注 Nerikson；具体创作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "拉克西斯的神话角色轮廓、层叠服饰与命运主题配件适合高精度树脂打印，可用织物渐变、金属点缀和石质底座建立层次。",
+          "该模型归入“神话叙事”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 25 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/nerikson-lakhesis-the-moirai-t-me-moxomor-b38b1d/gallery-01.jpg",
+        "alt": "拉克西斯·命运三女神｜Lakhesis the Moirai来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "phase-shift-8280d8",
+    "name": "相位转移｜Phase Shift",
+    "date": "2026-08-08",
+    "displayDate": "2026.08.08",
+    "format": "STL",
+    "fileCount": 22,
+    "size": "1110.80 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/phase-shift-8280d8/phase-shift-8280d8-主图@初艺ouart.png",
+    "description": "相位转移主题强调人物轮廓、动态姿态与层叠分件，适合树脂打印、装配，并可用冷暖渐变和半透明质感强化视觉效果。",
+    "intro": "2026.08.08 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1uhZzN6hwytxgTCjG09LHpw",
+    "shareCode": "f3a2",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260808",
+    "nameZh": "相位转移",
+    "nameEn": "Phase Shift",
+    "displayName": "相位转移｜Phase Shift",
+    "category": "科幻战术",
+    "mainImageRole": "source_original",
+    "alt": "相位转移｜Phase Shift同模型来源图",
+    "author": "来源库存标注 相位转移Phase Shift；具体作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注 相位转移Phase Shift；具体作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "相位转移主题强调人物轮廓、动态姿态与层叠分件，适合树脂打印、装配，并可用冷暖渐变和半透明质感强化视觉效果。",
+          "该模型归入“科幻战术”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 22 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/phase-shift-8280d8/gallery-01.jpg",
+        "alt": "相位转移｜Phase Shift来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "mcor-d8a3b5",
+    "name": "麦科尔｜Mcor",
+    "date": "2026-08-08",
+    "displayDate": "2026.08.08",
+    "format": "STL",
+    "fileCount": 9,
+    "size": "606.67 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/mcor-d8a3b5/mcor-d8a3b5-主图@初艺ouart.png",
+    "description": "麦科尔的人物轮廓与分件结构适合树脂打印和装配，可通过服饰层次、材质对比与重点色建立清晰展示效果。",
+    "intro": "2026.08.08 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1N2rWIm4F24q-PZ3PzoJByQ",
+    "shareCode": "b885",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260808",
+    "nameZh": "麦科尔",
+    "nameEn": "Mcor",
+    "displayName": "麦科尔｜Mcor",
+    "category": "科幻战术",
+    "mainImageRole": "source_original",
+    "alt": "麦科尔｜Mcor同模型来源图",
+    "author": "来源库存标注 麦科尔Mcor；具体作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注 麦科尔Mcor；具体作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "麦科尔的人物轮廓与分件结构适合树脂打印和装配，可通过服饰层次、材质对比与重点色建立清晰展示效果。",
+          "该模型归入“科幻战术”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 9 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/mcor-d8a3b5/gallery-01.jpg",
+        "alt": "麦科尔｜Mcor来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "marylin-monroe-903b83",
+    "name": "玛丽莲·梦露｜Marilyn Monroe",
+    "date": "2026-08-08",
+    "displayDate": "2026.08.08",
+    "format": "STL",
+    "fileCount": 7,
+    "size": "978.11 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/marylin-monroe-903b83/marylin-monroe-903b83-主图@初艺ouart.png",
+    "description": "经典裙摆、人物姿态与面部特征构成清晰轮廓，适合树脂打印、肤色层次与织物高光涂装。",
+    "intro": "2026.08.08 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1rzvcLCJGOgN9p8Li5lQt7Q",
+    "shareCode": "1825",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260808",
+    "nameZh": "玛丽莲·梦露",
+    "nameEn": "Marilyn Monroe",
+    "displayName": "玛丽莲·梦露｜Marilyn Monroe",
+    "category": "人物角色",
+    "mainImageRole": "source_original",
+    "alt": "玛丽莲·梦露｜Marilyn Monroe同模型来源图",
+    "author": "来源库存未提供可核验作者；具体创作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存未提供可核验作者；具体创作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "经典裙摆、人物姿态与面部特征构成清晰轮廓，适合树脂打印、肤色层次与织物高光涂装。",
+          "该模型归入“人物角色”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 7 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/marylin-monroe-903b83/gallery-01.jpg",
+        "alt": "玛丽莲·梦露｜Marilyn Monroe来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "nympha-ms-bellum-the-powerpuff-girls-raw-61a0a0",
+    "name": "莎拉·贝伦小姐｜Ms. Bellum — The Powerpuff Girls",
+    "date": "2026-08-08",
+    "displayDate": "2026.08.08",
+    "format": "STL",
+    "fileCount": 54,
+    "size": "2280.28 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/nympha-ms-bellum-the-powerpuff-girls-raw-61a0a0/nympha-ms-bellum-the-powerpuff-girls-raw-61a0a0-主图@初艺ouart.png",
+    "description": "高挑人物比例、波浪长发与职业装形成鲜明轮廓，适合树脂打印、分件装配与服装材质涂装。",
+    "intro": "2026.08.08 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1cWROslB199I7Lwto5HcKaw",
+    "shareCode": "0fb8",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260808",
+    "nameZh": "莎拉·贝伦小姐",
+    "nameEn": "Ms. Bellum — The Powerpuff Girls",
+    "displayName": "莎拉·贝伦小姐｜Ms. Bellum — The Powerpuff Girls",
+    "category": "人物角色",
+    "mainImageRole": "source_original",
+    "alt": "莎拉·贝伦小姐｜Ms. Bellum — The Powerpuff Girls同模型来源图",
+    "author": "来源库存标注 NYMPHA 3D；具体创作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注 NYMPHA 3D；具体创作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "高挑人物比例、波浪长发与职业装形成鲜明轮廓，适合树脂打印、分件装配与服装材质涂装。",
+          "该模型归入“人物角色”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 54 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/nympha-ms-bellum-the-powerpuff-girls-raw-61a0a0/gallery-01.jpg",
+        "alt": "莎拉·贝伦小姐｜Ms. Bellum — The Powerpuff Girls来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "artillery-witch-trench-crusade-raw-1070638927-02cbdd",
+    "name": "炮兵女巫｜Artillery Witch — Trench Crusade",
+    "date": "2026-08-08",
+    "displayDate": "2026.08.08",
+    "format": "STL",
+    "fileCount": 37,
+    "size": "2992.22 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/artillery-witch-trench-crusade-raw-1070638927-02cbdd/artillery-witch-trench-crusade-raw-1070638927-02cbdd-主图@初艺ouart.png",
+    "description": "战壕奇幻风格的炮兵女巫结合军装、武器与暗黑宗教意象，适合树脂打印、分件装配及旧化涂装。",
+    "intro": "2026.08.08 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1FdKvOVXwkrewqzS2QrgCKw",
+    "shareCode": "111b",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260808",
+    "nameZh": "炮兵女巫",
+    "nameEn": "Artillery Witch — Trench Crusade",
+    "displayName": "炮兵女巫｜Artillery Witch — Trench Crusade",
+    "category": "暗黑叙事",
+    "mainImageRole": "source_original",
+    "alt": "炮兵女巫｜Artillery Witch — Trench Crusade同模型来源图",
+    "author": "来源库存未提供可核验作者；具体创作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存未提供可核验作者；具体创作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "战壕奇幻风格的炮兵女巫结合军装、武器与暗黑宗教意象，适合树脂打印、分件装配及旧化涂装。",
+          "该模型归入“暗黑叙事”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 37 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/artillery-witch-trench-crusade-raw-1070638927-02cbdd/gallery-01.jpg",
+        "alt": "炮兵女巫｜Artillery Witch — Trench Crusade来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "valak-the-nun-2dde5f",
+    "name": "瓦拉克修女｜Valak the Nun",
+    "date": "2026-08-07",
+    "displayDate": "2026.08.07",
+    "format": "STL",
+    "fileCount": 7,
+    "size": "996.01 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/valak-the-nun-2dde5f/valak-the-nun-2dde5f-主图@初艺ouart.png",
+    "description": "修女头巾与纵向衣褶形成鲜明恐怖轮廓，适合树脂打印、暗部层次涂装与主题陈列。",
+    "intro": "2026.08.07 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1C5t68eS3TEjvzmZZ_c9lOg",
+    "shareCode": "c557",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260807",
+    "nameZh": "瓦拉克修女",
+    "nameEn": "Valak the Nun",
+    "displayName": "瓦拉克修女｜Valak the Nun",
+    "category": "恐怖角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "瓦拉克修女｜Valak the Nun同模型来源图",
+    "author": "来源库存标注：Valak the Nun；作者与许可范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注：Valak the Nun；作者与许可范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "修女头巾与纵向衣褶形成鲜明恐怖轮廓，适合树脂打印、暗部层次涂装与主题陈列。",
+          "该模型归入“恐怖角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 7 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/valak-the-nun-2dde5f/gallery-01.jpg",
+        "alt": "瓦拉克修女｜Valak the Nun来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/valak-the-nun-2dde5f/gallery-02.jpg",
+        "alt": "瓦拉克修女｜Valak the Nun来源图 2",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "model-829642277903524-b9471a",
+    "name": "虫柱·蝴蝶忍｜Shinobu Kocho",
+    "date": "2026-08-07",
+    "displayDate": "2026.08.07",
+    "format": "STL",
+    "fileCount": 36,
+    "size": "1279.69 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-829642277903524-b9471a/model-829642277903524-b9471a-主图@初艺ouart.png",
+    "description": "轻盈姿态与羽织细节适合精细树脂打印，可重点表现渐变色、纹样与人物动态。",
+    "intro": "2026.08.07 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1WPVtunV-4pLEgE7WE_KmqQ",
+    "shareCode": "241b",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260807",
+    "nameZh": "虫柱·蝴蝶忍",
+    "nameEn": "Shinobu Kocho",
+    "displayName": "虫柱·蝴蝶忍｜Shinobu Kocho",
+    "category": "动漫角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "虫柱·蝴蝶忍｜Shinobu Kocho同模型来源图",
+    "author": "来源库存标注：蝴蝶忍／虫柱；作者与许可范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注：蝴蝶忍／虫柱；作者与许可范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "轻盈姿态与羽织细节适合精细树脂打印，可重点表现渐变色、纹样与人物动态。",
+          "该模型归入“动漫角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 36 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-829642277903524-b9471a/gallery-01.jpg",
+        "alt": "虫柱·蝴蝶忍｜Shinobu Kocho来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "red-hulk-hands-print3dworld-6be558",
+    "name": "红浩克巨手｜Red Hulk Hands",
+    "date": "2026-08-07",
+    "displayDate": "2026.08.07",
+    "format": "STL",
+    "fileCount": 8,
+    "size": "367.45 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/red-hulk-hands-print3dworld-6be558/red-hulk-hands-print3dworld-6be558-主图@初艺ouart.png",
+    "description": "夸张拳部体量适合制作穿戴或展示道具，可探索轻量化分件、表面肌理与旧化涂装。",
+    "intro": "2026.08.07 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1oh8NYcJ4gFFztRhqCUOcvg",
+    "shareCode": "409f",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260807",
+    "nameZh": "红浩克巨手",
+    "nameEn": "Red Hulk Hands",
+    "displayName": "红浩克巨手｜Red Hulk Hands",
+    "category": "穿戴与展示道具",
+    "mainImageRole": "source_original",
+    "alt": "红浩克巨手｜Red Hulk Hands同模型来源图",
+    "author": "来源库存标注：Print3DWorld／Red Hulk Hands；作者与许可范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注：Print3DWorld／Red Hulk Hands；作者与许可范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "夸张拳部体量适合制作穿戴或展示道具，可探索轻量化分件、表面肌理与旧化涂装。",
+          "该模型归入“穿戴与展示道具”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 8 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/red-hulk-hands-print3dworld-6be558/gallery-01.jpg",
+        "alt": "红浩克巨手｜Red Hulk Hands来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/red-hulk-hands-print3dworld-6be558/gallery-02.jpg",
+        "alt": "红浩克巨手｜Red Hulk Hands来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/red-hulk-hands-print3dworld-6be558/gallery-03.jpg",
+        "alt": "红浩克巨手｜Red Hulk Hands来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/red-hulk-hands-print3dworld-6be558/gallery-04.jpg",
+        "alt": "红浩克巨手｜Red Hulk Hands来源图 4",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "hatsune-miku-inaki-sculpts-cf26a9",
+    "name": "初音未来雕像｜Hatsune Miku Figure",
+    "date": "2026-08-07",
+    "displayDate": "2026.08.07",
+    "format": "STL",
+    "fileCount": 14,
+    "size": "1385.42 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/hatsune-miku-inaki-sculpts-cf26a9/hatsune-miku-inaki-sculpts-cf26a9-主图@初艺ouart.png",
+    "description": "完整人物姿态、双马尾和舞台底座适合精细树脂打印，可重点处理发丝层次、服装材质与明快配色。",
+    "intro": "2026.08.07 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1vTy7vQ6R7Sfex4gLaI6jzg",
+    "shareCode": "81ab",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260807",
+    "nameZh": "初音未来雕像",
+    "nameEn": "Hatsune Miku Figure",
+    "displayName": "初音未来雕像｜Hatsune Miku Figure",
+    "category": "动漫角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "初音未来雕像｜Hatsune Miku Figure同模型来源图",
+    "author": "来源库存标注：Inaki Sculpts／Hatsune Miku；作者与许可范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注：Inaki Sculpts／Hatsune Miku；作者与许可范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整人物姿态、双马尾和舞台底座适合精细树脂打印，可重点处理发丝层次、服装材质与明快配色。",
+          "该模型归入“动漫角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 14 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/hatsune-miku-inaki-sculpts-cf26a9/gallery-01.png",
+        "alt": "初音未来雕像｜Hatsune Miku Figure来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/hatsune-miku-inaki-sculpts-cf26a9/gallery-02.png",
+        "alt": "初音未来雕像｜Hatsune Miku Figure来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/hatsune-miku-inaki-sculpts-cf26a9/gallery-03.png",
+        "alt": "初音未来雕像｜Hatsune Miku Figure来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/hatsune-miku-inaki-sculpts-cf26a9/gallery-04.png",
+        "alt": "初音未来雕像｜Hatsune Miku Figure来源图 4",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/hatsune-miku-inaki-sculpts-cf26a9/gallery-05.png",
+        "alt": "初音未来雕像｜Hatsune Miku Figure来源图 5",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "joker-jack-nicholson-3d-print-model-stl-fee635",
+    "name": "尼科尔森版小丑｜Joker — Jack Nicholson",
+    "date": "2026-08-07",
+    "displayDate": "2026.08.07",
+    "format": "STL",
+    "fileCount": 12,
+    "size": "488.61 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/joker-jack-nicholson-3d-print-model-stl-fee635/joker-jack-nicholson-3d-print-model-stl-fee635-主图@初艺ouart.png",
+    "description": "鲜明的影视人物造型适合肖像打印与表情刻画，可重点处理服装色块和舞台化陈列。",
+    "intro": "2026.08.07 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1U4RvdWC11nQI6_oyBZXuSA",
+    "shareCode": "25e0",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260807",
+    "nameZh": "尼科尔森版小丑",
+    "nameEn": "Joker — Jack Nicholson",
+    "displayName": "尼科尔森版小丑｜Joker — Jack Nicholson",
+    "category": "影视人物雕像",
+    "mainImageRole": "source_original",
+    "alt": "尼科尔森版小丑｜Joker — Jack Nicholson同模型来源图",
+    "author": "来源库存标注：Joker／Jack Nicholson；作者与许可范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注：Joker／Jack Nicholson；作者与许可范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "鲜明的影视人物造型适合肖像打印与表情刻画，可重点处理服装色块和舞台化陈列。",
+          "该模型归入“影视人物雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 12 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/joker-jack-nicholson-3d-print-model-stl-fee635/gallery-01.jpg",
+        "alt": "尼科尔森版小丑｜Joker — Jack Nicholson来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "nerikson-atropos-the-moirai-1c6caf",
+    "name": "命运女神·阿特洛波斯｜Atropos the Moirai",
+    "date": "2026-08-07",
+    "displayDate": "2026.08.07",
+    "format": "STL",
+    "fileCount": 23,
+    "size": "907.58 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/nerikson-atropos-the-moirai-1c6caf/nerikson-atropos-the-moirai-1c6caf-主图@初艺ouart.png",
+    "description": "强烈角色姿态与服饰层次适合树脂打印、分件装配和具有戏剧感的明暗涂装。",
+    "intro": "2026.08.07 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1XYaGT4wSSS4hDDD07CddqQ",
+    "shareCode": "ca8b",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260807",
+    "nameZh": "命运女神·阿特洛波斯",
+    "nameEn": "Atropos the Moirai",
+    "displayName": "命运女神·阿特洛波斯｜Atropos the Moirai",
+    "category": "神话角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "命运女神·阿特洛波斯｜Atropos the Moirai同模型来源图",
+    "author": "来源库存标注：Nerikson／Atropos the Moirai；作者与许可范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注：Nerikson／Atropos the Moirai；作者与许可范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "强烈角色姿态与服饰层次适合树脂打印、分件装配和具有戏剧感的明暗涂装。",
+          "该模型归入“神话角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 23 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/nerikson-atropos-the-moirai-1c6caf/gallery-01.jpg",
+        "alt": "命运女神·阿特洛波斯｜Atropos the Moirai来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/nerikson-atropos-the-moirai-1c6caf/gallery-02.jpg",
+        "alt": "命运女神·阿特洛波斯｜Atropos the Moirai来源图 2",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "hell-boy-glove-print3dworld-f30818",
+    "name": "地狱男爵巨拳｜Hellboy Glove",
+    "date": "2026-08-06",
+    "displayDate": "2026.08.06",
+    "format": "STL",
+    "fileCount": 10,
+    "size": "739.11 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/hell-boy-glove-print3dworld-f30818/hell-boy-glove-print3dworld-f30818-主图@初艺ouart.png",
+    "description": "夸张拳套轮廓、岩石裂纹与护腕结构适合道具化展示，可重点实践厚重体积、旧化和多材质分区。",
+    "intro": "2026.08.06 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1vzYN3yoFZiG2hxkie6xQJQ",
+    "shareCode": "0f14",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260806",
+    "nameZh": "地狱男爵巨拳",
+    "nameEn": "Hellboy Glove",
+    "displayName": "地狱男爵巨拳｜Hellboy Glove",
+    "category": "机械/道具",
+    "mainImageRole": "source_original",
+    "alt": "地狱男爵巨拳｜Hellboy Glove同模型来源图",
+    "author": "库存来源标注：Print3DWorld；作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存来源标注：Print3DWorld；作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "夸张拳套轮廓、岩石裂纹与护腕结构适合道具化展示，可重点实践厚重体积、旧化和多材质分区。",
+          "该模型归入“机械/道具”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 10 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/hell-boy-glove-print3dworld-f30818/gallery-01.jpg",
+        "alt": "地狱男爵巨拳｜Hellboy Glove来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/hell-boy-glove-print3dworld-f30818/gallery-02.jpg",
+        "alt": "地狱男爵巨拳｜Hellboy Glove来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/hell-boy-glove-print3dworld-f30818/gallery-03.jpg",
+        "alt": "地狱男爵巨拳｜Hellboy Glove来源图 3",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "exclusive-teacher-library-b7591c",
+    "name": "图书馆教师｜Library Teacher",
+    "date": "2026-08-06",
+    "displayDate": "2026.08.06",
+    "format": "STL",
+    "fileCount": 17,
+    "size": "1000.30 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/exclusive-teacher-library-b7591c/exclusive-teacher-library-b7591c-主图@初艺ouart.png",
+    "description": "人物姿态与图书馆主题形成明确场景线索，适合人物打印、服饰层次处理和室内叙事陈列。",
+    "intro": "2026.08.06 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1OIaEb_hDIOZupj3f5HjtxQ",
+    "shareCode": "9c2f",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260806",
+    "nameZh": "图书馆教师",
+    "nameEn": "Library Teacher",
+    "displayName": "图书馆教师｜Library Teacher",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "图书馆教师｜Library Teacher同模型来源图",
+    "author": "库存来源标注：Exclusive Teacher Library；作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存来源标注：Exclusive Teacher Library；作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "人物姿态与图书馆主题形成明确场景线索，适合人物打印、服饰层次处理和室内叙事陈列。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 17 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/exclusive-teacher-library-b7591c/gallery-01.jpg",
+        "alt": "图书馆教师｜Library Teacher来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "life-size-creeper-f90aa9",
+    "name": "等身苦力怕｜Life Size Creeper",
+    "date": "2026-08-06",
+    "displayDate": "2026.08.06",
+    "format": "STL",
+    "fileCount": 135,
+    "size": "1259.56 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/life-size-creeper-f90aa9/life-size-creeper-f90aa9-主图@初艺ouart.png",
+    "description": "等身像素生物造型与多分件结构兼具展示张力，适合大型装配、表面修整与方块化配色实践。",
+    "intro": "2026.08.06 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/15xVZID2NmVkH3JEyYYw6rg",
+    "shareCode": "1177",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260806",
+    "nameZh": "等身苦力怕",
+    "nameEn": "Life Size Creeper",
+    "displayName": "等身苦力怕｜Life Size Creeper",
+    "category": "生物/叙事",
+    "mainImageRole": "source_original",
+    "alt": "等身苦力怕｜Life Size Creeper同模型来源图",
+    "author": "库存来源标注：Life Size Creeper；作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存来源标注：Life Size Creeper；作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "等身像素生物造型与多分件结构兼具展示张力，适合大型装配、表面修整与方块化配色实践。",
+          "该模型归入“生物/叙事”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 135 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/life-size-creeper-f90aa9/gallery-01.jpg",
+        "alt": "等身苦力怕｜Life Size Creeper来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/life-size-creeper-f90aa9/gallery-02.jpg",
+        "alt": "等身苦力怕｜Life Size Creeper来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/life-size-creeper-f90aa9/gallery-03.jpg",
+        "alt": "等身苦力怕｜Life Size Creeper来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/life-size-creeper-f90aa9/gallery-04.jpg",
+        "alt": "等身苦力怕｜Life Size Creeper来源图 4",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "life-size-steve-minecraft-3e56aa",
+    "name": "等身史蒂夫｜Life Size Steve Minecraft",
+    "date": "2026-08-06",
+    "displayDate": "2026.08.06",
+    "format": "STL",
+    "fileCount": 112,
+    "size": "678.95 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/life-size-steve-minecraft-3e56aa/life-size-steve-minecraft-3e56aa-主图@初艺ouart.png",
+    "description": "等身像素角色提供清晰的块面、比例与装配关系，适合大型打印规划、接缝处理和经典配色还原。",
+    "intro": "2026.08.06 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/15cwhPfuWQ3ecCy-F2Nz5sg",
+    "shareCode": "88cd",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260806",
+    "nameZh": "等身史蒂夫",
+    "nameEn": "Life Size Steve Minecraft",
+    "displayName": "等身史蒂夫｜Life Size Steve Minecraft",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "等身史蒂夫｜Life Size Steve Minecraft同模型来源图",
+    "author": "库存来源标注：Life Size Steve Minecraft；作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存来源标注：Life Size Steve Minecraft；作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "等身像素角色提供清晰的块面、比例与装配关系，适合大型打印规划、接缝处理和经典配色还原。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 112 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/life-size-steve-minecraft-3e56aa/gallery-01.jpg",
+        "alt": "等身史蒂夫｜Life Size Steve Minecraft来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/life-size-steve-minecraft-3e56aa/gallery-02.jpg",
+        "alt": "等身史蒂夫｜Life Size Steve Minecraft来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/life-size-steve-minecraft-3e56aa/gallery-03.jpg",
+        "alt": "等身史蒂夫｜Life Size Steve Minecraft来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/life-size-steve-minecraft-3e56aa/gallery-04.jpg",
+        "alt": "等身史蒂夫｜Life Size Steve Minecraft来源图 4",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "g-o-w-kratos-axe-7225ef",
+    "name": "持斧战神｜G.O.W. Kratos Axe",
+    "date": "2026-08-06",
+    "displayDate": "2026.08.06",
+    "format": "STL",
+    "fileCount": 10,
+    "size": "613.81 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/g-o-w-kratos-axe-7225ef/g-o-w-kratos-axe-7225ef-主图@初艺ouart.png",
+    "description": "持斧姿态与盔甲层次形成强烈叙事焦点，适合分件装配、金属质感涂装与战损细节刻画。",
+    "intro": "2026.08.06 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1wDxtofNcavFeg9dR2BFRqw",
+    "shareCode": "e663",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260806",
+    "nameZh": "持斧战神",
+    "nameEn": "G.O.W. Kratos Axe",
+    "displayName": "持斧战神｜G.O.W. Kratos Axe",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "持斧战神｜G.O.W. Kratos Axe同模型来源图",
+    "author": "库存来源标注：G.O.W. Kratos Axe；作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存来源标注：G.O.W. Kratos Axe；作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "持斧姿态与盔甲层次形成强烈叙事焦点，适合分件装配、金属质感涂装与战损细节刻画。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 10 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/g-o-w-kratos-axe-7225ef/gallery-01.jpg",
+        "alt": "持斧战神｜G.O.W. Kratos Axe来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "nomnom-figures-f50692",
+    "name": "角色主题键帽｜Character Keycaps",
+    "date": "2026-08-06",
+    "displayDate": "2026.08.06",
+    "format": "STL",
+    "fileCount": 44,
+    "size": "1483.33 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/nomnom-figures-f50692/nomnom-figures-f50692-主图@初艺ouart.png",
+    "description": "角色造型与键帽结构结合，兼顾桌面个性化和小型精细制作，适合接口尺寸复核、树脂打印与系列化配色。",
+    "intro": "2026.08.06 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1nzyMvPAYf9Fq3wgsgwG9OA",
+    "shareCode": "dfe0",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260806",
+    "nameZh": "角色主题键帽",
+    "nameEn": "Character Keycaps",
+    "displayName": "角色主题键帽｜Character Keycaps",
+    "category": "功能/FDM",
+    "mainImageRole": "source_original",
+    "alt": "角色主题键帽｜Character Keycaps同模型来源图",
+    "author": "库存来源标注：Nomnom Figures；作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存来源标注：Nomnom Figures；作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "角色造型与键帽结构结合，兼顾桌面个性化和小型精细制作，适合接口尺寸复核、树脂打印与系列化配色。",
+          "该模型归入“功能/FDM”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 44 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/nomnom-figures-f50692/gallery-01.png",
+        "alt": "角色主题键帽｜Character Keycaps来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/nomnom-figures-f50692/gallery-02.png",
+        "alt": "角色主题键帽｜Character Keycaps来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/nomnom-figures-f50692/gallery-03.png",
+        "alt": "角色主题键帽｜Character Keycaps来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/nomnom-figures-f50692/gallery-04.jpg",
+        "alt": "角色主题键帽｜Character Keycaps来源图 4",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/nomnom-figures-f50692/gallery-05.jpg",
+        "alt": "角色主题键帽｜Character Keycaps来源图 5",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "crane-f66ad6",
+    "name": "吊车｜Crane",
+    "date": "2026-08-05",
+    "displayDate": "2026.08.05",
+    "format": "STL",
+    "fileCount": 25,
+    "size": "658.06 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/crane-f66ad6/crane-f66ad6-主图@初艺ouart.png",
+    "description": "以起重臂、车体和机械分件关系为重点，适合结构装配、工程车辆涂装与桌面场景展示。",
+    "intro": "2026.08.05 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1wE2XZvEuMowEgHEx679buA",
+    "shareCode": "3412",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260805",
+    "nameZh": "吊车",
+    "nameEn": "Crane",
+    "displayName": "吊车｜Crane",
+    "category": "载具/机械",
+    "mainImageRole": "source_original",
+    "alt": "吊车｜Crane同模型来源图",
+    "author": "来源库存未提供可独立核验的作者信息；具体署名与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存未提供可独立核验的作者信息；具体署名与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以起重臂、车体和机械分件关系为重点，适合结构装配、工程车辆涂装与桌面场景展示。",
+          "该模型归入“载具/机械”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 25 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/crane-f66ad6/gallery-01.png",
+        "alt": "吊车｜Crane来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "jehuty-9d3b61",
+    "name": "杰夫提｜Jehuty",
+    "date": "2026-08-05",
+    "displayDate": "2026.08.05",
+    "format": "STL",
+    "fileCount": 36,
+    "size": "797.57 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/jehuty-9d3b61/jehuty-9d3b61-主图@初艺ouart.png",
+    "description": "以杰夫提机甲的锐利轮廓、装甲层次与多分件结构为重点，适合精细打印、机甲涂装和动态陈列。",
+    "intro": "2026.08.05 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1hSBSxUtOdyevAC4NdYqEYw",
+    "shareCode": "fcae",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260805",
+    "nameZh": "杰夫提",
+    "nameEn": "Jehuty",
+    "displayName": "杰夫提｜Jehuty",
+    "category": "载具/机械",
+    "mainImageRole": "source_original",
+    "alt": "杰夫提｜Jehuty同模型来源图",
+    "author": "来源库存未提供可独立核验的作者信息；具体署名与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存未提供可独立核验的作者信息；具体署名与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以杰夫提机甲的锐利轮廓、装甲层次与多分件结构为重点，适合精细打印、机甲涂装和动态陈列。",
+          "该模型归入“载具/机械”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 36 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/jehuty-9d3b61/gallery-01.jpg",
+        "alt": "杰夫提｜Jehuty来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "street-fighter-bust-10-cdcabe",
+    "name": "街头霸王胸像合集｜Street Fighter Bust Collection (10)",
+    "date": "2026-08-05",
+    "displayDate": "2026.08.05",
+    "format": "STL",
+    "fileCount": 25,
+    "size": "917.81 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/street-fighter-bust-10-cdcabe/street-fighter-bust-10-cdcabe-主图@初艺ouart.png",
+    "description": "包含十款街头霸王角色胸像，适合系列化树脂打印、角色差异化涂装与成组陈列。",
+    "intro": "2026.08.05 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1zihosuN_SjTKFd9y0P6GOg",
+    "shareCode": "1e02",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260805",
+    "nameZh": "街头霸王胸像合集",
+    "nameEn": "Street Fighter Bust Collection (10)",
+    "displayName": "街头霸王胸像合集｜Street Fighter Bust Collection (10)",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "街头霸王胸像合集｜Street Fighter Bust Collection (10)同模型来源图",
+    "author": "来源库存未提供可独立核验的作者信息；具体署名与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存未提供可独立核验的作者信息；具体署名与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "包含十款街头霸王角色胸像，适合系列化树脂打印、角色差异化涂装与成组陈列。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 25 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/street-fighter-bust-10-cdcabe/gallery-01.jpg",
+        "alt": "街头霸王胸像合集｜Street Fighter Bust Collection (10)来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/street-fighter-bust-10-cdcabe/gallery-02.png",
+        "alt": "街头霸王胸像合集｜Street Fighter Bust Collection (10)来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/street-fighter-bust-10-cdcabe/gallery-03.jpg",
+        "alt": "街头霸王胸像合集｜Street Fighter Bust Collection (10)来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/street-fighter-bust-10-cdcabe/gallery-04.jpg",
+        "alt": "街头霸王胸像合集｜Street Fighter Bust Collection (10)来源图 4",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/street-fighter-bust-10-cdcabe/gallery-05.jpg",
+        "alt": "街头霸王胸像合集｜Street Fighter Bust Collection (10)来源图 5",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "donquixote-doflamingo-one-piece-969c53",
+    "name": "唐吉诃德·多弗朗明哥｜Donquixote Doflamingo — One Piece",
+    "date": "2026-08-05",
+    "displayDate": "2026.08.05",
+    "format": "STL",
+    "fileCount": 65,
+    "size": "1046.61 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/donquixote-doflamingo-one-piece-969c53/donquixote-doflamingo-one-piece-969c53-主图@初艺ouart.png",
+    "description": "以多弗朗明哥鲜明的姿态、服饰轮廓与多分件结构为重点，适合树脂打印、层次涂装和角色陈列。",
+    "intro": "2026.08.05 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1CFJRBFmZHqqA0X04W7yVjg",
+    "shareCode": "4790",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260805",
+    "nameZh": "唐吉诃德·多弗朗明哥",
+    "nameEn": "Donquixote Doflamingo — One Piece",
+    "displayName": "唐吉诃德·多弗朗明哥｜Donquixote Doflamingo — One Piece",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "唐吉诃德·多弗朗明哥｜Donquixote Doflamingo — One Piece同模型来源图",
+    "author": "来源库存未提供可独立核验的作者信息；具体署名与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存未提供可独立核验的作者信息；具体署名与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以多弗朗明哥鲜明的姿态、服饰轮廓与多分件结构为重点，适合树脂打印、层次涂装和角色陈列。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 65 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/donquixote-doflamingo-one-piece-969c53/gallery-01.jpg",
+        "alt": "唐吉诃德·多弗朗明哥｜Donquixote Doflamingo — One Piece来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "vs3d-alpa-chino-t-memoxomor-aka-58d078",
+    "name": "阿普拉·奇诺｜Apla Chino — Tropic Thunder",
+    "date": "2026-08-05",
+    "displayDate": "2026.08.05",
+    "format": "STL",
+    "fileCount": 26,
+    "size": "1417.85 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/vs3d-alpa-chino-t-memoxomor-aka-58d078/vs3d-alpa-chino-t-memoxomor-aka-58d078-主图@初艺ouart.png",
+    "description": "以《热带惊雷》中阿普拉·奇诺的全身造型、装备层次与场景底座为重点，适合高精度树脂打印、写实涂装与角色陈列。",
+    "intro": "2026.08.05 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/17EL5dLOBhhdadS50VeDmYQ",
+    "shareCode": "bee1",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260805",
+    "nameZh": "阿普拉·奇诺",
+    "nameEn": "Apla Chino — Tropic Thunder",
+    "displayName": "阿普拉·奇诺｜Apla Chino — Tropic Thunder",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "阿普拉·奇诺｜Apla Chino — Tropic Thunder同模型来源图",
+    "author": "库存与来源图标注 VS3D；具体署名与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存与来源图标注 VS3D；具体署名与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以《热带惊雷》中阿普拉·奇诺的全身造型、装备层次与场景底座为重点，适合高精度树脂打印、写实涂装与角色陈列。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 26 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/vs3d-alpa-chino-t-memoxomor-aka-58d078/gallery-01.png",
+        "alt": "阿普拉·奇诺｜Apla Chino — Tropic Thunder来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/vs3d-alpa-chino-t-memoxomor-aka-58d078/gallery-02.png",
+        "alt": "阿普拉·奇诺｜Apla Chino — Tropic Thunder来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/vs3d-alpa-chino-t-memoxomor-aka-58d078/gallery-03.png",
+        "alt": "阿普拉·奇诺｜Apla Chino — Tropic Thunder来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/vs3d-alpa-chino-t-memoxomor-aka-58d078/gallery-04.png",
+        "alt": "阿普拉·奇诺｜Apla Chino — Tropic Thunder来源图 4",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/vs3d-alpa-chino-t-memoxomor-aka-58d078/gallery-05.png",
+        "alt": "阿普拉·奇诺｜Apla Chino — Tropic Thunder来源图 5",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/vs3d-alpa-chino-t-memoxomor-aka-58d078/gallery-06.png",
+        "alt": "阿普拉·奇诺｜Apla Chino — Tropic Thunder来源图 6",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "mega-man-helmet-print3dworld-86b4b1",
+    "name": "洛克人头盔面具｜Mega Man Helmet",
+    "date": "2026-08-05",
+    "displayDate": "2026.08.05",
+    "format": "STL",
+    "fileCount": 11,
+    "size": "461.65 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/mega-man-helmet-print3dworld-86b4b1/mega-man-helmet-print3dworld-86b4b1-主图@初艺ouart.png",
+    "description": "以洛克人头盔的可穿戴外形与分件装配为重点，适合 FDM 打印、尺寸适配、表面处理与道具展示。",
+    "intro": "2026.08.05 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1aVe83VSNCq2Uz1ZLqdkp_Q",
+    "shareCode": "6180",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260805",
+    "nameZh": "洛克人头盔面具",
+    "nameEn": "Mega Man Helmet",
+    "displayName": "洛克人头盔面具｜Mega Man Helmet",
+    "category": "功能/FDM",
+    "mainImageRole": "source_original",
+    "alt": "洛克人头盔面具｜Mega Man Helmet同模型来源图",
+    "author": "库存标注 Print3DWorld；具体署名与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存标注 Print3DWorld；具体署名与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以洛克人头盔的可穿戴外形与分件装配为重点，适合 FDM 打印、尺寸适配、表面处理与道具展示。",
+          "该模型归入“功能/FDM”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 11 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/mega-man-helmet-print3dworld-86b4b1/gallery-01.png",
+        "alt": "洛克人头盔面具｜Mega Man Helmet来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/mega-man-helmet-print3dworld-86b4b1/gallery-02.png",
+        "alt": "洛克人头盔面具｜Mega Man Helmet来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/mega-man-helmet-print3dworld-86b4b1/gallery-03.png",
+        "alt": "洛克人头盔面具｜Mega Man Helmet来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/mega-man-helmet-print3dworld-86b4b1/gallery-04.png",
+        "alt": "洛克人头盔面具｜Mega Man Helmet来源图 4",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/mega-man-helmet-print3dworld-86b4b1/gallery-05.png",
+        "alt": "洛克人头盔面具｜Mega Man Helmet来源图 5",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/mega-man-helmet-print3dworld-86b4b1/gallery-06.png",
+        "alt": "洛克人头盔面具｜Mega Man Helmet来源图 6",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/mega-man-helmet-print3dworld-86b4b1/gallery-07.png",
+        "alt": "洛克人头盔面具｜Mega Man Helmet来源图 7",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "joker-bust-7bfd98",
+    "name": "小丑胸像｜Joker Bust",
+    "date": "2026-08-04",
+    "displayDate": "2026.08.04",
+    "format": "STL",
+    "fileCount": 5,
+    "size": "323.65 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/joker-bust-7bfd98/joker-bust-7bfd98-主图@初艺ouart.png",
+    "description": "突出夸张面部表情与胸像体块，适合练习树脂打印、肤色层次、服装材质和展示底座处理。",
+    "intro": "2026.08.04 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1EH3G2MCAUjU5tNhSqypuYw",
+    "shareCode": "366f",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260804",
+    "nameZh": "小丑胸像",
+    "nameEn": "Joker Bust",
+    "displayName": "小丑胸像｜Joker Bust",
+    "category": "角色胸像",
+    "mainImageRole": "source_original",
+    "alt": "小丑胸像｜Joker Bust同模型来源图",
+    "author": "来源库存未提供可独立核验的作者信息；具体作者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存未提供可独立核验的作者信息；具体作者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "突出夸张面部表情与胸像体块，适合练习树脂打印、肤色层次、服装材质和展示底座处理。",
+          "该模型归入“角色胸像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 5 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/joker-bust-7bfd98/gallery-01.jpg",
+        "alt": "小丑胸像｜Joker Bust来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "jesus-christ-jesus-cristo-d34871",
+    "name": "耶稣雕像｜Jesus Christ Sculpture",
+    "date": "2026-08-04",
+    "displayDate": "2026.08.04",
+    "format": "STL",
+    "fileCount": 2,
+    "size": "690.91 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/jesus-christ-jesus-cristo-d34871/jesus-christ-jesus-cristo-d34871-主图@初艺ouart.png",
+    "description": "以人物神态、衣褶与纪念性构图为重点，适合树脂打印、石材质感涂装及静态陈设。",
+    "intro": "2026.08.04 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1tHD_wOUQBCCyWugIfQ-JPg",
+    "shareCode": "d5b7",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260804",
+    "nameZh": "耶稣雕像",
+    "nameEn": "Jesus Christ Sculpture",
+    "displayName": "耶稣雕像｜Jesus Christ Sculpture",
+    "category": "宗教雕塑",
+    "mainImageRole": "source_original",
+    "alt": "耶稣雕像｜Jesus Christ Sculpture同模型来源图",
+    "author": "来源库存未提供可独立核验的作者信息；具体作者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存未提供可独立核验的作者信息；具体作者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以人物神态、衣褶与纪念性构图为重点，适合树脂打印、石材质感涂装及静态陈设。",
+          "该模型归入“宗教雕塑”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 2 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/jesus-christ-jesus-cristo-d34871/gallery-01.jpg",
+        "alt": "耶稣雕像｜Jesus Christ Sculpture来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "tanukifigures-2025-02-chihiro-chibi-752c76",
+    "name": "千寻与无脸男｜Chihiro & No-Face Chibi",
+    "date": "2026-08-04",
+    "displayDate": "2026.08.04",
+    "format": "STL",
+    "fileCount": 13,
+    "size": "1167.28 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/tanukifigures-2025-02-chihiro-chibi-752c76/tanukifigures-2025-02-chihiro-chibi-752c76-主图@初艺ouart.png",
+    "description": "以双角色关系和场景化陈列为重点，适合分件装配、色块控制与小型叙事展示。",
+    "intro": "2026.08.04 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1ySs3KX-sTgFdLNEsCMwQzg",
+    "shareCode": "c097",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260804",
+    "nameZh": "千寻与无脸男",
+    "nameEn": "Chihiro & No-Face Chibi",
+    "displayName": "千寻与无脸男｜Chihiro & No-Face Chibi",
+    "category": "动漫场景",
+    "mainImageRole": "source_original",
+    "alt": "千寻与无脸男｜Chihiro & No-Face Chibi同模型来源图",
+    "author": "来源库存标注 TanukiFigures；具体作者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注 TanukiFigures；具体作者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以双角色关系和场景化陈列为重点，适合分件装配、色块控制与小型叙事展示。",
+          "该模型归入“动漫场景”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 13 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/tanukifigures-2025-02-chihiro-chibi-752c76/gallery-01.jpg",
+        "alt": "千寻与无脸男｜Chihiro & No-Face Chibi来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/tanukifigures-2025-02-chihiro-chibi-752c76/gallery-02.jpg",
+        "alt": "千寻与无脸男｜Chihiro & No-Face Chibi来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/tanukifigures-2025-02-chihiro-chibi-752c76/gallery-03.jpg",
+        "alt": "千寻与无脸男｜Chihiro & No-Face Chibi来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/tanukifigures-2025-02-chihiro-chibi-752c76/gallery-04.jpg",
+        "alt": "千寻与无脸男｜Chihiro & No-Face Chibi来源图 4",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "futurama-coleccion-completa-dc81df",
+    "name": "飞出个未来角色合集｜Futurama Character Collection",
+    "date": "2026-08-04",
+    "displayDate": "2026.08.04",
+    "format": "STL",
+    "fileCount": 17,
+    "size": "393.43 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/futurama-coleccion-completa-dc81df/futurama-coleccion-completa-dc81df-主图@初艺ouart.png",
+    "description": "多角色简化造型便于统一比例打印与系列化上色，适合桌面陈列、角色编组和批量工艺测试。",
+    "intro": "2026.08.04 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1CjJkvSYj3lKBTnmFxUVDMA",
+    "shareCode": "657c",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260804",
+    "nameZh": "飞出个未来角色合集",
+    "nameEn": "Futurama Character Collection",
+    "displayName": "飞出个未来角色合集｜Futurama Character Collection",
+    "category": "科幻角色合集",
+    "mainImageRole": "source_original",
+    "alt": "飞出个未来角色合集｜Futurama Character Collection同模型来源图",
+    "author": "来源库存未提供可独立核验的作者信息；具体作者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存未提供可独立核验的作者信息；具体作者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "多角色简化造型便于统一比例打印与系列化上色，适合桌面陈列、角色编组和批量工艺测试。",
+          "该模型归入“科幻角色合集”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 17 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/futurama-coleccion-completa-dc81df/gallery-01.jpg",
+        "alt": "飞出个未来角色合集｜Futurama Character Collection来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "swolceror-mini-83d74b",
+    "name": "阅读中的肌肉术士｜Swolceror Mini",
+    "date": "2026-08-04",
+    "displayDate": "2026.08.04",
+    "format": "STL",
+    "fileCount": 31,
+    "size": "704.32 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/swolceror-mini-83d74b/swolceror-mini-83d74b-主图@初艺ouart.png",
+    "description": "将夸张体格与阅读动作结合，适合微缩打印、肌肉明暗、布料与道具细节的分区涂装。",
+    "intro": "2026.08.04 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1B6dyXhpGzID1cA_2Xqh3hw",
+    "shareCode": "8bb1",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260804",
+    "nameZh": "阅读中的肌肉术士",
+    "nameEn": "Swolceror Mini",
+    "displayName": "阅读中的肌肉术士｜Swolceror Mini",
+    "category": "奇幻桌游微缩",
+    "mainImageRole": "source_original",
+    "alt": "阅读中的肌肉术士｜Swolceror Mini同模型来源图",
+    "author": "来源库存未提供可独立核验的作者信息；具体作者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存未提供可独立核验的作者信息；具体作者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "将夸张体格与阅读动作结合，适合微缩打印、肌肉明暗、布料与道具细节的分区涂装。",
+          "该模型归入“奇幻桌游微缩”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 31 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/swolceror-mini-83d74b/gallery-01.png",
+        "alt": "阅读中的肌肉术士｜Swolceror Mini来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
     "id": "model-1104723657520705-e00553",
     "name": "玛琪玛与电次｜Makima & Denji — Chainsaw Man",
     "date": "2026-08-03",

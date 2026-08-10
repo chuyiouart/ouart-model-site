@@ -1,6 +1,29 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20260810",
+    "date": "2026-08-10",
+    "displayDate": "2026.08.10",
+    "title": "2026.08.10｜OUART 今日六件",
+    "description": "建筑场景、动物雕塑、机械载具与角色主题并置，一次浏览六种可打印方向。",
+    "published": true,
+    "collage": "./assets/batches/2026-08-10/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-08-10 六模型静态拼图",
+    "modelIds": [
+      "goten-trunks-diorama-carlos-vp-25d436",
+      "shenron-goku-dragon-ball-telegram-kokun-figures-3d6952",
+      "model-82680030684466-689ffd",
+      "dbz-chichi-y-goku-novios-stl-zone-17a2f8",
+      "gotenks-and-trunks-kids-3d-print-model-aaa859",
+      "goku-vs-piccolo-b82a63"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1vbPP66frZ9XawVk1sFx8-g",
+    "shareCode": "ab3a",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-08-10T10:31:58+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20260809",
     "date": "2026-08-09",
     "displayDate": "2026.08.09",

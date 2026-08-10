@@ -1,5 +1,472 @@
 window.OUART_MODELS = [
   {
+    "id": "goten-trunks-diorama-carlos-vp-25d436",
+    "name": "悟天与特兰克斯场景｜Goten & Trunks Diorama",
+    "date": "2026-08-10",
+    "displayDate": "2026.08.10",
+    "format": "STL",
+    "fileCount": 25,
+    "size": "2042.31 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/goten-trunks-diorama-carlos-vp-25d436/goten-trunks-diorama-carlos-vp-25d436-主图@初艺ouart.png",
+    "description": "以双角色互动和场景化构图为核心，适合验证人物比例、分件装配与叙事涂装。",
+    "intro": "2026.08.10 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1hGwXVzLt2U8Hpu_KbpzGQA",
+    "shareCode": "5584",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260810",
+    "nameZh": "悟天与特兰克斯场景",
+    "nameEn": "Goten & Trunks Diorama",
+    "displayName": "悟天与特兰克斯场景｜Goten & Trunks Diorama",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "悟天与特兰克斯场景｜Goten & Trunks Diorama同模型来源图",
+    "author": "来源库存标注为 Carlos VP；具体作者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注为 Carlos VP；具体作者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以双角色互动和场景化构图为核心，适合验证人物比例、分件装配与叙事涂装。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 25 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/goten-trunks-diorama-carlos-vp-25d436/gallery-01.jpg",
+        "alt": "悟天与特兰克斯场景｜Goten & Trunks Diorama来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "shenron-goku-dragon-ball-telegram-kokun-figures-3d6952",
+    "name": "神龙与悟空｜Shenron & Goku — Dragon Ball",
+    "date": "2026-08-10",
+    "displayDate": "2026.08.10",
+    "format": "STL",
+    "fileCount": 32,
+    "size": "1077.52 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/shenron-goku-dragon-ball-telegram-kokun-figures-3d6952/shenron-goku-dragon-ball-telegram-kokun-figures-3d6952-主图@初艺ouart.png",
+    "description": "以神龙的曲线体量围合悟空主体，适合检验大型分件、动态支撑与场景层次涂装。",
+    "intro": "2026.08.10 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1AArMR-GnRNUKIkfw-zmhBg",
+    "shareCode": "afeb",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260810",
+    "nameZh": "神龙与悟空",
+    "nameEn": "Shenron & Goku — Dragon Ball",
+    "displayName": "神龙与悟空｜Shenron & Goku — Dragon Ball",
+    "category": "生物/叙事",
+    "mainImageRole": "source_original",
+    "alt": "神龙与悟空｜Shenron & Goku — Dragon Ball同模型来源图",
+    "author": "库存来源文字提及 KOKUN FIGURES；具体作者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存来源文字提及 KOKUN FIGURES；具体作者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以神龙的曲线体量围合悟空主体，适合检验大型分件、动态支撑与场景层次涂装。",
+          "该模型归入“生物/叙事”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 32 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/shenron-goku-dragon-ball-telegram-kokun-figures-3d6952/gallery-01.png",
+        "alt": "神龙与悟空｜Shenron & Goku — Dragon Ball来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "model-82680030684466-689ffd",
+    "name": "黑天鹅｜Black Swan",
+    "date": "2026-08-10",
+    "displayDate": "2026.08.10",
+    "format": "STL",
+    "fileCount": 11,
+    "size": "765.53 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-82680030684466-689ffd/model-82680030684466-689ffd-主图@初艺ouart.png",
+    "description": "以优雅人物轮廓、服饰层次与细节分件为重点，适合精细树脂打印和渐层涂装。",
+    "intro": "2026.08.10 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1TLi7RrghKg_16EyLJrKNyg",
+    "shareCode": "9dd9",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260810",
+    "nameZh": "黑天鹅",
+    "nameEn": "Black Swan",
+    "displayName": "黑天鹅｜Black Swan",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "黑天鹅｜Black Swan同模型来源图",
+    "author": "库存未标注明确作者；具体作者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存未标注明确作者；具体作者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以优雅人物轮廓、服饰层次与细节分件为重点，适合精细树脂打印和渐层涂装。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 11 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-82680030684466-689ffd/gallery-01.jpg",
+        "alt": "黑天鹅｜Black Swan来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/model-82680030684466-689ffd/gallery-02.jpg",
+        "alt": "黑天鹅｜Black Swan来源图 2",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "dbz-chichi-y-goku-novios-stl-zone-17a2f8",
+    "name": "琪琪与悟空婚礼场景｜Chi-Chi & Goku Wedding Diorama",
+    "date": "2026-08-10",
+    "displayDate": "2026.08.10",
+    "format": "STL",
+    "fileCount": 26,
+    "size": "1202.99 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/dbz-chichi-y-goku-novios-stl-zone-17a2f8/dbz-chichi-y-goku-novios-stl-zone-17a2f8-主图@初艺ouart.png",
+    "description": "双角色婚礼构图突出人物互动与纪念性场景，适合验证表情细节、分件关系和综合色彩搭配。",
+    "intro": "2026.08.10 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1zm__F1lkzNia7EjQrzq0yQ",
+    "shareCode": "fc7c",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260810",
+    "nameZh": "琪琪与悟空婚礼场景",
+    "nameEn": "Chi-Chi & Goku Wedding Diorama",
+    "displayName": "琪琪与悟空婚礼场景｜Chi-Chi & Goku Wedding Diorama",
+    "category": "场景/装饰",
+    "mainImageRole": "source_original",
+    "alt": "琪琪与悟空婚礼场景｜Chi-Chi & Goku Wedding Diorama同模型来源图",
+    "author": "库存未标注明确作者；具体作者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存未标注明确作者；具体作者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "双角色婚礼构图突出人物互动与纪念性场景，适合验证表情细节、分件关系和综合色彩搭配。",
+          "该模型归入“场景/装饰”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 26 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/dbz-chichi-y-goku-novios-stl-zone-17a2f8/gallery-01.jpg",
+        "alt": "琪琪与悟空婚礼场景｜Chi-Chi & Goku Wedding Diorama来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "gotenks-and-trunks-kids-3d-print-model-aaa859",
+    "name": "少年悟天克斯与特兰克斯｜Kid Gotenks & Trunks",
+    "date": "2026-08-10",
+    "displayDate": "2026.08.10",
+    "format": "STL",
+    "fileCount": 38,
+    "size": "3208.81 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/gotenks-and-trunks-kids-3d-print-model-aaa859/gotenks-and-trunks-kids-3d-print-model-aaa859-主图@初艺ouart.png",
+    "description": "双角色少年造型强调动作呼应与比例关系，适合树脂打印、分件装配和明快动画风涂装。",
+    "intro": "2026.08.10 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1_DUpGjWx4jW5JHp6H0Ti7A",
+    "shareCode": "39c8",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260810",
+    "nameZh": "少年悟天克斯与特兰克斯",
+    "nameEn": "Kid Gotenks & Trunks",
+    "displayName": "少年悟天克斯与特兰克斯｜Kid Gotenks & Trunks",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "少年悟天克斯与特兰克斯｜Kid Gotenks & Trunks同模型来源图",
+    "author": "库存未标注明确作者；具体作者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存未标注明确作者；具体作者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "双角色少年造型强调动作呼应与比例关系，适合树脂打印、分件装配和明快动画风涂装。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 38 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/gotenks-and-trunks-kids-3d-print-model-aaa859/gallery-01.jpg",
+        "alt": "少年悟天克斯与特兰克斯｜Kid Gotenks & Trunks来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "goku-vs-piccolo-b82a63",
+    "name": "悟空对战比克｜Goku vs. Piccolo Diorama",
+    "date": "2026-08-10",
+    "displayDate": "2026.08.10",
+    "format": "STL",
+    "fileCount": 20,
+    "size": "741.97 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/goku-vs-piccolo-b82a63/goku-vs-piccolo-b82a63-主图@初艺ouart.png",
+    "description": "对战构图通过相向动作形成强烈张力，适合检验动态支撑、角色间距和战斗场景涂装。",
+    "intro": "2026.08.10 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/12ed8tTY_-XBJHpmrvoIwYw",
+    "shareCode": "6d3a",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260810",
+    "nameZh": "悟空对战比克",
+    "nameEn": "Goku vs. Piccolo Diorama",
+    "displayName": "悟空对战比克｜Goku vs. Piccolo Diorama",
+    "category": "生物/叙事",
+    "mainImageRole": "source_original",
+    "alt": "悟空对战比克｜Goku vs. Piccolo Diorama同模型来源图",
+    "author": "库存未标注明确作者；具体作者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存未标注明确作者；具体作者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "对战构图通过相向动作形成强烈张力，适合检验动态支撑、角色间距和战斗场景涂装。",
+          "该模型归入“生物/叙事”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 20 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/goku-vs-piccolo-b82a63/gallery-01.jpg",
+        "alt": "悟空对战比克｜Goku vs. Piccolo Diorama来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
     "id": "carlos-vp-videl-gran-saiyaman-2-49f64c",
     "name": "比迪丽（赛亚超人2号）｜Videl as Great Saiyaman No. 2",
     "date": "2026-08-09",

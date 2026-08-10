@@ -109,6 +109,7 @@
     image.loading = priority ? "eager" : "lazy";
     image.decoding = "async";
     if (priority) image.fetchPriority = "high";
+    else image.fetchPriority = "low";
   }
 
   function setResponsiveBatchImage(image, batch, priority = false) {
@@ -119,6 +120,7 @@
     image.loading = priority ? "eager" : "lazy";
     image.decoding = "async";
     if (priority) image.fetchPriority = "high";
+    else image.fetchPriority = "low";
   }
 
   document.addEventListener("error", (event) => {
@@ -480,8 +482,11 @@
       image.src = galleryThumb(model, index);
       image.dataset.fallback = item.src;
       image.alt = item.alt;
+      image.width = 640;
+      image.height = 480;
       image.loading = "lazy";
       image.decoding = "async";
+      image.fetchPriority = "low";
       protectModelImage(image);
       trigger.appendChild(image);
       trigger.addEventListener("click", () => {
@@ -620,6 +625,7 @@
       secondary.alt = `${name} 细节预览`;
       secondary.loading = "lazy";
       secondary.decoding = "async";
+      secondary.fetchPriority = "low";
       protectModelImage(secondary);
       secondaryWrap.hidden = false;
     }

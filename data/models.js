@@ -1,5 +1,517 @@
 window.OUART_MODELS = [
   {
+    "id": "vegeta-gua-dragon-ball-53403c",
+    "name": "贝吉塔水景场景｜Vegeta Water Diorama — Dragon Ball",
+    "date": "2026-08-11",
+    "displayDate": "2026.08.11",
+    "format": "STL",
+    "fileCount": 33,
+    "size": "3239.14 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/vegeta-gua-dragon-ball-53403c/vegeta-gua-dragon-ball-53403c-主图@初艺ouart.png",
+    "description": "角色动作与水体效果结合的场景模型，适合分离处理人物、浪花和底座，并练习透明感、飞溅层次与动态构图。",
+    "intro": "2026.08.11 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1DpiJ_vWjmb3OcDHBOOLVpg",
+    "shareCode": "038b",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260811",
+    "nameZh": "贝吉塔水景场景",
+    "nameEn": "Vegeta Water Diorama — Dragon Ball",
+    "displayName": "贝吉塔水景场景｜Vegeta Water Diorama — Dragon Ball",
+    "category": "生物/叙事",
+    "mainImageRole": "source_original",
+    "alt": "贝吉塔水景场景｜Vegeta Water Diorama — Dragon Ball同模型来源图",
+    "author": "库存来源标注为《龙珠》贝吉塔水景场景；未标明明确创作者，署名与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存来源标注为《龙珠》贝吉塔水景场景；未标明明确创作者，署名与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "角色动作与水体效果结合的场景模型，适合分离处理人物、浪花和底座，并练习透明感、飞溅层次与动态构图。",
+          "该模型归入“生物/叙事”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 33 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/vegeta-gua-dragon-ball-53403c/gallery-01.jpg",
+        "alt": "贝吉塔水景场景｜Vegeta Water Diorama — Dragon Ball来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "goku-dragon-ball-b3b6f1",
+    "name": "孙悟空｜Goku — Dragon Ball",
+    "date": "2026-08-11",
+    "displayDate": "2026.08.11",
+    "format": "STL",
+    "fileCount": 48,
+    "size": "2331.81 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/goku-dragon-ball-b3b6f1/goku-dragon-ball-b3b6f1-主图@初艺ouart.png",
+    "description": "以经典角色轮廓和动态姿态为核心，适合树脂打印、分件装配，并通过发束、服装褶皱和能量色彩强化视觉焦点。",
+    "intro": "2026.08.11 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1tugnum_Yb6YjHRfQFtZhhw",
+    "shareCode": "af7b",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260811",
+    "nameZh": "孙悟空",
+    "nameEn": "Goku — Dragon Ball",
+    "displayName": "孙悟空｜Goku — Dragon Ball",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "孙悟空｜Goku — Dragon Ball同模型来源图",
+    "author": "库存来源标注为《龙珠》孙悟空；未标明明确创作者，署名与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存来源标注为《龙珠》孙悟空；未标明明确创作者，署名与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以经典角色轮廓和动态姿态为核心，适合树脂打印、分件装配，并通过发束、服装褶皱和能量色彩强化视觉焦点。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 48 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/goku-dragon-ball-b3b6f1/gallery-01.jpg",
+        "alt": "孙悟空｜Goku — Dragon Ball来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "black-tower-collectibles-guldo-ea9889",
+    "name": "古尔多｜Guldo (Black Tower Collectibles)",
+    "date": "2026-08-11",
+    "displayDate": "2026.08.11",
+    "format": "STL",
+    "fileCount": 38,
+    "size": "1373.44 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/black-tower-collectibles-guldo-ea9889/black-tower-collectibles-guldo-ea9889-主图@初艺ouart.png",
+    "description": "角色比例与表情特征鲜明，适合树脂打印后处理面部、服装和底座关系，并通过高饱和配色强化收藏展示辨识度。",
+    "intro": "2026.08.11 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1JiNOE1aMS8Yf027z9KdGLQ",
+    "shareCode": "16d3",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260811",
+    "nameZh": "古尔多",
+    "nameEn": "Guldo (Black Tower Collectibles)",
+    "displayName": "古尔多｜Guldo (Black Tower Collectibles)",
+    "category": "场景道具",
+    "mainImageRole": "source_original",
+    "alt": "古尔多｜Guldo (Black Tower Collectibles)同模型来源图",
+    "author": "库存来源标注创作者为 Black Tower Collectibles；具体署名与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存来源标注创作者为 Black Tower Collectibles；具体署名与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "角色比例与表情特征鲜明，适合树脂打印后处理面部、服装和底座关系，并通过高饱和配色强化收藏展示辨识度。",
+          "该模型归入“场景道具”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 38 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/black-tower-collectibles-guldo-ea9889/gallery-01.jpg",
+        "alt": "古尔多｜Guldo (Black Tower Collectibles)来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/black-tower-collectibles-guldo-ea9889/gallery-02.jpg",
+        "alt": "古尔多｜Guldo (Black Tower Collectibles)来源图 2",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "naruto-modo-sabio-ryodan-studio-basico-6358c8",
+    "name": "仙人模式鸣人｜Naruto Sage Mode — Basic Edition (Ryodan Studio)",
+    "date": "2026-08-11",
+    "displayDate": "2026.08.11",
+    "format": "STL",
+    "fileCount": 25,
+    "size": "1920.37 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/naruto-modo-sabio-ryodan-studio-basico-6358c8/naruto-modo-sabio-ryodan-studio-basico-6358c8-主图@初艺ouart.png",
+    "description": "以仙人模式鸣人的动态轮廓和基础版分件为核心，适合树脂打印、支撑规划与装配，并练习服装、卷轴和能量氛围的层次表达。",
+    "intro": "2026.08.11 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1pUofeEgY1KvzUJmKDUcKeA",
+    "shareCode": "84d2",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260811",
+    "nameZh": "仙人模式鸣人",
+    "nameEn": "Naruto Sage Mode — Basic Edition (Ryodan Studio)",
+    "displayName": "仙人模式鸣人｜Naruto Sage Mode — Basic Edition (Ryodan Studio)",
+    "category": "生物/叙事",
+    "mainImageRole": "source_original",
+    "alt": "仙人模式鸣人｜Naruto Sage Mode — Basic Edition (Ryodan Studio)同模型来源图",
+    "author": "库存来源标注创作者为 Ryodan Studio，版本为基础版；具体署名与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存来源标注创作者为 Ryodan Studio，版本为基础版；具体署名与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以仙人模式鸣人的动态轮廓和基础版分件为核心，适合树脂打印、支撑规划与装配，并练习服装、卷轴和能量氛围的层次表达。",
+          "该模型归入“生物/叙事”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 25 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/naruto-modo-sabio-ryodan-studio-basico-6358c8/gallery-01.jpg",
+        "alt": "仙人模式鸣人｜Naruto Sage Mode — Basic Edition (Ryodan Studio)来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/naruto-modo-sabio-ryodan-studio-basico-6358c8/gallery-02.jpg",
+        "alt": "仙人模式鸣人｜Naruto Sage Mode — Basic Edition (Ryodan Studio)来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/naruto-modo-sabio-ryodan-studio-basico-6358c8/gallery-03.jpg",
+        "alt": "仙人模式鸣人｜Naruto Sage Mode — Basic Edition (Ryodan Studio)来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/naruto-modo-sabio-ryodan-studio-basico-6358c8/gallery-04.jpg",
+        "alt": "仙人模式鸣人｜Naruto Sage Mode — Basic Edition (Ryodan Studio)来源图 4",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "samiho-pain-a2644c",
+    "name": "佩恩｜Pain (Samiho)",
+    "date": "2026-08-11",
+    "displayDate": "2026.08.11",
+    "format": "STL",
+    "fileCount": 32,
+    "size": "1936.82 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/samiho-pain-a2644c/samiho-pain-a2644c-主图@初艺ouart.png",
+    "description": "以佩恩的面部穿刺、长袍轮廓和冷峻姿态为识别重点，适合树脂分件打印，并练习肤色、金属细节与深色服装的层次控制。",
+    "intro": "2026.08.11 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1KdeRkMywfdMes061s8SI-g",
+    "shareCode": "4348",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260811",
+    "nameZh": "佩恩",
+    "nameEn": "Pain (Samiho)",
+    "displayName": "佩恩｜Pain (Samiho)",
+    "category": "生物/叙事",
+    "mainImageRole": "source_original",
+    "alt": "佩恩｜Pain (Samiho)同模型来源图",
+    "author": "库存来源标注 Samiho 与《火影忍者》佩恩信息；具体署名与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存来源标注 Samiho 与《火影忍者》佩恩信息；具体署名与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以佩恩的面部穿刺、长袍轮廓和冷峻姿态为识别重点，适合树脂分件打印，并练习肤色、金属细节与深色服装的层次控制。",
+          "该模型归入“生物/叙事”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 32 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/samiho-pain-a2644c/gallery-01.jpg",
+        "alt": "佩恩｜Pain (Samiho)来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/samiho-pain-a2644c/gallery-02.jpg",
+        "alt": "佩恩｜Pain (Samiho)来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/samiho-pain-a2644c/gallery-03.jpg",
+        "alt": "佩恩｜Pain (Samiho)来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/samiho-pain-a2644c/gallery-04.jpg",
+        "alt": "佩恩｜Pain (Samiho)来源图 4",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "samiho-studios-yamato-anbu-88ab70",
+    "name": "暗部大和｜Yamato ANBU (Samiho Studios)",
+    "date": "2026-08-11",
+    "displayDate": "2026.08.11",
+    "format": "STL",
+    "fileCount": 26,
+    "size": "1324.34 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/samiho-studios-yamato-anbu-88ab70/samiho-studios-yamato-anbu-88ab70-主图@初艺ouart.png",
+    "description": "暗部造型结合面具、护具与忍者姿态，适合树脂打印后分区装配，并通过哑光服装、木叶护具和局部金属表现材质差异。",
+    "intro": "2026.08.11 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1cQdtN344SlSfw5iLG1pNZA",
+    "shareCode": "8291",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260811",
+    "nameZh": "暗部大和",
+    "nameEn": "Yamato ANBU (Samiho Studios)",
+    "displayName": "暗部大和｜Yamato ANBU (Samiho Studios)",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "暗部大和｜Yamato ANBU (Samiho Studios)同模型来源图",
+    "author": "库存来源标注创作者为 Samiho Studios；具体署名与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存来源标注创作者为 Samiho Studios；具体署名与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "暗部造型结合面具、护具与忍者姿态，适合树脂打印后分区装配，并通过哑光服装、木叶护具和局部金属表现材质差异。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 26 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/samiho-studios-yamato-anbu-88ab70/gallery-01.jpg",
+        "alt": "暗部大和｜Yamato ANBU (Samiho Studios)来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/samiho-studios-yamato-anbu-88ab70/gallery-02.jpg",
+        "alt": "暗部大和｜Yamato ANBU (Samiho Studios)来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/samiho-studios-yamato-anbu-88ab70/gallery-03.jpg",
+        "alt": "暗部大和｜Yamato ANBU (Samiho Studios)来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/samiho-studios-yamato-anbu-88ab70/gallery-04.jpg",
+        "alt": "暗部大和｜Yamato ANBU (Samiho Studios)来源图 4",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
     "id": "goten-trunks-diorama-carlos-vp-25d436",
     "name": "悟天与特兰克斯场景｜Goten & Trunks Diorama",
     "date": "2026-08-10",

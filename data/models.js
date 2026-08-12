@@ -1,5 +1,512 @@
 window.OUART_MODELS = [
   {
+    "id": "model-1059729799528903-0a8dae",
+    "name": "盒子怪｜Box Monster",
+    "date": "2026-08-12",
+    "displayDate": "2026.08.12",
+    "format": "STL",
+    "fileCount": 20,
+    "size": "324.20 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-1059729799528903-0a8dae/model-1059729799528903-0a8dae-主图@初艺ouart.png",
+    "description": "将收纳盒结构转化为拟人怪物造型，兼具趣味陈列与功能验证价值，适合测试盖体配合、分件装配和FDM表面处理。",
+    "intro": "2026.08.12 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1tmbEzMhKfsAqGsuksmb94Q",
+    "shareCode": "c84a",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260812",
+    "nameZh": "盒子怪",
+    "nameEn": "Box Monster",
+    "displayName": "盒子怪｜Box Monster",
+    "category": "功能/FDM",
+    "mainImageRole": "source_original",
+    "alt": "盒子怪｜Box Monster同模型来源图",
+    "author": "库存来源标注为“盒子怪”；未确认具体作者，授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存来源标注为“盒子怪”；未确认具体作者，授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "将收纳盒结构转化为拟人怪物造型，兼具趣味陈列与功能验证价值，适合测试盖体配合、分件装配和FDM表面处理。",
+          "该模型归入“功能/FDM”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 20 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-1059729799528903-0a8dae/gallery-01.png",
+        "alt": "盒子怪｜Box Monster来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/model-1059729799528903-0a8dae/gallery-02.png",
+        "alt": "盒子怪｜Box Monster来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/model-1059729799528903-0a8dae/gallery-03.png",
+        "alt": "盒子怪｜Box Monster来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/model-1059729799528903-0a8dae/gallery-04.png",
+        "alt": "盒子怪｜Box Monster来源图 4",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "model-1113118049822938-cf7361",
+    "name": "五条悟｜Satoru Gojo",
+    "date": "2026-08-12",
+    "displayDate": "2026.08.12",
+    "format": "STL",
+    "fileCount": 20,
+    "size": "979.61 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-1113118049822938-cf7361/model-1113118049822938-cf7361-主图@初艺ouart.png",
+    "description": "角色轮廓与服装层次鲜明，适合树脂打印、分件装配，并通过冷暖对比突出面部与术式表现。",
+    "intro": "2026.08.12 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/11wxAGJC4yWeOVpulgP4T_w",
+    "shareCode": "c75a",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260812",
+    "nameZh": "五条悟",
+    "nameEn": "Satoru Gojo",
+    "displayName": "五条悟｜Satoru Gojo",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "五条悟｜Satoru Gojo同模型来源图",
+    "author": "库存来源标注为“五条悟”；未确认具体作者，授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存来源标注为“五条悟”；未确认具体作者，授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "角色轮廓与服装层次鲜明，适合树脂打印、分件装配，并通过冷暖对比突出面部与术式表现。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 20 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-1113118049822938-cf7361/gallery-01.jpg",
+        "alt": "五条悟｜Satoru Gojo来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "model-1085635287982036-059042",
+    "name": "三只蜗牛｜Three Snails",
+    "date": "2026-08-12",
+    "displayDate": "2026.08.12",
+    "format": "STL",
+    "fileCount": 12,
+    "size": "981.90 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-1085635287982036-059042/model-1085635287982036-059042-主图@初艺ouart.png",
+    "description": "三只蜗牛可组成节奏轻松的小型群像，适合测试壳体纹理、触角等细节，并探索自然色与幻想色涂装。",
+    "intro": "2026.08.12 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1pnwtG4u5OH5bWZm3CJZSEg",
+    "shareCode": "d291",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260812",
+    "nameZh": "三只蜗牛",
+    "nameEn": "Three Snails",
+    "displayName": "三只蜗牛｜Three Snails",
+    "category": "生物/叙事",
+    "mainImageRole": "source_original",
+    "alt": "三只蜗牛｜Three Snails同模型来源图",
+    "author": "库存来源标注为“蜗牛三只”；未确认具体作者，授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存来源标注为“蜗牛三只”；未确认具体作者，授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "三只蜗牛可组成节奏轻松的小型群像，适合测试壳体纹理、触角等细节，并探索自然色与幻想色涂装。",
+          "该模型归入“生物/叙事”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 12 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-1085635287982036-059042/gallery-01.jpg",
+        "alt": "三只蜗牛｜Three Snails来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "model-911764246450132-794a7a",
+    "name": "超级马力欧问号方块挂饰｜Super Mario Question Block Ornament",
+    "date": "2026-08-12",
+    "displayDate": "2026.08.12",
+    "format": "STL",
+    "fileCount": 5,
+    "size": "390.20 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-911764246450132-794a7a/model-911764246450132-794a7a-主图@初艺ouart.png",
+    "description": "问号方块造型可作为节日挂饰或轻量桌面装饰，适合验证壳体、挂环与小尺寸FDM表面旧化效果。",
+    "intro": "2026.08.12 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1lNKwLz__OsJlEREeF15HZA",
+    "shareCode": "df8d",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260812",
+    "nameZh": "超级马力欧问号方块挂饰",
+    "nameEn": "Super Mario Question Block Ornament",
+    "displayName": "超级马力欧问号方块挂饰｜Super Mario Question Block Ornament",
+    "category": "家居/装饰",
+    "mainImageRole": "source_original",
+    "alt": "超级马力欧问号方块挂饰｜Super Mario Question Block Ornament同模型来源图",
+    "author": "库存来源标注为“超级玛丽问好”；未确认具体作者，授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存来源标注为“超级玛丽问好”；未确认具体作者，授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "问号方块造型可作为节日挂饰或轻量桌面装饰，适合验证壳体、挂环与小尺寸FDM表面旧化效果。",
+          "该模型归入“家居/装饰”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 5 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-911764246450132-794a7a/gallery-01.png",
+        "alt": "超级马力欧问号方块挂饰｜Super Mario Question Block Ornament来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "model-754322064493594-e57a39",
+    "name": "九尾查克拉模式鸣人雕像｜Naruto Nine-Tails Chakra Mode Statue",
+    "date": "2026-08-12",
+    "displayDate": "2026.08.12",
+    "format": "STL",
+    "fileCount": 9,
+    "size": "646.71 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-754322064493594-e57a39/model-754322064493594-e57a39-主图@初艺ouart.png",
+    "description": "人物、武器与九尾火焰底座形成完整动态构图，适合树脂打印、分件定位以及半透明火焰层次涂装。",
+    "intro": "2026.08.12 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1qNRasobpXgnonNnnL6blWg",
+    "shareCode": "c115",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260812",
+    "nameZh": "九尾查克拉模式鸣人雕像",
+    "nameEn": "Naruto Nine-Tails Chakra Mode Statue",
+    "displayName": "九尾查克拉模式鸣人雕像｜Naruto Nine-Tails Chakra Mode Statue",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "九尾查克拉模式鸣人雕像｜Naruto Nine-Tails Chakra Mode Statue同模型来源图",
+    "author": "库存来源标注为“鸣人胸像”；未确认具体作者，授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存来源标注为“鸣人胸像”；未确认具体作者，授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "人物、武器与九尾火焰底座形成完整动态构图，适合树脂打印、分件定位以及半透明火焰层次涂装。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 9 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-754322064493594-e57a39/gallery-01.png",
+        "alt": "九尾查克拉模式鸣人雕像｜Naruto Nine-Tails Chakra Mode Statue来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/model-754322064493594-e57a39/gallery-02.png",
+        "alt": "九尾查克拉模式鸣人雕像｜Naruto Nine-Tails Chakra Mode Statue来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/model-754322064493594-e57a39/gallery-03.png",
+        "alt": "九尾查克拉模式鸣人雕像｜Naruto Nine-Tails Chakra Mode Statue来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/model-754322064493594-e57a39/gallery-04.png",
+        "alt": "九尾查克拉模式鸣人雕像｜Naruto Nine-Tails Chakra Mode Statue来源图 4",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "model-688877054560181-348188",
+    "name": "黑神话悟空角色模型｜Black Myth: Wukong Character Model",
+    "date": "2026-08-12",
+    "displayDate": "2026.08.12",
+    "format": "STL",
+    "fileCount": 21,
+    "size": "614.08 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-688877054560181-348188/model-688877054560181-348188-主图@初艺ouart.png",
+    "description": "强调披挂、毛发与兵器等高密度角色细节，适合检验树脂打印精度、分件装配和旧化层次。",
+    "intro": "2026.08.12 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1WjXaXLSu_XRzyPI-KpXEFw",
+    "shareCode": "c1b5",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260812",
+    "nameZh": "黑神话悟空角色模型",
+    "nameEn": "Black Myth: Wukong Character Model",
+    "displayName": "黑神话悟空角色模型｜Black Myth: Wukong Character Model",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "黑神话悟空角色模型｜Black Myth: Wukong Character Model同模型来源图",
+    "author": "库存来源标注为“黑猴通用”；未确认具体作者，授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存来源标注为“黑猴通用”；未确认具体作者，授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "强调披挂、毛发与兵器等高密度角色细节，适合检验树脂打印精度、分件装配和旧化层次。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 21 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-688877054560181-348188/gallery-01.jpg",
+        "alt": "黑神话悟空角色模型｜Black Myth: Wukong Character Model来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/model-688877054560181-348188/gallery-02.jpg",
+        "alt": "黑神话悟空角色模型｜Black Myth: Wukong Character Model来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/model-688877054560181-348188/gallery-03.jpg",
+        "alt": "黑神话悟空角色模型｜Black Myth: Wukong Character Model来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/model-688877054560181-348188/gallery-04.jpg",
+        "alt": "黑神话悟空角色模型｜Black Myth: Wukong Character Model来源图 4",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
     "id": "vegeta-gua-dragon-ball-53403c",
     "name": "贝吉塔水景场景｜Vegeta Water Diorama — Dragon Ball",
     "date": "2026-08-11",

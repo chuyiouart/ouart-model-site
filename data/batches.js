@@ -1,5 +1,28 @@
 window.OUART_BATCHES = [
   {
+    "schemaVersion": 3,
+    "id": "ouart-daily-six-20260814",
+    "date": "2026-08-14",
+    "displayDate": "2026.08.14",
+    "title": "2026.08.14｜OUART 今日六件",
+    "description": "机械道具与角色雕像并置，一次浏览六种可打印方向；本次仅补偿站点展示，不提供下载信息。",
+    "published": true,
+    "siteOnly": true,
+    "downloadStatus": "not_provided",
+    "collage": "./assets/batches/2026-08-14/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-08-14 六模型静态拼图",
+    "modelIds": [
+      "model-357050972619079-01e0f8",
+      "model-151568387870371-be6c96",
+      "model-316224784930722-3c880d",
+      "model-494350657652663-8d0827",
+      "f-14-tomcat-fdm-gambody-031e3b",
+      "kakashi-diorama-kabuki-figures-e7c251"
+    ],
+    "separateLinksRequired": true,
+    "publishedAt": "2026-08-15T02:02:16+08:00"
+  },
+  {
     "schemaVersion": 2,
     "id": "ouart-daily-six-20260812",
     "date": "2026-08-12",

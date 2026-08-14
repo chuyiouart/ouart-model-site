@@ -596,10 +596,13 @@
     const link = document.getElementById("download-link");
     const code = document.getElementById("share-code");
     const copy = document.getElementById("copy-code");
-    if (model.published) {
+    const hasDownload = typeof model.downloadUrl === "string" && model.downloadUrl.trim() !== "";
+    const hasShareCode = typeof model.shareCode === "string" && model.shareCode.trim() !== "";
+    if (model.published && hasDownload) {
       link.href = model.downloadUrl;
-      code.textContent = model.shareCode;
-      copy.addEventListener("click", async () => {
+      code.textContent = hasShareCode ? model.shareCode : "—";
+      copy.hidden = !hasShareCode;
+      if (hasShareCode) copy.addEventListener("click", async () => {
         try {
           await navigator.clipboard.writeText(model.shareCode);
           copy.classList.add("copied");
@@ -613,7 +616,7 @@
       panel.classList.add("pending");
       link.removeAttribute("href");
       link.removeAttribute("target");
-      link.textContent = "下载信息整理中";
+      link.textContent = model.published ? "下载信息暂未提供" : "下载信息整理中";
       code.textContent = "—";
       copy.hidden = true;
     }

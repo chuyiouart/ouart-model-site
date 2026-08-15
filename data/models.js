@@ -1,31 +1,31 @@
 window.OUART_MODELS = [
   {
     "id": "model-357050972619079-01e0f8",
-    "name": "双刀武器配件｜Dual-Blade Weapon Props",
-    "date": "2026-08-14",
-    "displayDate": "2026.08.14",
+    "name": "伊只柱刀一体分段模型｜Integrated Segmented Pillar-Blade Model",
+    "date": "2026-08-15",
+    "displayDate": "2026.08.15",
     "format": "STL",
     "fileCount": 38,
     "size": "1298.15 MB",
     "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
     "image": "./assets/models/model-357050972619079-01e0f8/model-357050972619079-01e0f8-主图@初艺ouart.png",
-    "description": "包含一对交叉展示的长刃武器配件，适合检查细长件打印、刃口完整度、握柄纹理与道具涂装。",
-    "intro": "2026.08.14 OUART 每日六模型合集成员；本次补偿仅公开已完成的站点展示信息，未提供下载信息。",
+    "description": "一体造型与分段版本并存，便于比较不同打印尺寸下的装配路径、刀具细节和展示稳定性。",
+    "intro": "2026.08.15 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1k5I52IOggijU5CuYD8o7Zg",
+    "shareCode": "33b2",
     "published": true,
-    "schemaVersion": 7,
-    "batchId": "ouart-daily-six-20260814",
-    "siteOnly": true,
-    "downloadStatus": "not_provided",
-    "nameZh": "双刀武器配件",
-    "nameEn": "Dual-Blade Weapon Props",
-    "displayName": "双刀武器配件｜Dual-Blade Weapon Props",
-    "category": "机械/道具",
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260815",
+    "nameZh": "伊只柱刀一体分段模型",
+    "nameEn": "Integrated Segmented Pillar-Blade Model",
+    "displayName": "伊只柱刀一体分段模型｜Integrated Segmented Pillar-Blade Model",
+    "category": "角色雕像",
     "mainImageRole": "source_original",
-    "alt": "双刀武器配件｜Dual-Blade Weapon Props同模型来源图",
-    "author": "来源图标注 Yoshi Studios；具体作者与授权范围以原始文件说明为准",
+    "alt": "伊只柱刀一体分段模型｜Integrated Segmented Pillar-Blade Model同模型来源图",
+    "author": "原始库存资料；具体创作者与授权范围以包内说明为准",
     "license": "许可请以原始发布者说明为准",
     "authorLicense": {
-      "author": "来源图标注 Yoshi Studios；具体作者与授权范围以原始文件说明为准",
+      "author": "原始库存资料；具体创作者与授权范围以包内说明为准",
       "license": "未发现可公开确认的开放许可声明",
       "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
     },
@@ -37,24 +37,25 @@ window.OUART_MODELS = [
         "id": "design",
         "title": "设计与功能观察",
         "paragraphs": [
-          "包含一对交叉展示的长刃武器配件，适合检查细长件打印、刃口完整度、握柄纹理与道具涂装。",
-          "该模型归入“机械/道具”，与同批另外五件形成多样的展示与制作组合。"
+          "一体造型与分段版本并存，便于比较不同打印尺寸下的装配路径、刀具细节和展示稳定性。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
         ]
       },
       {
         "id": "print",
         "title": "打印、结构与风险",
         "paragraphs": [
-          "准备记录包含 38 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
-          "站点展示不替代文件完整性、打印安全与许可检查。"
+          "内部审计记录 38 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
         ]
       },
       {
         "id": "finish",
         "title": "材料与表面方案",
         "paragraphs": [
-          "可按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
-          "建议分层建立底色、阴影、局部高光与保护层。"
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
         ]
       },
       {
@@ -62,45 +63,46 @@ window.OUART_MODELS = [
         "title": "使用与延展",
         "paragraphs": [
           "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
-          "下载信息本次未提供；请勿将站点展示状态理解为新增网盘分享。"
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
         ]
       }
     ],
     "gallery": [
       {
         "src": "./assets/models/model-357050972619079-01e0f8/gallery-01.jpg",
-        "alt": "双刀武器配件｜Dual-Blade Weapon Props来源图 1",
+        "alt": "伊只柱刀一体分段模型｜Integrated Segmented Pillar-Blade Model来源图 1",
         "label": "来源图"
       }
     ]
   },
   {
     "id": "model-151568387870371-be6c96",
-    "name": "飞影角色雕像｜Hiei Character Sculpture",
-    "date": "2026-08-14",
-    "displayDate": "2026.08.14",
+    "name": "飞影｜Hiei",
+    "date": "2026-08-15",
+    "displayDate": "2026.08.15",
     "format": "STL",
     "fileCount": 21,
     "size": "698.58 MB",
     "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
     "image": "./assets/models/model-151568387870371-be6c96/model-151568387870371-be6c96-主图@初艺ouart.png",
-    "description": "突出角色的紧凑姿态与锐利轮廓，适合树脂打印、分件装配和深色系细节涂装。",
-    "intro": "2026.08.14 OUART 每日六模型合集成员；本次补偿仅公开已完成的站点展示信息，未提供下载信息。",
+    "description": "突出角色姿态与服装轮廓，适合树脂打印、分件装配和重点涂装。",
+    "intro": "2026.08.15 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1ideZLAJt5ynE9l1uW-ZMoQ",
+    "shareCode": "7ef3",
     "published": true,
-    "schemaVersion": 7,
-    "batchId": "ouart-daily-six-20260814",
-    "siteOnly": true,
-    "downloadStatus": "not_provided",
-    "nameZh": "飞影角色雕像",
-    "nameEn": "Hiei Character Sculpture",
-    "displayName": "飞影角色雕像｜Hiei Character Sculpture",
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260815",
+    "nameZh": "飞影",
+    "nameEn": "Hiei",
+    "displayName": "飞影｜Hiei",
     "category": "角色雕像",
     "mainImageRole": "source_original",
-    "alt": "飞影角色雕像｜Hiei Character Sculpture同模型来源图",
-    "author": "来源库存名称标注为“飞影”；未核实具体作者，作者与授权范围以原始文件说明为准",
+    "alt": "飞影｜Hiei同模型来源图",
+    "author": "原始库存资料；具体创作者与授权范围以包内说明为准",
     "license": "许可请以原始发布者说明为准",
     "authorLicense": {
-      "author": "来源库存名称标注为“飞影”；未核实具体作者，作者与授权范围以原始文件说明为准",
+      "author": "原始库存资料；具体创作者与授权范围以包内说明为准",
       "license": "未发现可公开确认的开放许可声明",
       "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
     },
@@ -112,7 +114,7 @@ window.OUART_MODELS = [
         "id": "design",
         "title": "设计与功能观察",
         "paragraphs": [
-          "突出角色的紧凑姿态与锐利轮廓，适合树脂打印、分件装配和深色系细节涂装。",
+          "突出角色姿态与服装轮廓，适合树脂打印、分件装配和重点涂装。",
           "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
         ]
       },
@@ -120,16 +122,17 @@ window.OUART_MODELS = [
         "id": "print",
         "title": "打印、结构与风险",
         "paragraphs": [
-          "准备记录包含 21 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
-          "站点展示不替代文件完整性、打印安全与许可检查。"
+          "内部审计记录 21 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
         ]
       },
       {
         "id": "finish",
         "title": "材料与表面方案",
         "paragraphs": [
-          "可按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
-          "建议分层建立底色、阴影、局部高光与保护层。"
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
         ]
       },
       {
@@ -137,45 +140,46 @@ window.OUART_MODELS = [
         "title": "使用与延展",
         "paragraphs": [
           "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
-          "下载信息本次未提供；请勿将站点展示状态理解为新增网盘分享。"
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
         ]
       }
     ],
     "gallery": [
       {
         "src": "./assets/models/model-151568387870371-be6c96/gallery-01.jpg",
-        "alt": "飞影角色雕像｜Hiei Character Sculpture来源图 1",
+        "alt": "飞影｜Hiei来源图 1",
         "label": "来源图"
       }
     ]
   },
   {
     "id": "model-316224784930722-3c880d",
-    "name": "机器人带人物｜Robot and Pilot Diorama",
-    "date": "2026-08-14",
-    "displayDate": "2026.08.14",
+    "name": "机器人与人物组合｜Robot and Figure Set",
+    "date": "2026-08-15",
+    "displayDate": "2026.08.15",
     "format": "STL",
     "fileCount": 18,
     "size": "523.50 MB",
     "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
     "image": "./assets/models/model-316224784930722-3c880d/model-316224784930722-3c880d-主图@初艺ouart.png",
-    "description": "以机械轮廓、分件关系和装配逻辑为重点，适合验证接口精度、结构层次与耐用涂装。",
-    "intro": "2026.08.14 OUART 每日六模型合集成员；本次补偿仅公开已完成的站点展示信息，未提供下载信息。",
+    "description": "机器人与人物共同提供尺度参照，适合机械分件装配、材质区分与场景陈列。",
+    "intro": "2026.08.15 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1RsBdo3dulPKGOVXAQdivOg",
+    "shareCode": "69cc",
     "published": true,
-    "schemaVersion": 7,
-    "batchId": "ouart-daily-six-20260814",
-    "siteOnly": true,
-    "downloadStatus": "not_provided",
-    "nameZh": "机器人带人物",
-    "nameEn": "Robot and Pilot Diorama",
-    "displayName": "机器人带人物｜Robot and Pilot Diorama",
-    "category": "机械/道具",
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260815",
+    "nameZh": "机器人与人物组合",
+    "nameEn": "Robot and Figure Set",
+    "displayName": "机器人与人物组合｜Robot and Figure Set",
+    "category": "载具/机械",
     "mainImageRole": "source_original",
-    "alt": "机器人带人物｜Robot and Pilot Diorama同模型来源图",
-    "author": "来源库存名称标注为“机器人带人物”；未核实具体作者，作者与授权范围以原始文件说明为准",
+    "alt": "机器人与人物组合｜Robot and Figure Set同模型来源图",
+    "author": "原始库存资料；具体创作者与授权范围以包内说明为准",
     "license": "许可请以原始发布者说明为准",
     "authorLicense": {
-      "author": "来源库存名称标注为“机器人带人物”；未核实具体作者，作者与授权范围以原始文件说明为准",
+      "author": "原始库存资料；具体创作者与授权范围以包内说明为准",
       "license": "未发现可公开确认的开放许可声明",
       "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
     },
@@ -187,24 +191,25 @@ window.OUART_MODELS = [
         "id": "design",
         "title": "设计与功能观察",
         "paragraphs": [
-          "以机械轮廓、分件关系和装配逻辑为重点，适合验证接口精度、结构层次与耐用涂装。",
-          "该模型归入“机械/道具”，与同批另外五件形成多样的展示与制作组合。"
+          "机器人与人物共同提供尺度参照，适合机械分件装配、材质区分与场景陈列。",
+          "该模型归入“载具/机械”，与同批另外五件形成多样的展示与制作组合。"
         ]
       },
       {
         "id": "print",
         "title": "打印、结构与风险",
         "paragraphs": [
-          "准备记录包含 18 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
-          "站点展示不替代文件完整性、打印安全与许可检查。"
+          "内部审计记录 18 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
         ]
       },
       {
         "id": "finish",
         "title": "材料与表面方案",
         "paragraphs": [
-          "可按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
-          "建议分层建立底色、阴影、局部高光与保护层。"
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
         ]
       },
       {
@@ -212,45 +217,46 @@ window.OUART_MODELS = [
         "title": "使用与延展",
         "paragraphs": [
           "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
-          "下载信息本次未提供；请勿将站点展示状态理解为新增网盘分享。"
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
         ]
       }
     ],
     "gallery": [
       {
         "src": "./assets/models/model-316224784930722-3c880d/gallery-01.jpg",
-        "alt": "机器人带人物｜Robot and Pilot Diorama来源图 1",
+        "alt": "机器人与人物组合｜Robot and Figure Set来源图 1",
         "label": "来源图"
       }
     ]
   },
   {
     "id": "model-494350657652663-8d0827",
-    "name": "教父｜The Godfather Character Sculpture",
-    "date": "2026-08-14",
-    "displayDate": "2026.08.14",
+    "name": "教父｜The Godfather",
+    "date": "2026-08-15",
+    "displayDate": "2026.08.15",
     "format": "STL",
     "fileCount": 14,
     "size": "1422.99 MB",
     "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
     "image": "./assets/models/model-494350657652663-8d0827/model-494350657652663-8d0827-主图@初艺ouart.png",
-    "description": "突出角色轮廓、姿态与服装或装备细节，适合树脂打印、分件装配和重点层次涂装。",
-    "intro": "2026.08.14 OUART 每日六模型合集成员；本次补偿仅公开已完成的站点展示信息，未提供下载信息。",
+    "description": "以经典人物肖像与姿态为核心，适合树脂打印、面部细节处理和电影主题陈列。",
+    "intro": "2026.08.15 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1_8jU0RIHI-uPNaZzTRkAjg",
+    "shareCode": "48b2",
     "published": true,
-    "schemaVersion": 7,
-    "batchId": "ouart-daily-six-20260814",
-    "siteOnly": true,
-    "downloadStatus": "not_provided",
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260815",
     "nameZh": "教父",
-    "nameEn": "The Godfather Character Sculpture",
-    "displayName": "教父｜The Godfather Character Sculpture",
+    "nameEn": "The Godfather",
+    "displayName": "教父｜The Godfather",
     "category": "角色雕像",
     "mainImageRole": "source_original",
-    "alt": "教父｜The Godfather Character Sculpture同模型来源图",
-    "author": "来源库存名称标注为“教父”；未核实具体作者，作者与授权范围以原始文件说明为准",
+    "alt": "教父｜The Godfather同模型来源图",
+    "author": "原始库存资料；具体创作者与授权范围以包内说明为准",
     "license": "许可请以原始发布者说明为准",
     "authorLicense": {
-      "author": "来源库存名称标注为“教父”；未核实具体作者，作者与授权范围以原始文件说明为准",
+      "author": "原始库存资料；具体创作者与授权范围以包内说明为准",
       "license": "未发现可公开确认的开放许可声明",
       "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
     },
@@ -262,7 +268,7 @@ window.OUART_MODELS = [
         "id": "design",
         "title": "设计与功能观察",
         "paragraphs": [
-          "突出角色轮廓、姿态与服装或装备细节，适合树脂打印、分件装配和重点层次涂装。",
+          "以经典人物肖像与姿态为核心，适合树脂打印、面部细节处理和电影主题陈列。",
           "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
         ]
       },
@@ -270,16 +276,17 @@ window.OUART_MODELS = [
         "id": "print",
         "title": "打印、结构与风险",
         "paragraphs": [
-          "准备记录包含 14 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
-          "站点展示不替代文件完整性、打印安全与许可检查。"
+          "内部审计记录 14 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
         ]
       },
       {
         "id": "finish",
         "title": "材料与表面方案",
         "paragraphs": [
-          "可按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
-          "建议分层建立底色、阴影、局部高光与保护层。"
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
         ]
       },
       {
@@ -287,45 +294,61 @@ window.OUART_MODELS = [
         "title": "使用与延展",
         "paragraphs": [
           "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
-          "下载信息本次未提供；请勿将站点展示状态理解为新增网盘分享。"
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
         ]
       }
     ],
     "gallery": [
       {
         "src": "./assets/models/model-494350657652663-8d0827/gallery-01.jpg",
-        "alt": "教父｜The Godfather Character Sculpture来源图 1",
+        "alt": "教父｜The Godfather来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/model-494350657652663-8d0827/gallery-02.jpg",
+        "alt": "教父｜The Godfather来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/model-494350657652663-8d0827/gallery-03.jpg",
+        "alt": "教父｜The Godfather来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/model-494350657652663-8d0827/gallery-04.jpg",
+        "alt": "教父｜The Godfather来源图 4",
         "label": "来源图"
       }
     ]
   },
   {
-    "id": "f-14-tomcat-fdm-gambody-031e3b",
-    "name": "F-14雄猫战斗机｜F-14 Tomcat FDM Gambody",
-    "date": "2026-08-14",
-    "displayDate": "2026.08.14",
+    "id": "model-379993813042597-cc717d",
+    "name": "虎杖悠仁｜Yuji Itadori — Jujutsu Kaisen",
+    "date": "2026-08-15",
+    "displayDate": "2026.08.15",
     "format": "STL",
-    "fileCount": 144,
-    "size": "1478.40 MB",
+    "fileCount": 26,
+    "size": "598.98 MB",
     "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
-    "image": "./assets/models/f-14-tomcat-fdm-gambody-031e3b/f-14-tomcat-fdm-gambody-031e3b-主图@初艺ouart.png",
-    "description": "以机械轮廓、分件关系和装配逻辑为重点，适合验证接口精度、结构层次与耐用涂装。",
-    "intro": "2026.08.14 OUART 每日六模型合集成员；本次补偿仅公开已完成的站点展示信息，未提供下载信息。",
+    "image": "./assets/models/model-379993813042597-cc717d/model-379993813042597-cc717d-主图@初艺ouart.png",
+    "description": "突出角色动作、服装与战斗姿态，适合树脂打印、装配和动画风格涂装。",
+    "intro": "2026.08.15 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1sv8Wsh6Rw_nVUJ0HkKqd7Q",
+    "shareCode": "204d",
     "published": true,
-    "schemaVersion": 7,
-    "batchId": "ouart-daily-six-20260814",
-    "siteOnly": true,
-    "downloadStatus": "not_provided",
-    "nameZh": "F-14雄猫战斗机",
-    "nameEn": "F-14 Tomcat FDM Gambody",
-    "displayName": "F-14雄猫战斗机｜F-14 Tomcat FDM Gambody",
-    "category": "机械/道具",
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260815",
+    "nameZh": "虎杖悠仁",
+    "nameEn": "Yuji Itadori — Jujutsu Kaisen",
+    "displayName": "虎杖悠仁｜Yuji Itadori — Jujutsu Kaisen",
+    "category": "角色雕像",
     "mainImageRole": "source_original",
-    "alt": "F-14雄猫战斗机｜F-14 Tomcat FDM Gambody同模型来源图",
-    "author": "来源库存名称标注为“F-14 Tomcat_FDM_Gambody”；未核实具体作者，作者与授权范围以原始文件说明为准",
+    "alt": "虎杖悠仁｜Yuji Itadori — Jujutsu Kaisen同模型来源图",
+    "author": "原始库存资料；具体创作者与授权范围以包内说明为准",
     "license": "许可请以原始发布者说明为准",
     "authorLicense": {
-      "author": "来源库存名称标注为“F-14 Tomcat_FDM_Gambody”；未核实具体作者，作者与授权范围以原始文件说明为准",
+      "author": "原始库存资料；具体创作者与授权范围以包内说明为准",
       "license": "未发现可公开确认的开放许可声明",
       "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
     },
@@ -337,24 +360,25 @@ window.OUART_MODELS = [
         "id": "design",
         "title": "设计与功能观察",
         "paragraphs": [
-          "以机械轮廓、分件关系和装配逻辑为重点，适合验证接口精度、结构层次与耐用涂装。",
-          "该模型归入“机械/道具”，与同批另外五件形成多样的展示与制作组合。"
+          "突出角色动作、服装与战斗姿态，适合树脂打印、装配和动画风格涂装。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
         ]
       },
       {
         "id": "print",
         "title": "打印、结构与风险",
         "paragraphs": [
-          "准备记录包含 144 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
-          "站点展示不替代文件完整性、打印安全与许可检查。"
+          "内部审计记录 26 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
         ]
       },
       {
         "id": "finish",
         "title": "材料与表面方案",
         "paragraphs": [
-          "可按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
-          "建议分层建立底色、阴影、局部高光与保护层。"
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
         ]
       },
       {
@@ -362,14 +386,92 @@ window.OUART_MODELS = [
         "title": "使用与延展",
         "paragraphs": [
           "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
-          "下载信息本次未提供；请勿将站点展示状态理解为新增网盘分享。"
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-379993813042597-cc717d/gallery-01.jpg",
+        "alt": "虎杖悠仁｜Yuji Itadori — Jujutsu Kaisen来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "f-14-tomcat-fdm-gambody-031e3b",
+    "name": "F-14雄猫战斗机｜F-14 Tomcat — Gambody FDM",
+    "date": "2026-08-15",
+    "displayDate": "2026.08.15",
+    "format": "STL",
+    "fileCount": 144,
+    "size": "1478.40 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/f-14-tomcat-fdm-gambody-031e3b/f-14-tomcat-fdm-gambody-031e3b-主图@初艺ouart.png",
+    "description": "面向FDM打印的战斗机分件模型，适合机体装配、比例校准和航空主题涂装。",
+    "intro": "2026.08.15 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1PxLN_i8jXiwKMIFxHHOnIA",
+    "shareCode": "bbb0",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260815",
+    "nameZh": "F-14雄猫战斗机",
+    "nameEn": "F-14 Tomcat — Gambody FDM",
+    "displayName": "F-14雄猫战斗机｜F-14 Tomcat — Gambody FDM",
+    "category": "载具/机械",
+    "mainImageRole": "source_original",
+    "alt": "F-14雄猫战斗机｜F-14 Tomcat — Gambody FDM同模型来源图",
+    "author": "库存标注 Gambody；具体创作者与授权范围以包内说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存标注 Gambody；具体创作者与授权范围以包内说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "面向FDM打印的战斗机分件模型，适合机体装配、比例校准和航空主题涂装。",
+          "该模型归入“载具/机械”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 144 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
         ]
       }
     ],
     "gallery": [
       {
         "src": "./assets/models/f-14-tomcat-fdm-gambody-031e3b/gallery-01.jpg",
-        "alt": "F-14雄猫战斗机｜F-14 Tomcat FDM Gambody来源图 1",
+        "alt": "F-14雄猫战斗机｜F-14 Tomcat — Gambody FDM来源图 1",
         "label": "来源图"
       }
     ]

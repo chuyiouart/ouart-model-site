@@ -1,5 +1,479 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20260818:model-1003074269466646-77661d",
+    "publicationId": "ouart-daily-six-20260818:model-1003074269466646-77661d",
+    "inventoryId": "model-1003074269466646-77661d",
+    "name": "小画架｜Small Easel",
+    "date": "2026-08-18",
+    "displayDate": "2026.08.18",
+    "format": "STL",
+    "fileCount": 4,
+    "size": "0.03 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-1003074269466646-77661d/model-1003074269466646-77661d-主图@初艺ouart.png",
+    "description": "兼顾造型、结构与实际陈列使用，适合验证分件、装配和表面处理。",
+    "intro": "2026.08.18 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1NbkU97TrOk7n13x65ROsDw",
+    "shareCode": "d836",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260818",
+    "nameZh": "小画架",
+    "nameEn": "Small Easel",
+    "displayName": "小画架｜Small Easel",
+    "category": "功能/FDM",
+    "mainImageRole": "source_original",
+    "alt": "小画架｜Small Easel同模型来源图",
+    "author": "来源库存标注 小画架；具体作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注 小画架；具体作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "兼顾造型、结构与实际陈列使用，适合验证分件、装配和表面处理。",
+          "该模型归入“功能/FDM”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 4 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-1003074269466646-77661d/gallery-01.png",
+        "alt": "小画架｜Small Easel来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260818:ww2-german-command-buildings-25-02-001-2baf50",
+    "publicationId": "ouart-daily-six-20260818:ww2-german-command-buildings-25-02-001-2baf50",
+    "inventoryId": "ww2-german-command-buildings-25-02-001-2baf50",
+    "name": "德国建筑士兵素材｜WW2_German_Command_Buildings_25_02_001",
+    "date": "2026-08-18",
+    "displayDate": "2026.08.18",
+    "format": "STL",
+    "fileCount": 201,
+    "size": "6124.39 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/ww2-german-command-buildings-25-02-001-2baf50/ww2-german-command-buildings-25-02-001-2baf50-主图@初艺ouart.png",
+    "description": "以建筑体量和细部层级组织模型，适合尺度研究、场景陈列与数字制造测试。",
+    "intro": "2026.08.18 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1iz5rgPKeV1bmtI1tgqQ1mA",
+    "shareCode": "b3f3",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260818",
+    "nameZh": "德国建筑士兵素材",
+    "nameEn": "WW2_German_Command_Buildings_25_02_001",
+    "displayName": "德国建筑士兵素材｜WW2_German_Command_Buildings_25_02_001",
+    "category": "建筑/CNC",
+    "mainImageRole": "source_original",
+    "alt": "德国建筑士兵素材｜WW2_German_Command_Buildings_25_02_001同模型来源图",
+    "author": "来源库存标注 德国建筑士兵素材WW2_German_Command_Buildings_25_02_001；具体作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注 德国建筑士兵素材WW2_German_Command_Buildings_25_02_001；具体作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以建筑体量和细部层级组织模型，适合尺度研究、场景陈列与数字制造测试。",
+          "该模型归入“建筑/CNC”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 201 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/ww2-german-command-buildings-25-02-001-2baf50/gallery-01.jpg",
+        "alt": "德国建筑士兵素材｜WW2_German_Command_Buildings_25_02_001来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260818:astrobot-04479b",
+    "publicationId": "ouart-daily-six-20260818:astrobot-04479b",
+    "inventoryId": "astrobot-04479b",
+    "name": "机器人｜Astrobot",
+    "date": "2026-08-18",
+    "displayDate": "2026.08.18",
+    "format": "STL",
+    "fileCount": 6,
+    "size": "245.13 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/astrobot-04479b/astrobot-04479b-主图@初艺ouart.png",
+    "description": "通过机械分件与整体轮廓呈现载具主题，适合装配、涂装和空间展示。",
+    "intro": "2026.08.18 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/154VaBDKbkiXNrGTzMU21cQ",
+    "shareCode": "65fa",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260818",
+    "nameZh": "机器人",
+    "nameEn": "Astrobot",
+    "displayName": "机器人｜Astrobot",
+    "category": "载具/机械",
+    "mainImageRole": "source_original",
+    "alt": "机器人｜Astrobot同模型来源图",
+    "author": "来源库存标注 机器人Astrobot；具体作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注 机器人Astrobot；具体作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "通过机械分件与整体轮廓呈现载具主题，适合装配、涂装和空间展示。",
+          "该模型归入“载具/机械”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 6 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/astrobot-04479b/gallery-01.jpg",
+        "alt": "机器人｜Astrobot来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260818:model-692934431500703-11b456",
+    "publicationId": "ouart-daily-six-20260818:model-692934431500703-11b456",
+    "inventoryId": "model-692934431500703-11b456",
+    "name": "龙 组合｜Legendary Dragons Collection",
+    "date": "2026-08-18",
+    "displayDate": "2026.08.18",
+    "format": "STL",
+    "fileCount": 258,
+    "size": "6034.93 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-692934431500703-11b456/model-692934431500703-11b456-主图@初艺ouart.png",
+    "description": "以生物形态和叙事关系组织模型，适合系列打印、场景编排与主题涂装。",
+    "intro": "2026.08.18 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1DuA9M363ow_eYWQ7wgvL-g",
+    "shareCode": "96a4",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260818",
+    "nameZh": "龙 组合",
+    "nameEn": "Legendary Dragons Collection",
+    "displayName": "龙 组合｜Legendary Dragons Collection",
+    "category": "生物/叙事",
+    "mainImageRole": "source_original",
+    "alt": "龙 组合｜Legendary Dragons Collection同模型来源图",
+    "author": "来源库存标注 龙 组合；具体作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注 龙 组合；具体作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以生物形态和叙事关系组织模型，适合系列打印、场景编排与主题涂装。",
+          "该模型归入“生物/叙事”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 258 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-692934431500703-11b456/gallery-01.png",
+        "alt": "龙 组合｜Legendary Dragons Collection来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260818:model-1078786695832317-08f52a",
+    "publicationId": "ouart-daily-six-20260818:model-1078786695832317-08f52a",
+    "inventoryId": "model-1078786695832317-08f52a",
+    "name": "武士皮卡丘｜Samurai Pikachu",
+    "date": "2026-08-18",
+    "displayDate": "2026.08.18",
+    "format": "STL",
+    "fileCount": 37,
+    "size": "2459.65 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-1078786695832317-08f52a/model-1078786695832317-08f52a-主图@初艺ouart.png",
+    "description": "以角色轮廓、姿态和分件结构为核心，适合树脂打印、装配与重点涂装。",
+    "intro": "2026.08.18 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1zcJSBfX8Mm051rOyjvM41Q",
+    "shareCode": "bb2a",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260818",
+    "nameZh": "武士皮卡丘",
+    "nameEn": "Samurai Pikachu",
+    "displayName": "武士皮卡丘｜Samurai Pikachu",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "武士皮卡丘｜Samurai Pikachu同模型来源图",
+    "author": "来源库存标注 武士皮卡丘；具体作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注 武士皮卡丘；具体作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以角色轮廓、姿态和分件结构为核心，适合树脂打印、装配与重点涂装。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 37 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-1078786695832317-08f52a/gallery-01.jpg",
+        "alt": "武士皮卡丘｜Samurai Pikachu来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260818:model-1049991517049466-4efc61",
+    "publicationId": "ouart-daily-six-20260818:model-1049991517049466-4efc61",
+    "inventoryId": "model-1049991517049466-4efc61",
+    "name": "紫发贝吉塔｜Purple-Haired Vegeta",
+    "date": "2026-08-18",
+    "displayDate": "2026.08.18",
+    "format": "STL",
+    "fileCount": 38,
+    "size": "3071.24 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-1049991517049466-4efc61/model-1049991517049466-4efc61-主图@初艺ouart.png",
+    "description": "以角色轮廓、姿态和分件结构为核心，适合树脂打印、装配与重点涂装。",
+    "intro": "2026.08.18 OUART 每日六模型合集成员；提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1o4fJlWWInjTHzNvVdNW7Bw",
+    "shareCode": "9542",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260818",
+    "nameZh": "紫发贝吉塔",
+    "nameEn": "Purple-Haired Vegeta",
+    "displayName": "紫发贝吉塔｜Purple-Haired Vegeta",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "紫发贝吉塔｜Purple-Haired Vegeta同模型来源图",
+    "author": "来源库存标注 紫发贝吉塔；具体作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注 紫发贝吉塔；具体作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以角色轮廓、姿态和分件结构为核心，适合树脂打印、装配与重点涂装。",
+          "该模型归入“角色雕像”，与同批另外五件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 38 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-1049991517049466-4efc61/gallery-01.png",
+        "alt": "紫发贝吉塔｜Purple-Haired Vegeta来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
     "id": "model-357050972619079-01e0f8",
     "name": "持刀角色一体与分段版｜Sword Character — Single-piece & Split Versions",
     "date": "2026-08-16",

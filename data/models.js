@@ -1,5 +1,514 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20260822:model-539062248328286-f9a106",
+    "publicationId": "ouart-daily-six-20260822:model-539062248328286-f9a106",
+    "inventoryId": "model-539062248328286-f9a106",
+    "name": "屠杀｜Carnage",
+    "date": "2026-08-22",
+    "displayDate": "2026.08.22",
+    "format": "STL",
+    "fileCount": 13,
+    "size": "1236.75 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-539062248328286-f9a106/model-539062248328286-f9a106-主图@初艺ouart.png",
+    "description": "动态外形与有机纹理突出，适合树脂打印、分件装配和高对比角色涂装。",
+    "intro": "2026.08.22 OUART 每日模型合集成员；本期共6件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/10FIDip-gTKdXJ3k5kHlNPg",
+    "shareCode": "9e88",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260822",
+    "nameZh": "屠杀",
+    "nameEn": "Carnage",
+    "displayName": "屠杀｜Carnage",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "屠杀｜Carnage同模型来源图",
+    "author": "作者未在库存元数据中明确；具体作者及授权范围以原始说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "作者未在库存元数据中明确；具体作者及授权范围以原始说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "动态外形与有机纹理突出，适合树脂打印、分件装配和高对比角色涂装。",
+          "该模型归入“角色雕像”，与同批其他5件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 13 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-539062248328286-f9a106/gallery-01.jpeg",
+        "alt": "屠杀｜Carnage来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/model-539062248328286-f9a106/gallery-02.png",
+        "alt": "屠杀｜Carnage来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/model-539062248328286-f9a106/gallery-03.png",
+        "alt": "屠杀｜Carnage来源图 3",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260822:model-466426975832244-2a11b4",
+    "publicationId": "ouart-daily-six-20260822:model-466426975832244-2a11b4",
+    "inventoryId": "model-466426975832244-2a11b4",
+    "name": "场景地台组件｜Display Base Set",
+    "date": "2026-08-22",
+    "displayDate": "2026.08.22",
+    "format": "STL",
+    "fileCount": 11,
+    "size": "490.53 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-466426975832244-2a11b4/model-466426975832244-2a11b4-主图@初艺ouart.png",
+    "description": "多件地台可支持角色摆放与场景组合，适合尺寸调整、表面处理和模块化陈列。",
+    "intro": "2026.08.22 OUART 每日模型合集成员；本期共6件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1Emz-5M-0YxNsZf8X8ODouA",
+    "shareCode": "b693",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260822",
+    "nameZh": "场景地台组件",
+    "nameEn": "Display Base Set",
+    "displayName": "场景地台组件｜Display Base Set",
+    "category": "场景/地台",
+    "mainImageRole": "source_original",
+    "alt": "场景地台组件｜Display Base Set同模型来源图",
+    "author": "作者未在库存元数据中明确；具体作者及授权范围以原始说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "作者未在库存元数据中明确；具体作者及授权范围以原始说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "多件地台可支持角色摆放与场景组合，适合尺寸调整、表面处理和模块化陈列。",
+          "该模型归入“场景/地台”，与同批其他5件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 11 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-466426975832244-2a11b4/gallery-01.jpg",
+        "alt": "场景地台组件｜Display Base Set来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260822:model-262893701316682-b28d2a",
+    "publicationId": "ouart-daily-six-20260822:model-262893701316682-b28d2a",
+    "inventoryId": "model-262893701316682-b28d2a",
+    "name": "简·枪手｜Jane Gunslinger",
+    "date": "2026-08-22",
+    "displayDate": "2026.08.22",
+    "format": "STL",
+    "fileCount": 16,
+    "size": "1332.62 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-262893701316682-b28d2a/model-262893701316682-b28d2a-主图@初艺ouart.png",
+    "description": "枪手造型与服装层次较丰富，适合树脂打印、装配校准和材质区分涂装。",
+    "intro": "2026.08.22 OUART 每日模型合集成员；本期共6件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1KTTm50nQoPJP67SDt_9CIA",
+    "shareCode": "3787",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260822",
+    "nameZh": "简·枪手",
+    "nameEn": "Jane Gunslinger",
+    "displayName": "简·枪手｜Jane Gunslinger",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "简·枪手｜Jane Gunslinger同模型来源图",
+    "author": "作者未在库存元数据中明确；具体作者及授权范围以原始说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "作者未在库存元数据中明确；具体作者及授权范围以原始说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "枪手造型与服装层次较丰富，适合树脂打印、装配校准和材质区分涂装。",
+          "该模型归入“角色雕像”，与同批其他5件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 16 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-262893701316682-b28d2a/gallery-01.png",
+        "alt": "简·枪手｜Jane Gunslinger来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/model-262893701316682-b28d2a/gallery-02.png",
+        "alt": "简·枪手｜Jane Gunslinger来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/model-262893701316682-b28d2a/gallery-03.png",
+        "alt": "简·枪手｜Jane Gunslinger来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/model-262893701316682-b28d2a/gallery-04.png",
+        "alt": "简·枪手｜Jane Gunslinger来源图 4",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/model-262893701316682-b28d2a/gallery-05.png",
+        "alt": "简·枪手｜Jane Gunslinger来源图 5",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260822:model-203754139738336-07237f",
+    "publicationId": "ouart-daily-six-20260822:model-203754139738336-07237f",
+    "inventoryId": "model-203754139738336-07237f",
+    "name": "木之本樱与小可｜Sakura Kinomoto & Kero",
+    "date": "2026-08-22",
+    "displayDate": "2026.08.22",
+    "format": "STL",
+    "fileCount": 23,
+    "size": "1015.05 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-203754139738336-07237f/model-203754139738336-07237f-主图@初艺ouart.png",
+    "description": "角色与伙伴的双主体构图鲜明，适合树脂打印、精细涂装与动漫主题陈列。",
+    "intro": "2026.08.22 OUART 每日模型合集成员；本期共6件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1UssTDrkXDVcrk2bHeeFU3Q",
+    "shareCode": "abb4",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260822",
+    "nameZh": "木之本樱与小可",
+    "nameEn": "Sakura Kinomoto & Kero",
+    "displayName": "木之本樱与小可｜Sakura Kinomoto & Kero",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "木之本樱与小可｜Sakura Kinomoto & Kero同模型来源图",
+    "author": "库存来源图标注 Blue Spray；具体作者及授权范围以原始说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存来源图标注 Blue Spray；具体作者及授权范围以原始说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "角色与伙伴的双主体构图鲜明，适合树脂打印、精细涂装与动漫主题陈列。",
+          "该模型归入“角色雕像”，与同批其他5件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 23 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-203754139738336-07237f/gallery-01.png",
+        "alt": "木之本樱与小可｜Sakura Kinomoto & Kero来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260822:model-15304912845462-09a050",
+    "publicationId": "ouart-daily-six-20260822:model-15304912845462-09a050",
+    "inventoryId": "model-15304912845462-09a050",
+    "name": "蘑菇场景地台｜Mushroom Display Base",
+    "date": "2026-08-22",
+    "displayDate": "2026.08.22",
+    "format": "STL",
+    "fileCount": 10,
+    "size": "344.24 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-15304912845462-09a050/model-15304912845462-09a050-主图@初艺ouart.png",
+    "description": "蘑菇与地形元素适合搭配角色或生物模型，便于主题涂装和小型场景扩展。",
+    "intro": "2026.08.22 OUART 每日模型合集成员；本期共6件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1g3Ptv0XzONBQuN7u8vyhzA",
+    "shareCode": "055b",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260822",
+    "nameZh": "蘑菇场景地台",
+    "nameEn": "Mushroom Display Base",
+    "displayName": "蘑菇场景地台｜Mushroom Display Base",
+    "category": "场景/地台",
+    "mainImageRole": "source_original",
+    "alt": "蘑菇场景地台｜Mushroom Display Base同模型来源图",
+    "author": "作者未在库存元数据中明确；具体作者及授权范围以原始说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "作者未在库存元数据中明确；具体作者及授权范围以原始说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "蘑菇与地形元素适合搭配角色或生物模型，便于主题涂装和小型场景扩展。",
+          "该模型归入“场景/地台”，与同批其他5件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 10 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-15304912845462-09a050/gallery-01.jpg",
+        "alt": "蘑菇场景地台｜Mushroom Display Base来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260822:model-85343317498507-5ead6f",
+    "publicationId": "ouart-daily-six-20260822:model-85343317498507-5ead6f",
+    "inventoryId": "model-85343317498507-5ead6f",
+    "name": "巨鹏｜Monstrous Roc",
+    "date": "2026-08-22",
+    "displayDate": "2026.08.22",
+    "format": "STL",
+    "fileCount": 15,
+    "size": "748.03 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-85343317498507-5ead6f/model-85343317498507-5ead6f-主图@初艺ouart.png",
+    "description": "展翼巨鹏与岩石地台形成强烈尺度关系，适合大型树脂打印、羽毛细节处理与奇幻主题陈列。",
+    "intro": "2026.08.22 OUART 每日模型合集成员；本期共6件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/11Q7j_UhrtKkOX25Ezit1sw",
+    "shareCode": "4b45",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260822",
+    "nameZh": "巨鹏",
+    "nameEn": "Monstrous Roc",
+    "displayName": "巨鹏｜Monstrous Roc",
+    "category": "生物/叙事",
+    "mainImageRole": "source_original",
+    "alt": "巨鹏｜Monstrous Roc同模型来源图",
+    "author": "Arcane Minis；官方产品图来源：Daedalus Studios",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "Arcane Minis；官方产品图来源：Daedalus Studios",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "展翼巨鹏与岩石地台形成强烈尺度关系，适合大型树脂打印、羽毛细节处理与奇幻主题陈列。",
+          "该模型归入“生物/叙事”，与同批其他5件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 15 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-85343317498507-5ead6f/gallery-01.jpg",
+        "alt": "巨鹏｜Monstrous Roc来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/model-85343317498507-5ead6f/gallery-02.jpg",
+        "alt": "巨鹏｜Monstrous Roc来源图 2",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
     "id": "ouart-daily-six-20260818:model-1003074269466646-77661d",
     "publicationId": "ouart-daily-six-20260818:model-1003074269466646-77661d",
     "inventoryId": "model-1003074269466646-77661d",

@@ -239,7 +239,7 @@
   function renderDailyBatch() {
     const section = document.getElementById("daily-batch");
     const batch = publicBatches[0];
-    if (!section || !batch || !Array.isArray(batch.modelIds) || batch.modelIds.length !== 6) return;
+    if (!section || !batch || !Array.isArray(batch.modelIds) || batch.modelIds.length < 1 || batch.modelIds.length > 6) return;
     const href = `./batch.html?id=${encodeURIComponent(batch.id)}`;
     const link = document.getElementById("daily-batch-link");
     const collageLink = document.getElementById("daily-batch-collage-link");
@@ -249,7 +249,7 @@
     if (collageLink) collageLink.href = href;
     if (collage) {
       setResponsiveBatchImage(collage, batch);
-      collage.alt = batch.collageAlt || "OUART MODEL 今日六件模型拼图";
+      collage.alt = batch.collageAlt || `OUART MODEL 今日${batch.modelIds.length}件模型拼图`;
       protectModelImage(collage);
     }
     if (cards) {
@@ -638,7 +638,7 @@
   if (batchRoot) {
     const id = new URLSearchParams(window.location.search).get("id");
     const batch = id ? publicBatches.find((item) => item.id === id) : publicBatches[0];
-    if (!batch || !Array.isArray(batch.modelIds) || batch.modelIds.length !== 6) {
+    if (!batch || !Array.isArray(batch.modelIds) || batch.modelIds.length < 1 || batch.modelIds.length > 6) {
       document.title = "合集暂不可用｜OUART MODEL";
       batchRoot.innerHTML = '<section class="unavailable-model" role="status"><h1>合集暂不可用</h1><a class="primary-button" href="./index.html">返回首页</a></section>';
     } else {
@@ -647,7 +647,7 @@
       document.getElementById("batch-description").textContent = batch.description || "";
       const collage = document.getElementById("batch-collage");
       setResponsiveBatchImage(collage, batch, true);
-      collage.alt = batch.collageAlt || `${batch.title} 六件模型拼图`;
+      collage.alt = batch.collageAlt || `${batch.title} ${batch.modelIds.length}件模型拼图`;
       protectModelImage(collage);
       const actions = document.getElementById("batch-actions");
       if (actions && batch.downloadUrl) {
@@ -656,7 +656,7 @@
         download.href = batch.downloadUrl;
         download.target = "_blank";
         download.rel = "noopener noreferrer";
-        download.textContent = "打开六件合集";
+        download.textContent = `打开${batch.modelIds.length}件合集`;
         const code = document.createElement("span");
         code.className = "batch-share-code";
         code.textContent = batch.shareCode ? `提取码 ${batch.shareCode}` : "";
@@ -669,7 +669,7 @@
         section.id = `model-${model.id}`;
         section.innerHTML = `
           <a class="batch-model-image" href="${modelUrl(model)}"><img ${responsiveModelAttributes(model, "batch", index === 0)} alt="${escapeHtml(model.alt || `${modelName(model)} 模型预览`)}" data-no-visual-search="true" draggable="false" disablepictureinpicture /></a>
-          <div><p class="batch-number">${String(index + 1).padStart(2, "0")} / 06</p><h2>${escapeHtml(modelName(model))}</h2><p>${escapeHtml(model.description || "")}</p><a class="primary-button" href="${modelUrl(model)}">查看详情</a></div>`;
+          <div><p class="batch-number">${String(index + 1).padStart(2, "0")} / ${String(batch.modelIds.length).padStart(2, "0")}</p><h2>${escapeHtml(modelName(model))}</h2><p>${escapeHtml(model.description || "")}</p><a class="primary-button" href="${modelUrl(model)}">查看详情</a></div>`;
         root.appendChild(section);
       });
     }

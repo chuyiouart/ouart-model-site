@@ -1,6 +1,28 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20260825",
+    "date": "2026-08-25",
+    "displayDate": "2026.08.25",
+    "title": "2026.08.25｜OUART 今日5件",
+    "description": "本期共5件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-08-25/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-08-25 5模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20260825:1-dragonball-z-broly-f120cb",
+      "ouart-daily-six-20260825:model-991174618520044-f1bf13",
+      "ouart-daily-six-20260825:the-legend-of-naruto-uzumaki-bust-tsume-4b446a",
+      "ouart-daily-six-20260825:sasuke-danzo-stlgoodshit-c2d77c",
+      "ouart-daily-six-20260825:gotenks-lucaz-perez-0a4426"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1jkIAYrzCxrFAvGPKY1jIsg",
+    "shareCode": "8b91",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-08-25T11:05:40+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20260822",
     "date": "2026-08-22",
     "displayDate": "2026.08.22",

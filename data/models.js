@@ -1,5 +1,400 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20260825:1-dragonball-z-broly-f120cb",
+    "publicationId": "ouart-daily-six-20260825:1-dragonball-z-broly-f120cb",
+    "inventoryId": "1-dragonball-z-broly-f120cb",
+    "name": "布罗利｜Dragon Ball Z — Broly",
+    "date": "2026-08-25",
+    "displayDate": "2026.08.25",
+    "format": "STL",
+    "fileCount": 56,
+    "size": "2161.78 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/1-dragonball-z-broly-f120cb/1-dragonball-z-broly-f120cb-主图@初艺ouart.png",
+    "description": "突出布罗利的力量姿态与角色轮廓，适合树脂打印、分件装配和高反差主题涂装。",
+    "intro": "2026.08.25 OUART 每日模型合集成员；本期共5件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1R50h9YNhg2Uw5adGLCKzbw",
+    "shareCode": "0bc1",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260825",
+    "nameZh": "布罗利",
+    "nameEn": "Dragon Ball Z — Broly",
+    "displayName": "布罗利｜Dragon Ball Z — Broly",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "布罗利｜Dragon Ball Z — Broly同模型来源图",
+    "author": "来源库存标注《Dragon Ball Z - Broly》；具体作者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注《Dragon Ball Z - Broly》；具体作者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "突出布罗利的力量姿态与角色轮廓，适合树脂打印、分件装配和高反差主题涂装。",
+          "该模型归入“角色雕像”，与同批其他4件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 56 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/1-dragonball-z-broly-f120cb/gallery-01.jpg",
+        "alt": "布罗利｜Dragon Ball Z — Broly来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260825:model-991174618520044-f1bf13",
+    "publicationId": "ouart-daily-six-20260825:model-991174618520044-f1bf13",
+    "inventoryId": "model-991174618520044-f1bf13",
+    "name": "键帽套件｜Keycap Collection",
+    "date": "2026-08-25",
+    "displayDate": "2026.08.25",
+    "format": "STL",
+    "fileCount": 26,
+    "size": "1257.72 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-991174618520044-f1bf13/model-991174618520044-f1bf13-主图@初艺ouart.png",
+    "description": "包含多款可替换键帽造型，适合尺寸校准、键盘个性化和小批量材料测试。",
+    "intro": "2026.08.25 OUART 每日模型合集成员；本期共5件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1n6G4rYkPr4EGDQJixcNzTg",
+    "shareCode": "c230",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260825",
+    "nameZh": "键帽套件",
+    "nameEn": "Keycap Collection",
+    "displayName": "键帽套件｜Keycap Collection",
+    "category": "功能配件",
+    "mainImageRole": "source_original",
+    "alt": "键帽套件｜Keycap Collection同模型来源图",
+    "author": "来源库存标注“键帽”；具体作者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注“键帽”；具体作者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "包含多款可替换键帽造型，适合尺寸校准、键盘个性化和小批量材料测试。",
+          "该模型归入“功能配件”，与同批其他4件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 26 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-991174618520044-f1bf13/gallery-01.jpg",
+        "alt": "键帽套件｜Keycap Collection来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260825:the-legend-of-naruto-uzumaki-bust-tsume-4b446a",
+    "publicationId": "ouart-daily-six-20260825:the-legend-of-naruto-uzumaki-bust-tsume-4b446a",
+    "inventoryId": "the-legend-of-naruto-uzumaki-bust-tsume-4b446a",
+    "name": "漩涡鸣人胸像｜Naruto Uzumaki Bust",
+    "date": "2026-08-25",
+    "displayDate": "2026.08.25",
+    "format": "STL",
+    "fileCount": 75,
+    "size": "4987.29 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/the-legend-of-naruto-uzumaki-bust-tsume-4b446a/the-legend-of-naruto-uzumaki-bust-tsume-4b446a-主图@初艺ouart.png",
+    "description": "以鸣人胸像的发型、护额和表情层次为重点，适合精细树脂打印与动漫角色涂装。",
+    "intro": "2026.08.25 OUART 每日模型合集成员；本期共5件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1MJ224CbrGRtR6Z_Pogb3GA",
+    "shareCode": "9fae",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260825",
+    "nameZh": "漩涡鸣人胸像",
+    "nameEn": "Naruto Uzumaki Bust",
+    "displayName": "漩涡鸣人胸像｜Naruto Uzumaki Bust",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "漩涡鸣人胸像｜Naruto Uzumaki Bust同模型来源图",
+    "author": "来源库存文件名标注 Tsume Art；具体作者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存文件名标注 Tsume Art；具体作者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以鸣人胸像的发型、护额和表情层次为重点，适合精细树脂打印与动漫角色涂装。",
+          "该模型归入“角色雕像”，与同批其他4件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 75 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/the-legend-of-naruto-uzumaki-bust-tsume-4b446a/gallery-01.jpg",
+        "alt": "漩涡鸣人胸像｜Naruto Uzumaki Bust来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260825:sasuke-danzo-stlgoodshit-c2d77c",
+    "publicationId": "ouart-daily-six-20260825:sasuke-danzo-stlgoodshit-c2d77c",
+    "inventoryId": "sasuke-danzo-stlgoodshit-c2d77c",
+    "name": "佐助对战团藏｜Sasuke vs. Danzo",
+    "date": "2026-08-25",
+    "displayDate": "2026.08.25",
+    "format": "STL",
+    "fileCount": 87,
+    "size": "2043.98 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/sasuke-danzo-stlgoodshit-c2d77c/sasuke-danzo-stlgoodshit-c2d77c-主图@初艺ouart.png",
+    "description": "以佐助与团藏的对战关系组织人物和底座，适合叙事展示、分件装配与动态涂装。",
+    "intro": "2026.08.25 OUART 每日模型合集成员；本期共5件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1RsT_jqGax2MoTojT8x3DOA",
+    "shareCode": "65d4",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260825",
+    "nameZh": "佐助对战团藏",
+    "nameEn": "Sasuke vs. Danzo",
+    "displayName": "佐助对战团藏｜Sasuke vs. Danzo",
+    "category": "叙事场景",
+    "mainImageRole": "source_original",
+    "alt": "佐助对战团藏｜Sasuke vs. Danzo同模型来源图",
+    "author": "来源库存标注 Sasuke - Danzo；具体作者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注 Sasuke - Danzo；具体作者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以佐助与团藏的对战关系组织人物和底座，适合叙事展示、分件装配与动态涂装。",
+          "该模型归入“叙事场景”，与同批其他4件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 87 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/sasuke-danzo-stlgoodshit-c2d77c/gallery-01.png",
+        "alt": "佐助对战团藏｜Sasuke vs. Danzo来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260825:gotenks-lucaz-perez-0a4426",
+    "publicationId": "ouart-daily-six-20260825:gotenks-lucaz-perez-0a4426",
+    "inventoryId": "gotenks-lucaz-perez-0a4426",
+    "name": "悟天克斯｜Gotenks",
+    "date": "2026-08-25",
+    "displayDate": "2026.08.25",
+    "format": "STL",
+    "fileCount": 56,
+    "size": "1482.91 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/gotenks-lucaz-perez-0a4426/gotenks-lucaz-perez-0a4426-主图@初艺ouart.png",
+    "description": "突出悟天克斯的夸张姿态与动漫轮廓，适合树脂打印、角色展示和高饱和涂装。",
+    "intro": "2026.08.25 OUART 每日模型合集成员；本期共5件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1qWvogvwULtUf8OP4TCpCIw",
+    "shareCode": "6151",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260825",
+    "nameZh": "悟天克斯",
+    "nameEn": "Gotenks",
+    "displayName": "悟天克斯｜Gotenks",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "悟天克斯｜Gotenks同模型来源图",
+    "author": "来源库存文件名标注 Lucaz Perez；具体作者、许可与使用范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存文件名标注 Lucaz Perez；具体作者、许可与使用范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "突出悟天克斯的夸张姿态与动漫轮廓，适合树脂打印、角色展示和高饱和涂装。",
+          "该模型归入“角色雕像”，与同批其他4件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 56 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/gotenks-lucaz-perez-0a4426/gallery-01.jpg",
+        "alt": "悟天克斯｜Gotenks来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
     "id": "ouart-daily-six-20260822:model-539062248328286-f9a106",
     "publicationId": "ouart-daily-six-20260822:model-539062248328286-f9a106",
     "inventoryId": "model-539062248328286-f9a106",

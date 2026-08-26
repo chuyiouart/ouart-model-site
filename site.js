@@ -190,22 +190,51 @@
   renderDailyQuote();
   window.setInterval(renderDailyQuote, 60_000);
 
+  function batchModels(batch) {
+    if (!batch || !Array.isArray(batch.modelIds)) return [];
+    return batch.modelIds
+      .slice(0, 6)
+      .map((id) => publicModels.find((model) => model.id === id))
+      .filter((model) => model && model.image);
+  }
+
+  // Never render a six-slot canvas with missing cells. The count-specific grid
+  // keeps every real image visible and leaves the sizing decision to CSS.
+  function renderBatchImageGrid(root, batch, label = "本期模型预览") {
+    const models = batchModels(batch);
+    if (!root || !models.length || models.length > 6) return false;
+    root.className = `batch-image-grid count-${models.length}`;
+    root.setAttribute("aria-label", `${label}，共${models.length}件`);
+    root.replaceChildren();
+    models.forEach((model, index) => {
+      const cell = document.createElement("span");
+      cell.className = "batch-image-cell";
+      cell.setAttribute("aria-label", modelName(model));
+      const image = document.createElement("img");
+      setResponsiveModelImage(image, model, "card", index === 0);
+      image.alt = cleanText(model.alt) || `${modelName(model)} 模型预览`;
+      image.loading = index === 0 ? "eager" : "lazy";
+      protectModelImage(image);
+      cell.appendChild(image);
+      root.appendChild(cell);
+    });
+    return true;
+  }
+
   function renderHero() {
-    const latestBatch = publicBatches.find((batch) => batch.id && batch.collage);
+    const latestBatch = publicBatches.find((batch) => batch.id && batchModels(batch).length);
     if (latestBatch) {
       const heroLink = document.getElementById("hero-link");
       const heroLabel = document.getElementById("hero-link-label");
       const heroMedia = document.getElementById("hero-media");
-      const heroImage = document.getElementById("hero-image");
+      const heroGrid = document.getElementById("hero-model-grid");
       const href = `./batch.html?id=${encodeURIComponent(latestBatch.id)}`;
+      const count = batchModels(latestBatch).length;
       if (heroLink) heroLink.href = href;
-      if (heroLabel) heroLabel.textContent = "查看今日六件";
-      if (heroMedia && heroImage) {
+      if (heroLabel) heroLabel.textContent = `查看本期${count}件`;
+      if (heroMedia && heroGrid && renderBatchImageGrid(heroGrid, latestBatch, "本期模型预览")) {
         heroMedia.href = href;
-        heroMedia.setAttribute("aria-label", latestBatch.title || "查看今日六件");
-        setResponsiveBatchImage(heroImage, latestBatch, true);
-        heroImage.alt = latestBatch.collageAlt || "OUART MODEL 今日六件模型拼图";
-        protectModelImage(heroImage);
+        heroMedia.setAttribute("aria-label", latestBatch.title || "查看本期更新");
         heroMedia.hidden = false;
       }
       return;
@@ -216,7 +245,7 @@
     const heroLink = document.getElementById("hero-link");
     const heroLabel = document.getElementById("hero-link-label");
     const heroMedia = document.getElementById("hero-media");
-    const heroImage = document.getElementById("hero-image");
+    const heroGrid = document.getElementById("hero-model-grid");
     const href = modelUrl(latest);
 
     if (heroLink) {
@@ -224,12 +253,9 @@
       heroLink.setAttribute("aria-label", `查看 ${modelName(latest)}`);
     }
     if (heroLabel) heroLabel.textContent = `查看 ${modelName(latest)}`;
-    if (heroMedia && heroImage) {
+    if (heroMedia && heroGrid && renderBatchImageGrid(heroGrid, { modelIds: [latest.id] }, "最新模型预览")) {
       heroMedia.href = href;
       heroMedia.setAttribute("aria-label", `查看 ${modelName(latest)}`);
-      setResponsiveModelImage(heroImage, latest, "detail", true);
-      heroImage.alt = cleanText(latest.alt) || `${modelName(latest)} 模型预览`;
-      protectModelImage(heroImage);
       heroMedia.hidden = false;
     }
   }
@@ -242,19 +268,13 @@
     if (!section || !batch || !Array.isArray(batch.modelIds) || batch.modelIds.length < 1 || batch.modelIds.length > 6) return;
     const href = `./batch.html?id=${encodeURIComponent(batch.id)}`;
     const link = document.getElementById("daily-batch-link");
-    const collageLink = document.getElementById("daily-batch-collage-link");
-    const collage = document.getElementById("daily-batch-collage");
     const cards = document.getElementById("daily-batch-cards");
+    const models = batchModels(batch);
     if (link) link.href = href;
-    if (collageLink) collageLink.href = href;
-    if (collage) {
-      setResponsiveBatchImage(collage, batch);
-      collage.alt = batch.collageAlt || `OUART MODEL 今日${batch.modelIds.length}件模型拼图`;
-      protectModelImage(collage);
-    }
     if (cards) {
       cards.replaceChildren();
-      batch.modelIds.map((id) => publicModels.find((model) => model.id === id)).filter(Boolean).forEach((model, index) => {
+      cards.className = `batch-quick-cards count-${models.length}`;
+      models.forEach((model, index) => {
         const card = document.createElement("a");
         card.className = "batch-quick-card";
         card.href = modelUrl(model);
@@ -262,6 +282,8 @@
         cards.appendChild(card);
       });
     }
+    const title = document.getElementById("daily-batch-title");
+    if (title) title.textContent = `本期更新（${models.length}件）`;
     section.hidden = false;
   }
 

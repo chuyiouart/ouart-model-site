@@ -1,5 +1,163 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20260826:samiho-kisame-bbed41",
+    "publicationId": "ouart-daily-six-20260826:samiho-kisame-bbed41",
+    "inventoryId": "samiho-kisame-bbed41",
+    "name": "干柿鬼鲛｜Kisame",
+    "date": "2026-08-26",
+    "displayDate": "2026.08.26",
+    "format": "STL",
+    "fileCount": 41,
+    "size": "1938.99 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/samiho-kisame-bbed41/samiho-kisame-bbed41-主图@初艺ouart.png",
+    "description": "人物与大型武器形成鲜明体量对比，适合分件打印、武器接口复核和冷色战斗主题涂装。",
+    "intro": "2026.08.26 OUART 每日模型合集成员；本期共2件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1pDDxdlTRnIXVq3CyPpyCMw",
+    "shareCode": "c7ee",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260826",
+    "nameZh": "干柿鬼鲛",
+    "nameEn": "Kisame",
+    "displayName": "干柿鬼鲛｜Kisame",
+    "category": "动漫角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "干柿鬼鲛｜Kisame同模型来源图",
+    "author": "来源库存标注 Samiho Studios / Kisame；作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注 Samiho Studios / Kisame；作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "人物与大型武器形成鲜明体量对比，适合分件打印、武器接口复核和冷色战斗主题涂装。",
+          "该模型归入“动漫角色雕像”，与同批其他1件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 41 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/samiho-kisame-bbed41/gallery-01.jpg",
+        "alt": "干柿鬼鲛｜Kisame来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260826:kabuki-jraiya-bust-12aa04",
+    "publicationId": "ouart-daily-six-20260826:kabuki-jraiya-bust-12aa04",
+    "inventoryId": "kabuki-jraiya-bust-12aa04",
+    "name": "自来也歌舞伎胸像｜Kabuki Jiraiya Bust",
+    "date": "2026-08-26",
+    "displayDate": "2026.08.26",
+    "format": "STL",
+    "fileCount": 17,
+    "size": "1510.69 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/kabuki-jraiya-bust-12aa04/kabuki-jraiya-bust-12aa04-主图@初艺ouart.png",
+    "description": "胸像结合歌舞伎式表情与角色特征，适合树脂打印、面部细节刻画和传统色彩主题涂装。",
+    "intro": "2026.08.26 OUART 每日模型合集成员；本期共2件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1GYZxa2SUq6AXvq1V4hL8ng",
+    "shareCode": "4140",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260826",
+    "nameZh": "自来也歌舞伎胸像",
+    "nameEn": "Kabuki Jiraiya Bust",
+    "displayName": "自来也歌舞伎胸像｜Kabuki Jiraiya Bust",
+    "category": "动漫角色胸像",
+    "mainImageRole": "source_original",
+    "alt": "自来也歌舞伎胸像｜Kabuki Jiraiya Bust同模型来源图",
+    "author": "来源库存标注 Kabuki Jiraiya Bust；作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注 Kabuki Jiraiya Bust；作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "胸像结合歌舞伎式表情与角色特征，适合树脂打印、面部细节刻画和传统色彩主题涂装。",
+          "该模型归入“动漫角色胸像”，与同批其他1件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 17 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/kabuki-jraiya-bust-12aa04/gallery-01.jpg",
+        "alt": "自来也歌舞伎胸像｜Kabuki Jiraiya Bust来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
     "id": "ouart-daily-six-20260825:1-dragonball-z-broly-f120cb",
     "publicationId": "ouart-daily-six-20260825:1-dragonball-z-broly-f120cb",
     "inventoryId": "1-dragonball-z-broly-f120cb",

@@ -1,6 +1,25 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20260826",
+    "date": "2026-08-26",
+    "displayDate": "2026.08.26",
+    "title": "2026.08.26｜OUART 今日2件",
+    "description": "本期共2件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-08-26/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-08-26 2模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20260826:samiho-kisame-bbed41",
+      "ouart-daily-six-20260826:kabuki-jraiya-bust-12aa04"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1dI9cFtloTv_1_7DAysO6dQ",
+    "shareCode": "6ea2",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-08-26T12:24:55+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20260825",
     "date": "2026-08-25",
     "displayDate": "2026.08.25",

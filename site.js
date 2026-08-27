@@ -72,7 +72,9 @@
     image.setAttribute("disablepictureinpicture", "");
   }
 
-  const SOURCE_SITE_BASE = "https://chuyiouart.github.io/ouart-model-site/";
+  // Build the source URL from two literals so the legacy mirror plugin's
+  // destination rewrite cannot accidentally turn a fallback into another 404.
+  const SOURCE_SITE_BASE = "https://chuyiouart.github.io" + "/ouart-model-site/";
 
   function sourceAsset(relative) {
     const value = String(relative || "").trim();

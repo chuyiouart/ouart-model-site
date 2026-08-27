@@ -289,7 +289,7 @@
 
   // The standalone daily-batch block is intentionally removed. The hero collage
   // and the archive's current-update entry are the only required surfaces.
-  renderModelList();
+  renderList("");
   function searchOptions() {
     return searchResults ? Array.from(searchResults.querySelectorAll('[role="option"]')) : [];
   }

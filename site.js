@@ -72,8 +72,24 @@
     image.setAttribute("disablepictureinpicture", "");
   }
 
+  const SOURCE_SITE_BASE = "https://chuyiouart.github.io/ouart-model-site/";
+
+  function sourceAsset(relative) {
+    const value = String(relative || "").trim();
+    if (!value) return "";
+    try {
+      return new URL(value, SOURCE_SITE_BASE).href;
+    } catch {
+      return "";
+    }
+  }
+
   function modelThumb(model, width) {
     return `./assets/thumbs/models/${encodeURIComponent(model.id)}-${width}.webp`;
+  }
+
+  function modelSourceThumb(model, width = 480) {
+    return `${SOURCE_SITE_BASE}assets/thumbs/models/${encodeURIComponent(model.id)}-${width}.webp`;
   }
 
   function galleryThumb(model, index) {
@@ -94,7 +110,7 @@
       `src="${escapeHtml(modelThumb(model, 480))}"`,
       `srcset="${escapeHtml(modelThumb(model, 480))} 480w, ${escapeHtml(modelThumb(model, 960))} 960w"`,
       `sizes="${sizes}"`,
-      `data-fallback="${escapeHtml(model.image)}"`,
+      `data-fallback="${escapeHtml(modelSourceThumb(model, 480) || sourceAsset(model.image))}"`,
       `loading="${priority ? "eager" : "lazy"}"`,
       'decoding="async"',
       priority ? 'fetchpriority="high"' : ""
@@ -105,7 +121,7 @@
     image.src = modelThumb(model, 480);
     image.srcset = `${modelThumb(model, 480)} 480w, ${modelThumb(model, 960)} 960w`;
     image.sizes = context === "detail" ? "(max-width: 900px) 100vw, 58vw" : "180px";
-    image.dataset.fallback = model.image;
+    image.dataset.fallback = modelSourceThumb(model, 480) || sourceAsset(model.image);
     image.loading = priority ? "eager" : "lazy";
     image.decoding = "async";
     if (priority) image.fetchPriority = "high";
@@ -116,7 +132,7 @@
     image.src = batchThumb(batch, 720);
     image.srcset = `${batchThumb(batch, 720)} 720w, ${batchThumb(batch, 1200)} 1200w`;
     image.sizes = "(max-width: 900px) 100vw, 70vw";
-    image.dataset.fallback = batch.collage;
+    image.dataset.fallback = sourceAsset(batch.collage) || batch.collage;
     image.loading = priority ? "eager" : "lazy";
     image.decoding = "async";
     if (priority) image.fetchPriority = "high";

@@ -578,7 +578,13 @@
   const detailRoot = document.getElementById("model-detail");
   if (detailRoot) {
     const id = new URLSearchParams(window.location.search).get("id");
-    const model = id ? models.find((item) => item.id === id) : null;
+    // Accept both canonical batch-scoped IDs and legacy short IDs. A short ID
+    // must resolve to exactly one published model to avoid ambiguous matches.
+    const exactModel = id ? models.find((item) => item.id === id) : null;
+    const shortMatches = id
+      ? models.filter((item) => item.id && item.id.includes(":") && item.id.split(":").pop() === id)
+      : [];
+    const model = exactModel || (shortMatches.length === 1 ? shortMatches[0] : null);
     if (!model || model.published !== true) {
       let robots = document.querySelector('meta[name="robots"]');
       if (!robots) {

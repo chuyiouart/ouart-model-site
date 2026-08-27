@@ -1,5 +1,257 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20260827:samiho-studios-kakashi-and-susanoo-71fc33",
+    "publicationId": "ouart-daily-six-20260827:samiho-studios-kakashi-and-susanoo-71fc33",
+    "inventoryId": "samiho-studios-kakashi-and-susanoo-71fc33",
+    "name": "卡卡西与须佐能乎｜Kakashi and Susanoo",
+    "date": "2026-08-27",
+    "displayDate": "2026.08.27",
+    "format": "STL",
+    "fileCount": 36,
+    "size": "1985.38 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/samiho-studios-kakashi-and-susanoo-71fc33/samiho-studios-kakashi-and-susanoo-71fc33-主图@初艺ouart.png",
+    "description": "人物与巨大能量化身形成尺度对比，适合分件打印、结构装配与发光效果涂装。",
+    "intro": "2026.08.27 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1KzMAf6I5HG6CvjB3h_72Bg",
+    "shareCode": "9097",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260827",
+    "nameZh": "卡卡西与须佐能乎",
+    "nameEn": "Kakashi and Susanoo",
+    "displayName": "卡卡西与须佐能乎｜Kakashi and Susanoo",
+    "category": "人物叙事",
+    "mainImageRole": "source_original",
+    "alt": "卡卡西与须佐能乎｜Kakashi and Susanoo同模型来源图",
+    "author": "库存名称标注 Samiho Studios；具体作者及授权范围以原始说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存名称标注 Samiho Studios；具体作者及授权范围以原始说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "人物与巨大能量化身形成尺度对比，适合分件打印、结构装配与发光效果涂装。",
+          "该模型归入“人物叙事”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 36 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/samiho-studios-kakashi-and-susanoo-71fc33/gallery-01.jpg",
+        "alt": "卡卡西与须佐能乎｜Kakashi and Susanoo来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/samiho-studios-kakashi-and-susanoo-71fc33/gallery-02.jpg",
+        "alt": "卡卡西与须佐能乎｜Kakashi and Susanoo来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/samiho-studios-kakashi-and-susanoo-71fc33/gallery-03.jpg",
+        "alt": "卡卡西与须佐能乎｜Kakashi and Susanoo来源图 3",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260827:majinboo-presupported-update-6f36fc",
+    "publicationId": "ouart-daily-six-20260827:majinboo-presupported-update-6f36fc",
+    "inventoryId": "majinboo-presupported-update-6f36fc",
+    "name": "魔人布欧｜Majin Buu — Presupported",
+    "date": "2026-08-27",
+    "displayDate": "2026.08.27",
+    "format": "STL",
+    "fileCount": 20,
+    "size": "1390.26 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/majinboo-presupported-update-6f36fc/majinboo-presupported-update-6f36fc-主图@初艺ouart.png",
+    "description": "圆润轮廓与夸张表情适合树脂打印、快速装配和鲜明动漫配色。",
+    "intro": "2026.08.27 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1HDEBL_oMCwamRaFgV8GZ2Q",
+    "shareCode": "5ee3",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260827",
+    "nameZh": "魔人布欧",
+    "nameEn": "Majin Buu — Presupported",
+    "displayName": "魔人布欧｜Majin Buu — Presupported",
+    "category": "人物角色",
+    "mainImageRole": "source_original",
+    "alt": "魔人布欧｜Majin Buu — Presupported同模型来源图",
+    "author": "作者未在库存元数据中明确；具体作者及授权范围以原始说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "作者未在库存元数据中明确；具体作者及授权范围以原始说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "圆润轮廓与夸张表情适合树脂打印、快速装配和鲜明动漫配色。",
+          "该模型归入“人物角色”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 20 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/majinboo-presupported-update-6f36fc/gallery-01.jpg",
+        "alt": "魔人布欧｜Majin Buu — Presupported来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260827:tralfagar-law-bust-087380",
+    "publicationId": "ouart-daily-six-20260827:tralfagar-law-bust-087380",
+    "inventoryId": "tralfagar-law-bust-087380",
+    "name": "特拉法尔加·罗胸像｜Trafalgar Law Bust",
+    "date": "2026-08-27",
+    "displayDate": "2026.08.27",
+    "format": "STL",
+    "fileCount": 12,
+    "size": "860.68 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/tralfagar-law-bust-087380/tralfagar-law-bust-087380-主图@初艺ouart.png",
+    "description": "胸像构图集中呈现面部、服饰与配件细节，适合树脂打印和精细肖像涂装。",
+    "intro": "2026.08.27 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1B6Vi9sncAuTTfrx8JhALSQ",
+    "shareCode": "32e9",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260827",
+    "nameZh": "特拉法尔加·罗胸像",
+    "nameEn": "Trafalgar Law Bust",
+    "displayName": "特拉法尔加·罗胸像｜Trafalgar Law Bust",
+    "category": "角色胸像",
+    "mainImageRole": "source_original",
+    "alt": "特拉法尔加·罗胸像｜Trafalgar Law Bust同模型来源图",
+    "author": "作者未在库存元数据中明确；具体作者及授权范围以原始说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "作者未在库存元数据中明确；具体作者及授权范围以原始说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "胸像构图集中呈现面部、服饰与配件细节，适合树脂打印和精细肖像涂装。",
+          "该模型归入“角色胸像”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 12 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/tralfagar-law-bust-087380/gallery-01.png",
+        "alt": "特拉法尔加·罗胸像｜Trafalgar Law Bust来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/tralfagar-law-bust-087380/gallery-02.jpg",
+        "alt": "特拉法尔加·罗胸像｜Trafalgar Law Bust来源图 2",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
     "id": "ouart-daily-six-20260826:samiho-kisame-bbed41",
     "publicationId": "ouart-daily-six-20260826:samiho-kisame-bbed41",
     "inventoryId": "samiho-kisame-bbed41",

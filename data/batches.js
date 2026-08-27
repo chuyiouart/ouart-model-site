@@ -1,6 +1,26 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20260827",
+    "date": "2026-08-27",
+    "displayDate": "2026.08.27",
+    "title": "2026.08.27｜OUART 今日3件",
+    "description": "本期共3件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-08-27/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-08-27 3模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20260827:samiho-studios-kakashi-and-susanoo-71fc33",
+      "ouart-daily-six-20260827:majinboo-presupported-update-6f36fc",
+      "ouart-daily-six-20260827:tralfagar-law-bust-087380"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1FhnV2Of7wNWY74hJV94l8Q",
+    "shareCode": "b574",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-08-27T19:18:04+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20260826",
     "date": "2026-08-26",
     "displayDate": "2026.08.26",

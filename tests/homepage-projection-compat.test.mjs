@@ -12,4 +12,6 @@ test('homepage projection anchor and shared return control stay in the model she
   assert.ok(js.includes('ensureMainHomeReturn()'));
   assert.ok(js.includes('data-ouart-main-home-return'));
   assert.ok(css.includes('.ouart-main-home-return') && css.includes('position: fixed'));
+  assert.ok(js.includes('if (!link && !cards && !title) return;'));
+  assert.ok(js.includes('the hero remains authoritative'));
 });

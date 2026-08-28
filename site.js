@@ -308,6 +308,10 @@
     const href = `./batch.html?id=${encodeURIComponent(batch.id)}`;
     const link = document.getElementById("daily-batch-link");
     const cards = document.getElementById("daily-batch-cards");
+    const title = document.getElementById("daily-batch-title");
+    // A marker-only projection anchor is not a visible model-site section.
+    // WordPress may place its lane card inside it, but the hero remains authoritative.
+    if (!link && !cards && !title) return;
     const models = batchModels(batch);
     if (link) link.href = href;
     if (cards) {
@@ -321,7 +325,6 @@
         cards.appendChild(card);
       });
     }
-    const title = document.getElementById("daily-batch-title");
     if (title) title.textContent = `本期更新（${models.length}件）`;
     section.hidden = false;
   }

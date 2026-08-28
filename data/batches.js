@@ -1,6 +1,25 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20260828",
+    "date": "2026-08-28",
+    "displayDate": "2026.08.28",
+    "title": "2026.08.28｜OUART 今日2件",
+    "description": "本期共2件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-08-28/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-08-28 2模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20260828:lucas-perez-especial-kid-goku-2024-7b3c46",
+      "ouart-daily-six-20260828:tanuki-figures-barba-blanca-chibi-74c522"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1lGp_efHfxqMLiljSARthCQ",
+    "shareCode": "dfb5",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-08-28T15:08:35+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20260827",
     "date": "2026-08-27",
     "displayDate": "2026.08.27",

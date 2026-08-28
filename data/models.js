@@ -1,5 +1,198 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20260828:lucas-perez-especial-kid-goku-2024-7b3c46",
+    "publicationId": "ouart-daily-six-20260828:lucas-perez-especial-kid-goku-2024-7b3c46",
+    "inventoryId": "lucas-perez-especial-kid-goku-2024-7b3c46",
+    "name": "少年悟空特别版｜Kid Goku Special 2024",
+    "date": "2026-08-28",
+    "displayDate": "2026.08.28",
+    "format": "STL",
+    "fileCount": 33,
+    "size": "1059.83 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/lucas-perez-especial-kid-goku-2024-7b3c46/lucas-perez-especial-kid-goku-2024-7b3c46-主图@初艺ouart.png",
+    "description": "少年角色的轻快姿态适合树脂打印、简洁装配和高饱和动漫配色。",
+    "intro": "2026.08.28 OUART 每日模型合集成员；本期共2件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1CeT_v4oLMTTUn05KrDU3HQ",
+    "shareCode": "5144",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260828",
+    "nameZh": "少年悟空特别版",
+    "nameEn": "Kid Goku Special 2024",
+    "displayName": "少年悟空特别版｜Kid Goku Special 2024",
+    "category": "人物角色",
+    "mainImageRole": "source_original",
+    "alt": "少年悟空特别版｜Kid Goku Special 2024同模型来源图",
+    "author": "库存名称标注 Lucas Perez；具体作者及授权范围以原始说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存名称标注 Lucas Perez；具体作者及授权范围以原始说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "少年角色的轻快姿态适合树脂打印、简洁装配和高饱和动漫配色。",
+          "该模型归入“人物角色”，与同批其他1件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 33 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/lucas-perez-especial-kid-goku-2024-7b3c46/gallery-01.jpg",
+        "alt": "少年悟空特别版｜Kid Goku Special 2024来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/lucas-perez-especial-kid-goku-2024-7b3c46/gallery-02.jpg",
+        "alt": "少年悟空特别版｜Kid Goku Special 2024来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/lucas-perez-especial-kid-goku-2024-7b3c46/gallery-03.jpg",
+        "alt": "少年悟空特别版｜Kid Goku Special 2024来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/lucas-perez-especial-kid-goku-2024-7b3c46/gallery-04.jpg",
+        "alt": "少年悟空特别版｜Kid Goku Special 2024来源图 4",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260828:tanuki-figures-barba-blanca-chibi-74c522",
+    "publicationId": "ouart-daily-six-20260828:tanuki-figures-barba-blanca-chibi-74c522",
+    "inventoryId": "tanuki-figures-barba-blanca-chibi-74c522",
+    "name": "白胡子萌化版｜Whitebeard Chibi — Tanuki Figures",
+    "date": "2026-08-28",
+    "displayDate": "2026.08.28",
+    "format": "STL",
+    "fileCount": 20,
+    "size": "825.83 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/tanuki-figures-barba-blanca-chibi-74c522/tanuki-figures-barba-blanca-chibi-74c522-主图@初艺ouart.png",
+    "description": "萌化比例保留角色标志特征，适合小型树脂打印、快速涂装与桌面陈列。",
+    "intro": "2026.08.28 OUART 每日模型合集成员；本期共2件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1GeMbtbOI5Dg1EuhfslxvrQ",
+    "shareCode": "8a06",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260828",
+    "nameZh": "白胡子萌化版",
+    "nameEn": "Whitebeard Chibi — Tanuki Figures",
+    "displayName": "白胡子萌化版｜Whitebeard Chibi — Tanuki Figures",
+    "category": "人物角色",
+    "mainImageRole": "source_original",
+    "alt": "白胡子萌化版｜Whitebeard Chibi — Tanuki Figures同模型来源图",
+    "author": "库存名称标注 Tanuki Figures；具体作者及授权范围以原始说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存名称标注 Tanuki Figures；具体作者及授权范围以原始说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "萌化比例保留角色标志特征，适合小型树脂打印、快速涂装与桌面陈列。",
+          "该模型归入“人物角色”，与同批其他1件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 20 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/tanuki-figures-barba-blanca-chibi-74c522/gallery-01.png",
+        "alt": "白胡子萌化版｜Whitebeard Chibi — Tanuki Figures来源图 1",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/tanuki-figures-barba-blanca-chibi-74c522/gallery-02.png",
+        "alt": "白胡子萌化版｜Whitebeard Chibi — Tanuki Figures来源图 2",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/tanuki-figures-barba-blanca-chibi-74c522/gallery-03.png",
+        "alt": "白胡子萌化版｜Whitebeard Chibi — Tanuki Figures来源图 3",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/tanuki-figures-barba-blanca-chibi-74c522/gallery-04.png",
+        "alt": "白胡子萌化版｜Whitebeard Chibi — Tanuki Figures来源图 4",
+        "label": "来源图"
+      },
+      {
+        "src": "./assets/models/tanuki-figures-barba-blanca-chibi-74c522/gallery-05.jpg",
+        "alt": "白胡子萌化版｜Whitebeard Chibi — Tanuki Figures来源图 5",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
     "id": "ouart-daily-six-20260827:samiho-studios-kakashi-and-susanoo-71fc33",
     "publicationId": "ouart-daily-six-20260827:samiho-studios-kakashi-and-susanoo-71fc33",
     "inventoryId": "samiho-studios-kakashi-and-susanoo-71fc33",

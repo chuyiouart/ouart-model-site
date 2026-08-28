@@ -8,6 +8,23 @@
   const menuButton = document.querySelector(".menu-button");
   const nav = document.querySelector(".site-nav");
 
+
+  // Keep the cross-site escape hatch available on every model page, including
+  // legacy content/posts pages that reuse this shared script. This is created
+  // here instead of in one template so future daily pages inherit it too.
+  function ensureMainHomeReturn() {
+    if (!document.body || document.querySelector("[data-ouart-main-home-return]")) return;
+    const link = document.createElement("a");
+    link.className = "ouart-main-home-return ouart-main-home-return--floating";
+    link.href = "https://chuyiouart.com/";
+    link.setAttribute("data-ouart-main-home-return", "");
+    link.setAttribute("aria-label", "返回 OUART 主站首页");
+    link.innerHTML = '<svg aria-hidden="true" viewBox="0 0 24 24" focusable="false"><path d="M3.75 10.7 12 3.9l8.25 6.8v8.35a1.2 1.2 0 0 1-1.2 1.2h-4.8v-5.5h-4.5v5.5h-4.8a1.2 1.2 0 0 1-1.2-1.2V10.7Z"/></svg><span>返回 OUART 主站</span>';
+    document.body.appendChild(link);
+  }
+
+  ensureMainHomeReturn();
+
   if (menuButton && nav) {
     menuButton.addEventListener("click", () => {
       const open = menuButton.getAttribute("aria-expanded") === "true";

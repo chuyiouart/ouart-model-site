@@ -343,3 +343,72 @@ main { width: min(100%, var(--max)); margin: 0 auto; padding-inline: var(--gutte
   html { scroll-behavior: auto; }
   *, *::before, *::after { transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; }
 }
+
+/* ouart-main-home-return:v1 */
+.ouart-main-home-return {
+  box-sizing: border-box !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 8px !important;
+  min-height: 42px !important;
+  padding: 9px 15px !important;
+  border: 1px solid #111 !important;
+  border-radius: 999px !important;
+  background: #111 !important;
+  color: #fff !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif !important;
+  font-size: 13px !important;
+  font-weight: 700 !important;
+  line-height: 1 !important;
+  letter-spacing: 0 !important;
+  text-decoration: none !important;
+  white-space: nowrap !important;
+  box-shadow: 0 8px 22px rgba(0, 0, 0, .16) !important;
+  transition: transform 160ms ease, background-color 160ms ease, border-color 160ms ease, box-shadow 160ms ease !important;
+  z-index: 2147483000 !important;
+}
+
+.ouart-main-home-return svg {
+  width: 17px !important;
+  height: 17px !important;
+  flex: 0 0 17px !important;
+  fill: none !important;
+  stroke: currentColor !important;
+  stroke-width: 1.8 !important;
+  stroke-linecap: round !important;
+  stroke-linejoin: round !important;
+}
+
+.ouart-main-home-return:hover {
+  transform: translateY(-2px) !important;
+  border-color: #c43b2b !important;
+  background: #c43b2b !important;
+  color: #fff !important;
+  box-shadow: 0 12px 28px rgba(150, 38, 25, .24) !important;
+}
+
+.ouart-main-home-return:focus-visible {
+  outline: 3px solid rgba(196, 59, 43, .28) !important;
+  outline-offset: 3px !important;
+}
+
+.ouart-main-home-return--floating {
+  position: fixed !important;
+  right: 22px !important;
+  bottom: 22px !important;
+}
+
+@media (max-width: 900px) {
+  .ouart-main-home-return--floating {
+    right: max(12px, env(safe-area-inset-right)) !important;
+    bottom: max(12px, env(safe-area-inset-bottom)) !important;
+    min-height: 46px !important;
+    padding: 10px 14px !important;
+    box-shadow: 0 10px 28px rgba(0, 0, 0, .22) !important;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ouart-main-home-return { transition: none !important; }
+}

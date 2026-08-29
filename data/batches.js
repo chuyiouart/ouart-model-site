@@ -1,6 +1,27 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20260829",
+    "date": "2026-08-29",
+    "displayDate": "2026.08.29",
+    "title": "2026.08.29｜OUART 今日4件",
+    "description": "本期共4件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-08-29/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-08-29 4模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20260829:madara-kurama20cm-patreon-myanimate-her-20fecf",
+      "ouart-daily-six-20260829:captain-ginyu-lucas-pere-625d14",
+      "ouart-daily-six-20260829:roronoa-zoro-by-natan-silva-2849d2",
+      "ouart-daily-six-20260829:koby-one-piece-blue-spray-eab7b4"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1ZJq5CrPESuWWZbhDzwWVjg",
+    "shareCode": "e9cc",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-08-29T12:11:42+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20260828",
     "date": "2026-08-28",
     "displayDate": "2026.08.28",

@@ -1,6 +1,28 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20260830",
+    "date": "2026-08-30",
+    "displayDate": "2026.08.30",
+    "title": "2026.08.30｜OUART 今日5件",
+    "description": "本期共5件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-08-30/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-08-30 5模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20260830:akainu-sakazuki-by-ryodan-studio-a182b8",
+      "ouart-daily-six-20260830:boa-hancock-stl-bcc457",
+      "ouart-daily-six-20260830:luffy-legend-lotus-art-studio-03e0a6",
+      "ouart-daily-six-20260830:vegeta-vs-buu-2-f1145a",
+      "ouart-daily-six-20260830:goku-ssj3-c12b0c"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1v03CrcHLy2PhUNfdwASw_A",
+    "shareCode": "0573",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-08-30T13:50:58+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20260829",
     "date": "2026-08-29",
     "displayDate": "2026.08.29",

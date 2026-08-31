@@ -1,6 +1,27 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20260831",
+    "date": "2026-08-31",
+    "displayDate": "2026.08.31",
+    "title": "2026.08.31｜OUART 今日4件",
+    "description": "本期共4件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-08-31/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-08-31 4模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20260831:garp-render-43b5a7",
+      "ouart-daily-six-20260831:eustass-kid-supreme-studio-98dd26",
+      "ouart-daily-six-20260831:ryodan-studiokuzan-aokiji-one-piece-2-2-a0ec1e",
+      "ouart-daily-six-20260831:rn-estudio-02-2024-classic-jrpg-vol-bc7860"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1yOqBdd3gvT10OSSwxvzo2A",
+    "shareCode": "b848",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-08-31T14:38:59+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20260830",
     "date": "2026-08-30",
     "displayDate": "2026.08.30",

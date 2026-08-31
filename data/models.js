@@ -1,5 +1,321 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20260831:garp-render-43b5a7",
+    "publicationId": "ouart-daily-six-20260831:garp-render-43b5a7",
+    "inventoryId": "garp-render-43b5a7",
+    "name": "卡普角色雕像｜Garp Character Statue",
+    "date": "2026-08-31",
+    "displayDate": "2026.08.31",
+    "format": "STL",
+    "fileCount": 34,
+    "size": "1025.69 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/garp-render-43b5a7/garp-render-43b5a7-主图@初艺ouart.png",
+    "description": "以卡普的力量姿态与披风轮廓为视觉重点，适合树脂打印、分件装配和层次化涂装陈列。",
+    "intro": "2026.08.31 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1eh6aVHFoBQQ-AFVoeGapMQ",
+    "shareCode": "85c5",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260831",
+    "nameZh": "卡普角色雕像",
+    "nameEn": "Garp Character Statue",
+    "displayName": "卡普角色雕像｜Garp Character Statue",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "卡普角色雕像｜Garp Character Statue同模型来源图",
+    "author": "库存来源标注为 GARP RENDER；具体创作者与授权范围以原始文件说明为准。",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存来源标注为 GARP RENDER；具体创作者与授权范围以原始文件说明为准。",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以卡普的力量姿态与披风轮廓为视觉重点，适合树脂打印、分件装配和层次化涂装陈列。",
+          "该模型归入“角色雕像”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 34 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/garp-render-43b5a7/gallery-01.jpg",
+        "alt": "卡普角色雕像｜Garp Character Statue来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260831:eustass-kid-supreme-studio-98dd26",
+    "publicationId": "ouart-daily-six-20260831:eustass-kid-supreme-studio-98dd26",
+    "inventoryId": "eustass-kid-supreme-studio-98dd26",
+    "name": "尤斯塔斯·基德雕像｜Eustass Kid Statue",
+    "date": "2026-08-31",
+    "displayDate": "2026.08.31",
+    "format": "STL",
+    "fileCount": 71,
+    "size": "2296.27 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/eustass-kid-supreme-studio-98dd26/eustass-kid-supreme-studio-98dd26-主图@初艺ouart.png",
+    "description": "以尤斯塔斯·基德的机械元素、服装层次和强势姿态为重点，适合分件打印与金属质感涂装。",
+    "intro": "2026.08.31 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1XZivQiKFTyscEfM4UUkqxw",
+    "shareCode": "e9e4",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260831",
+    "nameZh": "尤斯塔斯·基德雕像",
+    "nameEn": "Eustass Kid Statue",
+    "displayName": "尤斯塔斯·基德雕像｜Eustass Kid Statue",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "尤斯塔斯·基德雕像｜Eustass Kid Statue同模型来源图",
+    "author": "库存来源标注为 SUPREME STUDIO；具体创作者与授权范围以原始文件说明为准。",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存来源标注为 SUPREME STUDIO；具体创作者与授权范围以原始文件说明为准。",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以尤斯塔斯·基德的机械元素、服装层次和强势姿态为重点，适合分件打印与金属质感涂装。",
+          "该模型归入“角色雕像”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 71 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/eustass-kid-supreme-studio-98dd26/gallery-01.png",
+        "alt": "尤斯塔斯·基德雕像｜Eustass Kid Statue来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260831:ryodan-studiokuzan-aokiji-one-piece-2-2-a0ec1e",
+    "publicationId": "ouart-daily-six-20260831:ryodan-studiokuzan-aokiji-one-piece-2-2-a0ec1e",
+    "inventoryId": "ryodan-studiokuzan-aokiji-one-piece-2-2-a0ec1e",
+    "name": "青雉库赞雕像｜Kuzan Aokiji Statue",
+    "date": "2026-08-31",
+    "displayDate": "2026.08.31",
+    "format": "STL",
+    "fileCount": 38,
+    "size": "2246.06 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/ryodan-studiokuzan-aokiji-one-piece-2-2-a0ec1e/ryodan-studiokuzan-aokiji-one-piece-2-2-a0ec1e-主图@初艺ouart.png",
+    "description": "角色姿态与冰系视觉元素形成鲜明层次，适合树脂打印、透明或冷色材质实验与主题陈列。",
+    "intro": "2026.08.31 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1tFNot2rCsFRl4X2ZVkg5wg",
+    "shareCode": "df6e",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260831",
+    "nameZh": "青雉库赞雕像",
+    "nameEn": "Kuzan Aokiji Statue",
+    "displayName": "青雉库赞雕像｜Kuzan Aokiji Statue",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "青雉库赞雕像｜Kuzan Aokiji Statue同模型来源图",
+    "author": "库存来源标注为 Ryodan Studio；具体授权范围以原始文件说明为准。",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存来源标注为 Ryodan Studio；具体授权范围以原始文件说明为准。",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "角色姿态与冰系视觉元素形成鲜明层次，适合树脂打印、透明或冷色材质实验与主题陈列。",
+          "该模型归入“角色雕像”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 38 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/ryodan-studiokuzan-aokiji-one-piece-2-2-a0ec1e/gallery-01.png",
+        "alt": "青雉库赞雕像｜Kuzan Aokiji Statue来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260831:rn-estudio-02-2024-classic-jrpg-vol-bc7860",
+    "publicationId": "ouart-daily-six-20260831:rn-estudio-02-2024-classic-jrpg-vol-bc7860",
+    "inventoryId": "rn-estudio-02-2024-classic-jrpg-vol-bc7860",
+    "name": "经典日式角色扮演与动画角色合集｜Classic JRPG and Anime Character Collection",
+    "date": "2026-08-31",
+    "displayDate": "2026.08.31",
+    "format": "STL",
+    "fileCount": 30,
+    "size": "2164.36 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/rn-estudio-02-2024-classic-jrpg-vol-bc7860/rn-estudio-02-2024-classic-jrpg-vol-bc7860-主图@初艺ouart.png",
+    "description": "多角色合集可用于比较不同人物轮廓、比例和分件策略，适合小比例打印、系列涂装与分类陈列。",
+    "intro": "2026.08.31 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1_bYDQsMwCbJ3hmdelX2a2w",
+    "shareCode": "5737",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260831",
+    "nameZh": "经典日式角色扮演与动画角色合集",
+    "nameEn": "Classic JRPG and Anime Character Collection",
+    "displayName": "经典日式角色扮演与动画角色合集｜Classic JRPG and Anime Character Collection",
+    "category": "角色合集",
+    "mainImageRole": "source_original",
+    "alt": "经典日式角色扮演与动画角色合集｜Classic JRPG and Anime Character Collection同模型来源图",
+    "author": "库存来源标注为 RN Estudio 2024 年 2 月合集；各具体角色作者与授权范围以原始文件说明为准。",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存来源标注为 RN Estudio 2024 年 2 月合集；各具体角色作者与授权范围以原始文件说明为准。",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "多角色合集可用于比较不同人物轮廓、比例和分件策略，适合小比例打印、系列涂装与分类陈列。",
+          "该模型归入“角色合集”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 30 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/rn-estudio-02-2024-classic-jrpg-vol-bc7860/gallery-01.jpg",
+        "alt": "经典日式角色扮演与动画角色合集｜Classic JRPG and Anime Character Collection来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
     "id": "ouart-daily-six-20260830:akainu-sakazuki-by-ryodan-studio-a182b8",
     "publicationId": "ouart-daily-six-20260830:akainu-sakazuki-by-ryodan-studio-a182b8",
     "inventoryId": "akainu-sakazuki-by-ryodan-studio-a182b8",

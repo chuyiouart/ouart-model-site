@@ -1,6 +1,24 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20260901",
+    "date": "2026-09-01",
+    "displayDate": "2026.09.01",
+    "title": "2026.09.01｜OUART 今日1件",
+    "description": "本期共1件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-09-01/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-09-01 1模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20260901:tanuki-figures-basil-hawkins-el-mago-16ea53"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1U8wg0OS2yhKCo6VyrmzKbQ",
+    "shareCode": "c884",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-09-01T17:11:34+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20260831",
     "date": "2026-08-31",
     "displayDate": "2026.08.31",

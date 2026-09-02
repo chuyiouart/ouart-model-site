@@ -1,5 +1,321 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20260902:regular-freezer-third-form-ca7fc7",
+    "publicationId": "ouart-daily-six-20260902:regular-freezer-third-form-ca7fc7",
+    "inventoryId": "regular-freezer-third-form-ca7fc7",
+    "name": "弗利萨第三形态｜Frieza Third Form",
+    "date": "2026-09-02",
+    "displayDate": "2026.09.02",
+    "format": "STL",
+    "fileCount": 68,
+    "size": "1344.66 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/regular-freezer-third-form-ca7fc7/regular-freezer-third-form-ca7fc7-主图@初艺ouart.png",
+    "description": "第三形态的头部轮廓与装甲式体块辨识度鲜明，适合树脂打印、分区涂装与角色形态陈列。",
+    "intro": "2026.09.02 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1h3dqcXNvgfBS7Cn_UwgcLg",
+    "shareCode": "574e",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260902",
+    "nameZh": "弗利萨第三形态",
+    "nameEn": "Frieza Third Form",
+    "displayName": "弗利萨第三形态｜Frieza Third Form",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "弗利萨第三形态｜Frieza Third Form同模型来源图",
+    "author": "库存名称未明确作者；具体作者及授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存名称未明确作者；具体作者及授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "第三形态的头部轮廓与装甲式体块辨识度鲜明，适合树脂打印、分区涂装与角色形态陈列。",
+          "该模型归入“角色雕像”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 68 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/regular-freezer-third-form-ca7fc7/gallery-01.jpg",
+        "alt": "弗利萨第三形态｜Frieza Third Form来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260902:lucas-perez-goku-pilot-13ab7a",
+    "publicationId": "ouart-daily-six-20260902:lucas-perez-goku-pilot-13ab7a",
+    "inventoryId": "lucas-perez-goku-pilot-13ab7a",
+    "name": "飞行员悟空｜Goku Pilot",
+    "date": "2026-09-02",
+    "displayDate": "2026.09.02",
+    "format": "STL",
+    "fileCount": 29,
+    "size": "843.27 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/lucas-perez-goku-pilot-13ab7a/lucas-perez-goku-pilot-13ab7a-主图@初艺ouart.png",
+    "description": "飞行员主题服装与人物姿态形成明确叙事，适合树脂打印、服饰细节处理与主题陈列。",
+    "intro": "2026.09.02 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1znwvppKm493OHESY5QstyQ",
+    "shareCode": "abf4",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260902",
+    "nameZh": "飞行员悟空",
+    "nameEn": "Goku Pilot",
+    "displayName": "飞行员悟空｜Goku Pilot",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "飞行员悟空｜Goku Pilot同模型来源图",
+    "author": "库存名称标注 Lucas Perez；具体作者及授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存名称标注 Lucas Perez；具体作者及授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "飞行员主题服装与人物姿态形成明确叙事，适合树脂打印、服饰细节处理与主题陈列。",
+          "该模型归入“角色雕像”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 29 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/lucas-perez-goku-pilot-13ab7a/gallery-01.jpg",
+        "alt": "飞行员悟空｜Goku Pilot来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260902:dragoon-miniatures-term-17-2023-12-836b7a",
+    "publicationId": "ouart-daily-six-20260902:dragoon-miniatures-term-17-2023-12-836b7a",
+    "inventoryId": "dragoon-miniatures-term-17-2023-12-836b7a",
+    "name": "Dragoon Miniatures 2023年12月合集｜Dragoon Miniatures December 2023 Collection",
+    "date": "2026-09-02",
+    "displayDate": "2026.09.02",
+    "format": "STL",
+    "fileCount": 38,
+    "size": "1488.96 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/dragoon-miniatures-term-17-2023-12-836b7a/dragoon-miniatures-term-17-2023-12-836b7a-主图@初艺ouart.png",
+    "description": "奇幻主题合集适合逐件检查分件与比例，规划成组打印、统一配色和场景化陈列。",
+    "intro": "2026.09.02 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1M8Tw-dN160QV668LaL36XQ",
+    "shareCode": "dc65",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260902",
+    "nameZh": "Dragoon Miniatures 2023年12月合集",
+    "nameEn": "Dragoon Miniatures December 2023 Collection",
+    "displayName": "Dragoon Miniatures 2023年12月合集｜Dragoon Miniatures December 2023 Collection",
+    "category": "奇幻叙事",
+    "mainImageRole": "source_original",
+    "alt": "Dragoon Miniatures 2023年12月合集｜Dragoon Miniatures December 2023 Collection同模型来源图",
+    "author": "库存名称标注 Dragoon Miniatures；具体作者及授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存名称标注 Dragoon Miniatures；具体作者及授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "奇幻主题合集适合逐件检查分件与比例，规划成组打印、统一配色和场景化陈列。",
+          "该模型归入“奇幻叙事”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 38 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/dragoon-miniatures-term-17-2023-12-836b7a/gallery-01.jpg",
+        "alt": "Dragoon Miniatures 2023年12月合集｜Dragoon Miniatures December 2023 Collection来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260902:samiho-sanji-df5d38",
+    "publicationId": "ouart-daily-six-20260902:samiho-sanji-df5d38",
+    "inventoryId": "samiho-sanji-df5d38",
+    "name": "山治｜Sanji",
+    "date": "2026-09-02",
+    "displayDate": "2026.09.02",
+    "format": "STL",
+    "fileCount": 20,
+    "size": "1061.51 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/samiho-sanji-df5d38/samiho-sanji-df5d38-主图@初艺ouart.png",
+    "description": "修长轮廓与动态姿态突出角色动作感，适合树脂打印、服装层次涂装与动漫主题陈列。",
+    "intro": "2026.09.02 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1Dko9BA3LvNcfGwd42AklAw",
+    "shareCode": "43f6",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260902",
+    "nameZh": "山治",
+    "nameEn": "Sanji",
+    "displayName": "山治｜Sanji",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "山治｜Sanji同模型来源图",
+    "author": "库存名称标注 Samiho；具体作者及授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "库存名称标注 Samiho；具体作者及授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "修长轮廓与动态姿态突出角色动作感，适合树脂打印、服装层次涂装与动漫主题陈列。",
+          "该模型归入“角色雕像”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 20 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/samiho-sanji-df5d38/gallery-01.jpg",
+        "alt": "山治｜Sanji来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
     "id": "ouart-daily-six-20260901:tanuki-figures-basil-hawkins-el-mago-16ea53",
     "publicationId": "ouart-daily-six-20260901:tanuki-figures-basil-hawkins-el-mago-16ea53",
     "inventoryId": "tanuki-figures-basil-hawkins-el-mago-16ea53",

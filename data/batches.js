@@ -1,6 +1,27 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20260902",
+    "date": "2026-09-02",
+    "displayDate": "2026.09.02",
+    "title": "2026.09.02｜OUART 今日4件",
+    "description": "本期共4件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-09-02/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-09-02 4模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20260902:regular-freezer-third-form-ca7fc7",
+      "ouart-daily-six-20260902:lucas-perez-goku-pilot-13ab7a",
+      "ouart-daily-six-20260902:dragoon-miniatures-term-17-2023-12-836b7a",
+      "ouart-daily-six-20260902:samiho-sanji-df5d38"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1Hest2R6xmCyHMJPmo8lC9Q",
+    "shareCode": "887e",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-09-02T10:31:49+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20260901",
     "date": "2026-09-01",
     "displayDate": "2026.09.01",

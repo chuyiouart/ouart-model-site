@@ -1,6 +1,28 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20260904",
+    "date": "2026-09-04",
+    "displayDate": "2026.09.04",
+    "title": "2026.09.04｜OUART 今日5件",
+    "description": "本期共5件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-09-04/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-09-04 5模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20260904:naruto-modo-sabio-beefigures-cea5a0",
+      "ouart-daily-six-20260904:gohanss2-vs-bojack-kaidan-studio-4e1f74",
+      "ouart-daily-six-20260904:goku-stl-zone-d57d44",
+      "ouart-daily-six-20260904:goku-namek-super-saiyan-first-time-namek-ba174d",
+      "ouart-daily-six-20260904:chuya-factory-android-21-3d-print-model-fbac56"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/17cWf1naPfx1KRjEGJLBILg",
+    "shareCode": "2b34",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-09-04T10:32:31+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20260902",
     "date": "2026-09-02",
     "displayDate": "2026.09.02",

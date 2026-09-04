@@ -1,5 +1,400 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20260904:naruto-modo-sabio-beefigures-cea5a0",
+    "publicationId": "ouart-daily-six-20260904:naruto-modo-sabio-beefigures-cea5a0",
+    "inventoryId": "naruto-modo-sabio-beefigures-cea5a0",
+    "name": "仙人模式鸣人｜Naruto Sage Mode",
+    "date": "2026-09-04",
+    "displayDate": "2026.09.04",
+    "format": "STL",
+    "fileCount": 52,
+    "size": "2092.02 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/naruto-modo-sabio-beefigures-cea5a0/naruto-modo-sabio-beefigures-cea5a0-主图@初艺ouart.png",
+    "description": "突出仙人模式的眼部特征、卷轴与战斗姿态，适合暖橙服装、卷轴旧化和动态展示。",
+    "intro": "2026.09.04 OUART 每日模型合集成员；本期共5件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1B7diJ38tWtaNWVd-MpI32A",
+    "shareCode": "03be",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260904",
+    "nameZh": "仙人模式鸣人",
+    "nameEn": "Naruto Sage Mode",
+    "displayName": "仙人模式鸣人｜Naruto Sage Mode",
+    "category": "人物角色",
+    "mainImageRole": "source_original",
+    "alt": "仙人模式鸣人｜Naruto Sage Mode同模型来源图",
+    "author": "来源标注：BEEFIGURES；具体作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源标注：BEEFIGURES；具体作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "突出仙人模式的眼部特征、卷轴与战斗姿态，适合暖橙服装、卷轴旧化和动态展示。",
+          "该模型归入“人物角色”，与同批其他4件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 52 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/naruto-modo-sabio-beefigures-cea5a0/gallery-01.jpg",
+        "alt": "仙人模式鸣人｜Naruto Sage Mode来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260904:gohanss2-vs-bojack-kaidan-studio-4e1f74",
+    "publicationId": "ouart-daily-six-20260904:gohanss2-vs-bojack-kaidan-studio-4e1f74",
+    "inventoryId": "gohanss2-vs-bojack-kaidan-studio-4e1f74",
+    "name": "超级赛亚人2悟饭对战波杰克｜Super Saiyan 2 Gohan vs Bojack",
+    "date": "2026-09-04",
+    "displayDate": "2026.09.04",
+    "format": "STL",
+    "fileCount": 36,
+    "size": "1383.68 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/gohanss2-vs-bojack-kaidan-studio-4e1f74/gohanss2-vs-bojack-kaidan-studio-4e1f74-主图@初艺ouart.png",
+    "description": "以悟饭与波杰克的对抗关系构成双角色战斗场景，适合动作线、能量色和地台叙事处理。",
+    "intro": "2026.09.04 OUART 每日模型合集成员；本期共5件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1YkwVLUplw-pRlp1Pl0h7oA",
+    "shareCode": "fd05",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260904",
+    "nameZh": "超级赛亚人2悟饭对战波杰克",
+    "nameEn": "Super Saiyan 2 Gohan vs Bojack",
+    "displayName": "超级赛亚人2悟饭对战波杰克｜Super Saiyan 2 Gohan vs Bojack",
+    "category": "战斗叙事",
+    "mainImageRole": "source_original",
+    "alt": "超级赛亚人2悟饭对战波杰克｜Super Saiyan 2 Gohan vs Bojack同模型来源图",
+    "author": "来源标注：Kaidan Studio；具体作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源标注：Kaidan Studio；具体作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以悟饭与波杰克的对抗关系构成双角色战斗场景，适合动作线、能量色和地台叙事处理。",
+          "该模型归入“战斗叙事”，与同批其他4件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 36 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/gohanss2-vs-bojack-kaidan-studio-4e1f74/gallery-01.jpg",
+        "alt": "超级赛亚人2悟饭对战波杰克｜Super Saiyan 2 Gohan vs Bojack来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260904:goku-stl-zone-d57d44",
+    "publicationId": "ouart-daily-six-20260904:goku-stl-zone-d57d44",
+    "inventoryId": "goku-stl-zone-d57d44",
+    "name": "孙悟空｜Goku",
+    "date": "2026-09-04",
+    "displayDate": "2026.09.04",
+    "format": "STL",
+    "fileCount": 16,
+    "size": "842.63 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/goku-stl-zone-d57d44/goku-stl-zone-d57d44-主图@初艺ouart.png",
+    "description": "以悟空的武道服、发型和站姿轮廓为重点，适合经典橙蓝配色、肌肉明暗与角色陈列。",
+    "intro": "2026.09.04 OUART 每日模型合集成员；本期共5件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1kRrWE5tPvlWhV7eA8TKlTg",
+    "shareCode": "0f0a",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260904",
+    "nameZh": "孙悟空",
+    "nameEn": "Goku",
+    "displayName": "孙悟空｜Goku",
+    "category": "人物角色",
+    "mainImageRole": "source_original",
+    "alt": "孙悟空｜Goku同模型来源图",
+    "author": "作者未标明；库存来源标签为 stl_zone，授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "作者未标明；库存来源标签为 stl_zone，授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以悟空的武道服、发型和站姿轮廓为重点，适合经典橙蓝配色、肌肉明暗与角色陈列。",
+          "该模型归入“人物角色”，与同批其他4件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 16 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/goku-stl-zone-d57d44/gallery-01.jpg",
+        "alt": "孙悟空｜Goku来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260904:goku-namek-super-saiyan-first-time-namek-ba174d",
+    "publicationId": "ouart-daily-six-20260904:goku-namek-super-saiyan-first-time-namek-ba174d",
+    "inventoryId": "goku-namek-super-saiyan-first-time-namek-ba174d",
+    "name": "那美克星初次变身超级赛亚人悟空｜Goku's First Super Saiyan Transformation on Namek",
+    "date": "2026-09-04",
+    "displayDate": "2026.09.04",
+    "format": "STL",
+    "fileCount": 28,
+    "size": "1936.16 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/goku-namek-super-saiyan-first-time-namek-ba174d/goku-namek-super-saiyan-first-time-namek-ba174d-主图@初艺ouart.png",
+    "description": "聚焦悟空在那美克星初次变身的关键时刻，适合金发明暗、战损肌理与能量氛围表达。",
+    "intro": "2026.09.04 OUART 每日模型合集成员；本期共5件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1RCS5iaub0kO8NSEhkFeAyA",
+    "shareCode": "342b",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260904",
+    "nameZh": "那美克星初次变身超级赛亚人悟空",
+    "nameEn": "Goku's First Super Saiyan Transformation on Namek",
+    "displayName": "那美克星初次变身超级赛亚人悟空｜Goku's First Super Saiyan Transformation on Namek",
+    "category": "战斗叙事",
+    "mainImageRole": "source_original",
+    "alt": "那美克星初次变身超级赛亚人悟空｜Goku's First Super Saiyan Transformation on Namek同模型来源图",
+    "author": "来源标注：Namek Studio；具体作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源标注：Namek Studio；具体作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "聚焦悟空在那美克星初次变身的关键时刻，适合金发明暗、战损肌理与能量氛围表达。",
+          "该模型归入“战斗叙事”，与同批其他4件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 28 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/goku-namek-super-saiyan-first-time-namek-ba174d/gallery-01.jpg",
+        "alt": "那美克星初次变身超级赛亚人悟空｜Goku's First Super Saiyan Transformation on Namek来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260904:chuya-factory-android-21-3d-print-model-fbac56",
+    "publicationId": "ouart-daily-six-20260904:chuya-factory-android-21-3d-print-model-fbac56",
+    "inventoryId": "chuya-factory-android-21-3d-print-model-fbac56",
+    "name": "人造人21号｜Android 21",
+    "date": "2026-09-04",
+    "displayDate": "2026.09.04",
+    "format": "STL",
+    "fileCount": 17,
+    "size": "570.37 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/chuya-factory-android-21-3d-print-model-fbac56/chuya-factory-android-21-3d-print-model-fbac56-主图@初艺ouart.png",
+    "description": "以角色轮廓、姿态和分件结构为核心，适合树脂打印、装配与重点涂装。",
+    "intro": "2026.09.04 OUART 每日模型合集成员；本期共5件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1hCkui3vXGM_aimPvFVifcQ",
+    "shareCode": "b00a",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260904",
+    "nameZh": "人造人21号",
+    "nameEn": "Android 21",
+    "displayName": "人造人21号｜Android 21",
+    "category": "人物角色",
+    "mainImageRole": "source_original",
+    "alt": "人造人21号｜Android 21同模型来源图",
+    "author": "来源标注：Chuya Factory；具体作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源标注：Chuya Factory；具体作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以角色轮廓、姿态和分件结构为核心，适合树脂打印、装配与重点涂装。",
+          "该模型归入“人物角色”，与同批其他4件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 17 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/chuya-factory-android-21-3d-print-model-fbac56/gallery-01.jpg",
+        "alt": "人造人21号｜Android 21来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
     "id": "ouart-daily-six-20260902:regular-freezer-third-form-ca7fc7",
     "publicationId": "ouart-daily-six-20260902:regular-freezer-third-form-ca7fc7",
     "inventoryId": "regular-freezer-third-form-ca7fc7",

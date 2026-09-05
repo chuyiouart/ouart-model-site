@@ -1,6 +1,27 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20260905",
+    "date": "2026-09-05",
+    "displayDate": "2026.09.05",
+    "title": "2026.09.05｜OUART 今日4件",
+    "description": "本期共4件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-09-05/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-09-05 4模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20260905:janemba-mask-8d6700",
+      "ouart-daily-six-20260905:arale-non-support-stl-zone-b89eea",
+      "ouart-daily-six-20260905:piccolo-kd-stl-10-freestl2-6a0c8d",
+      "ouart-daily-six-20260905:majin-buu-black-tower-collectibles-8172b3"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1Z04l3CWrfoEs3sSsCz59iQ",
+    "shareCode": "b215",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-09-05T14:50:56+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20260904",
     "date": "2026-09-04",
     "displayDate": "2026.09.04",

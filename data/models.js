@@ -1,5 +1,321 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20260905:janemba-mask-8d6700",
+    "publicationId": "ouart-daily-six-20260905:janemba-mask-8d6700",
+    "inventoryId": "janemba-mask-8d6700",
+    "name": "邪念波面具｜Janemba Mask",
+    "date": "2026-09-05",
+    "displayDate": "2026.09.05",
+    "format": "STL",
+    "fileCount": 86,
+    "size": "2224.40 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/janemba-mask-8d6700/janemba-mask-8d6700-主图@初艺ouart.png",
+    "description": "以角色轮廓、姿态和分件结构为核心，适合树脂打印、装配与重点涂装。",
+    "intro": "2026.09.05 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/11RvqSzSyhT4Ch8ZVcV1nFQ",
+    "shareCode": "66e8",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260905",
+    "nameZh": "邪念波面具",
+    "nameEn": "Janemba Mask",
+    "displayName": "邪念波面具｜Janemba Mask",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "邪念波面具｜Janemba Mask同模型来源图",
+    "author": "来源库存标注 Janemba Mask；具体作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注 Janemba Mask；具体作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以角色轮廓、姿态和分件结构为核心，适合树脂打印、装配与重点涂装。",
+          "该模型归入“角色雕像”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 86 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/janemba-mask-8d6700/gallery-01.jpg",
+        "alt": "邪念波面具｜Janemba Mask来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260905:arale-non-support-stl-zone-b89eea",
+    "publicationId": "ouart-daily-six-20260905:arale-non-support-stl-zone-b89eea",
+    "inventoryId": "arale-non-support-stl-zone-b89eea",
+    "name": "阿拉蕾（无支撑版）｜Arale — Unsupported",
+    "date": "2026-09-05",
+    "displayDate": "2026.09.05",
+    "format": "STL",
+    "fileCount": 51,
+    "size": "1187.93 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/arale-non-support-stl-zone-b89eea/arale-non-support-stl-zone-b89eea-主图@初艺ouart.png",
+    "description": "以角色轮廓、姿态和分件结构为核心，适合树脂打印、装配与重点涂装。",
+    "intro": "2026.09.05 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1wv-E_Zu34egCYdA_J0qLKg",
+    "shareCode": "a810",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260905",
+    "nameZh": "阿拉蕾（无支撑版）",
+    "nameEn": "Arale — Unsupported",
+    "displayName": "阿拉蕾（无支撑版）｜Arale — Unsupported",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "阿拉蕾（无支撑版）｜Arale — Unsupported同模型来源图",
+    "author": "来源库存标注 Arale Non_Support_@stl_zone；具体作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注 Arale Non_Support_@stl_zone；具体作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以角色轮廓、姿态和分件结构为核心，适合树脂打印、装配与重点涂装。",
+          "该模型归入“角色雕像”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 51 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/arale-non-support-stl-zone-b89eea/gallery-01.jpg",
+        "alt": "阿拉蕾（无支撑版）｜Arale — Unsupported来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260905:piccolo-kd-stl-10-freestl2-6a0c8d",
+    "publicationId": "ouart-daily-six-20260905:piccolo-kd-stl-10-freestl2-6a0c8d",
+    "inventoryId": "piccolo-kd-stl-10-freestl2-6a0c8d",
+    "name": "比克｜Piccolo",
+    "date": "2026-09-05",
+    "displayDate": "2026.09.05",
+    "format": "STL",
+    "fileCount": 30,
+    "size": "1109.67 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/piccolo-kd-stl-10-freestl2-6a0c8d/piccolo-kd-stl-10-freestl2-6a0c8d-主图@初艺ouart.png",
+    "description": "以角色轮廓、姿态和分件结构为核心，适合树脂打印、装配与重点涂装。",
+    "intro": "2026.09.05 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1luoDlrp_HqWT3Yius9nqyA",
+    "shareCode": "e63a",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260905",
+    "nameZh": "比克",
+    "nameEn": "Piccolo",
+    "displayName": "比克｜Piccolo",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "比克｜Piccolo同模型来源图",
+    "author": "来源库存标注 Piccolo KD STL 10@freestl2；具体作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注 Piccolo KD STL 10@freestl2；具体作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以角色轮廓、姿态和分件结构为核心，适合树脂打印、装配与重点涂装。",
+          "该模型归入“角色雕像”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 30 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/piccolo-kd-stl-10-freestl2-6a0c8d/gallery-01.jpg",
+        "alt": "比克｜Piccolo来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260905:majin-buu-black-tower-collectibles-8172b3",
+    "publicationId": "ouart-daily-six-20260905:majin-buu-black-tower-collectibles-8172b3",
+    "inventoryId": "majin-buu-black-tower-collectibles-8172b3",
+    "name": "魔人布欧｜Majin Buu — Black Tower Collectibles",
+    "date": "2026-09-05",
+    "displayDate": "2026.09.05",
+    "format": "STL",
+    "fileCount": 50,
+    "size": "1858.87 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/majin-buu-black-tower-collectibles-8172b3/majin-buu-black-tower-collectibles-8172b3-主图@初艺ouart.png",
+    "description": "以角色轮廓、姿态和分件结构为核心，适合树脂打印、装配与重点涂装。",
+    "intro": "2026.09.05 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1LuaXmsEDj7F0abg56qgHwg",
+    "shareCode": "f9a2",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260905",
+    "nameZh": "魔人布欧",
+    "nameEn": "Majin Buu — Black Tower Collectibles",
+    "displayName": "魔人布欧｜Majin Buu — Black Tower Collectibles",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "魔人布欧｜Majin Buu — Black Tower Collectibles同模型来源图",
+    "author": "来源库存标注 Majin Buu - Black Tower Collectibles；具体作者与授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注 Majin Buu - Black Tower Collectibles；具体作者与授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以角色轮廓、姿态和分件结构为核心，适合树脂打印、装配与重点涂装。",
+          "该模型归入“角色雕像”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 50 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/majin-buu-black-tower-collectibles-8172b3/gallery-01.jpg",
+        "alt": "魔人布欧｜Majin Buu — Black Tower Collectibles来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
     "id": "ouart-daily-six-20260904:naruto-modo-sabio-beefigures-cea5a0",
     "publicationId": "ouart-daily-six-20260904:naruto-modo-sabio-beefigures-cea5a0",
     "inventoryId": "naruto-modo-sabio-beefigures-cea5a0",

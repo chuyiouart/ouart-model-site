@@ -1,6 +1,29 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20260906",
+    "date": "2026-09-06",
+    "displayDate": "2026.09.06",
+    "title": "2026.09.06｜OUART 今日6件",
+    "description": "本期共6件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-09-06/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-09-06 6模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20260906:goku-en-busca-de-las-esferas-omega-ccfa92",
+      "ouart-daily-six-20260906:cell-vs-a17-rd-stl-zone-25fa00",
+      "ouart-daily-six-20260906:model-908116950134571-72c0ca",
+      "ouart-daily-six-20260906:model-852758942527104-9d21f3",
+      "ouart-daily-six-20260906:2b-6210b0",
+      "ouart-daily-six-20260906:model-545087350588642-cb82f2"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/18iB4vczVpPpeFuKp4380PQ",
+    "shareCode": "f8ff",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-09-06T10:31:38+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20260905",
     "date": "2026-09-05",
     "displayDate": "2026.09.05",

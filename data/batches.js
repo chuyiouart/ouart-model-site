@@ -1,6 +1,25 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20260907",
+    "date": "2026-09-07",
+    "displayDate": "2026.09.07",
+    "title": "2026.09.07｜OUART 今日2件",
+    "description": "本期共2件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-09-07/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-09-07 2模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20260907:model-325017298990170-4449af",
+      "ouart-daily-six-20260907:es-monster-kingpin-223455"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1GxLL2R0qSDT6sMr4-z9xnQ",
+    "shareCode": "1751",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-09-07T10:31:34+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20260906",
     "date": "2026-09-06",
     "displayDate": "2026.09.06",

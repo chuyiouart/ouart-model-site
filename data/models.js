@@ -1,5 +1,163 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20260907:model-325017298990170-4449af",
+    "publicationId": "ouart-daily-six-20260907:model-325017298990170-4449af",
+    "inventoryId": "model-325017298990170-4449af",
+    "name": "火焰纹章女主角｜Fire Emblem Heroine",
+    "date": "2026-09-07",
+    "displayDate": "2026.09.07",
+    "format": "STL",
+    "fileCount": 53,
+    "size": "3071.86 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-325017298990170-4449af/model-325017298990170-4449af-主图@初艺ouart.png",
+    "description": "以持械女主角的动态轮廓和多处分件为重点，适合树脂打印、精细装配、面部刻画与层次涂装。",
+    "intro": "2026.09.07 OUART 每日模型合集成员；本期共2件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1519gF0wcZckC_Ku4OuvMkw",
+    "shareCode": "4780",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260907",
+    "nameZh": "火焰纹章女主角",
+    "nameEn": "Fire Emblem Heroine",
+    "displayName": "火焰纹章女主角｜Fire Emblem Heroine",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "火焰纹章女主角｜Fire Emblem Heroine同模型来源图",
+    "author": "来源库存标注“火纹女主角”；具体角色、作者及授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注“火纹女主角”；具体角色、作者及授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "以持械女主角的动态轮廓和多处分件为重点，适合树脂打印、精细装配、面部刻画与层次涂装。",
+          "该模型归入“角色雕像”，与同批其他1件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 53 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-325017298990170-4449af/gallery-01.jpg",
+        "alt": "火焰纹章女主角｜Fire Emblem Heroine来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260907:es-monster-kingpin-223455",
+    "publicationId": "ouart-daily-six-20260907:es-monster-kingpin-223455",
+    "inventoryId": "es-monster-kingpin-223455",
+    "name": "金并｜Kingpin — ES Monster",
+    "date": "2026-09-07",
+    "displayDate": "2026.09.07",
+    "format": "STL",
+    "fileCount": 10,
+    "size": "735.70 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/es-monster-kingpin-223455/es-monster-kingpin-223455-主图@初艺ouart.png",
+    "description": "厚重体态、正装褶皱与强势站姿构成鲜明角色特征，适合树脂打印、肤色与布料质感练习及反派主题陈列。",
+    "intro": "2026.09.07 OUART 每日模型合集成员；本期共2件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1qUxG53QZRe4ec5N-6LTI7Q",
+    "shareCode": "ff37",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260907",
+    "nameZh": "金并",
+    "nameEn": "Kingpin — ES Monster",
+    "displayName": "金并｜Kingpin — ES Monster",
+    "category": "角色雕像",
+    "mainImageRole": "source_original",
+    "alt": "金并｜Kingpin — ES Monster同模型来源图",
+    "author": "来源库存标注“ES Monster - Kingpin”；具体作者及授权范围以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源库存标注“ES Monster - Kingpin”；具体作者及授权范围以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "厚重体态、正装褶皱与强势站姿构成鲜明角色特征，适合树脂打印、肤色与布料质感练习及反派主题陈列。",
+          "该模型归入“角色雕像”，与同批其他1件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 10 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/es-monster-kingpin-223455/gallery-01.png",
+        "alt": "金并｜Kingpin — ES Monster来源图 1",
+        "label": "来源图"
+      }
+    ]
+  },
+  {
     "id": "ouart-daily-six-20260906:goku-en-busca-de-las-esferas-omega-ccfa92",
     "publicationId": "ouart-daily-six-20260906:goku-en-busca-de-las-esferas-omega-ccfa92",
     "inventoryId": "goku-en-busca-de-las-esferas-omega-ccfa92",

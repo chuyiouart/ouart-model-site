@@ -1,5 +1,401 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20260910:flying-bat-ouart-959b22",
+    "publicationId": "ouart-daily-six-20260910:flying-bat-ouart-959b22",
+    "inventoryId": "flying-bat-ouart-959b22",
+    "name": "展翼飞行蝙蝠摆件｜Flying Bat Figurine",
+    "date": "2026-09-10",
+    "displayDate": "2026.09.10",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "2.40 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/flying-bat-ouart-959b22/flying-bat-ouart-959b22-主图@初艺ouart.png",
+    "description": "一体式风格化飞行蝙蝠装饰模型，具有完整头部、躯干和左右展开的双翼，躯干下端融合为平整支撑底面，可作为独立桌面摆件或万圣节主题装饰；造型简洁，不含武器及功能性危险部件。",
+    "intro": "2026.09.10 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1h5TB5G-gJcOJb4DzDTfs_g",
+    "shareCode": "dbf3",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260910",
+    "nameZh": "展翼飞行蝙蝠摆件",
+    "nameEn": "Flying Bat Figurine",
+    "displayName": "展翼飞行蝙蝠摆件｜Flying Bat Figurine",
+    "category": "动物装饰摆件",
+    "mainImageRole": "verified_model_views",
+    "alt": "展翼飞行蝙蝠摆件｜Flying Bat Figurine真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一体式风格化飞行蝙蝠装饰模型，具有完整头部、躯干和左右展开的双翼，躯干下端融合为平整支撑底面，可作为独立桌面摆件或万圣节主题装饰；造型简洁，不含武器及功能性危险部件。",
+          "该模型归入“动物装饰摆件”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/flying-bat-ouart-959b22/gallery-01.png",
+        "alt": "展翼飞行蝙蝠摆件｜Flying Bat Figurine真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/flying-bat-ouart-959b22/gallery-02.png",
+        "alt": "展翼飞行蝙蝠摆件｜Flying Bat Figurine真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/flying-bat-ouart-959b22/gallery-03.png",
+        "alt": "展翼飞行蝙蝠摆件｜Flying Bat Figurine真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/flying-bat-ouart-959b22/gallery-04.png",
+        "alt": "展翼飞行蝙蝠摆件｜Flying Bat Figurine真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/flying-bat-ouart-959b22/gallery-05.png",
+        "alt": "展翼飞行蝙蝠摆件｜Flying Bat Figurine真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260910:miniature-barrel-538496",
+    "publicationId": "ouart-daily-six-20260910:miniature-barrel-538496",
+    "inventoryId": "miniature-barrel-538496",
+    "name": "微型油桶｜Miniature Barrel",
+    "date": "2026-09-10",
+    "displayDate": "2026.09.10",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "3.49 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/miniature-barrel-538496/miniature-barrel-538496-主图@初艺ouart.png",
+    "description": "一个完整独立的微型圆柱油桶模型，具有上下卷边、两道桶身加强筋、封闭圆形桶盖和顶部圆形桶塞细节；适合作为微缩场景、桌面模型或工业主题布景中的非功能性装饰道具。",
+    "intro": "2026.09.10 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1QxGJCaYp2_JiCeKcDrnMnQ",
+    "shareCode": "9db3",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260910",
+    "nameZh": "微型油桶",
+    "nameEn": "Miniature Barrel",
+    "displayName": "微型油桶｜Miniature Barrel",
+    "category": "场景道具",
+    "mainImageRole": "verified_model_views",
+    "alt": "微型油桶｜Miniature Barrel真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一个完整独立的微型圆柱油桶模型，具有上下卷边、两道桶身加强筋、封闭圆形桶盖和顶部圆形桶塞细节；适合作为微缩场景、桌面模型或工业主题布景中的非功能性装饰道具。",
+          "该模型归入“场景道具”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/miniature-barrel-538496/gallery-01.png",
+        "alt": "微型油桶｜Miniature Barrel真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/miniature-barrel-538496/gallery-02.png",
+        "alt": "微型油桶｜Miniature Barrel真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/miniature-barrel-538496/gallery-03.png",
+        "alt": "微型油桶｜Miniature Barrel真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/miniature-barrel-538496/gallery-04.png",
+        "alt": "微型油桶｜Miniature Barrel真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/miniature-barrel-538496/gallery-05.png",
+        "alt": "微型油桶｜Miniature Barrel真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260910:bps-sandals-ab0b6a",
+    "publicationId": "ouart-daily-six-20260910:bps-sandals-ab0b6a",
+    "inventoryId": "bps-sandals-ab0b6a",
+    "name": "展开式人字拖鞋｜Unfastened Flip-Flop Sandal",
+    "date": "2026-09-10",
+    "displayDate": "2026.09.10",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "5.43 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/bps-sandals-ab0b6a/bps-sandals-ab0b6a-主图@初艺ouart.png",
+    "description": "一个完整的单只人字拖鞋模型，包含成形鞋底、两侧鞋带、鞋带端扣孔和前掌趾柱。五视图显示鞋带以未扣合的展开状态呈现，但所有必要结构均在同一鞋履设计中可见，适合作为鞋履造型展示或打印样件。",
+    "intro": "2026.09.10 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1CzGZiwKq3aS-AUID9GRiBA",
+    "shareCode": "39b5",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260910",
+    "nameZh": "展开式人字拖鞋",
+    "nameEn": "Unfastened Flip-Flop Sandal",
+    "displayName": "展开式人字拖鞋｜Unfastened Flip-Flop Sandal",
+    "category": "鞋履模型",
+    "mainImageRole": "verified_model_views",
+    "alt": "展开式人字拖鞋｜Unfastened Flip-Flop Sandal真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一个完整的单只人字拖鞋模型，包含成形鞋底、两侧鞋带、鞋带端扣孔和前掌趾柱。五视图显示鞋带以未扣合的展开状态呈现，但所有必要结构均在同一鞋履设计中可见，适合作为鞋履造型展示或打印样件。",
+          "该模型归入“鞋履模型”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/bps-sandals-ab0b6a/gallery-01.png",
+        "alt": "展开式人字拖鞋｜Unfastened Flip-Flop Sandal真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/bps-sandals-ab0b6a/gallery-02.png",
+        "alt": "展开式人字拖鞋｜Unfastened Flip-Flop Sandal真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/bps-sandals-ab0b6a/gallery-03.png",
+        "alt": "展开式人字拖鞋｜Unfastened Flip-Flop Sandal真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/bps-sandals-ab0b6a/gallery-04.png",
+        "alt": "展开式人字拖鞋｜Unfastened Flip-Flop Sandal真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/bps-sandals-ab0b6a/gallery-05.png",
+        "alt": "展开式人字拖鞋｜Unfastened Flip-Flop Sandal真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260910:crocs-final-bc1976",
+    "publicationId": "ouart-daily-six-20260910:crocs-final-bc1976",
+    "inventoryId": "crocs-final-bc1976",
+    "name": "洞洞鞋模型｜Clog Shoe Model",
+    "date": "2026-09-10",
+    "displayDate": "2026.09.10",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "6.84 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/crocs-final-bc1976/crocs-final-bc1976-主图@初艺ouart.png",
+    "description": "一个完整独立的单只洞洞鞋模型，具有封闭圆头、通气孔、连续鞋底、开放式后跟入口和内部鞋床。五视图未见缺件、断裂残片、无关模型或危险内容，且当前正立方向与前后左右及俯视标签一致。",
+    "intro": "2026.09.10 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1ftA6_YL24jXCVa7a8JxZdw",
+    "shareCode": "1f78",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260910",
+    "nameZh": "洞洞鞋模型",
+    "nameEn": "Clog Shoe Model",
+    "displayName": "洞洞鞋模型｜Clog Shoe Model",
+    "category": "生活用品",
+    "mainImageRole": "verified_model_views",
+    "alt": "洞洞鞋模型｜Clog Shoe Model真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一个完整独立的单只洞洞鞋模型，具有封闭圆头、通气孔、连续鞋底、开放式后跟入口和内部鞋床。五视图未见缺件、断裂残片、无关模型或危险内容，且当前正立方向与前后左右及俯视标签一致。",
+          "该模型归入“生活用品”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/crocs-final-bc1976/gallery-01.png",
+        "alt": "洞洞鞋模型｜Clog Shoe Model真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/crocs-final-bc1976/gallery-02.png",
+        "alt": "洞洞鞋模型｜Clog Shoe Model真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/crocs-final-bc1976/gallery-03.png",
+        "alt": "洞洞鞋模型｜Clog Shoe Model真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/crocs-final-bc1976/gallery-04.png",
+        "alt": "洞洞鞋模型｜Clog Shoe Model真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/crocs-final-bc1976/gallery-05.png",
+        "alt": "洞洞鞋模型｜Clog Shoe Model真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
     "id": "ouart-daily-six-20260909:gyoza-fairy-6e8ce7",
     "publicationId": "ouart-daily-six-20260909:gyoza-fairy-6e8ce7",
     "inventoryId": "gyoza-fairy-6e8ce7",

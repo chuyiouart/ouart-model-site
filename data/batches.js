@@ -1,6 +1,27 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20260910",
+    "date": "2026-09-10",
+    "displayDate": "2026.09.10",
+    "title": "2026.09.10｜OUART 今日4件",
+    "description": "本期共4件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-09-10/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-09-10 4模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20260910:flying-bat-ouart-959b22",
+      "ouart-daily-six-20260910:miniature-barrel-538496",
+      "ouart-daily-six-20260910:bps-sandals-ab0b6a",
+      "ouart-daily-six-20260910:crocs-final-bc1976"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1z4ARe4ulh-FDs70Z8ezHIw",
+    "shareCode": "2f78",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-09-10T10:32:20+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20260909",
     "date": "2026-09-09",
     "displayDate": "2026.09.09",

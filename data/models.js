@@ -1,5 +1,599 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20260911:makies-industrial-boots-a9958b",
+    "publicationId": "ouart-daily-six-20260911:makies-industrial-boots-a9958b",
+    "inventoryId": "makies-industrial-boots-a9958b",
+    "name": "工业风高筒靴一对｜Industrial Boots Pair",
+    "date": "2026-09-11",
+    "displayDate": "2026.09.11",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "9.85 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/makies-industrial-boots-a9958b/makies-industrial-boots-a9958b-主图@初艺ouart.png",
+    "description": "一体文件中的一对微缩工业风高筒靴模型，包含清晰的鞋带、鞋舌、圆头鞋面、高靴筒、鞋跟与厚实防滑齿底；适合作为模型场景中的装饰鞋靴或角色服饰配件。",
+    "intro": "2026.09.11 OUART 每日模型合集成员；本期共6件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/14FSl0lezoSewnVJhYr4lUw",
+    "shareCode": "37ff",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260911",
+    "nameZh": "工业风高筒靴一对",
+    "nameEn": "Industrial Boots Pair",
+    "displayName": "工业风高筒靴一对｜Industrial Boots Pair",
+    "category": "服饰配件",
+    "mainImageRole": "verified_model_views",
+    "alt": "工业风高筒靴一对｜Industrial Boots Pair真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一体文件中的一对微缩工业风高筒靴模型，包含清晰的鞋带、鞋舌、圆头鞋面、高靴筒、鞋跟与厚实防滑齿底；适合作为模型场景中的装饰鞋靴或角色服饰配件。",
+          "该模型归入“服饰配件”，与同批其他5件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/makies-industrial-boots-a9958b/gallery-01.png",
+        "alt": "工业风高筒靴一对｜Industrial Boots Pair真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/makies-industrial-boots-a9958b/gallery-02.png",
+        "alt": "工业风高筒靴一对｜Industrial Boots Pair真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/makies-industrial-boots-a9958b/gallery-03.png",
+        "alt": "工业风高筒靴一对｜Industrial Boots Pair真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/makies-industrial-boots-a9958b/gallery-04.png",
+        "alt": "工业风高筒靴一对｜Industrial Boots Pair真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/makies-industrial-boots-a9958b/gallery-05.png",
+        "alt": "工业风高筒靴一对｜Industrial Boots Pair真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260911:m-ouart-1cb6d7",
+    "publicationId": "ouart-daily-six-20260911:m-ouart-1cb6d7",
+    "inventoryId": "m-ouart-1cb6d7",
+    "name": "祈祷圣母简易雕像｜Simple Praying Virgin Mary Statue",
+    "date": "2026-09-11",
+    "displayDate": "2026.09.11",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "12.35 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/m-ouart-1cb6d7/m-ouart-1cb6d7-主图@初艺ouart.png",
+    "description": "一款完整独立的祈祷圣母装饰雕像，人物身披长袍与头巾，双手合十，带一体式底座；造型简洁，适合作为宗教主题摆件或装饰模型。",
+    "intro": "2026.09.11 OUART 每日模型合集成员；本期共6件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1EE3yVwzEfV7Yrzv7C2D3Zw",
+    "shareCode": "f001",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260911",
+    "nameZh": "祈祷圣母简易雕像",
+    "nameEn": "Simple Praying Virgin Mary Statue",
+    "displayName": "祈祷圣母简易雕像｜Simple Praying Virgin Mary Statue",
+    "category": "人物雕像",
+    "mainImageRole": "verified_model_views",
+    "alt": "祈祷圣母简易雕像｜Simple Praying Virgin Mary Statue真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一款完整独立的祈祷圣母装饰雕像，人物身披长袍与头巾，双手合十，带一体式底座；造型简洁，适合作为宗教主题摆件或装饰模型。",
+          "该模型归入“人物雕像”，与同批其他5件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/m-ouart-1cb6d7/gallery-01.png",
+        "alt": "祈祷圣母简易雕像｜Simple Praying Virgin Mary Statue真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/m-ouart-1cb6d7/gallery-02.png",
+        "alt": "祈祷圣母简易雕像｜Simple Praying Virgin Mary Statue真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/m-ouart-1cb6d7/gallery-03.png",
+        "alt": "祈祷圣母简易雕像｜Simple Praying Virgin Mary Statue真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/m-ouart-1cb6d7/gallery-04.png",
+        "alt": "祈祷圣母简易雕像｜Simple Praying Virgin Mary Statue真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/m-ouart-1cb6d7/gallery-05.png",
+        "alt": "祈祷圣母简易雕像｜Simple Praying Virgin Mary Statue真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260911:porta-cepillo-de-dientes-ade4a6",
+    "publicationId": "ouart-daily-six-20260911:porta-cepillo-de-dientes-ade4a6",
+    "inventoryId": "porta-cepillo-de-dientes-ade4a6",
+    "name": "水龙头造型牙刷架｜Faucet-Shaped Toothbrush Holder",
+    "date": "2026-09-11",
+    "displayDate": "2026.09.11",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "13.86 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/porta-cepillo-de-dientes-ade4a6/porta-cepillo-de-dientes-ade4a6-主图@初艺ouart.png",
+    "description": "一个完整独立的水龙头造型牙刷收纳架，采用外扩波纹底座保持直立，顶部圆孔可用于插放牙刷，并以环形框、弯臂和龙头状横件形成装饰性轮廓；适合作为浴室台面收纳与趣味摆件。",
+    "intro": "2026.09.11 OUART 每日模型合集成员；本期共6件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1-Hy_c97_mdF1ChESF9emCQ",
+    "shareCode": "879b",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260911",
+    "nameZh": "水龙头造型牙刷架",
+    "nameEn": "Faucet-Shaped Toothbrush Holder",
+    "displayName": "水龙头造型牙刷架｜Faucet-Shaped Toothbrush Holder",
+    "category": "家居用品/卫浴收纳",
+    "mainImageRole": "verified_model_views",
+    "alt": "水龙头造型牙刷架｜Faucet-Shaped Toothbrush Holder真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一个完整独立的水龙头造型牙刷收纳架，采用外扩波纹底座保持直立，顶部圆孔可用于插放牙刷，并以环形框、弯臂和龙头状横件形成装饰性轮廓；适合作为浴室台面收纳与趣味摆件。",
+          "该模型归入“家居用品/卫浴收纳”，与同批其他5件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/porta-cepillo-de-dientes-ade4a6/gallery-01.png",
+        "alt": "水龙头造型牙刷架｜Faucet-Shaped Toothbrush Holder真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/porta-cepillo-de-dientes-ade4a6/gallery-02.png",
+        "alt": "水龙头造型牙刷架｜Faucet-Shaped Toothbrush Holder真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/porta-cepillo-de-dientes-ade4a6/gallery-03.png",
+        "alt": "水龙头造型牙刷架｜Faucet-Shaped Toothbrush Holder真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/porta-cepillo-de-dientes-ade4a6/gallery-04.png",
+        "alt": "水龙头造型牙刷架｜Faucet-Shaped Toothbrush Holder真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/porta-cepillo-de-dientes-ade4a6/gallery-05.png",
+        "alt": "水龙头造型牙刷架｜Faucet-Shaped Toothbrush Holder真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260911:easter-bunny-ouart-e92f68",
+    "publicationId": "ouart-daily-six-20260911:easter-bunny-ouart-e92f68",
+    "inventoryId": "easter-bunny-ouart-e92f68",
+    "name": "抱蛋复活节兔子摆件｜Easter Bunny Holding an Egg",
+    "date": "2026-09-11",
+    "displayDate": "2026.09.11",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "14.91 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/easter-bunny-ouart-e92f68/easter-bunny-ouart-e92f68-主图@初艺ouart.png",
+    "description": "一个完整独立的卡通复活节兔子装饰模型，兔子以坐立姿态双手抱着蛋，具有清晰的面部、长耳、四肢、脚掌和尾巴细节，适合作为节庆桌面摆件或彩绘打印模型。",
+    "intro": "2026.09.11 OUART 每日模型合集成员；本期共6件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1kvUrkowIB6kSOqwJlJ7Pmw",
+    "shareCode": "030d",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260911",
+    "nameZh": "抱蛋复活节兔子摆件",
+    "nameEn": "Easter Bunny Holding an Egg",
+    "displayName": "抱蛋复活节兔子摆件｜Easter Bunny Holding an Egg",
+    "category": "动物装饰摆件",
+    "mainImageRole": "verified_model_views",
+    "alt": "抱蛋复活节兔子摆件｜Easter Bunny Holding an Egg真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一个完整独立的卡通复活节兔子装饰模型，兔子以坐立姿态双手抱着蛋，具有清晰的面部、长耳、四肢、脚掌和尾巴细节，适合作为节庆桌面摆件或彩绘打印模型。",
+          "该模型归入“动物装饰摆件”，与同批其他5件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/easter-bunny-ouart-e92f68/gallery-01.png",
+        "alt": "抱蛋复活节兔子摆件｜Easter Bunny Holding an Egg真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/easter-bunny-ouart-e92f68/gallery-02.png",
+        "alt": "抱蛋复活节兔子摆件｜Easter Bunny Holding an Egg真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/easter-bunny-ouart-e92f68/gallery-03.png",
+        "alt": "抱蛋复活节兔子摆件｜Easter Bunny Holding an Egg真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/easter-bunny-ouart-e92f68/gallery-04.png",
+        "alt": "抱蛋复活节兔子摆件｜Easter Bunny Holding an Egg真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/easter-bunny-ouart-e92f68/gallery-05.png",
+        "alt": "抱蛋复活节兔子摆件｜Easter Bunny Holding an Egg真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260911:minimalist-cat-vase-print3dworld-11d282",
+    "publicationId": "ouart-daily-six-20260911:minimalist-cat-vase-print3dworld-11d282",
+    "inventoryId": "minimalist-cat-vase-print3dworld-11d282",
+    "name": "极简猫咪花瓶｜Minimalist Cat Vase",
+    "date": "2026-09-11",
+    "displayDate": "2026.09.11",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "20.12 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/minimalist-cat-vase-print3dworld-11d282/minimalist-cat-vase-print3dworld-11d282-主图@初艺ouart.png",
+    "description": "一体式极简猫形装饰花瓶，利用双耳猫头剪影与中空瓶体形成简洁造型，适合作为桌面花器、干花容器或家居摆件。五视图可见其主体完整、底部平整且顶部具有明确容腔；本次结论仅确认可见几何的完整性与陈列属性，不额外宣称防水性能。",
+    "intro": "2026.09.11 OUART 每日模型合集成员；本期共6件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1x75dPxncVTAwD4t0GkWxbw",
+    "shareCode": "2e17",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260911",
+    "nameZh": "极简猫咪花瓶",
+    "nameEn": "Minimalist Cat Vase",
+    "displayName": "极简猫咪花瓶｜Minimalist Cat Vase",
+    "category": "家居装饰 / 花瓶",
+    "mainImageRole": "verified_model_views",
+    "alt": "极简猫咪花瓶｜Minimalist Cat Vase真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一体式极简猫形装饰花瓶，利用双耳猫头剪影与中空瓶体形成简洁造型，适合作为桌面花器、干花容器或家居摆件。五视图可见其主体完整、底部平整且顶部具有明确容腔；本次结论仅确认可见几何的完整性与陈列属性，不额外宣称防水性能。",
+          "该模型归入“家居装饰 / 花瓶”，与同批其他5件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/minimalist-cat-vase-print3dworld-11d282/gallery-01.png",
+        "alt": "极简猫咪花瓶｜Minimalist Cat Vase真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/minimalist-cat-vase-print3dworld-11d282/gallery-02.png",
+        "alt": "极简猫咪花瓶｜Minimalist Cat Vase真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/minimalist-cat-vase-print3dworld-11d282/gallery-03.png",
+        "alt": "极简猫咪花瓶｜Minimalist Cat Vase真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/minimalist-cat-vase-print3dworld-11d282/gallery-04.png",
+        "alt": "极简猫咪花瓶｜Minimalist Cat Vase真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/minimalist-cat-vase-print3dworld-11d282/gallery-05.png",
+        "alt": "极简猫咪花瓶｜Minimalist Cat Vase真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260911:airlesstennisball-ouart-f4eb05",
+    "publicationId": "ouart-daily-six-20260911:airlesstennisball-ouart-f4eb05",
+    "inventoryId": "airlesstennisball-ouart-f4eb05",
+    "name": "蜂窝镂空无气网球｜Airless Honeycomb Tennis Ball",
+    "date": "2026-09-11",
+    "displayDate": "2026.09.11",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "21.87 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/airlesstennisball-ouart-f4eb05/airlesstennisball-ouart-f4eb05-主图@初艺ouart.png",
+    "description": "一个完整独立的球形镂空模型，采用连续蜂窝格栅外壳，并带有环绕球面的加强环或接缝状结构；五视图未见缺件、碎片或无关附属模型。",
+    "intro": "2026.09.11 OUART 每日模型合集成员；本期共6件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1WZhX8b1XTNbZ26oQdd--mw",
+    "shareCode": "0cd8",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260911",
+    "nameZh": "蜂窝镂空无气网球",
+    "nameEn": "Airless Honeycomb Tennis Ball",
+    "displayName": "蜂窝镂空无气网球｜Airless Honeycomb Tennis Ball",
+    "category": "运动用品",
+    "mainImageRole": "verified_model_views",
+    "alt": "蜂窝镂空无气网球｜Airless Honeycomb Tennis Ball真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一个完整独立的球形镂空模型，采用连续蜂窝格栅外壳，并带有环绕球面的加强环或接缝状结构；五视图未见缺件、碎片或无关附属模型。",
+          "该模型归入“运动用品”，与同批其他5件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/airlesstennisball-ouart-f4eb05/gallery-01.png",
+        "alt": "蜂窝镂空无气网球｜Airless Honeycomb Tennis Ball真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/airlesstennisball-ouart-f4eb05/gallery-02.png",
+        "alt": "蜂窝镂空无气网球｜Airless Honeycomb Tennis Ball真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/airlesstennisball-ouart-f4eb05/gallery-03.png",
+        "alt": "蜂窝镂空无气网球｜Airless Honeycomb Tennis Ball真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/airlesstennisball-ouart-f4eb05/gallery-04.png",
+        "alt": "蜂窝镂空无气网球｜Airless Honeycomb Tennis Ball真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/airlesstennisball-ouart-f4eb05/gallery-05.png",
+        "alt": "蜂窝镂空无气网球｜Airless Honeycomb Tennis Ball真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
     "id": "ouart-daily-six-20260910:flying-bat-ouart-959b22",
     "publicationId": "ouart-daily-six-20260910:flying-bat-ouart-959b22",
     "inventoryId": "flying-bat-ouart-959b22",

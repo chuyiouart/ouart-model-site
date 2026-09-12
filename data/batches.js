@@ -1,6 +1,28 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20260912",
+    "date": "2026-09-12",
+    "displayDate": "2026.09.12",
+    "title": "2026.09.12｜OUART 今日5件",
+    "description": "本期共5件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-09-12/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-09-12 5模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20260912:bruce-lee-ouart-8dc86d",
+      "ouart-daily-six-20260912:tony-montana-ouart-d61544",
+      "ouart-daily-six-20260912:frida-kahlo-ouart-8f0c76",
+      "ouart-daily-six-20260912:john-lennon-ouart-f47af9",
+      "ouart-daily-six-20260912:leo-messi-ouart-4f7ea2"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1iwnxM3MKWZvvGSvrw9haTg",
+    "shareCode": "d9f5",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-09-12T10:32:14+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20260911",
     "date": "2026-09-11",
     "displayDate": "2026.09.11",

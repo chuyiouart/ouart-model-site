@@ -1,5 +1,500 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20260912:bruce-lee-ouart-8dc86d",
+    "publicationId": "ouart-daily-six-20260912:bruce-lee-ouart-8dc86d",
+    "inventoryId": "bruce-lee-ouart-8dc86d",
+    "name": "李小龙胸像｜Bruce Lee Bust",
+    "date": "2026-09-12",
+    "displayDate": "2026.09.12",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "13.76 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/bruce-lee-ouart-8dc86d/bruce-lee-ouart-8dc86d-主图@初艺ouart.png",
+    "description": "一件以李小龙形象为主题的独立装饰胸像，包含完整头部、颈部、胸肩和对称截断的上臂；造型连续完整、方向正确，不含武器、功能性部件或无关模型。",
+    "intro": "2026.09.12 OUART 每日模型合集成员；本期共5件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1Iet4Tsz3VK1axQwF3V13zQ",
+    "shareCode": "5350",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260912",
+    "nameZh": "李小龙胸像",
+    "nameEn": "Bruce Lee Bust",
+    "displayName": "李小龙胸像｜Bruce Lee Bust",
+    "category": "人物胸像",
+    "mainImageRole": "verified_model_views",
+    "alt": "李小龙胸像｜Bruce Lee Bust真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一件以李小龙形象为主题的独立装饰胸像，包含完整头部、颈部、胸肩和对称截断的上臂；造型连续完整、方向正确，不含武器、功能性部件或无关模型。",
+          "该模型归入“人物胸像”，与同批其他4件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/bruce-lee-ouart-8dc86d/gallery-01.png",
+        "alt": "李小龙胸像｜Bruce Lee Bust真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/bruce-lee-ouart-8dc86d/gallery-02.png",
+        "alt": "李小龙胸像｜Bruce Lee Bust真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/bruce-lee-ouart-8dc86d/gallery-03.png",
+        "alt": "李小龙胸像｜Bruce Lee Bust真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/bruce-lee-ouart-8dc86d/gallery-04.png",
+        "alt": "李小龙胸像｜Bruce Lee Bust真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/bruce-lee-ouart-8dc86d/gallery-05.png",
+        "alt": "李小龙胸像｜Bruce Lee Bust真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260912:tony-montana-ouart-d61544",
+    "publicationId": "ouart-daily-six-20260912:tony-montana-ouart-d61544",
+    "inventoryId": "tony-montana-ouart-d61544",
+    "name": "托尼·蒙塔纳怒吼半身像｜Tony Montana Shouting Bust",
+    "date": "2026-09-12",
+    "displayDate": "2026.09.12",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "22.64 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/tony-montana-ouart-d61544/tony-montana-ouart-d61544-主图@初艺ouart.png",
+    "description": "一件完整独立的托尼·蒙塔纳风格人物装饰半身像，刻画张口怒吼的夸张表情、短发、西装与衬衫，并带一体式台座；适合作为影视角色主题的桌面陈列或收藏摆件。模型不含武器、武器部件或其他独立附件。",
+    "intro": "2026.09.12 OUART 每日模型合集成员；本期共5件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1Ou1xeTcyKWyPz4-q0JD15g",
+    "shareCode": "fa0a",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260912",
+    "nameZh": "托尼·蒙塔纳怒吼半身像",
+    "nameEn": "Tony Montana Shouting Bust",
+    "displayName": "托尼·蒙塔纳怒吼半身像｜Tony Montana Shouting Bust",
+    "category": "名人角色半身像",
+    "mainImageRole": "verified_model_views",
+    "alt": "托尼·蒙塔纳怒吼半身像｜Tony Montana Shouting Bust真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一件完整独立的托尼·蒙塔纳风格人物装饰半身像，刻画张口怒吼的夸张表情、短发、西装与衬衫，并带一体式台座；适合作为影视角色主题的桌面陈列或收藏摆件。模型不含武器、武器部件或其他独立附件。",
+          "该模型归入“名人角色半身像”，与同批其他4件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/tony-montana-ouart-d61544/gallery-01.png",
+        "alt": "托尼·蒙塔纳怒吼半身像｜Tony Montana Shouting Bust真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/tony-montana-ouart-d61544/gallery-02.png",
+        "alt": "托尼·蒙塔纳怒吼半身像｜Tony Montana Shouting Bust真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/tony-montana-ouart-d61544/gallery-03.png",
+        "alt": "托尼·蒙塔纳怒吼半身像｜Tony Montana Shouting Bust真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/tony-montana-ouart-d61544/gallery-04.png",
+        "alt": "托尼·蒙塔纳怒吼半身像｜Tony Montana Shouting Bust真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/tony-montana-ouart-d61544/gallery-05.png",
+        "alt": "托尼·蒙塔纳怒吼半身像｜Tony Montana Shouting Bust真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260912:frida-kahlo-ouart-8f0c76",
+    "publicationId": "ouart-daily-six-20260912:frida-kahlo-ouart-8f0c76",
+    "inventoryId": "frida-kahlo-ouart-8f0c76",
+    "name": "弗里达·卡罗花冠半身像｜Frida Kahlo Floral Crown Bust",
+    "date": "2026-09-12",
+    "displayDate": "2026.09.12",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "23.84 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/frida-kahlo-ouart-8f0c76/frida-kahlo-ouart-8f0c76-主图@初艺ouart.png",
+    "description": "一款以弗里达·卡罗形象为主题的完整装饰半身像，包含正脸、盘发花冠、耳坠、项链、肩胸轮廓与平整底缘；适合作为人物艺术雕塑展示或收藏摆件。",
+    "intro": "2026.09.12 OUART 每日模型合集成员；本期共5件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/18wirGLRwfzxko8RVN4zxUA",
+    "shareCode": "bb03",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260912",
+    "nameZh": "弗里达·卡罗花冠半身像",
+    "nameEn": "Frida Kahlo Floral Crown Bust",
+    "displayName": "弗里达·卡罗花冠半身像｜Frida Kahlo Floral Crown Bust",
+    "category": "人物半身像",
+    "mainImageRole": "verified_model_views",
+    "alt": "弗里达·卡罗花冠半身像｜Frida Kahlo Floral Crown Bust真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一款以弗里达·卡罗形象为主题的完整装饰半身像，包含正脸、盘发花冠、耳坠、项链、肩胸轮廓与平整底缘；适合作为人物艺术雕塑展示或收藏摆件。",
+          "该模型归入“人物半身像”，与同批其他4件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/frida-kahlo-ouart-8f0c76/gallery-01.png",
+        "alt": "弗里达·卡罗花冠半身像｜Frida Kahlo Floral Crown Bust真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/frida-kahlo-ouart-8f0c76/gallery-02.png",
+        "alt": "弗里达·卡罗花冠半身像｜Frida Kahlo Floral Crown Bust真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/frida-kahlo-ouart-8f0c76/gallery-03.png",
+        "alt": "弗里达·卡罗花冠半身像｜Frida Kahlo Floral Crown Bust真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/frida-kahlo-ouart-8f0c76/gallery-04.png",
+        "alt": "弗里达·卡罗花冠半身像｜Frida Kahlo Floral Crown Bust真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/frida-kahlo-ouart-8f0c76/gallery-05.png",
+        "alt": "弗里达·卡罗花冠半身像｜Frida Kahlo Floral Crown Bust真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260912:john-lennon-ouart-f47af9",
+    "publicationId": "ouart-daily-six-20260912:john-lennon-ouart-f47af9",
+    "inventoryId": "john-lennon-ouart-f47af9",
+    "name": "约翰·列侬胸像｜John Lennon Bust",
+    "date": "2026-09-12",
+    "displayDate": "2026.09.12",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "23.84 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/john-lennon-ouart-f47af9/john-lennon-ouart-f47af9-主图@初艺ouart.png",
+    "description": "一件可独立展示的约翰·列侬风格装饰胸像，包含完整头部、圆框眼镜、发型、颈部、服装肩部与平整半身像底部；五视图确认结构连续、主体单一、姿态直立且视角标注正确。",
+    "intro": "2026.09.12 OUART 每日模型合集成员；本期共5件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1lZXCP7M80XutKvweonH0Yw",
+    "shareCode": "71ce",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260912",
+    "nameZh": "约翰·列侬胸像",
+    "nameEn": "John Lennon Bust",
+    "displayName": "约翰·列侬胸像｜John Lennon Bust",
+    "category": "名人胸像",
+    "mainImageRole": "verified_model_views",
+    "alt": "约翰·列侬胸像｜John Lennon Bust真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一件可独立展示的约翰·列侬风格装饰胸像，包含完整头部、圆框眼镜、发型、颈部、服装肩部与平整半身像底部；五视图确认结构连续、主体单一、姿态直立且视角标注正确。",
+          "该模型归入“名人胸像”，与同批其他4件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/john-lennon-ouart-f47af9/gallery-01.png",
+        "alt": "约翰·列侬胸像｜John Lennon Bust真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/john-lennon-ouart-f47af9/gallery-02.png",
+        "alt": "约翰·列侬胸像｜John Lennon Bust真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/john-lennon-ouart-f47af9/gallery-03.png",
+        "alt": "约翰·列侬胸像｜John Lennon Bust真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/john-lennon-ouart-f47af9/gallery-04.png",
+        "alt": "约翰·列侬胸像｜John Lennon Bust真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/john-lennon-ouart-f47af9/gallery-05.png",
+        "alt": "约翰·列侬胸像｜John Lennon Bust真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260912:leo-messi-ouart-4f7ea2",
+    "publicationId": "ouart-daily-six-20260912:leo-messi-ouart-4f7ea2",
+    "inventoryId": "leo-messi-ouart-4f7ea2",
+    "name": "莱昂内尔·梅西半身像｜Lionel Messi Bust",
+    "date": "2026-09-12",
+    "displayDate": "2026.09.12",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "23.84 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/leo-messi-ouart-4f7ea2/leo-messi-ouart-4f7ea2-主图@初艺ouart.png",
+    "description": "一件以莱昂内尔·梅西为原型的独立装饰性半身像，包含完整头部、发型、五官、双耳、颈部以及球衣胸肩造型，并以规整的胸肩底缘结束；五视图未发现缺件、离散碎片、无关模型或武器内容，朝向标注正确。",
+    "intro": "2026.09.12 OUART 每日模型合集成员；本期共5件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1KrSbxmX35DTU8B7ndZmydQ",
+    "shareCode": "953d",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260912",
+    "nameZh": "莱昂内尔·梅西半身像",
+    "nameEn": "Lionel Messi Bust",
+    "displayName": "莱昂内尔·梅西半身像｜Lionel Messi Bust",
+    "category": "人物半身像",
+    "mainImageRole": "verified_model_views",
+    "alt": "莱昂内尔·梅西半身像｜Lionel Messi Bust真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一件以莱昂内尔·梅西为原型的独立装饰性半身像，包含完整头部、发型、五官、双耳、颈部以及球衣胸肩造型，并以规整的胸肩底缘结束；五视图未发现缺件、离散碎片、无关模型或武器内容，朝向标注正确。",
+          "该模型归入“人物半身像”，与同批其他4件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/leo-messi-ouart-4f7ea2/gallery-01.png",
+        "alt": "莱昂内尔·梅西半身像｜Lionel Messi Bust真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/leo-messi-ouart-4f7ea2/gallery-02.png",
+        "alt": "莱昂内尔·梅西半身像｜Lionel Messi Bust真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/leo-messi-ouart-4f7ea2/gallery-03.png",
+        "alt": "莱昂内尔·梅西半身像｜Lionel Messi Bust真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/leo-messi-ouart-4f7ea2/gallery-04.png",
+        "alt": "莱昂内尔·梅西半身像｜Lionel Messi Bust真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/leo-messi-ouart-4f7ea2/gallery-05.png",
+        "alt": "莱昂内尔·梅西半身像｜Lionel Messi Bust真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
     "id": "ouart-daily-six-20260911:makies-industrial-boots-a9958b",
     "publicationId": "ouart-daily-six-20260911:makies-industrial-boots-a9958b",
     "inventoryId": "makies-industrial-boots-a9958b",

@@ -1,5 +1,104 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20260913:salvador-dali-ouart-3cfc67",
+    "publicationId": "ouart-daily-six-20260913:salvador-dali-ouart-3cfc67",
+    "inventoryId": "salvador-dali-ouart-3cfc67",
+    "name": "萨尔瓦多·达利胸像｜Salvador Dalí Bust",
+    "date": "2026-09-13",
+    "displayDate": "2026.09.13",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "23.84 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/salvador-dali-ouart-3cfc67/salvador-dali-ouart-3cfc67-主图@初艺ouart.png",
+    "description": "一件完整独立的萨尔瓦多·达利装饰胸像，塑造其上翘长胡须、梳理后的头发及西装领带造型；胸肩下缘为有意收束的胸像展示边界，适合作为人物艺术雕塑展示。",
+    "intro": "2026.09.13 OUART 每日模型合集成员；本期共1件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/11ERzrNh1YahVXCAvPS20qg",
+    "shareCode": "9e51",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260913",
+    "nameZh": "萨尔瓦多·达利胸像",
+    "nameEn": "Salvador Dalí Bust",
+    "displayName": "萨尔瓦多·达利胸像｜Salvador Dalí Bust",
+    "category": "名人胸像",
+    "mainImageRole": "verified_model_views",
+    "alt": "萨尔瓦多·达利胸像｜Salvador Dalí Bust真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一件完整独立的萨尔瓦多·达利装饰胸像，塑造其上翘长胡须、梳理后的头发及西装领带造型；胸肩下缘为有意收束的胸像展示边界，适合作为人物艺术雕塑展示。",
+          "该模型归入“名人胸像”，作为本期单件模型独立展示。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/salvador-dali-ouart-3cfc67/gallery-01.png",
+        "alt": "萨尔瓦多·达利胸像｜Salvador Dalí Bust真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/salvador-dali-ouart-3cfc67/gallery-02.png",
+        "alt": "萨尔瓦多·达利胸像｜Salvador Dalí Bust真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/salvador-dali-ouart-3cfc67/gallery-03.png",
+        "alt": "萨尔瓦多·达利胸像｜Salvador Dalí Bust真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/salvador-dali-ouart-3cfc67/gallery-04.png",
+        "alt": "萨尔瓦多·达利胸像｜Salvador Dalí Bust真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/salvador-dali-ouart-3cfc67/gallery-05.png",
+        "alt": "萨尔瓦多·达利胸像｜Salvador Dalí Bust真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
     "id": "ouart-daily-six-20260912:bruce-lee-ouart-8dc86d",
     "publicationId": "ouart-daily-six-20260912:bruce-lee-ouart-8dc86d",
     "inventoryId": "bruce-lee-ouart-8dc86d",

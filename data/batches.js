@@ -1,6 +1,25 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20260914",
+    "date": "2026-09-14",
+    "displayDate": "2026.09.14",
+    "title": "2026.09.14｜OUART 今日2件",
+    "description": "本期共2件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-09-14/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-09-14 2模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20260914:sg-triangular-frame-gw-wide-ouart-5cbca7",
+      "ouart-daily-six-20260914:stephen-hawking-ouart-35c506"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/19EBObfFYsrfoUoQwLtJfgQ",
+    "shareCode": "470d",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-09-14T10:31:42+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20260913",
     "date": "2026-09-13",
     "displayDate": "2026.09.13",

@@ -1,5 +1,401 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20260915:xcover2-ce0dc4",
+    "publicationId": "ouart-daily-six-20260915:xcover2-ce0dc4",
+    "inventoryId": "xcover2-ce0dc4",
+    "name": "Xcover 2 手机保护壳｜Xcover 2 Phone Case",
+    "date": "2026-09-15",
+    "displayDate": "2026.09.15",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "0.23 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/xcover2-ce0dc4/xcover2-ce0dc4-主图@初艺ouart.png",
+    "description": "一个完整的一体式 Xcover 2 手机保护壳模型，带四周包边、顶部矩形摄像头/闪光灯开孔及侧边按键缺口；适合作为手机壳打印模型，具体设备贴合度与开孔尺寸仍需打印前核对。",
+    "intro": "2026.09.15 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1R-4oZdaro0tQa-3gKDLD3g",
+    "shareCode": "2bb3",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260915",
+    "nameZh": "Xcover 2 手机保护壳",
+    "nameEn": "Xcover 2 Phone Case",
+    "displayName": "Xcover 2 手机保护壳｜Xcover 2 Phone Case",
+    "category": "手机配件",
+    "mainImageRole": "verified_model_views",
+    "alt": "Xcover 2 手机保护壳｜Xcover 2 Phone Case真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一个完整的一体式 Xcover 2 手机保护壳模型，带四周包边、顶部矩形摄像头/闪光灯开孔及侧边按键缺口；适合作为手机壳打印模型，具体设备贴合度与开孔尺寸仍需打印前核对。",
+          "该模型归入“手机配件”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/xcover2-ce0dc4/gallery-01.png",
+        "alt": "Xcover 2 手机保护壳｜Xcover 2 Phone Case真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/xcover2-ce0dc4/gallery-02.png",
+        "alt": "Xcover 2 手机保护壳｜Xcover 2 Phone Case真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/xcover2-ce0dc4/gallery-03.png",
+        "alt": "Xcover 2 手机保护壳｜Xcover 2 Phone Case真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/xcover2-ce0dc4/gallery-04.png",
+        "alt": "Xcover 2 手机保护壳｜Xcover 2 Phone Case真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/xcover2-ce0dc4/gallery-05.png",
+        "alt": "Xcover 2 手机保护壳｜Xcover 2 Phone Case真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260915:polysoup-149693",
+    "publicationId": "ouart-daily-six-20260915:polysoup-149693",
+    "inventoryId": "polysoup-149693",
+    "name": "圆形底座巨石阵遗址摆件｜Stonehenge Ruins Display on Round Base",
+    "date": "2026-09-15",
+    "displayDate": "2026.09.15",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "0.36 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/polysoup-149693/polysoup-149693-主图@初艺ouart.png",
+    "description": "一款完整独立的微缩巨石阵遗址装饰模型：多组立石与横梁按环形遗址布局设置在近圆形一体式薄底座上，适合作为历史建筑主题桌面摆件、沙盘景观或微缩场景装饰。模型表现的是遗址状态，倒伏、间断和高低不一的石构件属于题材造型，而非主体缺件；不含武器或功能性危险部件。",
+    "intro": "2026.09.15 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1PM100BPHoCdVaKQ5eoeQ8A",
+    "shareCode": "74f1",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260915",
+    "nameZh": "圆形底座巨石阵遗址摆件",
+    "nameEn": "Stonehenge Ruins Display on Round Base",
+    "displayName": "圆形底座巨石阵遗址摆件｜Stonehenge Ruins Display on Round Base",
+    "category": "建筑景观摆件",
+    "mainImageRole": "verified_model_views",
+    "alt": "圆形底座巨石阵遗址摆件｜Stonehenge Ruins Display on Round Base真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一款完整独立的微缩巨石阵遗址装饰模型：多组立石与横梁按环形遗址布局设置在近圆形一体式薄底座上，适合作为历史建筑主题桌面摆件、沙盘景观或微缩场景装饰。模型表现的是遗址状态，倒伏、间断和高低不一的石构件属于题材造型，而非主体缺件；不含武器或功能性危险部件。",
+          "该模型归入“建筑景观摆件”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/polysoup-149693/gallery-01.png",
+        "alt": "圆形底座巨石阵遗址摆件｜Stonehenge Ruins Display on Round Base真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/polysoup-149693/gallery-02.png",
+        "alt": "圆形底座巨石阵遗址摆件｜Stonehenge Ruins Display on Round Base真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/polysoup-149693/gallery-03.png",
+        "alt": "圆形底座巨石阵遗址摆件｜Stonehenge Ruins Display on Round Base真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/polysoup-149693/gallery-04.png",
+        "alt": "圆形底座巨石阵遗址摆件｜Stonehenge Ruins Display on Round Base真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/polysoup-149693/gallery-05.png",
+        "alt": "圆形底座巨石阵遗址摆件｜Stonehenge Ruins Display on Round Base真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260915:quad-toothbrush-holder-8004aa",
+    "publicationId": "ouart-daily-six-20260915:quad-toothbrush-holder-8004aa",
+    "inventoryId": "quad-toothbrush-holder-8004aa",
+    "name": "四孔夹式牙刷架｜Quad Clip-On Toothbrush Holder",
+    "date": "2026-09-15",
+    "displayDate": "2026.09.15",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "0.55 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/quad-toothbrush-holder-8004aa/quad-toothbrush-holder-8004aa-主图@初艺ouart.png",
+    "description": "一体式四孔牙刷收纳架，采用 U 形夹套结构固定在合适的板边，上方水平托板排列四个圆形插孔，可分开放置四支牙刷。模型为单个完整连体件，适合作为浴室或洗漱区的小型实用收纳配件。",
+    "intro": "2026.09.15 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1FTnl1NmME3vQqEzhRT01Ig",
+    "shareCode": "1159",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260915",
+    "nameZh": "四孔夹式牙刷架",
+    "nameEn": "Quad Clip-On Toothbrush Holder",
+    "displayName": "四孔夹式牙刷架｜Quad Clip-On Toothbrush Holder",
+    "category": "家居收纳",
+    "mainImageRole": "verified_model_views",
+    "alt": "四孔夹式牙刷架｜Quad Clip-On Toothbrush Holder真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一体式四孔牙刷收纳架，采用 U 形夹套结构固定在合适的板边，上方水平托板排列四个圆形插孔，可分开放置四支牙刷。模型为单个完整连体件，适合作为浴室或洗漱区的小型实用收纳配件。",
+          "该模型归入“家居收纳”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/quad-toothbrush-holder-8004aa/gallery-01.png",
+        "alt": "四孔夹式牙刷架｜Quad Clip-On Toothbrush Holder真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/quad-toothbrush-holder-8004aa/gallery-02.png",
+        "alt": "四孔夹式牙刷架｜Quad Clip-On Toothbrush Holder真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/quad-toothbrush-holder-8004aa/gallery-03.png",
+        "alt": "四孔夹式牙刷架｜Quad Clip-On Toothbrush Holder真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/quad-toothbrush-holder-8004aa/gallery-04.png",
+        "alt": "四孔夹式牙刷架｜Quad Clip-On Toothbrush Holder真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/quad-toothbrush-holder-8004aa/gallery-05.png",
+        "alt": "四孔夹式牙刷架｜Quad Clip-On Toothbrush Holder真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260915:model-915826395235054-1ce0f4",
+    "publicationId": "ouart-daily-six-20260915:model-915826395235054-1ce0f4",
+    "inventoryId": "model-915826395235054-1ce0f4",
+    "name": "一体式钥匙扣挂钩｜One-Piece Keychain Clip",
+    "date": "2026-09-15",
+    "displayDate": "2026.09.15",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "0.72 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-915826395235054-1ce0f4/model-915826395235054-1ce0f4-主图@初艺ouart.png",
+    "description": "一个完整的一体式长环形钥匙扣挂钩模型，上下为圆弧连接、侧边带斜向弹性开口。五视图未见断裂碎片、缺件或无关模型；造型为普通功能性挂扣，不是人物、装饰雕像或武器道具。",
+    "intro": "2026.09.15 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1_Vfq_z8aG6RHzl12BOnl-w",
+    "shareCode": "4415",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260915",
+    "nameZh": "一体式钥匙扣挂钩",
+    "nameEn": "One-Piece Keychain Clip",
+    "displayName": "一体式钥匙扣挂钩｜One-Piece Keychain Clip",
+    "category": "实用配件",
+    "mainImageRole": "verified_model_views",
+    "alt": "一体式钥匙扣挂钩｜One-Piece Keychain Clip真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一个完整的一体式长环形钥匙扣挂钩模型，上下为圆弧连接、侧边带斜向弹性开口。五视图未见断裂碎片、缺件或无关模型；造型为普通功能性挂扣，不是人物、装饰雕像或武器道具。",
+          "该模型归入“实用配件”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-915826395235054-1ce0f4/gallery-01.png",
+        "alt": "一体式钥匙扣挂钩｜One-Piece Keychain Clip真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/model-915826395235054-1ce0f4/gallery-02.png",
+        "alt": "一体式钥匙扣挂钩｜One-Piece Keychain Clip真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/model-915826395235054-1ce0f4/gallery-03.png",
+        "alt": "一体式钥匙扣挂钩｜One-Piece Keychain Clip真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/model-915826395235054-1ce0f4/gallery-04.png",
+        "alt": "一体式钥匙扣挂钩｜One-Piece Keychain Clip真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/model-915826395235054-1ce0f4/gallery-05.png",
+        "alt": "一体式钥匙扣挂钩｜One-Piece Keychain Clip真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
     "id": "ouart-daily-six-20260914:sg-triangular-frame-gw-wide-ouart-5cbca7",
     "publicationId": "ouart-daily-six-20260914:sg-triangular-frame-gw-wide-ouart-5cbca7",
     "inventoryId": "sg-triangular-frame-gw-wide-ouart-5cbca7",

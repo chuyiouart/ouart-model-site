@@ -1,6 +1,27 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20260915",
+    "date": "2026-09-15",
+    "displayDate": "2026.09.15",
+    "title": "2026.09.15｜OUART 今日4件",
+    "description": "本期共4件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-09-15/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-09-15 4模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20260915:xcover2-ce0dc4",
+      "ouart-daily-six-20260915:polysoup-149693",
+      "ouart-daily-six-20260915:quad-toothbrush-holder-8004aa",
+      "ouart-daily-six-20260915:model-915826395235054-1ce0f4"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1HTyA5-imz6I2IgG2yol08w",
+    "shareCode": "6a3a",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-09-15T10:31:32+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20260914",
     "date": "2026-09-14",
     "displayDate": "2026.09.14",

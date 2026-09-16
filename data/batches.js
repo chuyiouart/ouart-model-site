@@ -1,6 +1,26 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20260916",
+    "date": "2026-09-16",
+    "displayDate": "2026.09.16",
+    "title": "2026.09.16｜OUART 今日3件",
+    "description": "本期共3件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-09-16/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-09-16 3模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20260916:octopus-stand-version2-final-ae3f99",
+      "ouart-daily-six-20260916:chair-1e299e",
+      "ouart-daily-six-20260916:wooly-sheep-042a77"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1TdobdB3Pl-ZikvPd5V35vQ",
+    "shareCode": "d72d",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-09-16T10:32:20+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20260915",
     "date": "2026-09-15",
     "displayDate": "2026.09.15",

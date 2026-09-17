@@ -1,6 +1,28 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20260917",
+    "date": "2026-09-17",
+    "displayDate": "2026.09.17",
+    "title": "2026.09.17｜OUART 今日5件",
+    "description": "本期共5件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-09-17/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-09-17 5模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20260917:vasopetalo-3163d7",
+      "ouart-daily-six-20260917:recreus-sneakers-5830d8",
+      "ouart-daily-six-20260917:riddler-bust-0b1370",
+      "ouart-daily-six-20260917:labubu-the-monsters-mask-d94149",
+      "ouart-daily-six-20260917:gecko1b-57e58a"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1LJi0rBBWrJAMxCs_GZciDA",
+    "shareCode": "8a69",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-09-17T10:32:11+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20260916",
     "date": "2026-09-16",
     "displayDate": "2026.09.16",

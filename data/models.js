@@ -1,5 +1,500 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20260917:vasopetalo-3163d7",
+    "publicationId": "ouart-daily-six-20260917:vasopetalo-3163d7",
+    "inventoryId": "vasopetalo-3163d7",
+    "name": "螺旋花瓣花瓶｜Spiral Petal Vase",
+    "date": "2026-09-17",
+    "displayDate": "2026.09.17",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "7.96 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/vasopetalo-3163d7/vasopetalo-3163d7-主图@初艺ouart.png",
+    "description": "一款完整独立的装饰花瓶模型，具有稳定圆形底座、纤细收腰轮廓、连续螺旋肋纹和放射状花瓣瓶口；适合作为桌面花器或家居摆件进行 3D 打印。",
+    "intro": "2026.09.17 OUART 每日模型合集成员；本期共5件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1EfI6-JMu9BACBzIwpTLobQ",
+    "shareCode": "1916",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260917",
+    "nameZh": "螺旋花瓣花瓶",
+    "nameEn": "Spiral Petal Vase",
+    "displayName": "螺旋花瓣花瓶｜Spiral Petal Vase",
+    "category": "家居装饰 / 花瓶",
+    "mainImageRole": "verified_model_views",
+    "alt": "螺旋花瓣花瓶｜Spiral Petal Vase真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一款完整独立的装饰花瓶模型，具有稳定圆形底座、纤细收腰轮廓、连续螺旋肋纹和放射状花瓣瓶口；适合作为桌面花器或家居摆件进行 3D 打印。",
+          "该模型归入“家居装饰 / 花瓶”，与同批其他4件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/vasopetalo-3163d7/gallery-01.png",
+        "alt": "螺旋花瓣花瓶｜Spiral Petal Vase真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/vasopetalo-3163d7/gallery-02.png",
+        "alt": "螺旋花瓣花瓶｜Spiral Petal Vase真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/vasopetalo-3163d7/gallery-03.png",
+        "alt": "螺旋花瓣花瓶｜Spiral Petal Vase真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/vasopetalo-3163d7/gallery-04.png",
+        "alt": "螺旋花瓣花瓶｜Spiral Petal Vase真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/vasopetalo-3163d7/gallery-05.png",
+        "alt": "螺旋花瓣花瓶｜Spiral Petal Vase真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260917:recreus-sneakers-5830d8",
+    "publicationId": "ouart-daily-six-20260917:recreus-sneakers-5830d8",
+    "inventoryId": "recreus-sneakers-5830d8",
+    "name": "镂空鞋带孔运动鞋｜Lace-Hole Sneaker",
+    "date": "2026-09-17",
+    "displayDate": "2026.09.17",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "12.49 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/recreus-sneakers-5830d8/recreus-sneakers-5830d8-主图@初艺ouart.png",
+    "description": "一个完整独立的单只运动鞋模型，具有连续鞋底、圆钝鞋头、流线型鞋帮、后跟包边、内部足床和成排鞋带孔；适合作为鞋类设计展示、缩比例模型或装饰性 3D 打印件。",
+    "intro": "2026.09.17 OUART 每日模型合集成员；本期共5件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/14uooTqTu9JioagE7B75QPw",
+    "shareCode": "f2d6",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260917",
+    "nameZh": "镂空鞋带孔运动鞋",
+    "nameEn": "Lace-Hole Sneaker",
+    "displayName": "镂空鞋带孔运动鞋｜Lace-Hole Sneaker",
+    "category": "鞋类模型 / 运动鞋",
+    "mainImageRole": "verified_model_views",
+    "alt": "镂空鞋带孔运动鞋｜Lace-Hole Sneaker真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一个完整独立的单只运动鞋模型，具有连续鞋底、圆钝鞋头、流线型鞋帮、后跟包边、内部足床和成排鞋带孔；适合作为鞋类设计展示、缩比例模型或装饰性 3D 打印件。",
+          "该模型归入“鞋类模型 / 运动鞋”，与同批其他4件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/recreus-sneakers-5830d8/gallery-01.png",
+        "alt": "镂空鞋带孔运动鞋｜Lace-Hole Sneaker真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/recreus-sneakers-5830d8/gallery-02.png",
+        "alt": "镂空鞋带孔运动鞋｜Lace-Hole Sneaker真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/recreus-sneakers-5830d8/gallery-03.png",
+        "alt": "镂空鞋带孔运动鞋｜Lace-Hole Sneaker真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/recreus-sneakers-5830d8/gallery-04.png",
+        "alt": "镂空鞋带孔运动鞋｜Lace-Hole Sneaker真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/recreus-sneakers-5830d8/gallery-05.png",
+        "alt": "镂空鞋带孔运动鞋｜Lace-Hole Sneaker真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260917:riddler-bust-0b1370",
+    "publicationId": "ouart-daily-six-20260917:riddler-bust-0b1370",
+    "inventoryId": "riddler-bust-0b1370",
+    "name": "谜语人半身像｜Riddler Bust",
+    "date": "2026-09-17",
+    "displayDate": "2026.09.17",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "18.90 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/riddler-bust-0b1370/riddler-bust-0b1370-主图@初艺ouart.png",
+    "description": "一件完整的谜语人主题装饰半身像，人物戴有正面问号标志礼帽，包含清晰的面部、发型、衬衫领口、胸肩截面与一体式分层展示底座，适合作为桌面陈列或角色主题收藏打印。",
+    "intro": "2026.09.17 OUART 每日模型合集成员；本期共5件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1tJAHLk-Vg9ZJJ1qEedWMng",
+    "shareCode": "a8bb",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260917",
+    "nameZh": "谜语人半身像",
+    "nameEn": "Riddler Bust",
+    "displayName": "谜语人半身像｜Riddler Bust",
+    "category": "人物半身像",
+    "mainImageRole": "verified_model_views",
+    "alt": "谜语人半身像｜Riddler Bust真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一件完整的谜语人主题装饰半身像，人物戴有正面问号标志礼帽，包含清晰的面部、发型、衬衫领口、胸肩截面与一体式分层展示底座，适合作为桌面陈列或角色主题收藏打印。",
+          "该模型归入“人物半身像”，与同批其他4件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/riddler-bust-0b1370/gallery-01.png",
+        "alt": "谜语人半身像｜Riddler Bust真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/riddler-bust-0b1370/gallery-02.png",
+        "alt": "谜语人半身像｜Riddler Bust真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/riddler-bust-0b1370/gallery-03.png",
+        "alt": "谜语人半身像｜Riddler Bust真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/riddler-bust-0b1370/gallery-04.png",
+        "alt": "谜语人半身像｜Riddler Bust真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/riddler-bust-0b1370/gallery-05.png",
+        "alt": "谜语人半身像｜Riddler Bust真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260917:labubu-the-monsters-mask-d94149",
+    "publicationId": "ouart-daily-six-20260917:labubu-the-monsters-mask-d94149",
+    "inventoryId": "labubu-the-monsters-mask-d94149",
+    "name": "拉布布怪兽装饰面具｜Labubu The Monsters Decorative Mask",
+    "date": "2026-09-17",
+    "displayDate": "2026.09.17",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "21.57 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/labubu-the-monsters-mask-d94149/labubu-the-monsters-mask-d94149-主图@初艺ouart.png",
+    "description": "一个完整的一体式角色装饰面具模型，包含凸起脸部、两个贯通眼孔、毛绒状外缘和一对向下延伸的长耳状垂饰。模型正背、左右和顶部结构在五视图中连续一致，适合作为角色主题装饰陈列或面具造型打印；未见缺件、无关物件或危险元素。",
+    "intro": "2026.09.17 OUART 每日模型合集成员；本期共5件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1DRQNUbCBhLNLkwN4YUKmtA",
+    "shareCode": "8e38",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260917",
+    "nameZh": "拉布布怪兽装饰面具",
+    "nameEn": "Labubu The Monsters Decorative Mask",
+    "displayName": "拉布布怪兽装饰面具｜Labubu The Monsters Decorative Mask",
+    "category": "装饰面具",
+    "mainImageRole": "verified_model_views",
+    "alt": "拉布布怪兽装饰面具｜Labubu The Monsters Decorative Mask真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一个完整的一体式角色装饰面具模型，包含凸起脸部、两个贯通眼孔、毛绒状外缘和一对向下延伸的长耳状垂饰。模型正背、左右和顶部结构在五视图中连续一致，适合作为角色主题装饰陈列或面具造型打印；未见缺件、无关物件或危险元素。",
+          "该模型归入“装饰面具”，与同批其他4件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/labubu-the-monsters-mask-d94149/gallery-01.png",
+        "alt": "拉布布怪兽装饰面具｜Labubu The Monsters Decorative Mask真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/labubu-the-monsters-mask-d94149/gallery-02.png",
+        "alt": "拉布布怪兽装饰面具｜Labubu The Monsters Decorative Mask真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/labubu-the-monsters-mask-d94149/gallery-03.png",
+        "alt": "拉布布怪兽装饰面具｜Labubu The Monsters Decorative Mask真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/labubu-the-monsters-mask-d94149/gallery-04.png",
+        "alt": "拉布布怪兽装饰面具｜Labubu The Monsters Decorative Mask真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/labubu-the-monsters-mask-d94149/gallery-05.png",
+        "alt": "拉布布怪兽装饰面具｜Labubu The Monsters Decorative Mask真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260917:gecko1b-57e58a",
+    "publicationId": "ouart-daily-six-20260917:gecko1b-57e58a",
+    "inventoryId": "gecko1b-57e58a",
+    "name": "卷尾壁虎墙面装饰｜Curled-Tail Gecko Wall Ornament",
+    "date": "2026-09-17",
+    "displayDate": "2026.09.17",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "22.26 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/gecko1b-57e58a/gecko1b-57e58a-主图@初艺ouart.png",
+    "description": "一件完整独立的壁虎造型浮雕装饰，具有清晰的头部、四肢、趾部、躯干鳞片纹理和环形卷尾，适合作为墙面、门板或展示场景中的动物主题装饰件；模型为单一连续主体，不含无关零件。",
+    "intro": "2026.09.17 OUART 每日模型合集成员；本期共5件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1FSwQmNSiRwRSHnO1xYYzEg",
+    "shareCode": "7dfa",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260917",
+    "nameZh": "卷尾壁虎墙面装饰",
+    "nameEn": "Curled-Tail Gecko Wall Ornament",
+    "displayName": "卷尾壁虎墙面装饰｜Curled-Tail Gecko Wall Ornament",
+    "category": "动物装饰",
+    "mainImageRole": "verified_model_views",
+    "alt": "卷尾壁虎墙面装饰｜Curled-Tail Gecko Wall Ornament真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一件完整独立的壁虎造型浮雕装饰，具有清晰的头部、四肢、趾部、躯干鳞片纹理和环形卷尾，适合作为墙面、门板或展示场景中的动物主题装饰件；模型为单一连续主体，不含无关零件。",
+          "该模型归入“动物装饰”，与同批其他4件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/gecko1b-57e58a/gallery-01.png",
+        "alt": "卷尾壁虎墙面装饰｜Curled-Tail Gecko Wall Ornament真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/gecko1b-57e58a/gallery-02.png",
+        "alt": "卷尾壁虎墙面装饰｜Curled-Tail Gecko Wall Ornament真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/gecko1b-57e58a/gallery-03.png",
+        "alt": "卷尾壁虎墙面装饰｜Curled-Tail Gecko Wall Ornament真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/gecko1b-57e58a/gallery-04.png",
+        "alt": "卷尾壁虎墙面装饰｜Curled-Tail Gecko Wall Ornament真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/gecko1b-57e58a/gallery-05.png",
+        "alt": "卷尾壁虎墙面装饰｜Curled-Tail Gecko Wall Ornament真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
     "id": "ouart-daily-six-20260916:octopus-stand-version2-final-ae3f99",
     "publicationId": "ouart-daily-six-20260916:octopus-stand-version2-final-ae3f99",
     "inventoryId": "octopus-stand-version2-final-ae3f99",

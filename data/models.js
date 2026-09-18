@@ -1,5 +1,500 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20260918:kirby-ouart-25951e",
+    "publicationId": "ouart-daily-six-20260918:kirby-ouart-25951e",
+    "inventoryId": "kirby-ouart-25951e",
+    "name": "卡比造型烟雾抽取器外壳｜Kirby-Shaped Fume Extractor Housing",
+    "date": "2026-09-18",
+    "displayDate": "2026.09.18",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "2.33 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/kirby-ouart-25951e/kirby-ouart-25951e-主图@初艺ouart.png",
+    "description": "一个完整的卡比造型烟雾抽取器外壳或装饰罩，正面以耳朵、眼睛、腮红和双脚构成卡通外观，中央设圆形进气开口，背面设方形安装位；适合作为桌面抽烟设备的外观壳体或装饰性风扇罩。",
+    "intro": "2026.09.18 OUART 每日模型合集成员；本期共5件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1eaPiA1Qsa3Q4UCUpwwTeLg",
+    "shareCode": "3e33",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260918",
+    "nameZh": "卡比造型烟雾抽取器外壳",
+    "nameEn": "Kirby-Shaped Fume Extractor Housing",
+    "displayName": "卡比造型烟雾抽取器外壳｜Kirby-Shaped Fume Extractor Housing",
+    "category": "工具配件/装饰外壳",
+    "mainImageRole": "verified_model_views",
+    "alt": "卡比造型烟雾抽取器外壳｜Kirby-Shaped Fume Extractor Housing真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一个完整的卡比造型烟雾抽取器外壳或装饰罩，正面以耳朵、眼睛、腮红和双脚构成卡通外观，中央设圆形进气开口，背面设方形安装位；适合作为桌面抽烟设备的外观壳体或装饰性风扇罩。",
+          "该模型归入“工具配件/装饰外壳”，与同批其他4件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/kirby-ouart-25951e/gallery-01.png",
+        "alt": "卡比造型烟雾抽取器外壳｜Kirby-Shaped Fume Extractor Housing真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/kirby-ouart-25951e/gallery-02.png",
+        "alt": "卡比造型烟雾抽取器外壳｜Kirby-Shaped Fume Extractor Housing真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/kirby-ouart-25951e/gallery-03.png",
+        "alt": "卡比造型烟雾抽取器外壳｜Kirby-Shaped Fume Extractor Housing真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/kirby-ouart-25951e/gallery-04.png",
+        "alt": "卡比造型烟雾抽取器外壳｜Kirby-Shaped Fume Extractor Housing真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/kirby-ouart-25951e/gallery-05.png",
+        "alt": "卡比造型烟雾抽取器外壳｜Kirby-Shaped Fume Extractor Housing真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260918:van-gogh-ouart-8876f0",
+    "publicationId": "ouart-daily-six-20260918:van-gogh-ouart-8876f0",
+    "inventoryId": "van-gogh-ouart-8876f0",
+    "name": "梵高人物半身像｜Vincent van Gogh Bust",
+    "date": "2026-09-18",
+    "displayDate": "2026.09.18",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "23.84 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/van-gogh-ouart-8876f0/van-gogh-ouart-8876f0-主图@初艺ouart.png",
+    "description": "一件可独立展示的梵高人物装饰半身像，包含完整头部、面部特征、胡须、头发、衣领、双肩与胸像式平整底缘；五视图显示结构连续完整、方向正确，不含武器、功能性部件或无关模型。",
+    "intro": "2026.09.18 OUART 每日模型合集成员；本期共5件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1xmqoJZziCCdE9ARSP77__Q",
+    "shareCode": "1b2d",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260918",
+    "nameZh": "梵高人物半身像",
+    "nameEn": "Vincent van Gogh Bust",
+    "displayName": "梵高人物半身像｜Vincent van Gogh Bust",
+    "category": "名人肖像半身像",
+    "mainImageRole": "verified_model_views",
+    "alt": "梵高人物半身像｜Vincent van Gogh Bust真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一件可独立展示的梵高人物装饰半身像，包含完整头部、面部特征、胡须、头发、衣领、双肩与胸像式平整底缘；五视图显示结构连续完整、方向正确，不含武器、功能性部件或无关模型。",
+          "该模型归入“名人肖像半身像”，与同批其他4件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/van-gogh-ouart-8876f0/gallery-01.png",
+        "alt": "梵高人物半身像｜Vincent van Gogh Bust真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/van-gogh-ouart-8876f0/gallery-02.png",
+        "alt": "梵高人物半身像｜Vincent van Gogh Bust真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/van-gogh-ouart-8876f0/gallery-03.png",
+        "alt": "梵高人物半身像｜Vincent van Gogh Bust真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/van-gogh-ouart-8876f0/gallery-04.png",
+        "alt": "梵高人物半身像｜Vincent van Gogh Bust真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/van-gogh-ouart-8876f0/gallery-05.png",
+        "alt": "梵高人物半身像｜Vincent van Gogh Bust真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260918:david-bowie-ouart-d8687d",
+    "publicationId": "ouart-daily-six-20260918:david-bowie-ouart-d8687d",
+    "inventoryId": "david-bowie-ouart-d8687d",
+    "name": "大卫·鲍伊胸像｜David Bowie Bust",
+    "date": "2026-09-18",
+    "displayDate": "2026.09.18",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "23.84 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/david-bowie-ouart-d8687d/david-bowie-ouart-d8687d-主图@初艺ouart.png",
+    "description": "一件可独立陈列的男性名人肖像胸像，包含完整头部、富有辨识度的后梳发型、颈部、高领服装与双肩胸像基部；五个方向的几何连续一致，无武器、无额外模型，适合作为人物肖像类装饰摆件。",
+    "intro": "2026.09.18 OUART 每日模型合集成员；本期共5件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1GOfhfqcjbNCX_ARsQbozjw",
+    "shareCode": "02da",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260918",
+    "nameZh": "大卫·鲍伊胸像",
+    "nameEn": "David Bowie Bust",
+    "displayName": "大卫·鲍伊胸像｜David Bowie Bust",
+    "category": "名人肖像胸像",
+    "mainImageRole": "verified_model_views",
+    "alt": "大卫·鲍伊胸像｜David Bowie Bust真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一件可独立陈列的男性名人肖像胸像，包含完整头部、富有辨识度的后梳发型、颈部、高领服装与双肩胸像基部；五个方向的几何连续一致，无武器、无额外模型，适合作为人物肖像类装饰摆件。",
+          "该模型归入“名人肖像胸像”，与同批其他4件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/david-bowie-ouart-d8687d/gallery-01.png",
+        "alt": "大卫·鲍伊胸像｜David Bowie Bust真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/david-bowie-ouart-d8687d/gallery-02.png",
+        "alt": "大卫·鲍伊胸像｜David Bowie Bust真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/david-bowie-ouart-d8687d/gallery-03.png",
+        "alt": "大卫·鲍伊胸像｜David Bowie Bust真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/david-bowie-ouart-d8687d/gallery-04.png",
+        "alt": "大卫·鲍伊胸像｜David Bowie Bust真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/david-bowie-ouart-d8687d/gallery-05.png",
+        "alt": "大卫·鲍伊胸像｜David Bowie Bust真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260918:michael-jackson-ouart-aaa465",
+    "publicationId": "ouart-daily-six-20260918:michael-jackson-ouart-aaa465",
+    "inventoryId": "michael-jackson-ouart-aaa465",
+    "name": "迈克尔·杰克逊装饰胸像｜Michael Jackson Decorative Bust",
+    "date": "2026-09-18",
+    "displayDate": "2026.09.18",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "23.84 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/michael-jackson-ouart-aaa465/michael-jackson-ouart-aaa465-主图@初艺ouart.png",
+    "description": "一件迈克尔·杰克逊风格的独立装饰胸像，塑造头部、标志性卷发、面部神态、高领服装与肩胸轮廓；五视图显示结构连续、主体完整、方向正确，适合作为人物肖像类展示摆件。",
+    "intro": "2026.09.18 OUART 每日模型合集成员；本期共5件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/16H9_j3VvL6e0agzGd4SRwg",
+    "shareCode": "f4e3",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260918",
+    "nameZh": "迈克尔·杰克逊装饰胸像",
+    "nameEn": "Michael Jackson Decorative Bust",
+    "displayName": "迈克尔·杰克逊装饰胸像｜Michael Jackson Decorative Bust",
+    "category": "名人肖像胸像",
+    "mainImageRole": "verified_model_views",
+    "alt": "迈克尔·杰克逊装饰胸像｜Michael Jackson Decorative Bust真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一件迈克尔·杰克逊风格的独立装饰胸像，塑造头部、标志性卷发、面部神态、高领服装与肩胸轮廓；五视图显示结构连续、主体完整、方向正确，适合作为人物肖像类展示摆件。",
+          "该模型归入“名人肖像胸像”，与同批其他4件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/michael-jackson-ouart-aaa465/gallery-01.png",
+        "alt": "迈克尔·杰克逊装饰胸像｜Michael Jackson Decorative Bust真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/michael-jackson-ouart-aaa465/gallery-02.png",
+        "alt": "迈克尔·杰克逊装饰胸像｜Michael Jackson Decorative Bust真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/michael-jackson-ouart-aaa465/gallery-03.png",
+        "alt": "迈克尔·杰克逊装饰胸像｜Michael Jackson Decorative Bust真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/michael-jackson-ouart-aaa465/gallery-04.png",
+        "alt": "迈克尔·杰克逊装饰胸像｜Michael Jackson Decorative Bust真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/michael-jackson-ouart-aaa465/gallery-05.png",
+        "alt": "迈克尔·杰克逊装饰胸像｜Michael Jackson Decorative Bust真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260918:stl-tcdm2010-sniper-priest-sniper-supported-ouart-9336ff",
+    "publicationId": "ouart-daily-six-20260918:stl-tcdm2010-sniper-priest-sniper-supported-ouart-9336ff",
+    "inventoryId": "stl-tcdm2010-sniper-priest-sniper-supported-ouart-9336ff",
+    "name": "狙击祭司（带支撑）｜Sniper Priest (Supported)",
+    "date": "2026-09-18",
+    "displayDate": "2026.09.18",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "25.59 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/stl-tcdm2010-sniper-priest-sniper-supported-ouart-9336ff/stl-tcdm2010-sniper-priest-sniper-supported-ouart-9336ff-主图@初艺ouart.png",
+    "description": "一件完整的兜帽长袍狙击祭司微缩人物，双手持带瞄准镜的非功能性步枪道具，包含树脂打印支撑结构；主体完整、无无关模型，五视图方向正确。",
+    "intro": "2026.09.18 OUART 每日模型合集成员；本期共5件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1ZvoEtx3jjchJi18aw8NTjQ",
+    "shareCode": "ad40",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260918",
+    "nameZh": "狙击祭司（带支撑）",
+    "nameEn": "Sniper Priest (Supported)",
+    "displayName": "狙击祭司（带支撑）｜Sniper Priest (Supported)",
+    "category": "奇幻人物模型",
+    "mainImageRole": "verified_model_views",
+    "alt": "狙击祭司（带支撑）｜Sniper Priest (Supported)真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一件完整的兜帽长袍狙击祭司微缩人物，双手持带瞄准镜的非功能性步枪道具，包含树脂打印支撑结构；主体完整、无无关模型，五视图方向正确。",
+          "该模型归入“奇幻人物模型”，与同批其他4件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/stl-tcdm2010-sniper-priest-sniper-supported-ouart-9336ff/gallery-01.png",
+        "alt": "狙击祭司（带支撑）｜Sniper Priest (Supported)真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/stl-tcdm2010-sniper-priest-sniper-supported-ouart-9336ff/gallery-02.png",
+        "alt": "狙击祭司（带支撑）｜Sniper Priest (Supported)真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/stl-tcdm2010-sniper-priest-sniper-supported-ouart-9336ff/gallery-03.png",
+        "alt": "狙击祭司（带支撑）｜Sniper Priest (Supported)真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/stl-tcdm2010-sniper-priest-sniper-supported-ouart-9336ff/gallery-04.png",
+        "alt": "狙击祭司（带支撑）｜Sniper Priest (Supported)真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/stl-tcdm2010-sniper-priest-sniper-supported-ouart-9336ff/gallery-05.png",
+        "alt": "狙击祭司（带支撑）｜Sniper Priest (Supported)真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
     "id": "ouart-daily-six-20260917:vasopetalo-3163d7",
     "publicationId": "ouart-daily-six-20260917:vasopetalo-3163d7",
     "inventoryId": "vasopetalo-3163d7",

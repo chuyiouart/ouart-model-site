@@ -1,6 +1,28 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20260918",
+    "date": "2026-09-18",
+    "displayDate": "2026.09.18",
+    "title": "2026.09.18｜OUART 今日5件",
+    "description": "本期共5件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-09-18/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-09-18 5模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20260918:kirby-ouart-25951e",
+      "ouart-daily-six-20260918:van-gogh-ouart-8876f0",
+      "ouart-daily-six-20260918:david-bowie-ouart-d8687d",
+      "ouart-daily-six-20260918:michael-jackson-ouart-aaa465",
+      "ouart-daily-six-20260918:stl-tcdm2010-sniper-priest-sniper-supported-ouart-9336ff"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1nG6oRmHn7_Eth0FZs4BhUw",
+    "shareCode": "b20b",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-09-18T10:32:32+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20260917",
     "date": "2026-09-17",
     "displayDate": "2026.09.17",

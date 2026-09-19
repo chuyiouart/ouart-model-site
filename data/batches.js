@@ -1,6 +1,24 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20260919",
+    "date": "2026-09-19",
+    "displayDate": "2026.09.19",
+    "title": "2026.09.19｜OUART 今日1件",
+    "description": "本期共1件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-09-19/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-09-19 1模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20260919:stl-tcdm2003-sniper-priest-mg-supported-ouart-f5bd42"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1PmgHxiP9QtM4CbVIage_OQ",
+    "shareCode": "5991",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-09-19T12:53:29+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20260918",
     "date": "2026-09-18",
     "displayDate": "2026.09.18",

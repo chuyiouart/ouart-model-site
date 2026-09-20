@@ -1,5 +1,500 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20260920:swoleceror-ouart-3401de",
+    "publicationId": "ouart-daily-six-20260920:swoleceror-ouart-3401de",
+    "inventoryId": "swoleceror-ouart-3401de",
+    "name": "倒立读书的肌肉术士｜Swoleceror Reading in a Handstand",
+    "date": "2026-09-20",
+    "displayDate": "2026.09.20",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "24.16 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/swoleceror-ouart-3401de/swoleceror-ouart-3401de-主图@初艺ouart.png",
+    "description": "一件完整的奇幻桌面人物模型：肌肉术士一边以单手支撑在符文球形底座上倒立，一边阅读打开的魔法书。造型包含完整人物、书本与一体化装饰底座，适合作为桌游微缩模型或展示摆件；不含功能性武器，也未见无关模型或缺失部件。",
+    "intro": "2026.09.20 OUART 每日模型合集成员；本期共5件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1Q5X6OdjT-2DiXiFnV5bn8Q",
+    "shareCode": "b43a",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260920",
+    "nameZh": "倒立读书的肌肉术士",
+    "nameEn": "Swoleceror Reading in a Handstand",
+    "displayName": "倒立读书的肌肉术士｜Swoleceror Reading in a Handstand",
+    "category": "奇幻人物摆件",
+    "mainImageRole": "verified_model_views",
+    "alt": "倒立读书的肌肉术士｜Swoleceror Reading in a Handstand真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一件完整的奇幻桌面人物模型：肌肉术士一边以单手支撑在符文球形底座上倒立，一边阅读打开的魔法书。造型包含完整人物、书本与一体化装饰底座，适合作为桌游微缩模型或展示摆件；不含功能性武器，也未见无关模型或缺失部件。",
+          "该模型归入“奇幻人物摆件”，与同批其他4件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/swoleceror-ouart-3401de/gallery-01.png",
+        "alt": "倒立读书的肌肉术士｜Swoleceror Reading in a Handstand真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/swoleceror-ouart-3401de/gallery-02.png",
+        "alt": "倒立读书的肌肉术士｜Swoleceror Reading in a Handstand真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/swoleceror-ouart-3401de/gallery-03.png",
+        "alt": "倒立读书的肌肉术士｜Swoleceror Reading in a Handstand真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/swoleceror-ouart-3401de/gallery-04.png",
+        "alt": "倒立读书的肌肉术士｜Swoleceror Reading in a Handstand真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/swoleceror-ouart-3401de/gallery-05.png",
+        "alt": "倒立读书的肌肉术士｜Swoleceror Reading in a Handstand真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260920:baymax-print-fbba98",
+    "publicationId": "ouart-daily-six-20260920:baymax-print-fbba98",
+    "inventoryId": "baymax-print-fbba98",
+    "name": "挥手医疗机器人摆件｜Waving Healthcare Robot Figurine",
+    "date": "2026-09-20",
+    "displayDate": "2026.09.20",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "28.49 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/baymax-print-fbba98/baymax-print-fbba98-主图@初艺ouart.png",
+    "description": "一个完整独立的圆润卡通医疗机器人全身摆件，角色直立于带 AF 字样的梯形底座上，一只手举起作挥手姿势；五视图确认头部、面部、躯干、双臂、双手、双腿与底座齐全，朝向正确，无武器、危险内容或无关模型。",
+    "intro": "2026.09.20 OUART 每日模型合集成员；本期共5件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1bkw-icvgYaEZCwtXnDiwXQ",
+    "shareCode": "0182",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260920",
+    "nameZh": "挥手医疗机器人摆件",
+    "nameEn": "Waving Healthcare Robot Figurine",
+    "displayName": "挥手医疗机器人摆件｜Waving Healthcare Robot Figurine",
+    "category": "卡通人物摆件",
+    "mainImageRole": "verified_model_views",
+    "alt": "挥手医疗机器人摆件｜Waving Healthcare Robot Figurine真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一个完整独立的圆润卡通医疗机器人全身摆件，角色直立于带 AF 字样的梯形底座上，一只手举起作挥手姿势；五视图确认头部、面部、躯干、双臂、双手、双腿与底座齐全，朝向正确，无武器、危险内容或无关模型。",
+          "该模型归入“卡通人物摆件”，与同批其他4件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/baymax-print-fbba98/gallery-01.png",
+        "alt": "挥手医疗机器人摆件｜Waving Healthcare Robot Figurine真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/baymax-print-fbba98/gallery-02.png",
+        "alt": "挥手医疗机器人摆件｜Waving Healthcare Robot Figurine真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/baymax-print-fbba98/gallery-03.png",
+        "alt": "挥手医疗机器人摆件｜Waving Healthcare Robot Figurine真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/baymax-print-fbba98/gallery-04.png",
+        "alt": "挥手医疗机器人摆件｜Waving Healthcare Robot Figurine真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/baymax-print-fbba98/gallery-05.png",
+        "alt": "挥手医疗机器人摆件｜Waving Healthcare Robot Figurine真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260920:ouart-ad2866",
+    "publicationId": "ouart-daily-six-20260920:ouart-ad2866",
+    "inventoryId": "ouart-ad2866",
+    "name": "娇小拉尼坐姿雕像｜Miniature Ranni Seated Figure",
+    "date": "2026-09-20",
+    "displayDate": "2026.09.20",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "36.46 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/ouart-ad2866/ouart-ad2866-主图@初艺ouart.png",
+    "description": "一件完整的坐姿奇幻女性角色装饰摆件：戴宽檐尖帽的人物身披长发与厚实披肩，双手在胸前交叠，另有手臂置于腰腹前，长裙覆盖坐姿双腿，双脚在纹饰座椅前方交叠。人物与完整的高背四腿座椅组成单一连贯场景，五视图未见缺失部件、无关模型或武器；当前直立方向及正、背、左右侧和顶视关系均正确。",
+    "intro": "2026.09.20 OUART 每日模型合集成员；本期共5件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1NA4FKcUdPegQ6tBZJqoHuA",
+    "shareCode": "8a85",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260920",
+    "nameZh": "娇小拉尼坐姿雕像",
+    "nameEn": "Miniature Ranni Seated Figure",
+    "displayName": "娇小拉尼坐姿雕像｜Miniature Ranni Seated Figure",
+    "category": "游戏角色人物摆件",
+    "mainImageRole": "verified_model_views",
+    "alt": "娇小拉尼坐姿雕像｜Miniature Ranni Seated Figure真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一件完整的坐姿奇幻女性角色装饰摆件：戴宽檐尖帽的人物身披长发与厚实披肩，双手在胸前交叠，另有手臂置于腰腹前，长裙覆盖坐姿双腿，双脚在纹饰座椅前方交叠。人物与完整的高背四腿座椅组成单一连贯场景，五视图未见缺失部件、无关模型或武器；当前直立方向及正、背、左右侧和顶视关系均正确。",
+          "该模型归入“游戏角色人物摆件”，与同批其他4件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/ouart-ad2866/gallery-01.png",
+        "alt": "娇小拉尼坐姿雕像｜Miniature Ranni Seated Figure真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/ouart-ad2866/gallery-02.png",
+        "alt": "娇小拉尼坐姿雕像｜Miniature Ranni Seated Figure真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/ouart-ad2866/gallery-03.png",
+        "alt": "娇小拉尼坐姿雕像｜Miniature Ranni Seated Figure真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/ouart-ad2866/gallery-04.png",
+        "alt": "娇小拉尼坐姿雕像｜Miniature Ranni Seated Figure真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/ouart-ad2866/gallery-05.png",
+        "alt": "娇小拉尼坐姿雕像｜Miniature Ranni Seated Figure真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260920:soldier-boy-helmet-ouart-c60b2f",
+    "publicationId": "ouart-daily-six-20260920:soldier-boy-helmet-ouart-c60b2f",
+    "inventoryId": "soldier-boy-helmet-ouart-c60b2f",
+    "name": "士兵男孩头盔｜Soldier Boy Helmet",
+    "date": "2026-09-20",
+    "displayDate": "2026.09.20",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "42.97 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/soldier-boy-helmet-ouart-c60b2f/soldier-boy-helmet-ouart-c60b2f-主图@初艺ouart.png",
+    "description": "一个完整独立的士兵男孩风格头盔模型，具有额部五角星、对称眼孔、分层护面、侧部纹理与连续后脑护壳；适合作为角色扮演或陈列用装饰道具。模型不含人物身体、武器或无关附属模型。",
+    "intro": "2026.09.20 OUART 每日模型合集成员；本期共5件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1ZUtrsAQ6jqxdh4x-yvxsSg",
+    "shareCode": "4fc0",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260920",
+    "nameZh": "士兵男孩头盔",
+    "nameEn": "Soldier Boy Helmet",
+    "displayName": "士兵男孩头盔｜Soldier Boy Helmet",
+    "category": "影视角色头盔道具",
+    "mainImageRole": "verified_model_views",
+    "alt": "士兵男孩头盔｜Soldier Boy Helmet真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一个完整独立的士兵男孩风格头盔模型，具有额部五角星、对称眼孔、分层护面、侧部纹理与连续后脑护壳；适合作为角色扮演或陈列用装饰道具。模型不含人物身体、武器或无关附属模型。",
+          "该模型归入“影视角色头盔道具”，与同批其他4件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/soldier-boy-helmet-ouart-c60b2f/gallery-01.png",
+        "alt": "士兵男孩头盔｜Soldier Boy Helmet真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/soldier-boy-helmet-ouart-c60b2f/gallery-02.png",
+        "alt": "士兵男孩头盔｜Soldier Boy Helmet真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/soldier-boy-helmet-ouart-c60b2f/gallery-03.png",
+        "alt": "士兵男孩头盔｜Soldier Boy Helmet真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/soldier-boy-helmet-ouart-c60b2f/gallery-04.png",
+        "alt": "士兵男孩头盔｜Soldier Boy Helmet真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/soldier-boy-helmet-ouart-c60b2f/gallery-05.png",
+        "alt": "士兵男孩头盔｜Soldier Boy Helmet真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260920:foliare-vase-bcb105",
+    "publicationId": "ouart-daily-six-20260920:foliare-vase-bcb105",
+    "inventoryId": "foliare-vase-bcb105",
+    "name": "叶影浮雕花瓶｜Foliare Leaf Relief Vase",
+    "date": "2026-09-20",
+    "displayDate": "2026.09.20",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "44.96 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/foliare-vase-bcb105/foliare-vase-bcb105-主图@初艺ouart.png",
+    "description": "一款完整的圆腹开口花瓶模型，正面饰有细致的叶片浮雕，背面简洁光滑，适合作为桌面陈设、干花容器或家居装饰打印件。",
+    "intro": "2026.09.20 OUART 每日模型合集成员；本期共5件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1bJVZGzyfyFNr4bEwAVua3g",
+    "shareCode": "6635",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260920",
+    "nameZh": "叶影浮雕花瓶",
+    "nameEn": "Foliare Leaf Relief Vase",
+    "displayName": "叶影浮雕花瓶｜Foliare Leaf Relief Vase",
+    "category": "家居装饰 / 花瓶",
+    "mainImageRole": "verified_model_views",
+    "alt": "叶影浮雕花瓶｜Foliare Leaf Relief Vase真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一款完整的圆腹开口花瓶模型，正面饰有细致的叶片浮雕，背面简洁光滑，适合作为桌面陈设、干花容器或家居装饰打印件。",
+          "该模型归入“家居装饰 / 花瓶”，与同批其他4件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/foliare-vase-bcb105/gallery-01.png",
+        "alt": "叶影浮雕花瓶｜Foliare Leaf Relief Vase真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/foliare-vase-bcb105/gallery-02.png",
+        "alt": "叶影浮雕花瓶｜Foliare Leaf Relief Vase真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/foliare-vase-bcb105/gallery-03.png",
+        "alt": "叶影浮雕花瓶｜Foliare Leaf Relief Vase真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/foliare-vase-bcb105/gallery-04.png",
+        "alt": "叶影浮雕花瓶｜Foliare Leaf Relief Vase真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/foliare-vase-bcb105/gallery-05.png",
+        "alt": "叶影浮雕花瓶｜Foliare Leaf Relief Vase真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
     "id": "ouart-daily-six-20260919:stl-tcdm2003-sniper-priest-mg-supported-ouart-f5bd42",
     "publicationId": "ouart-daily-six-20260919:stl-tcdm2003-sniper-priest-mg-supported-ouart-f5bd42",
     "inventoryId": "stl-tcdm2003-sniper-priest-mg-supported-ouart-f5bd42",

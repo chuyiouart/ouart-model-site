@@ -1,6 +1,28 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20260920",
+    "date": "2026-09-20",
+    "displayDate": "2026.09.20",
+    "title": "2026.09.20｜OUART 今日5件",
+    "description": "本期共5件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-09-20/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-09-20 5模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20260920:swoleceror-ouart-3401de",
+      "ouart-daily-six-20260920:baymax-print-fbba98",
+      "ouart-daily-six-20260920:ouart-ad2866",
+      "ouart-daily-six-20260920:soldier-boy-helmet-ouart-c60b2f",
+      "ouart-daily-six-20260920:foliare-vase-bcb105"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1pZRpF8ttd4C9Wi56P6udVQ",
+    "shareCode": "360f",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-09-20T10:31:59+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20260919",
     "date": "2026-09-19",
     "displayDate": "2026.09.19",

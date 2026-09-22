@@ -1,5 +1,302 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20260922:dumpling-4d9eda",
+    "publicationId": "ouart-daily-six-20260922:dumpling-4d9eda",
+    "inventoryId": "dumpling-4d9eda",
+    "name": "饺子摆件｜Chinese Dumpling Figurine",
+    "date": "2026-09-22",
+    "displayDate": "2026.09.22",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "1.51 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/dumpling-4d9eda/dumpling-4d9eda-主图@初艺ouart.png",
+    "description": "一个可独立展示和打印的完整饺子造型摆件，具有饱满的饺子皮体积、顶部捏合褶皱、两端收尖轮廓和稳定平底；五视图未见缺件、断裂、无关模型或危险功能结构。",
+    "intro": "2026.09.22 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1CnqO7kAvdRCmx8_zUNAc_g",
+    "shareCode": "619f",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260922",
+    "nameZh": "饺子摆件",
+    "nameEn": "Chinese Dumpling Figurine",
+    "displayName": "饺子摆件｜Chinese Dumpling Figurine",
+    "category": "食物装饰摆件",
+    "mainImageRole": "verified_model_views",
+    "alt": "饺子摆件｜Chinese Dumpling Figurine真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一个可独立展示和打印的完整饺子造型摆件，具有饱满的饺子皮体积、顶部捏合褶皱、两端收尖轮廓和稳定平底；五视图未见缺件、断裂、无关模型或危险功能结构。",
+          "该模型归入“食物装饰摆件”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/dumpling-4d9eda/gallery-01.png",
+        "alt": "饺子摆件｜Chinese Dumpling Figurine真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/dumpling-4d9eda/gallery-02.png",
+        "alt": "饺子摆件｜Chinese Dumpling Figurine真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/dumpling-4d9eda/gallery-03.png",
+        "alt": "饺子摆件｜Chinese Dumpling Figurine真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/dumpling-4d9eda/gallery-04.png",
+        "alt": "饺子摆件｜Chinese Dumpling Figurine真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/dumpling-4d9eda/gallery-05.png",
+        "alt": "饺子摆件｜Chinese Dumpling Figurine真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260922:kurt-cobain-1e151f",
+    "publicationId": "ouart-daily-six-20260922:kurt-cobain-1e151f",
+    "inventoryId": "kurt-cobain-1e151f",
+    "name": "科特·柯本长椅纪念摆件｜Kurt Cobain Park Bench Diorama",
+    "date": "2026-09-22",
+    "displayDate": "2026.09.22",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "46.80 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/kurt-cobain-1e151f/kurt-cobain-1e151f-主图@初艺ouart.png",
+    "description": "一件完整的科特·柯本主题纪念场景模型：长发人物以放松姿势坐在公园长椅上，旁置电吉他，场景包含消防栓、垃圾桶及刻有“Kurt Cobain”的整体底座。五视图显示主体和配件完整、方向正确，适合作为人物音乐主题的桌面装饰摆件。",
+    "intro": "2026.09.22 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1LGeVewTC3AUZRhVF-WeNxA",
+    "shareCode": "eade",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260922",
+    "nameZh": "科特·柯本长椅纪念摆件",
+    "nameEn": "Kurt Cobain Park Bench Diorama",
+    "displayName": "科特·柯本长椅纪念摆件｜Kurt Cobain Park Bench Diorama",
+    "category": "人物场景摆件",
+    "mainImageRole": "verified_model_views",
+    "alt": "科特·柯本长椅纪念摆件｜Kurt Cobain Park Bench Diorama真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一件完整的科特·柯本主题纪念场景模型：长发人物以放松姿势坐在公园长椅上，旁置电吉他，场景包含消防栓、垃圾桶及刻有“Kurt Cobain”的整体底座。五视图显示主体和配件完整、方向正确，适合作为人物音乐主题的桌面装饰摆件。",
+          "该模型归入“人物场景摆件”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/kurt-cobain-1e151f/gallery-01.png",
+        "alt": "科特·柯本长椅纪念摆件｜Kurt Cobain Park Bench Diorama真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/kurt-cobain-1e151f/gallery-02.png",
+        "alt": "科特·柯本长椅纪念摆件｜Kurt Cobain Park Bench Diorama真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/kurt-cobain-1e151f/gallery-03.png",
+        "alt": "科特·柯本长椅纪念摆件｜Kurt Cobain Park Bench Diorama真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/kurt-cobain-1e151f/gallery-04.png",
+        "alt": "科特·柯本长椅纪念摆件｜Kurt Cobain Park Bench Diorama真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/kurt-cobain-1e151f/gallery-05.png",
+        "alt": "科特·柯本长椅纪念摆件｜Kurt Cobain Park Bench Diorama真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260922:holoprops-air-hugger-pencil-cup-d0df5d",
+    "publicationId": "ouart-daily-six-20260922:holoprops-air-hugger-pencil-cup-d0df5d",
+    "inventoryId": "holoprops-air-hugger-pencil-cup-d0df5d",
+    "name": "软垫绗缝笔筒｜Quilted Cushion Pencil Cup",
+    "date": "2026-09-22",
+    "displayDate": "2026.09.22",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "47.01 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/holoprops-air-hugger-pencil-cup-d0df5d/holoprops-air-hugger-pencil-cup-d0df5d-主图@初艺ouart.png",
+    "description": "一款完整独立的桌面笔筒模型，外壁采用环绕式蓬松软垫与菱格绗缝造型，顶部为多边形收纳开口，可用于放置铅笔、画笔等文具。五视图显示其结构连续、开口朝上、方向直立，未见缺件或无关模型。",
+    "intro": "2026.09.22 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1TWIWZEr7cKvkI7e34HqF0A",
+    "shareCode": "c55d",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260922",
+    "nameZh": "软垫绗缝笔筒",
+    "nameEn": "Quilted Cushion Pencil Cup",
+    "displayName": "软垫绗缝笔筒｜Quilted Cushion Pencil Cup",
+    "category": "办公文具收纳",
+    "mainImageRole": "verified_model_views",
+    "alt": "软垫绗缝笔筒｜Quilted Cushion Pencil Cup真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一款完整独立的桌面笔筒模型，外壁采用环绕式蓬松软垫与菱格绗缝造型，顶部为多边形收纳开口，可用于放置铅笔、画笔等文具。五视图显示其结构连续、开口朝上、方向直立，未见缺件或无关模型。",
+          "该模型归入“办公文具收纳”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/holoprops-air-hugger-pencil-cup-d0df5d/gallery-01.png",
+        "alt": "软垫绗缝笔筒｜Quilted Cushion Pencil Cup真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/holoprops-air-hugger-pencil-cup-d0df5d/gallery-02.png",
+        "alt": "软垫绗缝笔筒｜Quilted Cushion Pencil Cup真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/holoprops-air-hugger-pencil-cup-d0df5d/gallery-03.png",
+        "alt": "软垫绗缝笔筒｜Quilted Cushion Pencil Cup真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/holoprops-air-hugger-pencil-cup-d0df5d/gallery-04.png",
+        "alt": "软垫绗缝笔筒｜Quilted Cushion Pencil Cup真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/holoprops-air-hugger-pencil-cup-d0df5d/gallery-05.png",
+        "alt": "软垫绗缝笔筒｜Quilted Cushion Pencil Cup真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
     "id": "ouart-daily-six-20260921:front-extension-tray-158mm-x-158mm-ouart-aa65f7",
     "publicationId": "ouart-daily-six-20260921:front-extension-tray-158mm-x-158mm-ouart-aa65f7",
     "inventoryId": "front-extension-tray-158mm-x-158mm-ouart-aa65f7",

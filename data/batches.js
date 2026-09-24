@@ -1,6 +1,27 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20260924",
+    "date": "2026-09-24",
+    "displayDate": "2026.09.24",
+    "title": "2026.09.24｜OUART 今日4件",
+    "description": "本期共4件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-09-24/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-09-24 4模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20260924:organic-recycling-631fbf",
+      "ouart-daily-six-20260924:logo-ouart-910d29",
+      "ouart-daily-six-20260924:xpose-doom-mural-ouart-94d0d0",
+      "ouart-daily-six-20260924:tcdm2004-trench-cleric-book-pistol-ouart-1f78f1"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1CTXyIrmhc-8TskZWuDJvgQ",
+    "shareCode": "7642",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-09-24T10:32:13+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20260923",
     "date": "2026-09-23",
     "displayDate": "2026.09.23",

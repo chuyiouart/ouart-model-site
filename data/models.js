@@ -1,5 +1,401 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20260924:organic-recycling-631fbf",
+    "publicationId": "ouart-daily-six-20260924:organic-recycling-631fbf",
+    "inventoryId": "organic-recycling-631fbf",
+    "name": "有机废料回收设施｜Organic Waste Recycling Facility",
+    "date": "2026-09-24",
+    "displayDate": "2026.09.24",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "7.97 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/organic-recycling-631fbf/organic-recycling-631fbf-主图@初艺ouart.png",
+    "description": "一件完整独立的科幻工业回收设施模型，采用低矮建筑式外壳，包含前部波纹输送槽、后部大型回收标志、双侧控制面板与管线，以及顶部圆形机械组件，适合作为桌游、微缩景观或科幻场景中的装饰地形件；模型不具备武器或实际机械功能。",
+    "intro": "2026.09.24 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/15FJKgAdfAJHL6RbfD-IKsQ",
+    "shareCode": "1def",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260924",
+    "nameZh": "有机废料回收设施",
+    "nameEn": "Organic Waste Recycling Facility",
+    "displayName": "有机废料回收设施｜Organic Waste Recycling Facility",
+    "category": "科幻场景建筑",
+    "mainImageRole": "verified_model_views",
+    "alt": "有机废料回收设施｜Organic Waste Recycling Facility真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一件完整独立的科幻工业回收设施模型，采用低矮建筑式外壳，包含前部波纹输送槽、后部大型回收标志、双侧控制面板与管线，以及顶部圆形机械组件，适合作为桌游、微缩景观或科幻场景中的装饰地形件；模型不具备武器或实际机械功能。",
+          "该模型归入“科幻场景建筑”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/organic-recycling-631fbf/gallery-01.png",
+        "alt": "有机废料回收设施｜Organic Waste Recycling Facility真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/organic-recycling-631fbf/gallery-02.png",
+        "alt": "有机废料回收设施｜Organic Waste Recycling Facility真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/organic-recycling-631fbf/gallery-03.png",
+        "alt": "有机废料回收设施｜Organic Waste Recycling Facility真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/organic-recycling-631fbf/gallery-04.png",
+        "alt": "有机废料回收设施｜Organic Waste Recycling Facility真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/organic-recycling-631fbf/gallery-05.png",
+        "alt": "有机废料回收设施｜Organic Waste Recycling Facility真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260924:logo-ouart-910d29",
+    "publicationId": "ouart-daily-six-20260924:logo-ouart-910d29",
+    "inventoryId": "logo-ouart-910d29",
+    "name": "毁灭战士：永恒立体标志牌（预支撑）｜DOOM Eternal 3D Logo Plaque (Pre-Supported)",
+    "date": "2026-09-24",
+    "displayDate": "2026.09.24",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "46.44 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/logo-ouart-910d29/logo-ouart-910d29-主图@初艺ouart.png",
+    "description": "一件完整独立的《DOOM Eternal》立体文字标志装饰件，包含可移除的树状打印支撑和筏板；正面字样完整可辨，适合作为展示标牌或桌面装饰。",
+    "intro": "2026.09.24 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1lGOOb2PlBJsSjHd_FsnE1A",
+    "shareCode": "3015",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260924",
+    "nameZh": "毁灭战士：永恒立体标志牌（预支撑）",
+    "nameEn": "DOOM Eternal 3D Logo Plaque (Pre-Supported)",
+    "displayName": "毁灭战士：永恒立体标志牌（预支撑）｜DOOM Eternal 3D Logo Plaque (Pre-Supported)",
+    "category": "装饰摆件",
+    "mainImageRole": "verified_model_views",
+    "alt": "毁灭战士：永恒立体标志牌（预支撑）｜DOOM Eternal 3D Logo Plaque (Pre-Supported)真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一件完整独立的《DOOM Eternal》立体文字标志装饰件，包含可移除的树状打印支撑和筏板；正面字样完整可辨，适合作为展示标牌或桌面装饰。",
+          "该模型归入“装饰摆件”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/logo-ouart-910d29/gallery-01.png",
+        "alt": "毁灭战士：永恒立体标志牌（预支撑）｜DOOM Eternal 3D Logo Plaque (Pre-Supported)真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/logo-ouart-910d29/gallery-02.png",
+        "alt": "毁灭战士：永恒立体标志牌（预支撑）｜DOOM Eternal 3D Logo Plaque (Pre-Supported)真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/logo-ouart-910d29/gallery-03.png",
+        "alt": "毁灭战士：永恒立体标志牌（预支撑）｜DOOM Eternal 3D Logo Plaque (Pre-Supported)真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/logo-ouart-910d29/gallery-04.png",
+        "alt": "毁灭战士：永恒立体标志牌（预支撑）｜DOOM Eternal 3D Logo Plaque (Pre-Supported)真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/logo-ouart-910d29/gallery-05.png",
+        "alt": "毁灭战士：永恒立体标志牌（预支撑）｜DOOM Eternal 3D Logo Plaque (Pre-Supported)真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260924:xpose-doom-mural-ouart-94d0d0",
+    "publicationId": "ouart-daily-six-20260924:xpose-doom-mural-ouart-94d0d0",
+    "inventoryId": "xpose-doom-mural-ouart-94d0d0",
+    "name": "毁灭战士永恒恶魔机械主题立体壁饰｜DOOM Eternal Demon and Machinery Wall Mural",
+    "date": "2026-09-24",
+    "displayDate": "2026.09.24",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "47.47 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/xpose-doom-mural-ouart-94d0d0/xpose-doom-mural-ouart-94d0d0-主图@初艺ouart.png",
+    "description": "一件完整的《DOOM Eternal》风格立体墙面装饰，采用对称构图组合恶魔头像、人物、机械框架、怪物侧饰及武器形装饰元素。五视图表明其正背面、左右侧和顶部方向一致，整体已正立；武器元素属于不可使用的浮雕装饰，不是功能性武器。",
+    "intro": "2026.09.24 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1aykJ9mj1URAr1zcKqOt6WA",
+    "shareCode": "f956",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260924",
+    "nameZh": "毁灭战士永恒恶魔机械主题立体壁饰",
+    "nameEn": "DOOM Eternal Demon and Machinery Wall Mural",
+    "displayName": "毁灭战士永恒恶魔机械主题立体壁饰｜DOOM Eternal Demon and Machinery Wall Mural",
+    "category": "装饰摆件/墙面浮雕",
+    "mainImageRole": "verified_model_views",
+    "alt": "毁灭战士永恒恶魔机械主题立体壁饰｜DOOM Eternal Demon and Machinery Wall Mural真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一件完整的《DOOM Eternal》风格立体墙面装饰，采用对称构图组合恶魔头像、人物、机械框架、怪物侧饰及武器形装饰元素。五视图表明其正背面、左右侧和顶部方向一致，整体已正立；武器元素属于不可使用的浮雕装饰，不是功能性武器。",
+          "该模型归入“装饰摆件/墙面浮雕”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/xpose-doom-mural-ouart-94d0d0/gallery-01.png",
+        "alt": "毁灭战士永恒恶魔机械主题立体壁饰｜DOOM Eternal Demon and Machinery Wall Mural真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/xpose-doom-mural-ouart-94d0d0/gallery-02.png",
+        "alt": "毁灭战士永恒恶魔机械主题立体壁饰｜DOOM Eternal Demon and Machinery Wall Mural真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/xpose-doom-mural-ouart-94d0d0/gallery-03.png",
+        "alt": "毁灭战士永恒恶魔机械主题立体壁饰｜DOOM Eternal Demon and Machinery Wall Mural真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/xpose-doom-mural-ouart-94d0d0/gallery-04.png",
+        "alt": "毁灭战士永恒恶魔机械主题立体壁饰｜DOOM Eternal Demon and Machinery Wall Mural真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/xpose-doom-mural-ouart-94d0d0/gallery-05.png",
+        "alt": "毁灭战士永恒恶魔机械主题立体壁饰｜DOOM Eternal Demon and Machinery Wall Mural真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260924:tcdm2004-trench-cleric-book-pistol-ouart-1f78f1",
+    "publicationId": "ouart-daily-six-20260924:tcdm2004-trench-cleric-book-pistol-ouart-1f78f1",
+    "inventoryId": "tcdm2004-trench-cleric-book-pistol-ouart-1f78f1",
+    "name": "战壕牧师（书与手枪）｜Trench Cleric (Book and Pistol)",
+    "date": "2026-09-24",
+    "displayDate": "2026.09.24",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "47.74 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/tcdm2004-trench-cleric-book-pistol-ouart-1f78f1/tcdm2004-trench-cleric-book-pistol-ouart-1f78f1-主图@初艺ouart.png",
+    "description": "一件完整的奇幻战壕牧师微缩人物模型。角色身着甲胄与长袍，手持打开的书，携带一体成型的装饰性手枪道具，并背负由绳索固定的大型装备；五视图确认主体完整、附件归属明确、没有无关模型，且当前朝向正确。",
+    "intro": "2026.09.24 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1FXhzI6uQvpGA7i1116U-TA",
+    "shareCode": "621d",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260924",
+    "nameZh": "战壕牧师（书与手枪）",
+    "nameEn": "Trench Cleric (Book and Pistol)",
+    "displayName": "战壕牧师（书与手枪）｜Trench Cleric (Book and Pistol)",
+    "category": "奇幻人物模型",
+    "mainImageRole": "verified_model_views",
+    "alt": "战壕牧师（书与手枪）｜Trench Cleric (Book and Pistol)真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一件完整的奇幻战壕牧师微缩人物模型。角色身着甲胄与长袍，手持打开的书，携带一体成型的装饰性手枪道具，并背负由绳索固定的大型装备；五视图确认主体完整、附件归属明确、没有无关模型，且当前朝向正确。",
+          "该模型归入“奇幻人物模型”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/tcdm2004-trench-cleric-book-pistol-ouart-1f78f1/gallery-01.png",
+        "alt": "战壕牧师（书与手枪）｜Trench Cleric (Book and Pistol)真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/tcdm2004-trench-cleric-book-pistol-ouart-1f78f1/gallery-02.png",
+        "alt": "战壕牧师（书与手枪）｜Trench Cleric (Book and Pistol)真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/tcdm2004-trench-cleric-book-pistol-ouart-1f78f1/gallery-03.png",
+        "alt": "战壕牧师（书与手枪）｜Trench Cleric (Book and Pistol)真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/tcdm2004-trench-cleric-book-pistol-ouart-1f78f1/gallery-04.png",
+        "alt": "战壕牧师（书与手枪）｜Trench Cleric (Book and Pistol)真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/tcdm2004-trench-cleric-book-pistol-ouart-1f78f1/gallery-05.png",
+        "alt": "战壕牧师（书与手枪）｜Trench Cleric (Book and Pistol)真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
     "id": "ouart-daily-six-20260923:kml-6pieces-9fd501",
     "publicationId": "ouart-daily-six-20260923:kml-6pieces-9fd501",
     "inventoryId": "kml-6pieces-9fd501",

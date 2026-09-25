@@ -1,6 +1,25 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20260925",
+    "date": "2026-09-25",
+    "displayDate": "2026.09.25",
+    "title": "2026.09.25｜OUART 今日2件",
+    "description": "本期共2件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-09-25/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-09-25 2模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20260925:logo-ouart-e69076",
+      "ouart-daily-six-20260925:stl-tcdm2004-trench-cleric-book-pistol-supported-3ae6c0"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1Mapuy8bur-SGnOkFv5rZXQ",
+    "shareCode": "81e3",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-09-25T10:31:51+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20260924",
     "date": "2026-09-24",
     "displayDate": "2026.09.24",

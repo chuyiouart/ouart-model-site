@@ -1,5 +1,203 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20260925:logo-ouart-e69076",
+    "publicationId": "ouart-daily-six-20260925:logo-ouart-e69076",
+    "inventoryId": "logo-ouart-e69076",
+    "name": "《毁灭战士：永恒》立体徽标装饰件｜DOOM Eternal 3D Logo Display",
+    "date": "2026-09-25",
+    "displayDate": "2026.09.25",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "49.26 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/logo-ouart-e69076/logo-ouart-e69076-主图@初艺ouart.png",
+    "description": "一件完整独立、可直接识别的《毁灭战士：永恒》立体文字徽标装饰件，包含完整的 DOOM 主标与 ETERNAL 副标。文件自带树状打印支撑和底部筏板，适合作为游戏主题打印陈列件；五视图确认主体单一完整、朝向正确且公开展示安全。",
+    "intro": "2026.09.25 OUART 每日模型合集成员；本期共2件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1_j7iu2JKqhZwBAaJfLQjEw",
+    "shareCode": "8977",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260925",
+    "nameZh": "《毁灭战士：永恒》立体徽标装饰件",
+    "nameEn": "DOOM Eternal 3D Logo Display",
+    "displayName": "《毁灭战士：永恒》立体徽标装饰件｜DOOM Eternal 3D Logo Display",
+    "category": "游戏徽标装饰摆件",
+    "mainImageRole": "verified_model_views",
+    "alt": "《毁灭战士：永恒》立体徽标装饰件｜DOOM Eternal 3D Logo Display真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一件完整独立、可直接识别的《毁灭战士：永恒》立体文字徽标装饰件，包含完整的 DOOM 主标与 ETERNAL 副标。文件自带树状打印支撑和底部筏板，适合作为游戏主题打印陈列件；五视图确认主体单一完整、朝向正确且公开展示安全。",
+          "该模型归入“游戏徽标装饰摆件”，与同批其他1件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/logo-ouart-e69076/gallery-01.png",
+        "alt": "《毁灭战士：永恒》立体徽标装饰件｜DOOM Eternal 3D Logo Display真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/logo-ouart-e69076/gallery-02.png",
+        "alt": "《毁灭战士：永恒》立体徽标装饰件｜DOOM Eternal 3D Logo Display真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/logo-ouart-e69076/gallery-03.png",
+        "alt": "《毁灭战士：永恒》立体徽标装饰件｜DOOM Eternal 3D Logo Display真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/logo-ouart-e69076/gallery-04.png",
+        "alt": "《毁灭战士：永恒》立体徽标装饰件｜DOOM Eternal 3D Logo Display真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/logo-ouart-e69076/gallery-05.png",
+        "alt": "《毁灭战士：永恒》立体徽标装饰件｜DOOM Eternal 3D Logo Display真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260925:stl-tcdm2004-trench-cleric-book-pistol-supported-3ae6c0",
+    "publicationId": "ouart-daily-six-20260925:stl-tcdm2004-trench-cleric-book-pistol-supported-3ae6c0",
+    "inventoryId": "stl-tcdm2004-trench-cleric-book-pistol-supported-3ae6c0",
+    "name": "持书与手枪的战壕牧师（预支撑）｜Trench Cleric with Book and Pistol (Pre-Supported)",
+    "date": "2026-09-25",
+    "displayDate": "2026.09.25",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "50.52 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/stl-tcdm2004-trench-cleric-book-pistol-supported-3ae6c0/stl-tcdm2004-trench-cleric-book-pistol-supported-3ae6c0-主图@初艺ouart.png",
+    "description": "一件完整直立的战壕牧师微缩人物模型，包含军帽、护甲、长袍、背负装备、展开书册与不可用的微缩手枪道具，并带打印筏和密集预支撑；适合作为桌游角色、场景人物或涂装收藏件。",
+    "intro": "2026.09.25 OUART 每日模型合集成员；本期共2件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1FWdMOwA4aKinPIaKw3AR6g",
+    "shareCode": "5e45",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260925",
+    "nameZh": "持书与手枪的战壕牧师（预支撑）",
+    "nameEn": "Trench Cleric with Book and Pistol (Pre-Supported)",
+    "displayName": "持书与手枪的战壕牧师（预支撑）｜Trench Cleric with Book and Pistol (Pre-Supported)",
+    "category": "科幻奇幻人物微缩模型",
+    "mainImageRole": "verified_model_views",
+    "alt": "持书与手枪的战壕牧师（预支撑）｜Trench Cleric with Book and Pistol (Pre-Supported)真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一件完整直立的战壕牧师微缩人物模型，包含军帽、护甲、长袍、背负装备、展开书册与不可用的微缩手枪道具，并带打印筏和密集预支撑；适合作为桌游角色、场景人物或涂装收藏件。",
+          "该模型归入“科幻奇幻人物微缩模型”，与同批其他1件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/stl-tcdm2004-trench-cleric-book-pistol-supported-3ae6c0/gallery-01.png",
+        "alt": "持书与手枪的战壕牧师（预支撑）｜Trench Cleric with Book and Pistol (Pre-Supported)真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/stl-tcdm2004-trench-cleric-book-pistol-supported-3ae6c0/gallery-02.png",
+        "alt": "持书与手枪的战壕牧师（预支撑）｜Trench Cleric with Book and Pistol (Pre-Supported)真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/stl-tcdm2004-trench-cleric-book-pistol-supported-3ae6c0/gallery-03.png",
+        "alt": "持书与手枪的战壕牧师（预支撑）｜Trench Cleric with Book and Pistol (Pre-Supported)真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/stl-tcdm2004-trench-cleric-book-pistol-supported-3ae6c0/gallery-04.png",
+        "alt": "持书与手枪的战壕牧师（预支撑）｜Trench Cleric with Book and Pistol (Pre-Supported)真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/stl-tcdm2004-trench-cleric-book-pistol-supported-3ae6c0/gallery-05.png",
+        "alt": "持书与手枪的战壕牧师（预支撑）｜Trench Cleric with Book and Pistol (Pre-Supported)真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
     "id": "ouart-daily-six-20260924:organic-recycling-631fbf",
     "publicationId": "ouart-daily-six-20260924:organic-recycling-631fbf",
     "inventoryId": "organic-recycling-631fbf",

@@ -1,5 +1,599 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20260926:tcdm2002-lieutenant-ouart-182d4d",
+    "publicationId": "ouart-daily-six-20260926:tcdm2002-lieutenant-ouart-182d4d",
+    "inventoryId": "tcdm2002-lieutenant-ouart-182d4d",
+    "name": "奇幻中尉持剑盾甲士｜Fantasy Lieutenant with Sword and Shield",
+    "date": "2026-09-26",
+    "displayDate": "2026.09.26",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "23.84 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/tcdm2002-lieutenant-ouart-182d4d/tcdm2002-lieutenant-ouart-182d4d-主图@初艺ouart.png",
+    "description": "一件完整独立的奇幻军事人物微缩雕像。角色佩戴头盔与锁子甲，身着长外套，背负纹章盾牌，手持弯曲长剑，腰侧带有微缩枪械造型配件；全部配件属于同一人物构图。模型姿态直立，五视图方向对应正确，适合作为非功能性的桌面装饰或涂装模型。",
+    "intro": "2026.09.26 OUART 每日模型合集成员；本期共6件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1gwxqdzRS1R5YHpu9Yudq_Q",
+    "shareCode": "8c2d",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260926",
+    "nameZh": "奇幻中尉持剑盾甲士",
+    "nameEn": "Fantasy Lieutenant with Sword and Shield",
+    "displayName": "奇幻中尉持剑盾甲士｜Fantasy Lieutenant with Sword and Shield",
+    "category": "人物模型",
+    "mainImageRole": "verified_model_views",
+    "alt": "奇幻中尉持剑盾甲士｜Fantasy Lieutenant with Sword and Shield真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一件完整独立的奇幻军事人物微缩雕像。角色佩戴头盔与锁子甲，身着长外套，背负纹章盾牌，手持弯曲长剑，腰侧带有微缩枪械造型配件；全部配件属于同一人物构图。模型姿态直立，五视图方向对应正确，适合作为非功能性的桌面装饰或涂装模型。",
+          "该模型归入“人物模型”，与同批其他5件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/tcdm2002-lieutenant-ouart-182d4d/gallery-01.png",
+        "alt": "奇幻中尉持剑盾甲士｜Fantasy Lieutenant with Sword and Shield真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/tcdm2002-lieutenant-ouart-182d4d/gallery-02.png",
+        "alt": "奇幻中尉持剑盾甲士｜Fantasy Lieutenant with Sword and Shield真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/tcdm2002-lieutenant-ouart-182d4d/gallery-03.png",
+        "alt": "奇幻中尉持剑盾甲士｜Fantasy Lieutenant with Sword and Shield真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/tcdm2002-lieutenant-ouart-182d4d/gallery-04.png",
+        "alt": "奇幻中尉持剑盾甲士｜Fantasy Lieutenant with Sword and Shield真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/tcdm2002-lieutenant-ouart-182d4d/gallery-05.png",
+        "alt": "奇幻中尉持剑盾甲士｜Fantasy Lieutenant with Sword and Shield真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260926:obj-1-mariojump-mariojump-simple-b18dcb",
+    "publicationId": "ouart-daily-six-20260926:obj-1-mariojump-mariojump-simple-b18dcb",
+    "inventoryId": "obj-1-mariojump-mariojump-simple-b18dcb",
+    "name": "马里奥跃过砖墙摆件｜Mario Jumping Over Brick Wall Figure",
+    "date": "2026-09-26",
+    "displayDate": "2026.09.26",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "51.62 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/obj-1-mariojump-mariojump-simple-b18dcb/obj-1-mariojump-mariojump-simple-b18dcb-主图@初艺ouart.png",
+    "description": "一件完整的马里奥动态跳跃场景摆件，角色以抬腿挥拳姿势跃过分段砖墙/砖台；帽子、面部、背带裤、手套和靴子等造型完整，适合作为游戏角色主题的桌面陈列或收藏装饰。",
+    "intro": "2026.09.26 OUART 每日模型合集成员；本期共6件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/18qCrUSp8IjJ5Ypzt5rHQCQ",
+    "shareCode": "9b73",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260926",
+    "nameZh": "马里奥跃过砖墙摆件",
+    "nameEn": "Mario Jumping Over Brick Wall Figure",
+    "displayName": "马里奥跃过砖墙摆件｜Mario Jumping Over Brick Wall Figure",
+    "category": "人物场景摆件",
+    "mainImageRole": "verified_model_views",
+    "alt": "马里奥跃过砖墙摆件｜Mario Jumping Over Brick Wall Figure真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一件完整的马里奥动态跳跃场景摆件，角色以抬腿挥拳姿势跃过分段砖墙/砖台；帽子、面部、背带裤、手套和靴子等造型完整，适合作为游戏角色主题的桌面陈列或收藏装饰。",
+          "该模型归入“人物场景摆件”，与同批其他5件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/obj-1-mariojump-mariojump-simple-b18dcb/gallery-01.png",
+        "alt": "马里奥跃过砖墙摆件｜Mario Jumping Over Brick Wall Figure真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/obj-1-mariojump-mariojump-simple-b18dcb/gallery-02.png",
+        "alt": "马里奥跃过砖墙摆件｜Mario Jumping Over Brick Wall Figure真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/obj-1-mariojump-mariojump-simple-b18dcb/gallery-03.png",
+        "alt": "马里奥跃过砖墙摆件｜Mario Jumping Over Brick Wall Figure真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/obj-1-mariojump-mariojump-simple-b18dcb/gallery-04.png",
+        "alt": "马里奥跃过砖墙摆件｜Mario Jumping Over Brick Wall Figure真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/obj-1-mariojump-mariojump-simple-b18dcb/gallery-05.png",
+        "alt": "马里奥跃过砖墙摆件｜Mario Jumping Over Brick Wall Figure真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260926:mike-stl-ouart-3aefad",
+    "publicationId": "ouart-daily-six-20260926:mike-stl-ouart-3aefad",
+    "inventoryId": "mike-stl-ouart-3aefad",
+    "name": "迈克·埃尔曼特劳特胸像｜Mike Ehrmantraut Bust",
+    "date": "2026-09-26",
+    "displayDate": "2026.09.26",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "59.02 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/mike-stl-ouart-3aefad/mike-stl-ouart-3aefad-主图@初艺ouart.png",
+    "description": "一件完整独立的写实男性人物装饰胸像，刻画迈克·埃尔曼特劳特的头部、颈部、衬衫与外套肩胸造型，并以规整的胸像底部截面收束；五视图确认结构连续、方向正确，不含武器、功能性部件或无关模型。",
+    "intro": "2026.09.26 OUART 每日模型合集成员；本期共6件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1lHv87f1IkGo2KuuXwc4cEQ",
+    "shareCode": "4083",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260926",
+    "nameZh": "迈克·埃尔曼特劳特胸像",
+    "nameEn": "Mike Ehrmantraut Bust",
+    "displayName": "迈克·埃尔曼特劳特胸像｜Mike Ehrmantraut Bust",
+    "category": "影视人物胸像",
+    "mainImageRole": "verified_model_views",
+    "alt": "迈克·埃尔曼特劳特胸像｜Mike Ehrmantraut Bust真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一件完整独立的写实男性人物装饰胸像，刻画迈克·埃尔曼特劳特的头部、颈部、衬衫与外套肩胸造型，并以规整的胸像底部截面收束；五视图确认结构连续、方向正确，不含武器、功能性部件或无关模型。",
+          "该模型归入“影视人物胸像”，与同批其他5件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/mike-stl-ouart-3aefad/gallery-01.png",
+        "alt": "迈克·埃尔曼特劳特胸像｜Mike Ehrmantraut Bust真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/mike-stl-ouart-3aefad/gallery-02.png",
+        "alt": "迈克·埃尔曼特劳特胸像｜Mike Ehrmantraut Bust真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/mike-stl-ouart-3aefad/gallery-03.png",
+        "alt": "迈克·埃尔曼特劳特胸像｜Mike Ehrmantraut Bust真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/mike-stl-ouart-3aefad/gallery-04.png",
+        "alt": "迈克·埃尔曼特劳特胸像｜Mike Ehrmantraut Bust真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/mike-stl-ouart-3aefad/gallery-05.png",
+        "alt": "迈克·埃尔曼特劳特胸像｜Mike Ehrmantraut Bust真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260926:one-piece-going-marry-3d-printable-464221",
+    "publicationId": "ouart-daily-six-20260926:one-piece-going-marry-3d-printable-464221",
+    "inventoryId": "one-piece-going-marry-3d-printable-464221",
+    "name": "《海贼王》前进梅利号帆船摆件｜One Piece Going Merry Sailing Ship Display Model",
+    "date": "2026-09-26",
+    "displayDate": "2026.09.26",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "69.11 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/one-piece-going-marry-3d-printable-464221/one-piece-going-marry-3d-printable-464221-主图@初艺ouart.png",
+    "description": "一体式《海贼王》前进梅利号装饰模型，包含完整船壳、羊头船首像、双桅杆、帆、绳梯、瞭望台、甲板设施、船尾舵及展示底座；适合作为动漫主题桌面陈列和收藏摆件。船上炮形细节仅为不可操作的微缩装饰结构。",
+    "intro": "2026.09.26 OUART 每日模型合集成员；本期共6件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1Bn9K7ARBiSkFDL8Ed8Mb6w",
+    "shareCode": "de2d",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260926",
+    "nameZh": "《海贼王》前进梅利号帆船摆件",
+    "nameEn": "One Piece Going Merry Sailing Ship Display Model",
+    "displayName": "《海贼王》前进梅利号帆船摆件｜One Piece Going Merry Sailing Ship Display Model",
+    "category": "动漫船舶摆件",
+    "mainImageRole": "verified_model_views",
+    "alt": "《海贼王》前进梅利号帆船摆件｜One Piece Going Merry Sailing Ship Display Model真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一体式《海贼王》前进梅利号装饰模型，包含完整船壳、羊头船首像、双桅杆、帆、绳梯、瞭望台、甲板设施、船尾舵及展示底座；适合作为动漫主题桌面陈列和收藏摆件。船上炮形细节仅为不可操作的微缩装饰结构。",
+          "该模型归入“动漫船舶摆件”，与同批其他5件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/one-piece-going-marry-3d-printable-464221/gallery-01.png",
+        "alt": "《海贼王》前进梅利号帆船摆件｜One Piece Going Merry Sailing Ship Display Model真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/one-piece-going-marry-3d-printable-464221/gallery-02.png",
+        "alt": "《海贼王》前进梅利号帆船摆件｜One Piece Going Merry Sailing Ship Display Model真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/one-piece-going-marry-3d-printable-464221/gallery-03.png",
+        "alt": "《海贼王》前进梅利号帆船摆件｜One Piece Going Merry Sailing Ship Display Model真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/one-piece-going-marry-3d-printable-464221/gallery-04.png",
+        "alt": "《海贼王》前进梅利号帆船摆件｜One Piece Going Merry Sailing Ship Display Model真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/one-piece-going-marry-3d-printable-464221/gallery-05.png",
+        "alt": "《海贼王》前进梅利号帆船摆件｜One Piece Going Merry Sailing Ship Display Model真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260926:gear-5-nika-keychain-f4f857",
+    "publicationId": "ouart-daily-six-20260926:gear-5-nika-keychain-f4f857",
+    "inventoryId": "gear-5-nika-keychain-f4f857",
+    "name": "五档尼卡头像钥匙扣｜Gear 5 Nika Head Keychain",
+    "date": "2026-09-26",
+    "displayDate": "2026.09.26",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "72.61 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/gear-5-nika-keychain-f4f857/gear-5-nika-keychain-f4f857-主图@初艺ouart.png",
+    "description": "一个完整单体的五档尼卡风格角色头像钥匙扣模型，包含夸张表情、火焰状头发、双耳、面部疤痕、完整后脑造型及顶部一体式挂环；适合作为非功能性装饰挂件打印，不是全身人物模型。",
+    "intro": "2026.09.26 OUART 每日模型合集成员；本期共6件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1imkng1eEcA2mo6cEFxO7Og",
+    "shareCode": "7b7a",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260926",
+    "nameZh": "五档尼卡头像钥匙扣",
+    "nameEn": "Gear 5 Nika Head Keychain",
+    "displayName": "五档尼卡头像钥匙扣｜Gear 5 Nika Head Keychain",
+    "category": "动漫角色钥匙扣",
+    "mainImageRole": "verified_model_views",
+    "alt": "五档尼卡头像钥匙扣｜Gear 5 Nika Head Keychain真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一个完整单体的五档尼卡风格角色头像钥匙扣模型，包含夸张表情、火焰状头发、双耳、面部疤痕、完整后脑造型及顶部一体式挂环；适合作为非功能性装饰挂件打印，不是全身人物模型。",
+          "该模型归入“动漫角色钥匙扣”，与同批其他5件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/gear-5-nika-keychain-f4f857/gallery-01.png",
+        "alt": "五档尼卡头像钥匙扣｜Gear 5 Nika Head Keychain真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/gear-5-nika-keychain-f4f857/gallery-02.png",
+        "alt": "五档尼卡头像钥匙扣｜Gear 5 Nika Head Keychain真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/gear-5-nika-keychain-f4f857/gallery-03.png",
+        "alt": "五档尼卡头像钥匙扣｜Gear 5 Nika Head Keychain真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/gear-5-nika-keychain-f4f857/gallery-04.png",
+        "alt": "五档尼卡头像钥匙扣｜Gear 5 Nika Head Keychain真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/gear-5-nika-keychain-f4f857/gallery-05.png",
+        "alt": "五档尼卡头像钥匙扣｜Gear 5 Nika Head Keychain真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260926:swoleceror-ouart-6bbfa5",
+    "publicationId": "ouart-daily-six-20260926:swoleceror-ouart-6bbfa5",
+    "inventoryId": "swoleceror-ouart-6bbfa5",
+    "name": "托举魔法球的肌肉术士｜Swoleceror Holding a Magic Orb",
+    "date": "2026-09-26",
+    "displayDate": "2026.09.26",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "84.16 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/swoleceror-ouart-6bbfa5/swoleceror-ouart-6bbfa5-主图@初艺ouart.png",
+    "description": "一件完整的奇幻肌肉术士微缩雕像：肌肉术士站立在纹饰底座上，双臂高举大型浮雕魔法球，身前配有展开的法术书。五视图显示人物、服装、四肢、球体、书本与底座构成单一完整装饰模型，无无关模型或功能性武器，适合作为桌面陈列或微缩场景角色。",
+    "intro": "2026.09.26 OUART 每日模型合集成员；本期共6件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1y2u7HJC3dd1F0z8OAscqkQ",
+    "shareCode": "ecdc",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260926",
+    "nameZh": "托举魔法球的肌肉术士",
+    "nameEn": "Swoleceror Holding a Magic Orb",
+    "displayName": "托举魔法球的肌肉术士｜Swoleceror Holding a Magic Orb",
+    "category": "奇幻人物摆件",
+    "mainImageRole": "verified_model_views",
+    "alt": "托举魔法球的肌肉术士｜Swoleceror Holding a Magic Orb真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一件完整的奇幻肌肉术士微缩雕像：肌肉术士站立在纹饰底座上，双臂高举大型浮雕魔法球，身前配有展开的法术书。五视图显示人物、服装、四肢、球体、书本与底座构成单一完整装饰模型，无无关模型或功能性武器，适合作为桌面陈列或微缩场景角色。",
+          "该模型归入“奇幻人物摆件”，与同批其他5件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/swoleceror-ouart-6bbfa5/gallery-01.png",
+        "alt": "托举魔法球的肌肉术士｜Swoleceror Holding a Magic Orb真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/swoleceror-ouart-6bbfa5/gallery-02.png",
+        "alt": "托举魔法球的肌肉术士｜Swoleceror Holding a Magic Orb真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/swoleceror-ouart-6bbfa5/gallery-03.png",
+        "alt": "托举魔法球的肌肉术士｜Swoleceror Holding a Magic Orb真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/swoleceror-ouart-6bbfa5/gallery-04.png",
+        "alt": "托举魔法球的肌肉术士｜Swoleceror Holding a Magic Orb真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/swoleceror-ouart-6bbfa5/gallery-05.png",
+        "alt": "托举魔法球的肌肉术士｜Swoleceror Holding a Magic Orb真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
     "id": "ouart-daily-six-20260925:logo-ouart-e69076",
     "publicationId": "ouart-daily-six-20260925:logo-ouart-e69076",
     "inventoryId": "logo-ouart-e69076",

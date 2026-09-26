@@ -1,6 +1,29 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20260926",
+    "date": "2026-09-26",
+    "displayDate": "2026.09.26",
+    "title": "2026.09.26｜OUART 今日6件",
+    "description": "本期共6件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-09-26/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-09-26 6模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20260926:tcdm2002-lieutenant-ouart-182d4d",
+      "ouart-daily-six-20260926:obj-1-mariojump-mariojump-simple-b18dcb",
+      "ouart-daily-six-20260926:mike-stl-ouart-3aefad",
+      "ouart-daily-six-20260926:one-piece-going-marry-3d-printable-464221",
+      "ouart-daily-six-20260926:gear-5-nika-keychain-f4f857",
+      "ouart-daily-six-20260926:swoleceror-ouart-6bbfa5"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1_Kc1od1LSDr7f8vy_txjVg",
+    "shareCode": "b08f",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-09-26T10:31:34+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20260925",
     "date": "2026-09-25",
     "displayDate": "2026.09.25",

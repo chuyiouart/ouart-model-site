@@ -1,5 +1,203 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20260927:stl-tcdm2002-lieutenant-supported-ouart-a42f0a",
+    "publicationId": "ouart-daily-six-20260927:stl-tcdm2002-lieutenant-supported-ouart-a42f0a",
+    "inventoryId": "stl-tcdm2002-lieutenant-supported-ouart-a42f0a",
+    "name": "持刃装甲中尉（带支撑）｜Armored Lieutenant with Blade (Supported)",
+    "date": "2026-09-27",
+    "displayDate": "2026.09.27",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "25.68 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/stl-tcdm2002-lieutenant-supported-ouart-a42f0a/stl-tcdm2002-lieutenant-supported-ouart-a42f0a-主图@初艺ouart.png",
+    "description": "一件完整直立的奇幻装甲中尉微缩人物 STL，包含头盔、面部、胸甲、双臂、双腿、靴子、披挂、背部圆盾及双手持握的装饰性长刃道具；文件自带密集树状打印支撑与底部支撑接地结构。五视图未发现独立杂件、无关模型或必要身体部件缺失，朝向为正面、背面、左右侧面及真实顶视图且均标注正确。",
+    "intro": "2026.09.27 OUART 每日模型合集成员；本期共2件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/108YwjWGsmG0fXZ1_Q0BRnA",
+    "shareCode": "dbb2",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260927",
+    "nameZh": "持刃装甲中尉（带支撑）",
+    "nameEn": "Armored Lieutenant with Blade (Supported)",
+    "displayName": "持刃装甲中尉（带支撑）｜Armored Lieutenant with Blade (Supported)",
+    "category": "人物模型",
+    "mainImageRole": "verified_model_views",
+    "alt": "持刃装甲中尉（带支撑）｜Armored Lieutenant with Blade (Supported)真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一件完整直立的奇幻装甲中尉微缩人物 STL，包含头盔、面部、胸甲、双臂、双腿、靴子、披挂、背部圆盾及双手持握的装饰性长刃道具；文件自带密集树状打印支撑与底部支撑接地结构。五视图未发现独立杂件、无关模型或必要身体部件缺失，朝向为正面、背面、左右侧面及真实顶视图且均标注正确。",
+          "该模型归入“人物模型”，与同批其他1件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/stl-tcdm2002-lieutenant-supported-ouart-a42f0a/gallery-01.png",
+        "alt": "持刃装甲中尉（带支撑）｜Armored Lieutenant with Blade (Supported)真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/stl-tcdm2002-lieutenant-supported-ouart-a42f0a/gallery-02.png",
+        "alt": "持刃装甲中尉（带支撑）｜Armored Lieutenant with Blade (Supported)真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/stl-tcdm2002-lieutenant-supported-ouart-a42f0a/gallery-03.png",
+        "alt": "持刃装甲中尉（带支撑）｜Armored Lieutenant with Blade (Supported)真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/stl-tcdm2002-lieutenant-supported-ouart-a42f0a/gallery-04.png",
+        "alt": "持刃装甲中尉（带支撑）｜Armored Lieutenant with Blade (Supported)真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/stl-tcdm2002-lieutenant-supported-ouart-a42f0a/gallery-05.png",
+        "alt": "持刃装甲中尉（带支撑）｜Armored Lieutenant with Blade (Supported)真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260927:toystoryalien1-16256b",
+    "publicationId": "ouart-daily-six-20260927:toystoryalien1-16256b",
+    "inventoryId": "toystoryalien1-16256b",
+    "name": "三眼外星人抓爪吊饰｜Three-Eyed Alien Claw Ornament",
+    "date": "2026-09-27",
+    "displayDate": "2026.09.27",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "84.70 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/toystoryalien1-16256b/toystoryalien1-16256b-主图@初艺ouart.png",
+    "description": "一个完整直立的三眼外星人卡通角色吊饰模型，角色张开双手，头顶带抓爪造型连接件和穿孔吊环；五视图显示主体、四肢、服装及悬挂结构齐全，适合作为装饰性打印摆件或吊饰。",
+    "intro": "2026.09.27 OUART 每日模型合集成员；本期共2件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1KPHP5RYv2cZcS1CDtXQBFg",
+    "shareCode": "28ee",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260927",
+    "nameZh": "三眼外星人抓爪吊饰",
+    "nameEn": "Three-Eyed Alien Claw Ornament",
+    "displayName": "三眼外星人抓爪吊饰｜Three-Eyed Alien Claw Ornament",
+    "category": "卡通角色吊饰",
+    "mainImageRole": "verified_model_views",
+    "alt": "三眼外星人抓爪吊饰｜Three-Eyed Alien Claw Ornament真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一个完整直立的三眼外星人卡通角色吊饰模型，角色张开双手，头顶带抓爪造型连接件和穿孔吊环；五视图显示主体、四肢、服装及悬挂结构齐全，适合作为装饰性打印摆件或吊饰。",
+          "该模型归入“卡通角色吊饰”，与同批其他1件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/toystoryalien1-16256b/gallery-01.png",
+        "alt": "三眼外星人抓爪吊饰｜Three-Eyed Alien Claw Ornament真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/toystoryalien1-16256b/gallery-02.png",
+        "alt": "三眼外星人抓爪吊饰｜Three-Eyed Alien Claw Ornament真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/toystoryalien1-16256b/gallery-03.png",
+        "alt": "三眼外星人抓爪吊饰｜Three-Eyed Alien Claw Ornament真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/toystoryalien1-16256b/gallery-04.png",
+        "alt": "三眼外星人抓爪吊饰｜Three-Eyed Alien Claw Ornament真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/toystoryalien1-16256b/gallery-05.png",
+        "alt": "三眼外星人抓爪吊饰｜Three-Eyed Alien Claw Ornament真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
     "id": "ouart-daily-six-20260926:tcdm2002-lieutenant-ouart-182d4d",
     "publicationId": "ouart-daily-six-20260926:tcdm2002-lieutenant-ouart-182d4d",
     "inventoryId": "tcdm2002-lieutenant-ouart-182d4d",

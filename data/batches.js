@@ -1,6 +1,25 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20260927",
+    "date": "2026-09-27",
+    "displayDate": "2026.09.27",
+    "title": "2026.09.27｜OUART 今日2件",
+    "description": "本期共2件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-09-27/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-09-27 2模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20260927:stl-tcdm2002-lieutenant-supported-ouart-a42f0a",
+      "ouart-daily-six-20260927:toystoryalien1-16256b"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/11JwhKwNdqK8PTdkS2tL-SA",
+    "shareCode": "dd94",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-09-27T10:31:57+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20260926",
     "date": "2026-09-26",
     "displayDate": "2026.09.26",

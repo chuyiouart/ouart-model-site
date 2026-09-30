@@ -1,5 +1,302 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20260930:sg-paintpal-texture-palette-template-tray-ouart-acbdd8",
+    "publicationId": "ouart-daily-six-20260930:sg-paintpal-texture-palette-template-tray-ouart-acbdd8",
+    "inventoryId": "sg-paintpal-texture-palette-template-tray-ouart-acbdd8",
+    "name": "PaintPal纹理调色板模板托盘｜PaintPal Texture Palette Template Tray",
+    "date": "2026-09-30",
+    "displayDate": "2026.09.30",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "0.04 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/sg-paintpal-texture-palette-template-tray-ouart-acbdd8/sg-paintpal-texture-palette-template-tray-ouart-acbdd8-主图@初艺ouart.png",
+    "description": "一个完整独立的圆角矩形浅托盘，带连续抬高边框和平整内底，可作为 PaintPal 旅行干式调色板的纹理模板承托件使用。模型结构简单、单体完整、自然平放朝向正确；未见缺件、无关模型、武器或不安全内容。",
+    "intro": "2026.09.30 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1LwIclffAGl33EEWsoUjt-Q",
+    "shareCode": "63c8",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260930",
+    "nameZh": "PaintPal纹理调色板模板托盘",
+    "nameEn": "PaintPal Texture Palette Template Tray",
+    "displayName": "PaintPal纹理调色板模板托盘｜PaintPal Texture Palette Template Tray",
+    "category": "绘画工具配件",
+    "mainImageRole": "verified_model_views",
+    "alt": "PaintPal纹理调色板模板托盘｜PaintPal Texture Palette Template Tray真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一个完整独立的圆角矩形浅托盘，带连续抬高边框和平整内底，可作为 PaintPal 旅行干式调色板的纹理模板承托件使用。模型结构简单、单体完整、自然平放朝向正确；未见缺件、无关模型、武器或不安全内容。",
+          "该模型归入“绘画工具配件”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/sg-paintpal-texture-palette-template-tray-ouart-acbdd8/gallery-01.png",
+        "alt": "PaintPal纹理调色板模板托盘｜PaintPal Texture Palette Template Tray真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/sg-paintpal-texture-palette-template-tray-ouart-acbdd8/gallery-02.png",
+        "alt": "PaintPal纹理调色板模板托盘｜PaintPal Texture Palette Template Tray真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/sg-paintpal-texture-palette-template-tray-ouart-acbdd8/gallery-03.png",
+        "alt": "PaintPal纹理调色板模板托盘｜PaintPal Texture Palette Template Tray真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/sg-paintpal-texture-palette-template-tray-ouart-acbdd8/gallery-04.png",
+        "alt": "PaintPal纹理调色板模板托盘｜PaintPal Texture Palette Template Tray真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/sg-paintpal-texture-palette-template-tray-ouart-acbdd8/gallery-05.png",
+        "alt": "PaintPal纹理调色板模板托盘｜PaintPal Texture Palette Template Tray真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260930:obj-1-ouart-fd3a1d",
+    "publicationId": "ouart-daily-six-20260930:obj-1-ouart-fd3a1d",
+    "inventoryId": "obj-1-ouart-fd3a1d",
+    "name": "玛丽卡女王环饰雕像｜Queen Marika Ringed Statue",
+    "date": "2026-09-30",
+    "displayDate": "2026.09.30",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "100.82 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/obj-1-ouart-fd3a1d/obj-1-ouart-fd3a1d-主图@初艺ouart.png",
+    "description": "一件完整独立的女性幻想角色装饰雕像，人物双臂展开，身着落地长裙，背后结合大型交织环状或根蔓式装饰，裙摆自然形成稳定基座。五视图显示主体、装饰结构与底部连续完整，无缺件、无关模型或武器，且当前朝向正立、前后左右与俯视标注一致。",
+    "intro": "2026.09.30 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1P4tFYvX2RXTX_fg0K75Zjw",
+    "shareCode": "1318",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260930",
+    "nameZh": "玛丽卡女王环饰雕像",
+    "nameEn": "Queen Marika Ringed Statue",
+    "displayName": "玛丽卡女王环饰雕像｜Queen Marika Ringed Statue",
+    "category": "游戏角色雕像",
+    "mainImageRole": "verified_model_views",
+    "alt": "玛丽卡女王环饰雕像｜Queen Marika Ringed Statue真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一件完整独立的女性幻想角色装饰雕像，人物双臂展开，身着落地长裙，背后结合大型交织环状或根蔓式装饰，裙摆自然形成稳定基座。五视图显示主体、装饰结构与底部连续完整，无缺件、无关模型或武器，且当前朝向正立、前后左右与俯视标注一致。",
+          "该模型归入“游戏角色雕像”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/obj-1-ouart-fd3a1d/gallery-01.png",
+        "alt": "玛丽卡女王环饰雕像｜Queen Marika Ringed Statue真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/obj-1-ouart-fd3a1d/gallery-02.png",
+        "alt": "玛丽卡女王环饰雕像｜Queen Marika Ringed Statue真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/obj-1-ouart-fd3a1d/gallery-03.png",
+        "alt": "玛丽卡女王环饰雕像｜Queen Marika Ringed Statue真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/obj-1-ouart-fd3a1d/gallery-04.png",
+        "alt": "玛丽卡女王环饰雕像｜Queen Marika Ringed Statue真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/obj-1-ouart-fd3a1d/gallery-05.png",
+        "alt": "玛丽卡女王环饰雕像｜Queen Marika Ringed Statue真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20260930:tcdm4007-pit-locust-ouart-0419ff",
+    "publicationId": "ouart-daily-six-20260930:tcdm4007-pit-locust-ouart-0419ff",
+    "inventoryId": "tcdm4007-pit-locust-ouart-0419ff",
+    "name": "深坑蝗兽｜Pit Locust",
+    "date": "2026-09-30",
+    "displayDate": "2026.09.30",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "103.77 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/tcdm4007-pit-locust-ouart-0419ff/tcdm4007-pit-locust-ouart-0419ff-主图@初艺ouart.png",
+    "description": "一件完整独立的四足幻想怪物摆件模型，造型结合兽首、分节甲壳长尾、翼状背部结构与镰状前肢，适合作为桌面战棋怪物或奇幻场景陈列。",
+    "intro": "2026.09.30 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1PpMWFWadK6AEOzNqA5-lew",
+    "shareCode": "b5e9",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20260930",
+    "nameZh": "深坑蝗兽",
+    "nameEn": "Pit Locust",
+    "displayName": "深坑蝗兽｜Pit Locust",
+    "category": "幻想怪物模型",
+    "mainImageRole": "verified_model_views",
+    "alt": "深坑蝗兽｜Pit Locust真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一件完整独立的四足幻想怪物摆件模型，造型结合兽首、分节甲壳长尾、翼状背部结构与镰状前肢，适合作为桌面战棋怪物或奇幻场景陈列。",
+          "该模型归入“幻想怪物模型”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/tcdm4007-pit-locust-ouart-0419ff/gallery-01.png",
+        "alt": "深坑蝗兽｜Pit Locust真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/tcdm4007-pit-locust-ouart-0419ff/gallery-02.png",
+        "alt": "深坑蝗兽｜Pit Locust真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/tcdm4007-pit-locust-ouart-0419ff/gallery-03.png",
+        "alt": "深坑蝗兽｜Pit Locust真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/tcdm4007-pit-locust-ouart-0419ff/gallery-04.png",
+        "alt": "深坑蝗兽｜Pit Locust真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/tcdm4007-pit-locust-ouart-0419ff/gallery-05.png",
+        "alt": "深坑蝗兽｜Pit Locust真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
     "id": "ouart-daily-six-20260929:one-piece-ouart-40f6db",
     "publicationId": "ouart-daily-six-20260929:one-piece-ouart-40f6db",
     "inventoryId": "one-piece-ouart-40f6db",

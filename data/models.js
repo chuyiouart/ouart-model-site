@@ -1,5 +1,401 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261001:stl-tcdm4007-pit-locust-supported-ouart-e1af03",
+    "publicationId": "ouart-daily-six-20261001:stl-tcdm4007-pit-locust-supported-ouart-e1af03",
+    "inventoryId": "stl-tcdm4007-pit-locust-supported-ouart-e1af03",
+    "name": "坑穴蝗虫战士（带支撑）｜Pit Locust Warrior (Supported)",
+    "date": "2026-10-01",
+    "displayDate": "2026.10.01",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "110.70 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/stl-tcdm4007-pit-locust-supported-ouart-e1af03/stl-tcdm4007-pit-locust-supported-ouart-e1af03-主图@初艺ouart.png",
+    "description": "一件完整独立的奇幻昆虫人形怪物微缩雕像，包含完整头部、躯干、双臂、双腿、双足、甲片与一体式幻想锯齿短刃，并附密集树脂打印支撑和筏架。支撑结构属于制造辅助几何，不是额外角色或待组装零件；五视图未发现缺件、断片或无关模型。",
+    "intro": "2026.10.01 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1XLDXw_hLjxdGjT8qY9ry6A",
+    "shareCode": "743f",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261001",
+    "nameZh": "坑穴蝗虫战士（带支撑）",
+    "nameEn": "Pit Locust Warrior (Supported)",
+    "displayName": "坑穴蝗虫战士（带支撑）｜Pit Locust Warrior (Supported)",
+    "category": "奇幻怪物微缩模型",
+    "mainImageRole": "verified_model_views",
+    "alt": "坑穴蝗虫战士（带支撑）｜Pit Locust Warrior (Supported)真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一件完整独立的奇幻昆虫人形怪物微缩雕像，包含完整头部、躯干、双臂、双腿、双足、甲片与一体式幻想锯齿短刃，并附密集树脂打印支撑和筏架。支撑结构属于制造辅助几何，不是额外角色或待组装零件；五视图未发现缺件、断片或无关模型。",
+          "该模型归入“奇幻怪物微缩模型”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/stl-tcdm4007-pit-locust-supported-ouart-e1af03/gallery-01.png",
+        "alt": "坑穴蝗虫战士（带支撑）｜Pit Locust Warrior (Supported)真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/stl-tcdm4007-pit-locust-supported-ouart-e1af03/gallery-02.png",
+        "alt": "坑穴蝗虫战士（带支撑）｜Pit Locust Warrior (Supported)真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/stl-tcdm4007-pit-locust-supported-ouart-e1af03/gallery-03.png",
+        "alt": "坑穴蝗虫战士（带支撑）｜Pit Locust Warrior (Supported)真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/stl-tcdm4007-pit-locust-supported-ouart-e1af03/gallery-04.png",
+        "alt": "坑穴蝗虫战士（带支撑）｜Pit Locust Warrior (Supported)真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/stl-tcdm4007-pit-locust-supported-ouart-e1af03/gallery-05.png",
+        "alt": "坑穴蝗虫战士（带支撑）｜Pit Locust Warrior (Supported)真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20261001:goomba-print-01-ouart-7f7902",
+    "publicationId": "ouart-daily-six-20261001:goomba-print-01-ouart-7f7902",
+    "inventoryId": "goomba-print-01-ouart-7f7902",
+    "name": "马里奥栗子怪摆件｜Mario Goomba Figurine",
+    "date": "2026-10-01",
+    "displayDate": "2026.10.01",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "149.16 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/goomba-print-01-ouart-7f7902/goomba-print-01-ouart-7f7902-主图@初艺ouart.png",
+    "description": "一个完整独立的栗子怪风格游戏角色装饰摆件，具有夸张眉毛、怒目、獠牙、嘴部和双脚等完整造型细节；模型直立、朝向正确，不含武器或无关模型。",
+    "intro": "2026.10.01 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1Y64rPKoG8Q6i8mIjx16CCw",
+    "shareCode": "9443",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261001",
+    "nameZh": "马里奥栗子怪摆件",
+    "nameEn": "Mario Goomba Figurine",
+    "displayName": "马里奥栗子怪摆件｜Mario Goomba Figurine",
+    "category": "游戏角色摆件",
+    "mainImageRole": "verified_model_views",
+    "alt": "马里奥栗子怪摆件｜Mario Goomba Figurine真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一个完整独立的栗子怪风格游戏角色装饰摆件，具有夸张眉毛、怒目、獠牙、嘴部和双脚等完整造型细节；模型直立、朝向正确，不含武器或无关模型。",
+          "该模型归入“游戏角色摆件”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/goomba-print-01-ouart-7f7902/gallery-01.png",
+        "alt": "马里奥栗子怪摆件｜Mario Goomba Figurine真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/goomba-print-01-ouart-7f7902/gallery-02.png",
+        "alt": "马里奥栗子怪摆件｜Mario Goomba Figurine真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/goomba-print-01-ouart-7f7902/gallery-03.png",
+        "alt": "马里奥栗子怪摆件｜Mario Goomba Figurine真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/goomba-print-01-ouart-7f7902/gallery-04.png",
+        "alt": "马里奥栗子怪摆件｜Mario Goomba Figurine真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/goomba-print-01-ouart-7f7902/gallery-05.png",
+        "alt": "马里奥栗子怪摆件｜Mario Goomba Figurine真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20261001:fixed-vase1-ouart-b46895",
+    "publicationId": "ouart-daily-six-20261001:fixed-vase1-ouart-b46895",
+    "inventoryId": "fixed-vase1-ouart-b46895",
+    "name": "鳞片镂空装饰花瓶｜Scale Lattice Decorative Vase",
+    "date": "2026-10-01",
+    "displayDate": "2026.10.01",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "153.55 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/fixed-vase1-ouart-b46895/fixed-vase1-ouart-b46895-主图@初艺ouart.png",
+    "description": "一个完整独立的圆腹装饰花瓶模型，具有叶片或鳞片状重复镂空外壁、圆形开放瓶口和环形底座；适合作为家居陈设、干花容器或展示型 3D 打印摆件。",
+    "intro": "2026.10.01 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1xAYiPV5eO-DgGgc0wilxUA",
+    "shareCode": "6239",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261001",
+    "nameZh": "鳞片镂空装饰花瓶",
+    "nameEn": "Scale Lattice Decorative Vase",
+    "displayName": "鳞片镂空装饰花瓶｜Scale Lattice Decorative Vase",
+    "category": "家居装饰/花瓶",
+    "mainImageRole": "verified_model_views",
+    "alt": "鳞片镂空装饰花瓶｜Scale Lattice Decorative Vase真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一个完整独立的圆腹装饰花瓶模型，具有叶片或鳞片状重复镂空外壁、圆形开放瓶口和环形底座；适合作为家居陈设、干花容器或展示型 3D 打印摆件。",
+          "该模型归入“家居装饰/花瓶”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/fixed-vase1-ouart-b46895/gallery-01.png",
+        "alt": "鳞片镂空装饰花瓶｜Scale Lattice Decorative Vase真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/fixed-vase1-ouart-b46895/gallery-02.png",
+        "alt": "鳞片镂空装饰花瓶｜Scale Lattice Decorative Vase真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/fixed-vase1-ouart-b46895/gallery-03.png",
+        "alt": "鳞片镂空装饰花瓶｜Scale Lattice Decorative Vase真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/fixed-vase1-ouart-b46895/gallery-04.png",
+        "alt": "鳞片镂空装饰花瓶｜Scale Lattice Decorative Vase真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/fixed-vase1-ouart-b46895/gallery-05.png",
+        "alt": "鳞片镂空装饰花瓶｜Scale Lattice Decorative Vase真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20261001:kul-sharif2-ouart-4f82be",
+    "publicationId": "ouart-daily-six-20261001:kul-sharif2-ouart-4f82be",
+    "inventoryId": "kul-sharif2-ouart-4f82be",
+    "name": "库尔谢里夫清真寺装饰浮雕板｜Kul Sharif Mosque Decorative Relief Plaque",
+    "date": "2026-10-01",
+    "displayDate": "2026.10.01",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "191.83 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/kul-sharif2-ouart-4f82be/kul-sharif2-ouart-4f82be-主图@初艺ouart.png",
+    "description": "一件完整的矩形建筑主题装饰浮雕板，正面以带花纹的边框围合清真寺建筑、穹顶、宣礼塔和书法图案，背面平整，适合作为 CNC 雕刻或立体打印的非功能性墙面装饰。五视图证明板体连续完整、方向正确，且没有额外无关模型。",
+    "intro": "2026.10.01 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1_j-lNf0BSs84U-yDi-Cz4w",
+    "shareCode": "549f",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261001",
+    "nameZh": "库尔谢里夫清真寺装饰浮雕板",
+    "nameEn": "Kul Sharif Mosque Decorative Relief Plaque",
+    "displayName": "库尔谢里夫清真寺装饰浮雕板｜Kul Sharif Mosque Decorative Relief Plaque",
+    "category": "建筑装饰浮雕",
+    "mainImageRole": "verified_model_views",
+    "alt": "库尔谢里夫清真寺装饰浮雕板｜Kul Sharif Mosque Decorative Relief Plaque真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一件完整的矩形建筑主题装饰浮雕板，正面以带花纹的边框围合清真寺建筑、穹顶、宣礼塔和书法图案，背面平整，适合作为 CNC 雕刻或立体打印的非功能性墙面装饰。五视图证明板体连续完整、方向正确，且没有额外无关模型。",
+          "该模型归入“建筑装饰浮雕”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/kul-sharif2-ouart-4f82be/gallery-01.png",
+        "alt": "库尔谢里夫清真寺装饰浮雕板｜Kul Sharif Mosque Decorative Relief Plaque真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/kul-sharif2-ouart-4f82be/gallery-02.png",
+        "alt": "库尔谢里夫清真寺装饰浮雕板｜Kul Sharif Mosque Decorative Relief Plaque真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/kul-sharif2-ouart-4f82be/gallery-03.png",
+        "alt": "库尔谢里夫清真寺装饰浮雕板｜Kul Sharif Mosque Decorative Relief Plaque真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/kul-sharif2-ouart-4f82be/gallery-04.png",
+        "alt": "库尔谢里夫清真寺装饰浮雕板｜Kul Sharif Mosque Decorative Relief Plaque真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/kul-sharif2-ouart-4f82be/gallery-05.png",
+        "alt": "库尔谢里夫清真寺装饰浮雕板｜Kul Sharif Mosque Decorative Relief Plaque真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
     "id": "ouart-daily-six-20260930:sg-paintpal-texture-palette-template-tray-ouart-acbdd8",
     "publicationId": "ouart-daily-six-20260930:sg-paintpal-texture-palette-template-tray-ouart-acbdd8",
     "inventoryId": "sg-paintpal-texture-palette-template-tray-ouart-acbdd8",

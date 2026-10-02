@@ -1,5 +1,104 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261002:merged-ouart-4d0f2e",
+    "publicationId": "ouart-daily-six-20261002:merged-ouart-4d0f2e",
+    "inventoryId": "merged-ouart-4d0f2e",
+    "name": "坐姿四臂魔女雕像｜Seated Four-Armed Witch Figurine",
+    "date": "2026-10-02",
+    "displayDate": "2026.10.02",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "213.44 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/merged-ouart-4d0f2e/merged-ouart-4d0f2e-主图@初艺ouart.png",
+    "description": "一件完整独立的奇幻人物装饰雕像：四臂魔女戴尖顶宽檐帽和羽毛纹披肩，交腿坐在岩石座台上；人物、服饰、全部可见肢体与基座构成统一整体，无武器、无无关模型，适合作为非功能性桌面陈列摆件。",
+    "intro": "2026.10.02 OUART 每日模型合集成员；本期共1件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1ssErqROOIMerq5-RoCuj9w",
+    "shareCode": "e88d",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261002",
+    "nameZh": "坐姿四臂魔女雕像",
+    "nameEn": "Seated Four-Armed Witch Figurine",
+    "displayName": "坐姿四臂魔女雕像｜Seated Four-Armed Witch Figurine",
+    "category": "人物雕像",
+    "mainImageRole": "verified_model_views",
+    "alt": "坐姿四臂魔女雕像｜Seated Four-Armed Witch Figurine真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一件完整独立的奇幻人物装饰雕像：四臂魔女戴尖顶宽檐帽和羽毛纹披肩，交腿坐在岩石座台上；人物、服饰、全部可见肢体与基座构成统一整体，无武器、无无关模型，适合作为非功能性桌面陈列摆件。",
+          "该模型归入“人物雕像”，作为本期单件模型独立展示。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/merged-ouart-4d0f2e/gallery-01.png",
+        "alt": "坐姿四臂魔女雕像｜Seated Four-Armed Witch Figurine真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/merged-ouart-4d0f2e/gallery-02.png",
+        "alt": "坐姿四臂魔女雕像｜Seated Four-Armed Witch Figurine真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/merged-ouart-4d0f2e/gallery-03.png",
+        "alt": "坐姿四臂魔女雕像｜Seated Four-Armed Witch Figurine真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/merged-ouart-4d0f2e/gallery-04.png",
+        "alt": "坐姿四臂魔女雕像｜Seated Four-Armed Witch Figurine真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/merged-ouart-4d0f2e/gallery-05.png",
+        "alt": "坐姿四臂魔女雕像｜Seated Four-Armed Witch Figurine真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
     "id": "ouart-daily-six-20261001:stl-tcdm4007-pit-locust-supported-ouart-e1af03",
     "publicationId": "ouart-daily-six-20261001:stl-tcdm4007-pit-locust-supported-ouart-e1af03",
     "inventoryId": "stl-tcdm4007-pit-locust-supported-ouart-e1af03",

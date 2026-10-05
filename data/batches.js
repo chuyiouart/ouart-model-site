@@ -1,6 +1,25 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20261005",
+    "date": "2026-10-05",
+    "displayDate": "2026.10.05",
+    "title": "2026.10.05｜OUART 今日2件",
+    "description": "本期共2件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-10-05/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-10-05 2模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20261005:hornet-full-ouart-6ed5f7",
+      "ouart-daily-six-20261005:lace-full-ouart-31bb9e"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1bzT3wcCgav3fz2FrEeGVaw",
+    "shareCode": "1545",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-10-05T10:31:58+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20261004",
     "date": "2026-10-04",
     "displayDate": "2026.10.04",

@@ -1,5 +1,203 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261005:hornet-full-ouart-6ed5f7",
+    "publicationId": "ouart-daily-six-20261005:hornet-full-ouart-6ed5f7",
+    "inventoryId": "hornet-full-ouart-6ed5f7",
+    "name": "空洞骑士大黄蜂动态摆件｜Hollow Knight Hornet Dynamic Figurine",
+    "date": "2026-10-05",
+    "displayDate": "2026.10.05",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "11.35 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/hornet-full-ouart-6ed5f7/hornet-full-ouart-6ed5f7-主图@初艺ouart.png",
+    "description": "完整的空洞骑士大黄蜂动态人物摆件，角色悬跃于圆形底座上，配有披风、弧形支撑及带线的标志性针形装饰道具；适合作为游戏主题展示模型。",
+    "intro": "2026.10.05 OUART 每日模型合集成员；本期共2件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1CeTaPdg7J2erItoVx1e4Tg",
+    "shareCode": "8f71",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261005",
+    "nameZh": "空洞骑士大黄蜂动态摆件",
+    "nameEn": "Hollow Knight Hornet Dynamic Figurine",
+    "displayName": "空洞骑士大黄蜂动态摆件｜Hollow Knight Hornet Dynamic Figurine",
+    "category": "动漫游戏角色摆件",
+    "mainImageRole": "verified_model_views",
+    "alt": "空洞骑士大黄蜂动态摆件｜Hollow Knight Hornet Dynamic Figurine真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整的空洞骑士大黄蜂动态人物摆件，角色悬跃于圆形底座上，配有披风、弧形支撑及带线的标志性针形装饰道具；适合作为游戏主题展示模型。",
+          "该模型归入“动漫游戏角色摆件”，与同批其他1件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/hornet-full-ouart-6ed5f7/gallery-01.png",
+        "alt": "空洞骑士大黄蜂动态摆件｜Hollow Knight Hornet Dynamic Figurine真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/hornet-full-ouart-6ed5f7/gallery-02.png",
+        "alt": "空洞骑士大黄蜂动态摆件｜Hollow Knight Hornet Dynamic Figurine真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/hornet-full-ouart-6ed5f7/gallery-03.png",
+        "alt": "空洞骑士大黄蜂动态摆件｜Hollow Knight Hornet Dynamic Figurine真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/hornet-full-ouart-6ed5f7/gallery-04.png",
+        "alt": "空洞骑士大黄蜂动态摆件｜Hollow Knight Hornet Dynamic Figurine真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/hornet-full-ouart-6ed5f7/gallery-05.png",
+        "alt": "空洞骑士大黄蜂动态摆件｜Hollow Knight Hornet Dynamic Figurine真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20261005:lace-full-ouart-31bb9e",
+    "publicationId": "ouart-daily-six-20261005:lace-full-ouart-31bb9e",
+    "inventoryId": "lace-full-ouart-31bb9e",
+    "name": "蕾丝持针角色摆件｜Lace Needle-Wielding Character Figurine",
+    "date": "2026-10-05",
+    "displayDate": "2026.10.05",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "12.81 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/lace-full-ouart-31bb9e/lace-full-ouart-31bb9e-主图@初艺ouart.png",
+    "description": "一个完整、独立的幻想角色装饰摆件：大头面具式造型，双臂横向持环端细针状缩尺道具，裙状躯干与两条细腿固定在圆形底座上。五视图未发现缺件、无关模型或需想象补全的部分；模型方向正确，适合作为静态展示模型。",
+    "intro": "2026.10.05 OUART 每日模型合集成员；本期共2件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/16MJKwb157ZKbzbqdLszCtA",
+    "shareCode": "284d",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261005",
+    "nameZh": "蕾丝持针角色摆件",
+    "nameEn": "Lace Needle-Wielding Character Figurine",
+    "displayName": "蕾丝持针角色摆件｜Lace Needle-Wielding Character Figurine",
+    "category": "动漫游戏角色摆件",
+    "mainImageRole": "verified_model_views",
+    "alt": "蕾丝持针角色摆件｜Lace Needle-Wielding Character Figurine真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一个完整、独立的幻想角色装饰摆件：大头面具式造型，双臂横向持环端细针状缩尺道具，裙状躯干与两条细腿固定在圆形底座上。五视图未发现缺件、无关模型或需想象补全的部分；模型方向正确，适合作为静态展示模型。",
+          "该模型归入“动漫游戏角色摆件”，与同批其他1件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/lace-full-ouart-31bb9e/gallery-01.png",
+        "alt": "蕾丝持针角色摆件｜Lace Needle-Wielding Character Figurine真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/lace-full-ouart-31bb9e/gallery-02.png",
+        "alt": "蕾丝持针角色摆件｜Lace Needle-Wielding Character Figurine真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/lace-full-ouart-31bb9e/gallery-03.png",
+        "alt": "蕾丝持针角色摆件｜Lace Needle-Wielding Character Figurine真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/lace-full-ouart-31bb9e/gallery-04.png",
+        "alt": "蕾丝持针角色摆件｜Lace Needle-Wielding Character Figurine真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/lace-full-ouart-31bb9e/gallery-05.png",
+        "alt": "蕾丝持针角色摆件｜Lace Needle-Wielding Character Figurine真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
     "id": "ouart-daily-six-20261004:steve-full-e5cdbc",
     "publicationId": "ouart-daily-six-20261004:steve-full-e5cdbc",
     "inventoryId": "steve-full-e5cdbc",

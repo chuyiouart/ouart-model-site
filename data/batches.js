@@ -1,6 +1,28 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20261006",
+    "date": "2026-10-06",
+    "displayDate": "2026.10.06",
+    "title": "2026.10.06｜OUART 今日5件",
+    "description": "本期共5件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-10-06/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-10-06 5模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20261006:statue-ouart-00a57d",
+      "ouart-daily-six-20261006:dragon-statue-ouart-f485a2",
+      "ouart-daily-six-20261006:dormenta-statue-ouart-e9bcc1",
+      "ouart-daily-six-20261006:supported-statue-ouart-130788",
+      "ouart-daily-six-20261006:pre-kassandra-bust-helmet-e6f78c"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1O2mfP9ij2FvrNhaNZq1djA",
+    "shareCode": "e438",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-10-06T10:30:28+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20261005",
     "date": "2026-10-05",
     "displayDate": "2026.10.05",

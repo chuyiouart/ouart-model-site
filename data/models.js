@@ -1,5 +1,500 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261006:statue-ouart-00a57d",
+    "publicationId": "ouart-daily-six-20261006:statue-ouart-00a57d",
+    "inventoryId": "statue-ouart-00a57d",
+    "name": "持花枪披风守卫雕像｜Cloaked Guardian Statue with Floral Spear",
+    "date": "2026-10-06",
+    "displayDate": "2026.10.06",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "19.08 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/statue-ouart-00a57d/statue-ouart-00a57d-主图@初艺ouart.png",
+    "description": "一件完整的奇幻披风守卫装饰雕像，人物佩戴高冠式头盔，站立于多层方形底座上，手持带枝叶与花饰的长柄尖顶道具，披风背面带连续藤叶浮雕。模型主体、底座与道具构成单一完整摆件，适合作为桌面陈设或微缩场景装饰。",
+    "intro": "2026.10.06 OUART 每日模型合集成员；本期共5件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1lxYW-r88EEBZKkIe9tk2-w",
+    "shareCode": "d94c",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261006",
+    "nameZh": "持花枪披风守卫雕像",
+    "nameEn": "Cloaked Guardian Statue with Floral Spear",
+    "displayName": "持花枪披风守卫雕像｜Cloaked Guardian Statue with Floral Spear",
+    "category": "人物雕像",
+    "mainImageRole": "verified_model_views",
+    "alt": "持花枪披风守卫雕像｜Cloaked Guardian Statue with Floral Spear真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一件完整的奇幻披风守卫装饰雕像，人物佩戴高冠式头盔，站立于多层方形底座上，手持带枝叶与花饰的长柄尖顶道具，披风背面带连续藤叶浮雕。模型主体、底座与道具构成单一完整摆件，适合作为桌面陈设或微缩场景装饰。",
+          "该模型归入“人物雕像”，与同批其他4件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/statue-ouart-00a57d/gallery-01.png",
+        "alt": "持花枪披风守卫雕像｜Cloaked Guardian Statue with Floral Spear真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/statue-ouart-00a57d/gallery-02.png",
+        "alt": "持花枪披风守卫雕像｜Cloaked Guardian Statue with Floral Spear真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/statue-ouart-00a57d/gallery-03.png",
+        "alt": "持花枪披风守卫雕像｜Cloaked Guardian Statue with Floral Spear真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/statue-ouart-00a57d/gallery-04.png",
+        "alt": "持花枪披风守卫雕像｜Cloaked Guardian Statue with Floral Spear真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/statue-ouart-00a57d/gallery-05.png",
+        "alt": "持花枪披风守卫雕像｜Cloaked Guardian Statue with Floral Spear真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20261006:dragon-statue-ouart-f485a2",
+    "publicationId": "ouart-daily-six-20261006:dragon-statue-ouart-f485a2",
+    "inventoryId": "dragon-statue-ouart-f485a2",
+    "name": "持花枝长柄的披风骑士雕像｜Cloaked Knight with Flowering Polearm Statue",
+    "date": "2026-10-06",
+    "displayDate": "2026.10.06",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "19.13 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/dragon-statue-ouart-f485a2/dragon-statue-ouart-f485a2-主图@初艺ouart.png",
+    "description": "一件完整独立的奇幻人物装饰模型：戴盔披风骑士立于多边形底座上，手持带尖端与枝叶造型的长柄装饰，披风周围有连续藤叶细节。五视图未见缺失的必要身体结构、分离碎片或无关模型；道具为与微缩雕像构图结合的非功能性装饰件。",
+    "intro": "2026.10.06 OUART 每日模型合集成员；本期共5件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1M8GFR0MH3vfrhLHmUQHLXg",
+    "shareCode": "e2aa",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261006",
+    "nameZh": "持花枝长柄的披风骑士雕像",
+    "nameEn": "Cloaked Knight with Flowering Polearm Statue",
+    "displayName": "持花枝长柄的披风骑士雕像｜Cloaked Knight with Flowering Polearm Statue",
+    "category": "奇幻人物雕像",
+    "mainImageRole": "verified_model_views",
+    "alt": "持花枝长柄的披风骑士雕像｜Cloaked Knight with Flowering Polearm Statue真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一件完整独立的奇幻人物装饰模型：戴盔披风骑士立于多边形底座上，手持带尖端与枝叶造型的长柄装饰，披风周围有连续藤叶细节。五视图未见缺失的必要身体结构、分离碎片或无关模型；道具为与微缩雕像构图结合的非功能性装饰件。",
+          "该模型归入“奇幻人物雕像”，与同批其他4件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/dragon-statue-ouart-f485a2/gallery-01.png",
+        "alt": "持花枝长柄的披风骑士雕像｜Cloaked Knight with Flowering Polearm Statue真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/dragon-statue-ouart-f485a2/gallery-02.png",
+        "alt": "持花枝长柄的披风骑士雕像｜Cloaked Knight with Flowering Polearm Statue真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/dragon-statue-ouart-f485a2/gallery-03.png",
+        "alt": "持花枝长柄的披风骑士雕像｜Cloaked Knight with Flowering Polearm Statue真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/dragon-statue-ouart-f485a2/gallery-04.png",
+        "alt": "持花枝长柄的披风骑士雕像｜Cloaked Knight with Flowering Polearm Statue真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/dragon-statue-ouart-f485a2/gallery-05.png",
+        "alt": "持花枝长柄的披风骑士雕像｜Cloaked Knight with Flowering Polearm Statue真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20261006:dormenta-statue-ouart-e9bcc1",
+    "publicationId": "ouart-daily-six-20261006:dormenta-statue-ouart-e9bcc1",
+    "inventoryId": "dormenta-statue-ouart-e9bcc1",
+    "name": "多门塔藤蔓守卫雕像｜Dormenta Vine Guardian Statue",
+    "date": "2026-10-06",
+    "displayDate": "2026.10.06",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "19.13 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/dormenta-statue-ouart-e9bcc1/dormenta-statue-ouart-e9bcc1-主图@初艺ouart.png",
+    "description": "一体式奇幻人物装饰模型：戴高冠的披袍守卫立于完整底座上，手持带尖顶与枝叶的装饰权杖，披风及底座周围环绕藤蔓叶片。五视图可确认主体完整、无无关模型，适合作为桌面摆件或涂装收藏模型。",
+    "intro": "2026.10.06 OUART 每日模型合集成员；本期共5件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1FGMuRxmkoUvTw-RXC1nXPQ",
+    "shareCode": "a98e",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261006",
+    "nameZh": "多门塔藤蔓守卫雕像",
+    "nameEn": "Dormenta Vine Guardian Statue",
+    "displayName": "多门塔藤蔓守卫雕像｜Dormenta Vine Guardian Statue",
+    "category": "奇幻人物雕像",
+    "mainImageRole": "verified_model_views",
+    "alt": "多门塔藤蔓守卫雕像｜Dormenta Vine Guardian Statue真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一体式奇幻人物装饰模型：戴高冠的披袍守卫立于完整底座上，手持带尖顶与枝叶的装饰权杖，披风及底座周围环绕藤蔓叶片。五视图可确认主体完整、无无关模型，适合作为桌面摆件或涂装收藏模型。",
+          "该模型归入“奇幻人物雕像”，与同批其他4件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/dormenta-statue-ouart-e9bcc1/gallery-01.png",
+        "alt": "多门塔藤蔓守卫雕像｜Dormenta Vine Guardian Statue真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/dormenta-statue-ouart-e9bcc1/gallery-02.png",
+        "alt": "多门塔藤蔓守卫雕像｜Dormenta Vine Guardian Statue真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/dormenta-statue-ouart-e9bcc1/gallery-03.png",
+        "alt": "多门塔藤蔓守卫雕像｜Dormenta Vine Guardian Statue真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/dormenta-statue-ouart-e9bcc1/gallery-04.png",
+        "alt": "多门塔藤蔓守卫雕像｜Dormenta Vine Guardian Statue真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/dormenta-statue-ouart-e9bcc1/gallery-05.png",
+        "alt": "多门塔藤蔓守卫雕像｜Dormenta Vine Guardian Statue真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20261006:supported-statue-ouart-130788",
+    "publicationId": "ouart-daily-six-20261006:supported-statue-ouart-130788",
+    "inventoryId": "supported-statue-ouart-130788",
+    "name": "伤痕之地龙后多门塔雕像（带支撑）｜Dormenta, Dragon-Queen of the Scarred Lands (Supported Statue)",
+    "date": "2026-10-06",
+    "displayDate": "2026.10.06",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "21.04 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/supported-statue-ouart-130788/supported-statue-ouart-130788-主图@初艺ouart.png",
+    "description": "一件带树脂打印支撑的完整奇幻女性龙后微缩雕像。人物佩戴高耸冠饰，身着长袍与披风并立于小型承托台上；打印支撑和底筏环绕主体，属于制造结构而非无关模型。五视图显示主体完整、方向直立且正反侧面标注正确，适合作为桌面展示、涂装或奇幻场景收藏模型。",
+    "intro": "2026.10.06 OUART 每日模型合集成员；本期共5件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1X2uAevfHCEIcA8069bS-Hw",
+    "shareCode": "ba13",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261006",
+    "nameZh": "伤痕之地龙后多门塔雕像（带支撑）",
+    "nameEn": "Dormenta, Dragon-Queen of the Scarred Lands (Supported Statue)",
+    "displayName": "伤痕之地龙后多门塔雕像（带支撑）｜Dormenta, Dragon-Queen of the Scarred Lands (Supported Statue)",
+    "category": "奇幻人物雕像",
+    "mainImageRole": "verified_model_views",
+    "alt": "伤痕之地龙后多门塔雕像（带支撑）｜Dormenta, Dragon-Queen of the Scarred Lands (Supported Statue)真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一件带树脂打印支撑的完整奇幻女性龙后微缩雕像。人物佩戴高耸冠饰，身着长袍与披风并立于小型承托台上；打印支撑和底筏环绕主体，属于制造结构而非无关模型。五视图显示主体完整、方向直立且正反侧面标注正确，适合作为桌面展示、涂装或奇幻场景收藏模型。",
+          "该模型归入“奇幻人物雕像”，与同批其他4件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/supported-statue-ouart-130788/gallery-01.png",
+        "alt": "伤痕之地龙后多门塔雕像（带支撑）｜Dormenta, Dragon-Queen of the Scarred Lands (Supported Statue)真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/supported-statue-ouart-130788/gallery-02.png",
+        "alt": "伤痕之地龙后多门塔雕像（带支撑）｜Dormenta, Dragon-Queen of the Scarred Lands (Supported Statue)真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/supported-statue-ouart-130788/gallery-03.png",
+        "alt": "伤痕之地龙后多门塔雕像（带支撑）｜Dormenta, Dragon-Queen of the Scarred Lands (Supported Statue)真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/supported-statue-ouart-130788/gallery-04.png",
+        "alt": "伤痕之地龙后多门塔雕像（带支撑）｜Dormenta, Dragon-Queen of the Scarred Lands (Supported Statue)真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/supported-statue-ouart-130788/gallery-05.png",
+        "alt": "伤痕之地龙后多门塔雕像（带支撑）｜Dormenta, Dragon-Queen of the Scarred Lands (Supported Statue)真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20261006:pre-kassandra-bust-helmet-e6f78c",
+    "publicationId": "ouart-daily-six-20261006:pre-kassandra-bust-helmet-e6f78c",
+    "inventoryId": "pre-kassandra-bust-helmet-e6f78c",
+    "name": "卡桑德拉羽冠头盔（预支撑）｜Kassandra Crested Helmet (Pre-Supported)",
+    "date": "2026-10-06",
+    "displayDate": "2026.10.06",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "22.15 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/pre-kassandra-bust-helmet-e6f78c/pre-kassandra-bust-helmet-e6f78c-主图@初艺ouart.png",
+    "description": "一件完整的古希腊风格羽冠头盔装饰模型，包含盔壳、眼孔、护鼻、面颊护片和高耸羽冠，并附有用于树脂打印的预支撑结构与底部支撑板。五视图证明其主体完整、方向正确且无无关模型；它是非功能性的缩微摆件，不是人物残件，也不包含武器。",
+    "intro": "2026.10.06 OUART 每日模型合集成员；本期共5件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1uUKgFRcSObFE0mB5DQkm0g",
+    "shareCode": "a98a",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261006",
+    "nameZh": "卡桑德拉羽冠头盔（预支撑）",
+    "nameEn": "Kassandra Crested Helmet (Pre-Supported)",
+    "displayName": "卡桑德拉羽冠头盔（预支撑）｜Kassandra Crested Helmet (Pre-Supported)",
+    "category": "装饰头盔模型",
+    "mainImageRole": "verified_model_views",
+    "alt": "卡桑德拉羽冠头盔（预支撑）｜Kassandra Crested Helmet (Pre-Supported)真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一件完整的古希腊风格羽冠头盔装饰模型，包含盔壳、眼孔、护鼻、面颊护片和高耸羽冠，并附有用于树脂打印的预支撑结构与底部支撑板。五视图证明其主体完整、方向正确且无无关模型；它是非功能性的缩微摆件，不是人物残件，也不包含武器。",
+          "该模型归入“装饰头盔模型”，与同批其他4件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/pre-kassandra-bust-helmet-e6f78c/gallery-01.png",
+        "alt": "卡桑德拉羽冠头盔（预支撑）｜Kassandra Crested Helmet (Pre-Supported)真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/pre-kassandra-bust-helmet-e6f78c/gallery-02.png",
+        "alt": "卡桑德拉羽冠头盔（预支撑）｜Kassandra Crested Helmet (Pre-Supported)真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/pre-kassandra-bust-helmet-e6f78c/gallery-03.png",
+        "alt": "卡桑德拉羽冠头盔（预支撑）｜Kassandra Crested Helmet (Pre-Supported)真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/pre-kassandra-bust-helmet-e6f78c/gallery-04.png",
+        "alt": "卡桑德拉羽冠头盔（预支撑）｜Kassandra Crested Helmet (Pre-Supported)真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/pre-kassandra-bust-helmet-e6f78c/gallery-05.png",
+        "alt": "卡桑德拉羽冠头盔（预支撑）｜Kassandra Crested Helmet (Pre-Supported)真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
     "id": "ouart-daily-six-20261005:hornet-full-ouart-6ed5f7",
     "publicationId": "ouart-daily-six-20261005:hornet-full-ouart-6ed5f7",
     "inventoryId": "hornet-full-ouart-6ed5f7",

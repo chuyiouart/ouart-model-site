@@ -1,5 +1,104 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261008:xpose-crow-bust-portrait-cb46d4",
+    "publicationId": "ouart-daily-six-20261008:xpose-crow-bust-portrait-cb46d4",
+    "inventoryId": "xpose-crow-bust-portrait-cb46d4",
+    "name": "乌鸦哥特肖像胸像｜The Crow Gothic Portrait Bust",
+    "date": "2026-10-08",
+    "displayDate": "2026.10.08",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "35.79 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/xpose-crow-bust-portrait-cb46d4/xpose-crow-bust-portrait-cb46d4-主图@初艺ouart.png",
+    "description": "一件完整的分件式哥特人物肖像胸像模型，由长发男性头像、服饰胸像、停栖乌鸦及带玫瑰与塔形装饰的主题底座组成；各部分属于同一可装配展示件，适合作为桌面收藏与涂装摆件。",
+    "intro": "2026.10.08 OUART 每日模型合集成员；本期共1件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1X2EUSGKeFqUhdh15P3ralg",
+    "shareCode": "c4cf",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261008",
+    "nameZh": "乌鸦哥特肖像胸像",
+    "nameEn": "The Crow Gothic Portrait Bust",
+    "displayName": "乌鸦哥特肖像胸像｜The Crow Gothic Portrait Bust",
+    "category": "人物胸像",
+    "mainImageRole": "verified_model_views",
+    "alt": "乌鸦哥特肖像胸像｜The Crow Gothic Portrait Bust真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一件完整的分件式哥特人物肖像胸像模型，由长发男性头像、服饰胸像、停栖乌鸦及带玫瑰与塔形装饰的主题底座组成；各部分属于同一可装配展示件，适合作为桌面收藏与涂装摆件。",
+          "该模型归入“人物胸像”，作为本期单件模型独立展示。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/xpose-crow-bust-portrait-cb46d4/gallery-01.png",
+        "alt": "乌鸦哥特肖像胸像｜The Crow Gothic Portrait Bust真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/xpose-crow-bust-portrait-cb46d4/gallery-02.png",
+        "alt": "乌鸦哥特肖像胸像｜The Crow Gothic Portrait Bust真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/xpose-crow-bust-portrait-cb46d4/gallery-03.png",
+        "alt": "乌鸦哥特肖像胸像｜The Crow Gothic Portrait Bust真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/xpose-crow-bust-portrait-cb46d4/gallery-04.png",
+        "alt": "乌鸦哥特肖像胸像｜The Crow Gothic Portrait Bust真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/xpose-crow-bust-portrait-cb46d4/gallery-05.png",
+        "alt": "乌鸦哥特肖像胸像｜The Crow Gothic Portrait Bust真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
     "id": "ouart-daily-six-20261006:statue-ouart-00a57d",
     "publicationId": "ouart-daily-six-20261006:statue-ouart-00a57d",
     "inventoryId": "statue-ouart-00a57d",

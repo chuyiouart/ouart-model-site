@@ -1,6 +1,26 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20261010",
+    "date": "2026-10-10",
+    "displayDate": "2026.10.10",
+    "title": "2026.10.10｜OUART 今日3件",
+    "description": "本期共3件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-10-10/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-10-10 3模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20261010:stl-we-giant-owl-1-complete-supported-247a5c",
+      "ouart-daily-six-20261010:stl-we-giant-owl-3-complete-supported-d3beb2",
+      "ouart-daily-six-20261010:xpose-stan-lee-bust-portrait-0df7ab"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1zUeRbRXXgaUHeV-HeBrMzA",
+    "shareCode": "5f17",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-10-10T10:30:25+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20261009",
     "date": "2026-10-09",
     "displayDate": "2026.10.09",

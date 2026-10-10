@@ -1,5 +1,302 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261010:stl-we-giant-owl-1-complete-supported-247a5c",
+    "publicationId": "ouart-daily-six-20261010:stl-we-giant-owl-1-complete-supported-247a5c",
+    "inventoryId": "stl-we-giant-owl-1-complete-supported-247a5c",
+    "name": "展翼巨型猫头鹰支撑版模型｜Giant Owl with Spread Wings (Supported)",
+    "date": "2026-10-10",
+    "displayDate": "2026.10.10",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "45.89 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/stl-we-giant-owl-1-complete-supported-247a5c/stl-we-giant-owl-1-complete-supported-247a5c-主图@初艺ouart.png",
+    "description": "一个完整独立的展翼巨型猫头鹰模型，包含清晰的头部与面部、羽毛覆盖的躯干、完整双翼、双腿双爪和尾羽，并附有一体化打印支撑结构。五视图未见主体缺件、无关模型或危险道具，当前朝向正立且前后左右标注正确。",
+    "intro": "2026.10.10 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1enJJhjTEEcLOgplC2gOu2w",
+    "shareCode": "9c02",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261010",
+    "nameZh": "展翼巨型猫头鹰支撑版模型",
+    "nameEn": "Giant Owl with Spread Wings (Supported)",
+    "displayName": "展翼巨型猫头鹰支撑版模型｜Giant Owl with Spread Wings (Supported)",
+    "category": "奇幻生物",
+    "mainImageRole": "verified_model_views",
+    "alt": "展翼巨型猫头鹰支撑版模型｜Giant Owl with Spread Wings (Supported)真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一个完整独立的展翼巨型猫头鹰模型，包含清晰的头部与面部、羽毛覆盖的躯干、完整双翼、双腿双爪和尾羽，并附有一体化打印支撑结构。五视图未见主体缺件、无关模型或危险道具，当前朝向正立且前后左右标注正确。",
+          "该模型归入“奇幻生物”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/stl-we-giant-owl-1-complete-supported-247a5c/gallery-01.png",
+        "alt": "展翼巨型猫头鹰支撑版模型｜Giant Owl with Spread Wings (Supported)真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/stl-we-giant-owl-1-complete-supported-247a5c/gallery-02.png",
+        "alt": "展翼巨型猫头鹰支撑版模型｜Giant Owl with Spread Wings (Supported)真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/stl-we-giant-owl-1-complete-supported-247a5c/gallery-03.png",
+        "alt": "展翼巨型猫头鹰支撑版模型｜Giant Owl with Spread Wings (Supported)真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/stl-we-giant-owl-1-complete-supported-247a5c/gallery-04.png",
+        "alt": "展翼巨型猫头鹰支撑版模型｜Giant Owl with Spread Wings (Supported)真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/stl-we-giant-owl-1-complete-supported-247a5c/gallery-05.png",
+        "alt": "展翼巨型猫头鹰支撑版模型｜Giant Owl with Spread Wings (Supported)真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20261010:stl-we-giant-owl-3-complete-supported-d3beb2",
+    "publicationId": "ouart-daily-six-20261010:stl-we-giant-owl-3-complete-supported-d3beb2",
+    "inventoryId": "stl-we-giant-owl-3-complete-supported-d3beb2",
+    "name": "展翼俯冲的巨型猫头鹰｜Diving Giant Owl with Spread Wings",
+    "date": "2026-10-10",
+    "displayDate": "2026.10.10",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "47.14 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/stl-we-giant-owl-3-complete-supported-d3beb2/stl-we-giant-owl-3-complete-supported-d3beb2-主图@初艺ouart.png",
+    "description": "一只完整的奇幻巨型猫头鹰动态模型，头脸与喙清晰，双翼大幅展开，腿爪向前伸出，尾羽完整，整体呈俯冲或扑击姿态；文件包含用于树脂打印的密集支撑结构。",
+    "intro": "2026.10.10 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/15bEbkZrvDDGGuBr-c3px6w",
+    "shareCode": "7b40",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261010",
+    "nameZh": "展翼俯冲的巨型猫头鹰",
+    "nameEn": "Diving Giant Owl with Spread Wings",
+    "displayName": "展翼俯冲的巨型猫头鹰｜Diving Giant Owl with Spread Wings",
+    "category": "奇幻生物模型",
+    "mainImageRole": "verified_model_views",
+    "alt": "展翼俯冲的巨型猫头鹰｜Diving Giant Owl with Spread Wings真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一只完整的奇幻巨型猫头鹰动态模型，头脸与喙清晰，双翼大幅展开，腿爪向前伸出，尾羽完整，整体呈俯冲或扑击姿态；文件包含用于树脂打印的密集支撑结构。",
+          "该模型归入“奇幻生物模型”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/stl-we-giant-owl-3-complete-supported-d3beb2/gallery-01.png",
+        "alt": "展翼俯冲的巨型猫头鹰｜Diving Giant Owl with Spread Wings真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/stl-we-giant-owl-3-complete-supported-d3beb2/gallery-02.png",
+        "alt": "展翼俯冲的巨型猫头鹰｜Diving Giant Owl with Spread Wings真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/stl-we-giant-owl-3-complete-supported-d3beb2/gallery-03.png",
+        "alt": "展翼俯冲的巨型猫头鹰｜Diving Giant Owl with Spread Wings真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/stl-we-giant-owl-3-complete-supported-d3beb2/gallery-04.png",
+        "alt": "展翼俯冲的巨型猫头鹰｜Diving Giant Owl with Spread Wings真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/stl-we-giant-owl-3-complete-supported-d3beb2/gallery-05.png",
+        "alt": "展翼俯冲的巨型猫头鹰｜Diving Giant Owl with Spread Wings真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20261010:xpose-stan-lee-bust-portrait-0df7ab",
+    "publicationId": "ouart-daily-six-20261010:xpose-stan-lee-bust-portrait-0df7ab",
+    "inventoryId": "xpose-stan-lee-bust-portrait-0df7ab",
+    "name": "斯坦·李肖像胸像（双头像版本）｜Stan Lee Portrait Bust (Two Head Variants)",
+    "date": "2026-10-10",
+    "displayDate": "2026.10.10",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "53.47 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/xpose-stan-lee-bust-portrait-0df7ab/xpose-stan-lee-bust-portrait-0df7ab-主图@初艺ouart.png",
+    "description": "一套可独立完成展示的人物肖像胸像模型，包含无眼镜与戴眼镜两种可替换头像、衣领肩胸主体、连接支柱和装饰底座。各分件在同一 STL 中以装配布局呈现，视觉上属于同一完整胸像套件，适合打印后择一头像组装陈列。",
+    "intro": "2026.10.10 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1Cili8ftlyWmao1ZN2sbAvA",
+    "shareCode": "c2b8",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261010",
+    "nameZh": "斯坦·李肖像胸像（双头像版本）",
+    "nameEn": "Stan Lee Portrait Bust (Two Head Variants)",
+    "displayName": "斯坦·李肖像胸像（双头像版本）｜Stan Lee Portrait Bust (Two Head Variants)",
+    "category": "人物胸像",
+    "mainImageRole": "verified_model_views",
+    "alt": "斯坦·李肖像胸像（双头像版本）｜Stan Lee Portrait Bust (Two Head Variants)真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一套可独立完成展示的人物肖像胸像模型，包含无眼镜与戴眼镜两种可替换头像、衣领肩胸主体、连接支柱和装饰底座。各分件在同一 STL 中以装配布局呈现，视觉上属于同一完整胸像套件，适合打印后择一头像组装陈列。",
+          "该模型归入“人物胸像”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/xpose-stan-lee-bust-portrait-0df7ab/gallery-01.png",
+        "alt": "斯坦·李肖像胸像（双头像版本）｜Stan Lee Portrait Bust (Two Head Variants)真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/xpose-stan-lee-bust-portrait-0df7ab/gallery-02.png",
+        "alt": "斯坦·李肖像胸像（双头像版本）｜Stan Lee Portrait Bust (Two Head Variants)真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/xpose-stan-lee-bust-portrait-0df7ab/gallery-03.png",
+        "alt": "斯坦·李肖像胸像（双头像版本）｜Stan Lee Portrait Bust (Two Head Variants)真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/xpose-stan-lee-bust-portrait-0df7ab/gallery-04.png",
+        "alt": "斯坦·李肖像胸像（双头像版本）｜Stan Lee Portrait Bust (Two Head Variants)真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/xpose-stan-lee-bust-portrait-0df7ab/gallery-05.png",
+        "alt": "斯坦·李肖像胸像（双头像版本）｜Stan Lee Portrait Bust (Two Head Variants)真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
     "id": "ouart-daily-six-20261009:xpose-dr-emmett-brown-sculpture-full-piece-a22a56",
     "publicationId": "ouart-daily-six-20261009:xpose-dr-emmett-brown-sculpture-full-piece-a22a56",
     "inventoryId": "xpose-dr-emmett-brown-sculpture-full-piece-a22a56",

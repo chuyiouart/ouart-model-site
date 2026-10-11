@@ -1,6 +1,25 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20261011",
+    "date": "2026-10-11",
+    "displayDate": "2026.10.11",
+    "title": "2026.10.11｜OUART 今日2件",
+    "description": "本期共2件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-10-11/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-10-11 2模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20261011:full-mask-d296fa",
+      "ouart-daily-six-20261011:xpose-stan-lee-bust-portrait-one-piece-b98af5"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1nj-ZEbsQAvajNp1u8UkzIA",
+    "shareCode": "d3aa",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-10-11T10:30:09+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20261010",
     "date": "2026-10-10",
     "displayDate": "2026.10.10",

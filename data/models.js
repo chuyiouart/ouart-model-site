@@ -1,5 +1,203 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261011:full-mask-d296fa",
+    "publicationId": "ouart-daily-six-20261011:full-mask-d296fa",
+    "inventoryId": "full-mask-d296fa",
+    "name": "尖饰笼架面具｜Spiked Cage Mask",
+    "date": "2026-10-11",
+    "displayDate": "2026.10.11",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "0.20 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/full-mask-d296fa/full-mask-d296fa-主图@初艺ouart.png",
+    "description": "一个完整独立的弧形笼架式装饰面具模型，具有中央护条、上下弧带、纵向栅条、铆钉细节、顶部尖饰及规则系带安装孔。模型正立且五个视角标注正确；未见缺件、断裂碎片、无关模型或武器。",
+    "intro": "2026.10.11 OUART 每日模型合集成员；本期共2件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1QN2P6eotvLd84l5dlzaklw",
+    "shareCode": "314a",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261011",
+    "nameZh": "尖饰笼架面具",
+    "nameEn": "Spiked Cage Mask",
+    "displayName": "尖饰笼架面具｜Spiked Cage Mask",
+    "category": "面具装饰",
+    "mainImageRole": "verified_model_views",
+    "alt": "尖饰笼架面具｜Spiked Cage Mask真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一个完整独立的弧形笼架式装饰面具模型，具有中央护条、上下弧带、纵向栅条、铆钉细节、顶部尖饰及规则系带安装孔。模型正立且五个视角标注正确；未见缺件、断裂碎片、无关模型或武器。",
+          "该模型归入“面具装饰”，与同批其他1件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/full-mask-d296fa/gallery-01.png",
+        "alt": "尖饰笼架面具｜Spiked Cage Mask真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/full-mask-d296fa/gallery-02.png",
+        "alt": "尖饰笼架面具｜Spiked Cage Mask真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/full-mask-d296fa/gallery-03.png",
+        "alt": "尖饰笼架面具｜Spiked Cage Mask真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/full-mask-d296fa/gallery-04.png",
+        "alt": "尖饰笼架面具｜Spiked Cage Mask真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/full-mask-d296fa/gallery-05.png",
+        "alt": "尖饰笼架面具｜Spiked Cage Mask真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20261011:xpose-stan-lee-bust-portrait-one-piece-b98af5",
+    "publicationId": "ouart-daily-six-20261011:xpose-stan-lee-bust-portrait-one-piece-b98af5",
+    "inventoryId": "xpose-stan-lee-bust-portrait-one-piece-b98af5",
+    "name": "斯坦·李双版本肖像胸像摆件（含底座）｜Stan Lee Portrait Bust Set (Glasses and No-Glasses Variants, with Base)",
+    "date": "2026-10-11",
+    "displayDate": "2026.10.11",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "58.29 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/xpose-stan-lee-bust-portrait-one-piece-b98af5/xpose-stan-lee-bust-portrait-one-piece-b98af5-主图@初艺ouart.png",
+    "description": "一套斯坦·李肖像胸像装饰模型，包含戴眼镜与不戴眼镜两个完整可选胸像版本，以及一个带铭文的共用展示底座。胸像底部方孔与底座顶部方形插柱构成明确装配关系；一次可选择其中一个版本安装展示。五视图确认模型直立、朝向正确、几何主体完整，且不含无关模型或危险功能性物件。",
+    "intro": "2026.10.11 OUART 每日模型合集成员；本期共2件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1KwAl6Fp-aCri_Z4c4RylXg",
+    "shareCode": "33a9",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261011",
+    "nameZh": "斯坦·李双版本肖像胸像摆件（含底座）",
+    "nameEn": "Stan Lee Portrait Bust Set (Glasses and No-Glasses Variants, with Base)",
+    "displayName": "斯坦·李双版本肖像胸像摆件（含底座）｜Stan Lee Portrait Bust Set (Glasses and No-Glasses Variants, with Base)",
+    "category": "人物胸像",
+    "mainImageRole": "verified_model_views",
+    "alt": "斯坦·李双版本肖像胸像摆件（含底座）｜Stan Lee Portrait Bust Set (Glasses and No-Glasses Variants, with Base)真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一套斯坦·李肖像胸像装饰模型，包含戴眼镜与不戴眼镜两个完整可选胸像版本，以及一个带铭文的共用展示底座。胸像底部方孔与底座顶部方形插柱构成明确装配关系；一次可选择其中一个版本安装展示。五视图确认模型直立、朝向正确、几何主体完整，且不含无关模型或危险功能性物件。",
+          "该模型归入“人物胸像”，与同批其他1件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/xpose-stan-lee-bust-portrait-one-piece-b98af5/gallery-01.png",
+        "alt": "斯坦·李双版本肖像胸像摆件（含底座）｜Stan Lee Portrait Bust Set (Glasses and No-Glasses Variants, with Base)真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/xpose-stan-lee-bust-portrait-one-piece-b98af5/gallery-02.png",
+        "alt": "斯坦·李双版本肖像胸像摆件（含底座）｜Stan Lee Portrait Bust Set (Glasses and No-Glasses Variants, with Base)真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/xpose-stan-lee-bust-portrait-one-piece-b98af5/gallery-03.png",
+        "alt": "斯坦·李双版本肖像胸像摆件（含底座）｜Stan Lee Portrait Bust Set (Glasses and No-Glasses Variants, with Base)真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/xpose-stan-lee-bust-portrait-one-piece-b98af5/gallery-04.png",
+        "alt": "斯坦·李双版本肖像胸像摆件（含底座）｜Stan Lee Portrait Bust Set (Glasses and No-Glasses Variants, with Base)真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/xpose-stan-lee-bust-portrait-one-piece-b98af5/gallery-05.png",
+        "alt": "斯坦·李双版本肖像胸像摆件（含底座）｜Stan Lee Portrait Bust Set (Glasses and No-Glasses Variants, with Base)真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
     "id": "ouart-daily-six-20261010:stl-we-giant-owl-1-complete-supported-247a5c",
     "publicationId": "ouart-daily-six-20261010:stl-we-giant-owl-1-complete-supported-247a5c",
     "inventoryId": "stl-we-giant-owl-1-complete-supported-247a5c",

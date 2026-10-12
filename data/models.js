@@ -1,5 +1,203 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261012:pre-marcille-bust-ouart-7a2c52",
+    "publicationId": "ouart-daily-six-20261012:pre-marcille-bust-ouart-7a2c52",
+    "inventoryId": "pre-marcille-bust-ouart-7a2c52",
+    "name": "马西尔持杖半身像（预支撑版）｜Marcille Bust with Staff (Pre-Supported)",
+    "date": "2026-10-12",
+    "displayDate": "2026.10.12",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "64.34 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/pre-marcille-bust-ouart-7a2c52/pre-marcille-bust-ouart-7a2c52-主图@初艺ouart.png",
+    "description": "一件完整、直立的幻想女性精灵角色装饰半身像预支撑 STL，包含头部、长发、尖耳、服装躯干、双臂双手及高举的环形装饰法杖；外围密集结构为树脂打印支撑，不是无关模型。五视图未见主体缺件、危险武器或不适宜公开的内容，正反面及顶部方向标注正确。",
+    "intro": "2026.10.12 OUART 每日模型合集成员；本期共2件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1JUD85X-oYkKDmDnk5126Iw",
+    "shareCode": "e4e7",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261012",
+    "nameZh": "马西尔持杖半身像（预支撑版）",
+    "nameEn": "Marcille Bust with Staff (Pre-Supported)",
+    "displayName": "马西尔持杖半身像（预支撑版）｜Marcille Bust with Staff (Pre-Supported)",
+    "category": "人物半身像",
+    "mainImageRole": "verified_model_views",
+    "alt": "马西尔持杖半身像（预支撑版）｜Marcille Bust with Staff (Pre-Supported)真实模型视图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "根据实际 STL 模型渲染的正面、背面、左面、右面和顶面视图；非作者彩色原图，已通过模型身份与展示方向检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一件完整、直立的幻想女性精灵角色装饰半身像预支撑 STL，包含头部、长发、尖耳、服装躯干、双臂双手及高举的环形装饰法杖；外围密集结构为树脂打印支撑，不是无关模型。五视图未见主体缺件、危险武器或不适宜公开的内容，正反面及顶部方向标注正确。",
+          "该模型归入“人物半身像”，与同批其他1件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/pre-marcille-bust-ouart-7a2c52/gallery-01.png",
+        "alt": "马西尔持杖半身像（预支撑版）｜Marcille Bust with Staff (Pre-Supported)真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/pre-marcille-bust-ouart-7a2c52/gallery-02.png",
+        "alt": "马西尔持杖半身像（预支撑版）｜Marcille Bust with Staff (Pre-Supported)真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/pre-marcille-bust-ouart-7a2c52/gallery-03.png",
+        "alt": "马西尔持杖半身像（预支撑版）｜Marcille Bust with Staff (Pre-Supported)真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/pre-marcille-bust-ouart-7a2c52/gallery-04.png",
+        "alt": "马西尔持杖半身像（预支撑版）｜Marcille Bust with Staff (Pre-Supported)真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/pre-marcille-bust-ouart-7a2c52/gallery-05.png",
+        "alt": "马西尔持杖半身像（预支撑版）｜Marcille Bust with Staff (Pre-Supported)真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
+    "id": "ouart-daily-six-20261012:bust-ouart-a35987",
+    "publicationId": "ouart-daily-six-20261012:bust-ouart-a35987",
+    "inventoryId": "bust-ouart-a35987",
+    "name": "翼盔女武神半身像｜Winged-Helmet Valkyrie Bust",
+    "date": "2026-10-12",
+    "displayDate": "2026.10.12",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "65.69 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/bust-ouart-a35987/bust-ouart-a35987-主图@初艺ouart.png",
+    "description": "一件完整独立的奇幻女武神人物半身像，塑造翼饰头盔、遮眼盔檐、长发、肩甲与层叠服饰细节；底部以统一平面收束，适合作为静态桌面陈列或收藏打印模型。未见武器、功能性部件、无关附加模型或明显缺件。",
+    "intro": "2026.10.12 OUART 每日模型合集成员；本期共2件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1acvS0ijvl_o4wY0qABuXaQ",
+    "shareCode": "295f",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261012",
+    "nameZh": "翼盔女武神半身像",
+    "nameEn": "Winged-Helmet Valkyrie Bust",
+    "displayName": "翼盔女武神半身像｜Winged-Helmet Valkyrie Bust",
+    "category": "人物半身像",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "翼盔女武神半身像｜Winged-Helmet Valkyrie BustAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "一件完整独立的奇幻女武神人物半身像，塑造翼饰头盔、遮眼盔檐、长发、肩甲与层叠服饰细节；底部以统一平面收束，适合作为静态桌面陈列或收藏打印模型。未见武器、功能性部件、无关附加模型或明显缺件。",
+          "该模型归入“人物半身像”，与同批其他1件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/bust-ouart-a35987/gallery-01.png",
+        "alt": "翼盔女武神半身像｜Winged-Helmet Valkyrie Bust真实模型·正面",
+        "label": "真实模型·正面"
+      },
+      {
+        "src": "./assets/models/bust-ouart-a35987/gallery-02.png",
+        "alt": "翼盔女武神半身像｜Winged-Helmet Valkyrie Bust真实模型·背面",
+        "label": "真实模型·背面"
+      },
+      {
+        "src": "./assets/models/bust-ouart-a35987/gallery-03.png",
+        "alt": "翼盔女武神半身像｜Winged-Helmet Valkyrie Bust真实模型·左面",
+        "label": "真实模型·左面"
+      },
+      {
+        "src": "./assets/models/bust-ouart-a35987/gallery-04.png",
+        "alt": "翼盔女武神半身像｜Winged-Helmet Valkyrie Bust真实模型·右面",
+        "label": "真实模型·右面"
+      },
+      {
+        "src": "./assets/models/bust-ouart-a35987/gallery-05.png",
+        "alt": "翼盔女武神半身像｜Winged-Helmet Valkyrie Bust真实模型·顶面",
+        "label": "真实模型·顶面"
+      }
+    ]
+  },
+  {
     "id": "ouart-daily-six-20261011:full-mask-d296fa",
     "publicationId": "ouart-daily-six-20261011:full-mask-d296fa",
     "inventoryId": "full-mask-d296fa",

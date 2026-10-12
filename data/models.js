@@ -75,89 +75,107 @@ window.OUART_MODELS = [
       {
         "src": "./assets/models/pre-marcille-bust-ouart-7a2c52/complete-20261012/gallery-01.jpg",
         "alt": "马西尔持杖雕像与半身像完整套装 · 原模型配图",
-        "label": "原模型配图"
+        "label": "原模型配图",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-e9b5e2d06f12508286657efaedd7e2514d0e193c55f888c996571c6102331673.jpg"
       },
       {
         "src": "./assets/models/pre-marcille-bust-ouart-7a2c52/complete-20261012/gallery-02.jpg",
         "alt": "马西尔持杖雕像与半身像完整套装 · 原模型配图",
-        "label": "原模型配图"
+        "label": "原模型配图",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-0e0ab1e5de5abfeb5ee5ab5efac5a4f083889d72839c5667a4a94c13a545ba29.jpg"
       },
       {
         "src": "./assets/models/pre-marcille-bust-ouart-7a2c52/complete-20261012/gallery-03.jpg",
         "alt": "马西尔持杖雕像与半身像完整套装 · 原模型配图",
-        "label": "原模型配图"
+        "label": "原模型配图",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-1bf1b27fca25468959e41ae138d5614354eefdf0487890ae8193a7fda8a027eb.jpg"
       },
       {
         "src": "./assets/models/pre-marcille-bust-ouart-7a2c52/complete-20261012/gallery-04.jpg",
         "alt": "马西尔持杖雕像与半身像完整套装 · 原模型配图",
-        "label": "原模型配图"
+        "label": "原模型配图",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-dabc61089b247975346ab50a7c75b952c915fd999c9e0fcd3fcfec0e9b6da3a0.jpg"
       },
       {
         "src": "./assets/models/pre-marcille-bust-ouart-7a2c52/complete-20261012/gallery-05.jpg",
         "alt": "马西尔持杖雕像与半身像完整套装 · 原模型配图",
-        "label": "原模型配图"
+        "label": "原模型配图",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-1007854390e3276304ba3cd0068495ef353b27df406719235a67445d880d5123.jpg"
       },
       {
         "src": "./assets/models/pre-marcille-bust-ouart-7a2c52/complete-20261012/gallery-06.jpg",
         "alt": "马西尔持杖雕像与半身像完整套装 · 原模型配图",
-        "label": "原模型配图"
+        "label": "原模型配图",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-5719fa52c10e70ec925bceeba403dbef21d96eeb2a367f45baa1df19f69da92d.jpg"
       },
       {
         "src": "./assets/models/pre-marcille-bust-ouart-7a2c52/complete-20261012/gallery-07.jpg",
         "alt": "马西尔持杖雕像与半身像完整套装 · 原模型配图",
-        "label": "原模型配图"
+        "label": "原模型配图",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-b1920096289023f5f577448aee2413bea1375a4b36f3abb2abc9e5e5e9936eaa.jpg"
       },
       {
         "src": "./assets/models/pre-marcille-bust-ouart-7a2c52/complete-20261012/gallery-08.jpg",
         "alt": "马西尔持杖雕像与半身像完整套装 · 原模型配图",
-        "label": "原模型配图"
+        "label": "原模型配图",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-7b5cd78a0825e97d279fe4857e1178e5678c4041783a5fd322f808b15b14216d.jpg"
       },
       {
         "src": "./assets/models/pre-marcille-bust-ouart-7a2c52/complete-20261012/gallery-09.jpg",
         "alt": "马西尔持杖雕像与半身像完整套装 · 原模型配图",
-        "label": "原模型配图"
+        "label": "原模型配图",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-7270c48a8ed6034254ada5f1fcad2b9bd2a5da330376cea36e9dbc3767a301ec.jpg"
       },
       {
         "src": "./assets/models/pre-marcille-bust-ouart-7a2c52/complete-20261012/gallery-10.jpg",
         "alt": "马西尔持杖雕像与半身像完整套装 · 原模型配图",
-        "label": "原模型配图"
+        "label": "原模型配图",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-d74c7e3d7f4d8b32ba3e98ac0da73c966a335b8a05e11c69f9ece3934160891d.jpg"
       },
       {
         "src": "./assets/models/pre-marcille-bust-ouart-7a2c52/complete-20261012/gallery-11.jpg",
         "alt": "马西尔持杖雕像与半身像完整套装 · 原模型配图",
-        "label": "原模型配图"
+        "label": "原模型配图",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-d805a8bd6558425f7b6b0872429cd6ddd8b27bb652f2ccbe9081a21e749d1b1e.jpg"
       },
       {
         "src": "./assets/models/pre-marcille-bust-ouart-7a2c52/complete-20261012/gallery-12.jpg",
         "alt": "马西尔持杖雕像与半身像完整套装 · 原模型配图",
-        "label": "原模型配图"
+        "label": "原模型配图",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-af3ef929b1c04ead18de65d49a2e642aa4f7f867b8ffefce79a1f991653ab5d2.jpg"
       },
       {
         "src": "./assets/models/pre-marcille-bust-ouart-7a2c52/complete-20261012/gallery-13.png",
         "alt": "马西尔持杖雕像与半身像完整套装 · 真实模型·正面",
-        "label": "真实模型·正面"
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-93f51934f06d902b30ff38138f30b6511fa53d0c47adf0bc26f50aa899fd610a.png"
       },
       {
         "src": "./assets/models/pre-marcille-bust-ouart-7a2c52/complete-20261012/gallery-14.png",
         "alt": "马西尔持杖雕像与半身像完整套装 · 真实模型·背面",
-        "label": "真实模型·背面"
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-ab61ef769f92aa7453d6b5857f8a0da7856219d0905a132a54af6b2e509f103c.png"
       },
       {
         "src": "./assets/models/pre-marcille-bust-ouart-7a2c52/complete-20261012/gallery-15.png",
         "alt": "马西尔持杖雕像与半身像完整套装 · 真实模型·左面",
-        "label": "真实模型·左面"
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-51e43c7f70a68409892c32194e7e059036eaa7bacd3a7812c05d228467891c1f.png"
       },
       {
         "src": "./assets/models/pre-marcille-bust-ouart-7a2c52/complete-20261012/gallery-16.png",
         "alt": "马西尔持杖雕像与半身像完整套装 · 真实模型·右面",
-        "label": "真实模型·右面"
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-f8274c2a62ac9f310a0ef9031c286501834ebd8289520662fbf365d8f1fa069b.png"
       },
       {
         "src": "./assets/models/pre-marcille-bust-ouart-7a2c52/complete-20261012/gallery-17.png",
         "alt": "马西尔持杖雕像与半身像完整套装 · 真实模型·顶面",
-        "label": "真实模型·顶面"
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-fee84b683aac8d7c769c68ccd4579ccccd0466ead5560a84a766e5d0b4bb0fc7.png"
       }
-    ]
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-1e4a7d7aba99954ce1752cd80d0afe560a9be085d1dd766ea11156243dd5b66e.png"
   },
   {
     "id": "ouart-daily-six-20261012:bust-ouart-a35987",
@@ -234,44 +252,53 @@ window.OUART_MODELS = [
       {
         "src": "./assets/models/bust-ouart-a35987/complete-20261012/gallery-01.jpg",
         "alt": "翼盔女武神半身像与底座完整套装 · 原模型配图",
-        "label": "原模型配图"
+        "label": "原模型配图",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-8a0f9294e50864c2db716e31e78dc4834bf6c3368d2a0be783c8f077ee203168.jpg"
       },
       {
         "src": "./assets/models/bust-ouart-a35987/complete-20261012/gallery-02.jpg",
         "alt": "翼盔女武神半身像与底座完整套装 · 原模型配图",
-        "label": "原模型配图"
+        "label": "原模型配图",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-4f78e1bb3a75908f4caf899b5b942aa30d99ca55bab8f1b2f6d78f48b8f69525.jpg"
       },
       {
         "src": "./assets/models/bust-ouart-a35987/complete-20261012/gallery-03.png",
         "alt": "翼盔女武神半身像与底座完整套装 · 原模型配图",
-        "label": "原模型配图"
+        "label": "原模型配图",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-62f0224544d75449da28b20d916dec9cbfe7c4248f50e5b2633b00a0de2e16e8.png"
       },
       {
         "src": "./assets/models/bust-ouart-a35987/complete-20261012/gallery-04.png",
         "alt": "翼盔女武神半身像与底座完整套装 · 真实模型·正面",
-        "label": "真实模型·正面"
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-5d4a90c48c37639147d9a47c1a16ecffa5729d6d9a267f7b4619b9330a57d719.png"
       },
       {
         "src": "./assets/models/bust-ouart-a35987/complete-20261012/gallery-05.png",
         "alt": "翼盔女武神半身像与底座完整套装 · 真实模型·背面",
-        "label": "真实模型·背面"
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-d5e84da541d48d6386ac68c854962f7be15b268dba7f8af6da7dcde0b032a554.png"
       },
       {
         "src": "./assets/models/bust-ouart-a35987/complete-20261012/gallery-06.png",
         "alt": "翼盔女武神半身像与底座完整套装 · 真实模型·左面",
-        "label": "真实模型·左面"
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-8dc0c56334e48dcb5e2f2b73a0caed6cbb2c65993dc114f9aab46cd66ebd839f.png"
       },
       {
         "src": "./assets/models/bust-ouart-a35987/complete-20261012/gallery-07.png",
         "alt": "翼盔女武神半身像与底座完整套装 · 真实模型·右面",
-        "label": "真实模型·右面"
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-46f8a00000bc22e8e0f8f347b469988f2645cb8f0b09f605c53bf439e07f4545.png"
       },
       {
         "src": "./assets/models/bust-ouart-a35987/complete-20261012/gallery-08.png",
         "alt": "翼盔女武神半身像与底座完整套装 · 真实模型·顶面",
-        "label": "真实模型·顶面"
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-fc0c8cb90b0c9d0517980bb23df5502ff0e3c486b0fc2a319eb40aafcb53e29b.png"
       }
-    ]
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-99b22795863c458cb81383cd0fca6b4046cd880122bb6442b68321b0ad1f0d0e.png"
   },
   {
     "id": "ouart-daily-six-20261011:full-mask-d296fa",

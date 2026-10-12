@@ -557,7 +557,14 @@
       trigger.addEventListener("click", () => {
         const full = lightbox.querySelector("img");
         const caption = lightbox.querySelector("p");
-        full.src = item.src;
+        const domestic = typeof item.domesticSrc === "string" && /^https:\/\/chuyiouart\.com\/wp-content\/uploads\//.test(item.domesticSrc) ? item.domesticSrc : "";
+        const sources = [...new Set([window.location.hostname === "chuyiouart.com" ? domestic : item.src, sourceAsset(item.src), galleryThumb(model, index)].filter(Boolean))];
+        let attempt = 0;
+        full.onerror = () => {
+          if (++attempt < sources.length) full.src = sources[attempt];
+          else { full.onerror = null; caption.textContent = "图片暂时不可用，请稍后重试"; }
+        };
+        full.src = sources[0];
         full.alt = item.alt;
         caption.textContent = cleanText(item.label) || item.alt;
         lightbox.showModal();

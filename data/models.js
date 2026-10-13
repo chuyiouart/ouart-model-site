@@ -1,5 +1,110 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261013:98k-c607aa",
+    "publicationId": "ouart-daily-six-20261013:98k-c607aa",
+    "inventoryId": "98k-c607aa",
+    "name": "PUBG Kar98k 卡宾枪微缩模型（原版与修复版）｜PUBG Kar98k Rifle Miniature (Original and Fixed Variants)",
+    "date": "2026-10-13",
+    "displayDate": "2026.10.13",
+    "format": "STL",
+    "fileCount": 2,
+    "size": "1.51 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/98k-c607aa/98k-c607aa-主图@初艺ouart.png",
+    "description": "完整包包含同一件 PUBG Kar98k（Karabiner 98 Kurz）步枪微缩模型的原始 STL 与 fixed 修复 STL 两个完整单体变体，以及对应的同作品预览图。两份 STL 都表现一支由枪托、机匣、枪管、准星和枪口组成的完整步枪；包内未见需要另行装配的底座、支架或其他必要可打印分件。代表展示采用实际提供的 fixed 修复版，原版作为同作品变体保留在同一日发布包中。",
+    "intro": "2026.10.13 OUART 每日模型合集成员；本期共1件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/18At4fTf3A-kGvI_lJoRfHA",
+    "shareCode": "e2c6",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261013",
+    "nameZh": "PUBG Kar98k 卡宾枪微缩模型（原版与修复版）",
+    "nameEn": "PUBG Kar98k Rifle Miniature (Original and Fixed Variants)",
+    "displayName": "PUBG Kar98k 卡宾枪微缩模型（原版与修复版）｜PUBG Kar98k Rifle Miniature (Original and Fixed Variants)",
+    "category": "游戏武器道具 / 微缩模型",
+    "mainImageRole": "source_original",
+    "alt": "PUBG Kar98k 卡宾枪微缩模型（原版与修复版）｜PUBG Kar98k Rifle Miniature (Original and Fixed Variants)同模型来源图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包包含同一件 PUBG Kar98k（Karabiner 98 Kurz）步枪微缩模型的原始 STL 与 fixed 修复 STL 两个完整单体变体，以及对应的同作品预览图。两份 STL 都表现一支由枪托、机匣、枪管、准星和枪口组成的完整步枪；包内未见需要另行装配的底座、支架或其他必要可打印分件。代表展示采用实际提供的 fixed 修复版，原版作为同作品变体保留在同一日发布包中。",
+          "该模型归入“游戏武器道具 / 微缩模型”，作为本期单件模型独立展示。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 2 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/98k-c607aa/gallery-03.png",
+        "alt": "PUBG Kar98k 卡宾枪微缩模型（原版与修复版）｜PUBG Kar98k Rifle Miniature (Original and Fixed Variants)真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-acb51001636a9b81a4f635f9e6fbb16a052cd425d0ab750a1f99a89fa78d6eec.png"
+      },
+      {
+        "src": "./assets/models/98k-c607aa/gallery-04.png",
+        "alt": "PUBG Kar98k 卡宾枪微缩模型（原版与修复版）｜PUBG Kar98k Rifle Miniature (Original and Fixed Variants)真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-411d4dde75ca4dab2f596cb86dedd3293d75b5c0c15c5f90e09b1f076a650f0c.png"
+      },
+      {
+        "src": "./assets/models/98k-c607aa/gallery-05.png",
+        "alt": "PUBG Kar98k 卡宾枪微缩模型（原版与修复版）｜PUBG Kar98k Rifle Miniature (Original and Fixed Variants)真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-8120f981e42490a6e178b6d88681bbbb33ad9664b802966019375512759a095c.png"
+      },
+      {
+        "src": "./assets/models/98k-c607aa/gallery-06.png",
+        "alt": "PUBG Kar98k 卡宾枪微缩模型（原版与修复版）｜PUBG Kar98k Rifle Miniature (Original and Fixed Variants)真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-e9e30f19463c612ef5feb9851e29a4b8e7ac5ba2121fc5f53f9814eebff85d2b.png"
+      },
+      {
+        "src": "./assets/models/98k-c607aa/gallery-07.png",
+        "alt": "PUBG Kar98k 卡宾枪微缩模型（原版与修复版）｜PUBG Kar98k Rifle Miniature (Original and Fixed Variants)真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-47ee3d2d2b28890ed2c6b34eb80217d6a1b571394fe3e76c464c2626bfe4504b.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-91adaf5c4a755f984ea4af441166d53dd6f598dd374872166c1f9f24f2e27f8b.png"
+  },
+  {
     "id": "ouart-daily-six-20261012:pre-marcille-bust-ouart-7a2c52",
     "publicationId": "ouart-daily-six-20261012:pre-marcille-bust-ouart-7a2c52",
     "inventoryId": "pre-marcille-bust-ouart-7a2c52",

@@ -1,5 +1,110 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261014:tobi-bust-9710c7",
+    "publicationId": "ouart-daily-six-20261014:tobi-bust-9710c7",
+    "inventoryId": "tobi-bust-9710c7",
+    "name": "宇智波带土（阿飞）面具半身像｜Tobi (Obito) Masked Bust",
+    "date": "2026-10-14",
+    "displayDate": "2026.10.14",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "2.30 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/tobi-bust-9710c7/tobi-bust-9710c7-主图@初艺ouart.png",
+    "description": "完整包为一件可陈列的 Tobi/宇智波带土面具半身像：角色头部与面具、披风式半身主体、立柱和底座均包含在同一个未带打印支撑的合并 STL 中，并附同款成品实拍参考图。",
+    "intro": "2026.10.14 OUART 每日模型合集成员；本期共1件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/178HC_LRMVgpp3YK1h3l3uA",
+    "shareCode": "d313",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261014",
+    "nameZh": "宇智波带土（阿飞）面具半身像",
+    "nameEn": "Tobi (Obito) Masked Bust",
+    "displayName": "宇智波带土（阿飞）面具半身像｜Tobi (Obito) Masked Bust",
+    "category": "动漫角色半身像",
+    "mainImageRole": "source_original",
+    "alt": "宇智波带土（阿飞）面具半身像｜Tobi (Obito) Masked Bust同模型来源图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包为一件可陈列的 Tobi/宇智波带土面具半身像：角色头部与面具、披风式半身主体、立柱和底座均包含在同一个未带打印支撑的合并 STL 中，并附同款成品实拍参考图。",
+          "该模型归入“动漫角色半身像”，作为本期单件模型独立展示。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/tobi-bust-9710c7/gallery-02.png",
+        "alt": "宇智波带土（阿飞）面具半身像｜Tobi (Obito) Masked Bust真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-7abfb767b97b9bfb8a80b62fe005fa03709696ba247acd1bcde0e2d34241afd5.png"
+      },
+      {
+        "src": "./assets/models/tobi-bust-9710c7/gallery-03.png",
+        "alt": "宇智波带土（阿飞）面具半身像｜Tobi (Obito) Masked Bust真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-309544a8aa2a02499a82596d39b710e0a8f1fc92500c118507c0c15c04689550.png"
+      },
+      {
+        "src": "./assets/models/tobi-bust-9710c7/gallery-04.png",
+        "alt": "宇智波带土（阿飞）面具半身像｜Tobi (Obito) Masked Bust真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-a0f9c995f399b2bf0f299899b20da4ce8b8fc7613333464da208fe6c04053066.png"
+      },
+      {
+        "src": "./assets/models/tobi-bust-9710c7/gallery-05.png",
+        "alt": "宇智波带土（阿飞）面具半身像｜Tobi (Obito) Masked Bust真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-f325f47de84ae24063dae248a0a09e1227fd0ba0ecd63802487c45618e401f75.png"
+      },
+      {
+        "src": "./assets/models/tobi-bust-9710c7/gallery-06.png",
+        "alt": "宇智波带土（阿飞）面具半身像｜Tobi (Obito) Masked Bust真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-179bd040bdc93f1fe1218e48453e56055c048864ab4a56e3c369c795c541bd2c.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-fa8d0c834d3a1d789c492c2836c5644bd8b6fb0a63f15b7f871b80723ec2587c.png"
+  },
+  {
     "id": "ouart-daily-six-20261013:98k-c607aa",
     "publicationId": "ouart-daily-six-20261013:98k-c607aa",
     "inventoryId": "98k-c607aa",

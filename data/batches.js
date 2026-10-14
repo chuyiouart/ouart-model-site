@@ -1,6 +1,24 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20261014",
+    "date": "2026-10-14",
+    "displayDate": "2026.10.14",
+    "title": "2026.10.14｜OUART 今日1件",
+    "description": "本期共1件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-10-14/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-10-14 1模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20261014:tobi-bust-9710c7"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/178HC_LRMVgpp3YK1h3l3uA",
+    "shareCode": "d313",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-10-14T10:32:16+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20261013",
     "date": "2026-10-13",
     "displayDate": "2026.10.13",

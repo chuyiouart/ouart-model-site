@@ -1,5 +1,110 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261015:model-261575820482173-c0039a",
+    "publicationId": "ouart-daily-six-20261015:model-261575820482173-c0039a",
+    "inventoryId": "model-261575820482173-c0039a",
+    "name": "《艾尔登法环》亵渎神灵之刃（高细节版与干净版套装）｜Elden Ring Blasphemous Blade (Detailed and Clean Variants)",
+    "date": "2026-10-15",
+    "displayDate": "2026.10.15",
+    "format": "STL",
+    "fileCount": 2,
+    "size": "1.60 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-261575820482173-c0039a/model-261575820482173-c0039a-主图@初艺ouart.png",
+    "description": "完整包包含《艾尔登法环》亵渎神灵之刃的两个完整单体 STL：带缠绕肉质纹理的高细节版本，以及保留整体剑形与护手结构的 Clean 简化版本。两者是同一把武器的替代外观与复杂度变体，不需要彼此拼接；发布时应作为一个双版本套装完整保留。",
+    "intro": "2026.10.15 OUART 每日模型合集成员；本期共1件，提供独立详情、制作观察与已验证下载信息。",
+    "downloadUrl": "https://pan.baidu.com/s/1vH2U2NrizIQe1RBcoOugJg",
+    "shareCode": "c711",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261015",
+    "nameZh": "《艾尔登法环》亵渎神灵之刃（高细节版与干净版套装）",
+    "nameEn": "Elden Ring Blasphemous Blade (Detailed and Clean Variants)",
+    "displayName": "《艾尔登法环》亵渎神灵之刃（高细节版与干净版套装）｜Elden Ring Blasphemous Blade (Detailed and Clean Variants)",
+    "category": "游戏武器/奇幻剑",
+    "mainImageRole": "source_original",
+    "alt": "《艾尔登法环》亵渎神灵之刃（高细节版与干净版套装）｜Elden Ring Blasphemous Blade (Detailed and Clean Variants)同模型来源图",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "同模型来源图，已通过身份与公开安全检查。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包包含《艾尔登法环》亵渎神灵之刃的两个完整单体 STL：带缠绕肉质纹理的高细节版本，以及保留整体剑形与护手结构的 Clean 简化版本。两者是同一把武器的替代外观与复杂度变体，不需要彼此拼接；发布时应作为一个双版本套装完整保留。",
+          "该模型归入“游戏武器/奇幻剑”，作为本期单件模型独立展示。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 2 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-261575820482173-c0039a/gallery-03.png",
+        "alt": "《艾尔登法环》亵渎神灵之刃（高细节版与干净版套装）｜Elden Ring Blasphemous Blade (Detailed and Clean Variants)真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-011d5dbd7e6341bf28091b3d7b3a194f27e4d070135c6d4bd5cb50e9e8d8545d.png"
+      },
+      {
+        "src": "./assets/models/model-261575820482173-c0039a/gallery-04.png",
+        "alt": "《艾尔登法环》亵渎神灵之刃（高细节版与干净版套装）｜Elden Ring Blasphemous Blade (Detailed and Clean Variants)真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-8b5cdd93d7351e400a26b24cf0a4f44298752cc31fab8265ea3e216bf6cf3d49.png"
+      },
+      {
+        "src": "./assets/models/model-261575820482173-c0039a/gallery-05.png",
+        "alt": "《艾尔登法环》亵渎神灵之刃（高细节版与干净版套装）｜Elden Ring Blasphemous Blade (Detailed and Clean Variants)真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-db03cc00664639f3f62123f0882b4220fe5e6a1d0832c3fa0d96b5277244b645.png"
+      },
+      {
+        "src": "./assets/models/model-261575820482173-c0039a/gallery-06.png",
+        "alt": "《艾尔登法环》亵渎神灵之刃（高细节版与干净版套装）｜Elden Ring Blasphemous Blade (Detailed and Clean Variants)真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-02d6e6944280ae009369198bb58badb663cbe6fae359946dd4a39fe9d9a0e772.png"
+      },
+      {
+        "src": "./assets/models/model-261575820482173-c0039a/gallery-07.png",
+        "alt": "《艾尔登法环》亵渎神灵之刃（高细节版与干净版套装）｜Elden Ring Blasphemous Blade (Detailed and Clean Variants)真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-3d5990ec0b4cc14fe32fc1f838038d9c9eacfaf27df13f7d24c392c8738363ac.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-46eeca48ab2d22ba2b5a3f5237abbf4cb3932f247df5c44686b9d3c5e0b66996.png"
+  },
+  {
     "id": "ouart-daily-six-20261014:tobi-bust-9710c7",
     "publicationId": "ouart-daily-six-20261014:tobi-bust-9710c7",
     "inventoryId": "tobi-bust-9710c7",

@@ -7,8 +7,8 @@ window.OUART_BATCHES = [
     "title": "2026.10.15｜OUART 今日1件",
     "description": "本期共1件合格模型，按实际通过数量稳定更新。",
     "published": true,
-    "collage": "./assets/batches/2026-10-15/ouart-daily-six-collage.png",
-    "collageAlt": "OUART 2026-10-15 1模型静态拼图",
+    "collage": "./assets/batches/2026-10-15/painted-20261015.png",
+    "collageAlt": "10月15日模型 · AI涂装工作室展示",
     "modelIds": [
       "ouart-daily-six-20261015:model-261575820482173-c0039a"
     ],

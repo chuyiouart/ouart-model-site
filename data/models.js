@@ -1,5 +1,110 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261017:designer-crescent-decorative-object-vase-vessel-model-c2a27b",
+    "publicationId": "ouart-daily-six-20261017:designer-crescent-decorative-object-vase-vessel-model-c2a27b",
+    "inventoryId": "designer-crescent-decorative-object-vase-vessel-model-c2a27b",
+    "name": "设计师新月造型装饰容器（标准版与镜像版完整包）｜Designer Crescent Decorative Vessel (Standard and Mirrored Complete Package)",
+    "date": "2026-10-17",
+    "displayDate": "2026.10.17",
+    "format": "STL",
+    "fileCount": 2,
+    "size": "3.37 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/designer-crescent-decorative-object-vase-vessel-model-c2a27b/designer-crescent-decorative-object-vase-vessel-model-c2a27b-主图@初艺ouart.png",
+    "description": "完整包包含同一件设计师新月造型装饰容器的标准非镜像 STL 与左右镜像 STL 两个完整单体版本，并附同作品原始照片及 PDF 文件。作品将新月雕塑轮廓、可直接落地的弧形底部和内侧圆形开口容器整合为一体，可按空间陈设方向选择标准版或镜像版打印；两版是同一作品的朝向变体，不是两件独立作品，也不需要另配底座、支架或分离装配件。",
+    "intro": "2026.10.17 OUART 每日模型合集成员；本期共1件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1kloNve71Mw7y_vcX3wLSsA",
+    "shareCode": "142a",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261017",
+    "nameZh": "设计师新月造型装饰容器（标准版与镜像版完整包）",
+    "nameEn": "Designer Crescent Decorative Vessel (Standard and Mirrored Complete Package)",
+    "displayName": "设计师新月造型装饰容器（标准版与镜像版完整包）｜Designer Crescent Decorative Vessel (Standard and Mirrored Complete Package)",
+    "category": "家居装饰/艺术容器",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "设计师新月造型装饰容器（标准版与镜像版完整包）｜Designer Crescent Decorative Vessel (Standard and Mirrored Complete Package)AI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包包含同一件设计师新月造型装饰容器的标准非镜像 STL 与左右镜像 STL 两个完整单体版本，并附同作品原始照片及 PDF 文件。作品将新月雕塑轮廓、可直接落地的弧形底部和内侧圆形开口容器整合为一体，可按空间陈设方向选择标准版或镜像版打印；两版是同一作品的朝向变体，不是两件独立作品，也不需要另配底座、支架或分离装配件。",
+          "该模型归入“家居装饰/艺术容器”，作为本期单件模型独立展示。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 2 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/designer-crescent-decorative-object-vase-vessel-model-c2a27b/gallery-02.png",
+        "alt": "设计师新月造型装饰容器（标准版与镜像版完整包）｜Designer Crescent Decorative Vessel (Standard and Mirrored Complete Package)真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-663e9e478359e91a9c28eaf6791183a8bb3df98ff335fc26619498b0ec362c00.png"
+      },
+      {
+        "src": "./assets/models/designer-crescent-decorative-object-vase-vessel-model-c2a27b/gallery-03.png",
+        "alt": "设计师新月造型装饰容器（标准版与镜像版完整包）｜Designer Crescent Decorative Vessel (Standard and Mirrored Complete Package)真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-f0c37e5822657dd263c51f4e903a408eff38a243a12b26370c0d4ea1b71329c3.png"
+      },
+      {
+        "src": "./assets/models/designer-crescent-decorative-object-vase-vessel-model-c2a27b/gallery-04.png",
+        "alt": "设计师新月造型装饰容器（标准版与镜像版完整包）｜Designer Crescent Decorative Vessel (Standard and Mirrored Complete Package)真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-44385dafb25d4d041175beea51da77003f2b8c593f83bfa7bd8ebf8e6b508ffd.png"
+      },
+      {
+        "src": "./assets/models/designer-crescent-decorative-object-vase-vessel-model-c2a27b/gallery-05.png",
+        "alt": "设计师新月造型装饰容器（标准版与镜像版完整包）｜Designer Crescent Decorative Vessel (Standard and Mirrored Complete Package)真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-eaafead822ee8e92c0791c68b5e5632981c1b1da0c55e199363dd9bfbe795da3.png"
+      },
+      {
+        "src": "./assets/models/designer-crescent-decorative-object-vase-vessel-model-c2a27b/gallery-06.png",
+        "alt": "设计师新月造型装饰容器（标准版与镜像版完整包）｜Designer Crescent Decorative Vessel (Standard and Mirrored Complete Package)真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-18fad1b491daf0f4ca21bb7a410f72f5af598d186626cb086a08f62fbaaf20f3.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-a090fc109cb542dd627a172f55306d0a1525b9f48c7639a9153acc8c73e9c45d.png"
+  },
+  {
     "id": "ouart-daily-six-20261016:module-3-width-15ae8a",
     "publicationId": "ouart-daily-six-20261016:module-3-width-15ae8a",
     "inventoryId": "module-3-width-15ae8a",

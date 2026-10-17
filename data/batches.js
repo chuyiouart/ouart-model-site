@@ -1,6 +1,24 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20261017",
+    "date": "2026-10-17",
+    "displayDate": "2026.10.17",
+    "title": "2026.10.17｜OUART 今日1件",
+    "description": "本期共1件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-10-17/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-10-17 1模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20261017:designer-crescent-decorative-object-vase-vessel-model-c2a27b"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1kloNve71Mw7y_vcX3wLSsA",
+    "shareCode": "142a",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-10-17T10:32:12+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20261016",
     "date": "2026-10-16",
     "displayDate": "2026.10.16",

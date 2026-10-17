@@ -1,5 +1,110 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261016:module-3-width-15ae8a",
+    "publicationId": "ouart-daily-six-20261016:module-3-width-15ae8a",
+    "inventoryId": "module-3-width-15ae8a",
+    "name": "三模块宽颜料架升高托盘四规格完整套装｜Module 3-Width Paint Organizer Riser Trays, Complete Four-Size Set",
+    "date": "2026-10-16",
+    "displayDate": "2026.10.16",
+    "format": "STL",
+    "fileCount": 4,
+    "size": "0.06 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/module-3-width-15ae8a/module-3-width-15ae8a-主图@初艺ouart.png",
+    "description": "完整包包含四件 supplied ACTUAL STL：38mm × 119mm、57mm × 35mm Long、59mm × 76mm 和 76mm × 119mm 的 PaintModulex3 三模块宽升高托盘。四件共享约 197 mm 的纵向系统尺寸，并以不同横截面规格提供同一颜料架模块的替代托盘选择；它们应在同一次发布中完整保留，但不是需要互相拼装的四块拆件。代表图可使用最大的 76mm × 119mm 完整单体托盘；完整交付价值是四种规格的整套选择，不包含或暗示父级 Main Pledge 颜料架框架及其他宽度模块。",
+    "intro": "2026.10.16 OUART 每日模型合集成员；本期共1件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1D5y4TdFJH3EFNhgTeDQQUw",
+    "shareCode": "fa28",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261016",
+    "nameZh": "三模块宽颜料架升高托盘四规格完整套装",
+    "nameEn": "Module 3-Width Paint Organizer Riser Trays, Complete Four-Size Set",
+    "displayName": "三模块宽颜料架升高托盘四规格完整套装｜Module 3-Width Paint Organizer Riser Trays, Complete Four-Size Set",
+    "category": "工具与收纳/模块化颜料架配件",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "三模块宽颜料架升高托盘四规格完整套装｜Module 3-Width Paint Organizer Riser Trays, Complete Four-Size SetAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包包含四件 supplied ACTUAL STL：38mm × 119mm、57mm × 35mm Long、59mm × 76mm 和 76mm × 119mm 的 PaintModulex3 三模块宽升高托盘。四件共享约 197 mm 的纵向系统尺寸，并以不同横截面规格提供同一颜料架模块的替代托盘选择；它们应在同一次发布中完整保留，但不是需要互相拼装的四块拆件。代表图可使用最大的 76mm × 119mm 完整单体托盘；完整交付价值是四种规格的整套选择，不包含或暗示父级 Main Pledge 颜料架框架及其他宽度模块。",
+          "该模型归入“工具与收纳/模块化颜料架配件”，作为本期单件模型独立展示。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 4 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/module-3-width-15ae8a/gallery-01.png",
+        "alt": "三模块宽颜料架升高托盘四规格完整套装｜Module 3-Width Paint Organizer Riser Trays, Complete Four-Size Set真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-9b83c728604ee83f9584ca90e782782bce646196624153d330277088537ba96a.png"
+      },
+      {
+        "src": "./assets/models/module-3-width-15ae8a/gallery-02.png",
+        "alt": "三模块宽颜料架升高托盘四规格完整套装｜Module 3-Width Paint Organizer Riser Trays, Complete Four-Size Set真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-67f14c3261f6623aa4737508c3d2daef21669757c262d02a4db399e7c7caabd2.png"
+      },
+      {
+        "src": "./assets/models/module-3-width-15ae8a/gallery-03.png",
+        "alt": "三模块宽颜料架升高托盘四规格完整套装｜Module 3-Width Paint Organizer Riser Trays, Complete Four-Size Set真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-2fe0b44b8c924a34a550857a381e9d1ba417d3c2d6c337fd47449fe88d512af5.png"
+      },
+      {
+        "src": "./assets/models/module-3-width-15ae8a/gallery-04.png",
+        "alt": "三模块宽颜料架升高托盘四规格完整套装｜Module 3-Width Paint Organizer Riser Trays, Complete Four-Size Set真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-fd512896cef564ac2ea0d2362aa400a1f8b75223e879b2239d15c00d3ad2f6b8.png"
+      },
+      {
+        "src": "./assets/models/module-3-width-15ae8a/gallery-05.png",
+        "alt": "三模块宽颜料架升高托盘四规格完整套装｜Module 3-Width Paint Organizer Riser Trays, Complete Four-Size Set真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-a62561fa23b1f3ca74b1cbcf867e9b0caeaddb05b82e8d63930063d6dfe87d65.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-f876aef5dc08a7f2ff734b2b76644b4d1addd2417f08829fc4d3f74aefadb44e.png"
+  },
+  {
     "id": "ouart-daily-six-20261015:model-261575820482173-c0039a",
     "publicationId": "ouart-daily-six-20261015:model-261575820482173-c0039a",
     "inventoryId": "model-261575820482173-c0039a",

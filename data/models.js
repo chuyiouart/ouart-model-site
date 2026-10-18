@@ -1,5 +1,215 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261018:floors-c09013",
+    "publicationId": "ouart-daily-six-20261018:floors-c09013",
+    "inventoryId": "floors-c09013",
+    "name": "建筑工地 4×4 G型地板｜Construction Site 4x4 Floor Type G",
+    "date": "2026-10-18",
+    "displayDate": "2026.10.18",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "0.09 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/floors-c09013/floors-c09013-主图@初艺ouart.png",
+    "description": "完整包为一件可独立使用的建筑工地4×4模块化G型地板模型；交付内容仅含该地板本体，不包含同目录下A至F型地板，也没有需要另行拼接的底座、支架或支撑件。",
+    "intro": "2026.10.18 OUART 每日模型合集成员；本期共2件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/187x-naifKptykYdfM3150w",
+    "shareCode": "045b",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261018",
+    "nameZh": "建筑工地 4×4 G型地板",
+    "nameEn": "Construction Site 4x4 Floor Type G",
+    "displayName": "建筑工地 4×4 G型地板｜Construction Site 4x4 Floor Type G",
+    "category": "建筑场景 / 模块化地形",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "建筑工地 4×4 G型地板｜Construction Site 4x4 Floor Type GAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包为一件可独立使用的建筑工地4×4模块化G型地板模型；交付内容仅含该地板本体，不包含同目录下A至F型地板，也没有需要另行拼接的底座、支架或支撑件。",
+          "该模型归入“建筑场景 / 模块化地形”，与同批其他1件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/floors-c09013/gallery-01.png",
+        "alt": "建筑工地 4×4 G型地板｜Construction Site 4x4 Floor Type G真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-278fd483d6981fa8a076cbadbc37ddc53138dc68ace347e574be2ab0375dcc0c.png"
+      },
+      {
+        "src": "./assets/models/floors-c09013/gallery-02.png",
+        "alt": "建筑工地 4×4 G型地板｜Construction Site 4x4 Floor Type G真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-080c5dfad238d1b625855ce7031e3c50b5c15e4900772b95acb94595eb8f83fa.png"
+      },
+      {
+        "src": "./assets/models/floors-c09013/gallery-03.png",
+        "alt": "建筑工地 4×4 G型地板｜Construction Site 4x4 Floor Type G真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-fb95c94b04ee7aea207b4c1a09fa52f52458fce3c933c0e2987eaf3ccc6a6114.png"
+      },
+      {
+        "src": "./assets/models/floors-c09013/gallery-04.png",
+        "alt": "建筑工地 4×4 G型地板｜Construction Site 4x4 Floor Type G真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-3186fcaf27344e88d18454cc50c3fc942c0dae41c7849a444f30b14db8e87709.png"
+      },
+      {
+        "src": "./assets/models/floors-c09013/gallery-05.png",
+        "alt": "建筑工地 4×4 G型地板｜Construction Site 4x4 Floor Type G真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-085535e9f8fd6197c2bd531be8e06b78acf6d5b6e23800d14aceb322deea1423.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-ac4dd5b07016932499105d0a3a6cab9d123b019663fd620412e440dd1302c100.png"
+  },
+  {
+    "id": "ouart-daily-six-20261018:open-racks-dbcbe5",
+    "publicationId": "ouart-daily-six-20261018:open-racks-dbcbe5",
+    "inventoryId": "open-racks-dbcbe5",
+    "name": "转角开放式颜料收纳模块五规格套装｜Corner Open Paint Rack Modules — Five Size Variants",
+    "date": "2026-10-18",
+    "displayDate": "2026.10.18",
+    "format": "STL",
+    "fileCount": 5,
+    "size": "0.10 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/open-racks-dbcbe5/open-racks-dbcbe5-主图@初艺ouart.png",
+    "description": "完整包包含同一转角开放式颜料收纳模块的 x1、x2、x3、x4、x5 五种单件 STL 规格，可按颜料数量与可用空间选择不同宽度打印。五种规格均保留在同一发布中；代表展示采用容量最大的 x5 实际网格。该包不宣称包含完整桌面收纳系统、后部延伸搁板或其他目录中的颜料瓶专用模块。",
+    "intro": "2026.10.18 OUART 每日模型合集成员；本期共2件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1uxsVyEas3Y6M4t6zC5780A",
+    "shareCode": "0e96",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261018",
+    "nameZh": "转角开放式颜料收纳模块五规格套装",
+    "nameEn": "Corner Open Paint Rack Modules — Five Size Variants",
+    "displayName": "转角开放式颜料收纳模块五规格套装｜Corner Open Paint Rack Modules — Five Size Variants",
+    "category": "模型制作工具收纳",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "转角开放式颜料收纳模块五规格套装｜Corner Open Paint Rack Modules — Five Size VariantsAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包包含同一转角开放式颜料收纳模块的 x1、x2、x3、x4、x5 五种单件 STL 规格，可按颜料数量与可用空间选择不同宽度打印。五种规格均保留在同一发布中；代表展示采用容量最大的 x5 实际网格。该包不宣称包含完整桌面收纳系统、后部延伸搁板或其他目录中的颜料瓶专用模块。",
+          "该模型归入“模型制作工具收纳”，与同批其他1件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 5 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/open-racks-dbcbe5/gallery-01.png",
+        "alt": "转角开放式颜料收纳模块五规格套装｜Corner Open Paint Rack Modules — Five Size Variants真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-b1cbf8e634842938e67fc5715d1a950d9b564e2cd6f95a3011b54880dbd9ecc3.png"
+      },
+      {
+        "src": "./assets/models/open-racks-dbcbe5/gallery-02.png",
+        "alt": "转角开放式颜料收纳模块五规格套装｜Corner Open Paint Rack Modules — Five Size Variants真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-cdf3872b96ea21521b9d05bc6c935c742d54319fe4a77fd121c259110256fd00.png"
+      },
+      {
+        "src": "./assets/models/open-racks-dbcbe5/gallery-03.png",
+        "alt": "转角开放式颜料收纳模块五规格套装｜Corner Open Paint Rack Modules — Five Size Variants真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-5b6f8fd5627391a8e6b9cceb49b558239700729c1063a95075a540647fb1add8.png"
+      },
+      {
+        "src": "./assets/models/open-racks-dbcbe5/gallery-04.png",
+        "alt": "转角开放式颜料收纳模块五规格套装｜Corner Open Paint Rack Modules — Five Size Variants真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-e484f1ba2f263093953f0322fe9e922c566fa70a90818105f56f09400f147697.png"
+      },
+      {
+        "src": "./assets/models/open-racks-dbcbe5/gallery-05.png",
+        "alt": "转角开放式颜料收纳模块五规格套装｜Corner Open Paint Rack Modules — Five Size Variants真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-004dcb94d737ab1a48bbb51b0ededb633170823fa7c11da17a836b07e238842d.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-9d4cf7fcfd00fc590f4f9af6d65cef7e06d7db00eb38df80c1d26a1850f9badd.png"
+  },
+  {
     "id": "ouart-daily-six-20261017:designer-crescent-decorative-object-vase-vessel-model-c2a27b",
     "publicationId": "ouart-daily-six-20261017:designer-crescent-decorative-object-vase-vessel-model-c2a27b",
     "inventoryId": "designer-crescent-decorative-object-vase-vessel-model-c2a27b",

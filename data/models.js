@@ -1,5 +1,110 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261019:kimera-kolors-278632",
+    "publicationId": "ouart-daily-six-20261019:kimera-kolors-278632",
+    "inventoryId": "kimera-kolors-278632",
+    "name": "Kimera Kolors 转角颜料模块套装（1–5位）｜Kimera Kolors Corner Paint Module Set (1–5 Slots)",
+    "date": "2026-10-19",
+    "displayDate": "2026.10.19",
+    "format": "STL",
+    "fileCount": 5,
+    "size": "0.38 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/kimera-kolors-278632/kimera-kolors-278632-主图@初艺ouart.png",
+    "description": "完整套装包含适配 Kimera Kolors 颜料的1位、2位、3位、4位和5位五种一体式转角收纳模块，可按颜料数量与桌面转角空间选择打印；五件是同一功能设计的容量变体，并非五个无关作品。",
+    "intro": "2026.10.19 OUART 每日模型合集成员；本期共1件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1y3wM8hoFg2IftxoRt8tlSw",
+    "shareCode": "6a07",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261019",
+    "nameZh": "Kimera Kolors 转角颜料模块套装（1–5位）",
+    "nameEn": "Kimera Kolors Corner Paint Module Set (1–5 Slots)",
+    "displayName": "Kimera Kolors 转角颜料模块套装（1–5位）｜Kimera Kolors Corner Paint Module Set (1–5 Slots)",
+    "category": "工具与收纳",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "Kimera Kolors 转角颜料模块套装（1–5位）｜Kimera Kolors Corner Paint Module Set (1–5 Slots)AI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整套装包含适配 Kimera Kolors 颜料的1位、2位、3位、4位和5位五种一体式转角收纳模块，可按颜料数量与桌面转角空间选择打印；五件是同一功能设计的容量变体，并非五个无关作品。",
+          "该模型归入“工具与收纳”，作为本期单件模型独立展示。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 5 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/kimera-kolors-278632/gallery-01.png",
+        "alt": "Kimera Kolors 转角颜料模块套装（1–5位）｜Kimera Kolors Corner Paint Module Set (1–5 Slots)真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-65fbe0c4bf57acf0e68e95b9aa626a440b88bf663dca409e9c4bf2094d677478.png"
+      },
+      {
+        "src": "./assets/models/kimera-kolors-278632/gallery-02.png",
+        "alt": "Kimera Kolors 转角颜料模块套装（1–5位）｜Kimera Kolors Corner Paint Module Set (1–5 Slots)真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-d91cc89a04d5b9c3f57544f6f666ebe88a12925b2c29d78b2fb2a47520c6b46b.png"
+      },
+      {
+        "src": "./assets/models/kimera-kolors-278632/gallery-03.png",
+        "alt": "Kimera Kolors 转角颜料模块套装（1–5位）｜Kimera Kolors Corner Paint Module Set (1–5 Slots)真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-0f5de9388f589f75dc81c90df2afff6d831ba3dde908f987c2f1cbe7e9a4311e.png"
+      },
+      {
+        "src": "./assets/models/kimera-kolors-278632/gallery-04.png",
+        "alt": "Kimera Kolors 转角颜料模块套装（1–5位）｜Kimera Kolors Corner Paint Module Set (1–5 Slots)真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-e42155e4933e75c369ba21b7b71e2c8e920e87da5f3698c002bf4d7cc327900b.png"
+      },
+      {
+        "src": "./assets/models/kimera-kolors-278632/gallery-05.png",
+        "alt": "Kimera Kolors 转角颜料模块套装（1–5位）｜Kimera Kolors Corner Paint Module Set (1–5 Slots)真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-bd927a30ad2f69ac6f1b2daf801eabdc6ecb3512ec37b063388242aa75445d23.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-c663a70398be204da6491c731fa034f30d5b97216161409106888eb225403397.png"
+  },
+  {
     "id": "ouart-daily-six-20261018:floors-c09013",
     "publicationId": "ouart-daily-six-20261018:floors-c09013",
     "inventoryId": "floors-c09013",

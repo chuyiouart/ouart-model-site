@@ -1,5 +1,110 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261020:files-38f252",
+    "publicationId": "ouart-daily-six-20261020:files-38f252",
+    "inventoryId": "files-38f252",
+    "name": "PUBG 15倍狙击步枪瞄准镜｜PUBG 15x Sniper Rifle Scope",
+    "date": "2026-10-20",
+    "displayDate": "2026.10.20",
+    "format": "STL",
+    "fileCount": 2,
+    "size": "0.46 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/files-38f252/files-38f252-主图@初艺ouart.png",
+    "description": "完整包包含 PUBG 风格 15 倍狙击步枪瞄准镜的两个同作品单体 STL 变体：原始版 x15Scope.stl 与修正版 x15Scope_fixed.stl。两份均为可独立展示的完整合并镜体，不需要另配底座、支架或分体装配；展示优先采用 fixed 修正版，同时在同一 release 中保留原始版本。",
+    "intro": "2026.10.20 OUART 每日模型合集成员；本期共1件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1ePDnBexISTyTsL0H5Vostg",
+    "shareCode": "bf7d",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261020",
+    "nameZh": "PUBG 15倍狙击步枪瞄准镜",
+    "nameEn": "PUBG 15x Sniper Rifle Scope",
+    "displayName": "PUBG 15倍狙击步枪瞄准镜｜PUBG 15x Sniper Rifle Scope",
+    "category": "武器道具/瞄准镜配件",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "PUBG 15倍狙击步枪瞄准镜｜PUBG 15x Sniper Rifle ScopeAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包包含 PUBG 风格 15 倍狙击步枪瞄准镜的两个同作品单体 STL 变体：原始版 x15Scope.stl 与修正版 x15Scope_fixed.stl。两份均为可独立展示的完整合并镜体，不需要另配底座、支架或分体装配；展示优先采用 fixed 修正版，同时在同一 release 中保留原始版本。",
+          "该模型归入“武器道具/瞄准镜配件”，作为本期单件模型独立展示。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 2 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/files-38f252/gallery-01.png",
+        "alt": "PUBG 15倍狙击步枪瞄准镜｜PUBG 15x Sniper Rifle Scope真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-3736f672633ae76a96a6fbc94ce1c20291ecf8073d38f2dda547a352cfae50d1.png"
+      },
+      {
+        "src": "./assets/models/files-38f252/gallery-02.png",
+        "alt": "PUBG 15倍狙击步枪瞄准镜｜PUBG 15x Sniper Rifle Scope真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-b8ae7f2ce0af5f0d06a6784ef94e18933bb51ffb67d93cf4dc563cdbf798a177.png"
+      },
+      {
+        "src": "./assets/models/files-38f252/gallery-03.png",
+        "alt": "PUBG 15倍狙击步枪瞄准镜｜PUBG 15x Sniper Rifle Scope真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-000c61271f4e97ef82b4d64b7aaa74fe5e55084624b369a6de4c24279fed2f23.png"
+      },
+      {
+        "src": "./assets/models/files-38f252/gallery-04.png",
+        "alt": "PUBG 15倍狙击步枪瞄准镜｜PUBG 15x Sniper Rifle Scope真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-3cacf14cf21ebb1df77332f9b3d40f5454d5d10cff37bb8d23600ac1a960c7ca.png"
+      },
+      {
+        "src": "./assets/models/files-38f252/gallery-05.png",
+        "alt": "PUBG 15倍狙击步枪瞄准镜｜PUBG 15x Sniper Rifle Scope真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-9ae3184f934af68805ce64dd0cc0a1eddfa8d0a6540ce7e1cc66551b10288e3d.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-8bb83542ef9a77f2ebefc4a1f048420980a665bc867d04650983ee18022f4eee.png"
+  },
+  {
     "id": "ouart-daily-six-20261019:kimera-kolors-278632",
     "publicationId": "ouart-daily-six-20261019:kimera-kolors-278632",
     "inventoryId": "kimera-kolors-278632",

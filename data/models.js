@@ -1,5 +1,110 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261021:dropper-bottles-57f71c",
+    "publicationId": "ouart-daily-six-20261021:dropper-bottles-57f71c",
+    "inventoryId": "dropper-bottles-57f71c",
+    "name": "转角滴管瓶颜料收纳模块五规格套装｜Corner Dropper Bottle Paint Module Five-Size Set",
+    "date": "2026-10-21",
+    "displayDate": "2026.10.21",
+    "format": "STL",
+    "fileCount": 5,
+    "size": "0.65 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/dropper-bottles-57f71c/dropper-bottles-57f71c-主图@初艺ouart.png",
+    "description": "完整包包含同一转角滴管瓶颜料收纳模块的 x1、x2、x3、x4、x5 五种容量/长度规格，每种规格均为单件一体式实际 STL，可按所需瓶位数量独立选用；它们是同一功能设计的尺寸变体，应作为一个完整发行包保留，而不是五件无关作品。",
+    "intro": "2026.10.21 OUART 每日模型合集成员；本期共1件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1yMcGutp2x-VuMzvbmxLJ0g",
+    "shareCode": "3175",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261021",
+    "nameZh": "转角滴管瓶颜料收纳模块五规格套装",
+    "nameEn": "Corner Dropper Bottle Paint Module Five-Size Set",
+    "displayName": "转角滴管瓶颜料收纳模块五规格套装｜Corner Dropper Bottle Paint Module Five-Size Set",
+    "category": "工具与收纳",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "转角滴管瓶颜料收纳模块五规格套装｜Corner Dropper Bottle Paint Module Five-Size SetAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包包含同一转角滴管瓶颜料收纳模块的 x1、x2、x3、x4、x5 五种容量/长度规格，每种规格均为单件一体式实际 STL，可按所需瓶位数量独立选用；它们是同一功能设计的尺寸变体，应作为一个完整发行包保留，而不是五件无关作品。",
+          "该模型归入“工具与收纳”，作为本期单件模型独立展示。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 5 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/dropper-bottles-57f71c/gallery-01.png",
+        "alt": "转角滴管瓶颜料收纳模块五规格套装｜Corner Dropper Bottle Paint Module Five-Size Set真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-1895691bf87bc1881304a82ac2dc50491022fad1b623ca32b949c3125caa4f1a.png"
+      },
+      {
+        "src": "./assets/models/dropper-bottles-57f71c/gallery-02.png",
+        "alt": "转角滴管瓶颜料收纳模块五规格套装｜Corner Dropper Bottle Paint Module Five-Size Set真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-ca91e2d90c060642bb3ff5043fad0c79f605805601a35cf66da9f27465c89630.png"
+      },
+      {
+        "src": "./assets/models/dropper-bottles-57f71c/gallery-03.png",
+        "alt": "转角滴管瓶颜料收纳模块五规格套装｜Corner Dropper Bottle Paint Module Five-Size Set真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-1adff9c24be5700ef25aceccc0f0114c0d9c4f508d1899b70ed1d89434efbf1e.png"
+      },
+      {
+        "src": "./assets/models/dropper-bottles-57f71c/gallery-04.png",
+        "alt": "转角滴管瓶颜料收纳模块五规格套装｜Corner Dropper Bottle Paint Module Five-Size Set真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-900c347d23150f8c85a46df2c24dc51022a4a4a5db6943a2ee3eedf08d833d21.png"
+      },
+      {
+        "src": "./assets/models/dropper-bottles-57f71c/gallery-05.png",
+        "alt": "转角滴管瓶颜料收纳模块五规格套装｜Corner Dropper Bottle Paint Module Five-Size Set真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-ddec4eb83a5bd3d4228ac45e4962ae86fff64ed2ff034f83cfb645fdc6e7b18f.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-3af80a79f442ba61c8af36e3c5ca50ca1e97a37c6b4605daa3bf230266b50e5c.png"
+  },
+  {
     "id": "ouart-daily-six-20261020:files-38f252",
     "publicationId": "ouart-daily-six-20261020:files-38f252",
     "inventoryId": "files-38f252",

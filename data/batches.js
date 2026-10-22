@@ -1,6 +1,25 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20261022",
+    "date": "2026-10-22",
+    "displayDate": "2026.10.22",
+    "title": "2026.10.22｜OUART 今日2件",
+    "description": "本期共2件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-10-22/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-10-22 2模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20261022:ms22-minecraft-sword-do3d-q3u6w9l0-ef1aa3",
+      "ouart-daily-six-20261022:lucas-perez-puar-901f05"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/18upSfZVyl8EQ4FOZ5kDEew",
+    "shareCode": "d99d",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-10-22T10:31:09+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20261021",
     "date": "2026-10-21",
     "displayDate": "2026.10.21",

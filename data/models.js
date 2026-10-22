@@ -1,5 +1,215 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261022:ms22-minecraft-sword-do3d-q3u6w9l0-ef1aa3",
+    "publicationId": "ouart-daily-six-20261022:ms22-minecraft-sword-do3d-q3u6w9l0-ef1aa3",
+    "inventoryId": "ms22-minecraft-sword-do3d-q3u6w9l0-ef1aa3",
+    "name": "我的世界像素大宝剑（五件完整拆分版）｜Minecraft Pixel Greatsword — Complete Five-Part Split Edition",
+    "date": "2026-10-22",
+    "displayDate": "2026.10.22",
+    "format": "STL",
+    "fileCount": 5,
+    "size": "178.29 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/ms22-minecraft-sword-do3d-q3u6w9l0-ef1aa3/ms22-minecraft-sword-do3d-q3u6w9l0-ef1aa3-主图@初艺ouart.png",
+    "description": "完整包包含同一把像素风大宝剑的五个实际 STL：上、下两段剑刃、护手、剑柄和柄首。各件共同组成原图所示的完整长剑，既不是五件独立武器，也没有把支撑版误称为另一作品；包内未见其他合并版或支撑版变体。五件网格保留可直接复现成品的共同原生坐标，适合分件打印后按原图装配，并作为一个完整 daily release 保留。",
+    "intro": "2026.10.22 OUART 每日模型合集成员；本期共2件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1ImMhFnpkfvLiIFAWp5ODkg",
+    "shareCode": "0e4d",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261022",
+    "nameZh": "我的世界像素大宝剑（五件完整拆分版）",
+    "nameEn": "Minecraft Pixel Greatsword — Complete Five-Part Split Edition",
+    "displayName": "我的世界像素大宝剑（五件完整拆分版）｜Minecraft Pixel Greatsword — Complete Five-Part Split Edition",
+    "category": "游戏道具/幻想武器模型",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "我的世界像素大宝剑（五件完整拆分版）｜Minecraft Pixel Greatsword — Complete Five-Part Split EditionAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包包含同一把像素风大宝剑的五个实际 STL：上、下两段剑刃、护手、剑柄和柄首。各件共同组成原图所示的完整长剑，既不是五件独立武器，也没有把支撑版误称为另一作品；包内未见其他合并版或支撑版变体。五件网格保留可直接复现成品的共同原生坐标，适合分件打印后按原图装配，并作为一个完整 daily release 保留。",
+          "该模型归入“游戏道具/幻想武器模型”，与同批其他1件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 5 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/ms22-minecraft-sword-do3d-q3u6w9l0-ef1aa3/gallery-02.png",
+        "alt": "我的世界像素大宝剑（五件完整拆分版）｜Minecraft Pixel Greatsword — Complete Five-Part Split Edition真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-4cfcf385453019666fa9603190aa0fe47d3a71b000cbb80aed16c3604fafc52b.png"
+      },
+      {
+        "src": "./assets/models/ms22-minecraft-sword-do3d-q3u6w9l0-ef1aa3/gallery-03.png",
+        "alt": "我的世界像素大宝剑（五件完整拆分版）｜Minecraft Pixel Greatsword — Complete Five-Part Split Edition真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-c0f14304184a273f3b9a45e9f389079d68905258b9c9cefe7791128bba2d07f1.png"
+      },
+      {
+        "src": "./assets/models/ms22-minecraft-sword-do3d-q3u6w9l0-ef1aa3/gallery-04.png",
+        "alt": "我的世界像素大宝剑（五件完整拆分版）｜Minecraft Pixel Greatsword — Complete Five-Part Split Edition真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-8faa68a8549baf6a96abb054f3337415a4d567e8e5db6dd04a9e94c0f052b337.png"
+      },
+      {
+        "src": "./assets/models/ms22-minecraft-sword-do3d-q3u6w9l0-ef1aa3/gallery-05.png",
+        "alt": "我的世界像素大宝剑（五件完整拆分版）｜Minecraft Pixel Greatsword — Complete Five-Part Split Edition真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-9a3adb9df35f879778bfdd0f74e6939a0e42b1981803aef4cc7503cd71a9ec92.png"
+      },
+      {
+        "src": "./assets/models/ms22-minecraft-sword-do3d-q3u6w9l0-ef1aa3/gallery-06.png",
+        "alt": "我的世界像素大宝剑（五件完整拆分版）｜Minecraft Pixel Greatsword — Complete Five-Part Split Edition真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-b79c6fff5a32b6929fb7bdd071862b10ec0f9ab4d33db211fc7f70e32ee553d6.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-5a4e37e429c13fe89aedfaf3fbd33263d74e0cd33beb0eb8b2b7eb7d8ff19c7c.png"
+  },
+  {
+    "id": "ouart-daily-six-20261022:lucas-perez-puar-901f05",
+    "publicationId": "ouart-daily-six-20261022:lucas-perez-puar-901f05",
+    "inventoryId": "lucas-perez-puar-901f05",
+    "name": "《龙珠》普尔全身雕像套件｜Dragon Ball Puar Full-Figure Statue Kit",
+    "date": "2026-10-22",
+    "displayDate": "2026.10.22",
+    "format": "STL",
+    "fileCount": 9,
+    "size": "198.02 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/lucas-perez-puar-901f05/lucas-perez-puar-901f05-主图@初艺ouart.png",
+    "description": "完整的普尔全身角色打印套件，包含展示底座、身体、头部、尾巴、左右脚、左右脚的替代打印版本以及高度标尺柱；替代脚部文件属于同一作品的打印变体，不是另一件作品。代表展示方案采用实际提供的独立底座与非带底部延伸的左右脚版本，并配齐身体、头部和尾巴。",
+    "intro": "2026.10.22 OUART 每日模型合集成员；本期共2件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1pZTyr7cbNqZ88ACJsQYLSQ",
+    "shareCode": "3d78",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261022",
+    "nameZh": "《龙珠》普尔全身雕像套件",
+    "nameEn": "Dragon Ball Puar Full-Figure Statue Kit",
+    "displayName": "《龙珠》普尔全身雕像套件｜Dragon Ball Puar Full-Figure Statue Kit",
+    "category": "动漫角色全身雕像",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "《龙珠》普尔全身雕像套件｜Dragon Ball Puar Full-Figure Statue KitAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整的普尔全身角色打印套件，包含展示底座、身体、头部、尾巴、左右脚、左右脚的替代打印版本以及高度标尺柱；替代脚部文件属于同一作品的打印变体，不是另一件作品。代表展示方案采用实际提供的独立底座与非带底部延伸的左右脚版本，并配齐身体、头部和尾巴。",
+          "该模型归入“动漫角色全身雕像”，与同批其他1件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 9 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/lucas-perez-puar-901f05/gallery-02.png",
+        "alt": "《龙珠》普尔全身雕像套件｜Dragon Ball Puar Full-Figure Statue Kit真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-b113c0488d591414a6baf48940123926708e479723b8d22f45879cdb845a8891.png"
+      },
+      {
+        "src": "./assets/models/lucas-perez-puar-901f05/gallery-03.png",
+        "alt": "《龙珠》普尔全身雕像套件｜Dragon Ball Puar Full-Figure Statue Kit真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-88251ea36a99efd5d6fce8989c3e76ee82c0aade515610226c0abe0175381707.png"
+      },
+      {
+        "src": "./assets/models/lucas-perez-puar-901f05/gallery-04.png",
+        "alt": "《龙珠》普尔全身雕像套件｜Dragon Ball Puar Full-Figure Statue Kit真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-aa3916037cf2377e5d498097dd99569650ec039d6aada27ff67c5cc1cbf61b3e.png"
+      },
+      {
+        "src": "./assets/models/lucas-perez-puar-901f05/gallery-05.png",
+        "alt": "《龙珠》普尔全身雕像套件｜Dragon Ball Puar Full-Figure Statue Kit真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-11f5aec60fbbbf60946331cd1c40fee57e7db23f9c053b98f6718b589f2b5f05.png"
+      },
+      {
+        "src": "./assets/models/lucas-perez-puar-901f05/gallery-06.png",
+        "alt": "《龙珠》普尔全身雕像套件｜Dragon Ball Puar Full-Figure Statue Kit真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-5706940a5521d489c2236d30e8e3db371e82b6acd286bb2191ebb6fba1fce2b0.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-91523d2b23f77fbc74180415463c20590e7b85c3cf4972decc549c58a0e9de46.png"
+  },
+  {
     "id": "ouart-daily-six-20261021:dropper-bottles-57f71c",
     "publicationId": "ouart-daily-six-20261021:dropper-bottles-57f71c",
     "inventoryId": "dropper-bottles-57f71c",

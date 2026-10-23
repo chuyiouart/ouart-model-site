@@ -1,6 +1,26 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20261023",
+    "date": "2026-10-23",
+    "displayDate": "2026.10.23",
+    "title": "2026.10.23｜OUART 今日3件",
+    "description": "本期共3件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-10-23/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-10-23 3模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20261023:model-216132428621987-9de44f",
+      "ouart-daily-six-20261023:female-manequin-d0cd86",
+      "ouart-daily-six-20261023:kabuki-figures-naruto-bust-00d8ff"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/19PAHrikrZsFgzvZHdKEuTQ",
+    "shareCode": "6f70",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-10-23T10:32:23+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20261022",
     "date": "2026-10-22",
     "displayDate": "2026.10.22",

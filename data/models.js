@@ -1,5 +1,320 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261023:model-216132428621987-9de44f",
+    "publicationId": "ouart-daily-six-20261023:model-216132428621987-9de44f",
+    "inventoryId": "model-216132428621987-9de44f",
+    "name": "一体打印混凝土搅拌车完整多版本包（100%、60%及前后替换轮）｜Print-in-Place Cement Mixer Complete Multi-Variant Package — 100%, 60% and Replacement Wheels",
+    "date": "2026-10-23",
+    "displayDate": "2026.10.23",
+    "format": "STL",
+    "fileCount": 4,
+    "size": "22.10 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-216132428621987-9de44f/model-216132428621987-9de44f-主图@初艺ouart.png",
+    "description": "完整包是一件可动一体打印混凝土搅拌车作品，包含 100% 原尺寸整车、60% 比例整车，以及同车适用的前轮和后轮替换件。两个整车 STL 是同一几何的比例变体，替换轮是维修/打印选择，均应留在同一 daily release，不能拆成多件独立作品。代表展示采用 100% 一体打印完整整车；替换轮不重复安装，也不用于虚构另一辆车。",
+    "intro": "2026.10.23 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1WNBM6CF6dwY2CtAn5i_2_g",
+    "shareCode": "d58f",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261023",
+    "nameZh": "一体打印混凝土搅拌车完整多版本包（100%、60%及前后替换轮）",
+    "nameEn": "Print-in-Place Cement Mixer Complete Multi-Variant Package — 100%, 60% and Replacement Wheels",
+    "displayName": "一体打印混凝土搅拌车完整多版本包（100%、60%及前后替换轮）｜Print-in-Place Cement Mixer Complete Multi-Variant Package — 100%, 60% and Replacement Wheels",
+    "category": "工程车辆/可动一体打印机械模型",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "一体打印混凝土搅拌车完整多版本包（100%、60%及前后替换轮）｜Print-in-Place Cement Mixer Complete Multi-Variant Package — 100%, 60% and Replacement WheelsAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包是一件可动一体打印混凝土搅拌车作品，包含 100% 原尺寸整车、60% 比例整车，以及同车适用的前轮和后轮替换件。两个整车 STL 是同一几何的比例变体，替换轮是维修/打印选择，均应留在同一 daily release，不能拆成多件独立作品。代表展示采用 100% 一体打印完整整车；替换轮不重复安装，也不用于虚构另一辆车。",
+          "该模型归入“工程车辆/可动一体打印机械模型”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 4 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-216132428621987-9de44f/gallery-01.png",
+        "alt": "一体打印混凝土搅拌车完整多版本包（100%、60%及前后替换轮）｜Print-in-Place Cement Mixer Complete Multi-Variant Package — 100%, 60% and Replacement Wheels真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-e793396fefc80c274c0c4bbe48c511d687ff7d45e23d9a2ca93c409bd021a8ff.png"
+      },
+      {
+        "src": "./assets/models/model-216132428621987-9de44f/gallery-02.png",
+        "alt": "一体打印混凝土搅拌车完整多版本包（100%、60%及前后替换轮）｜Print-in-Place Cement Mixer Complete Multi-Variant Package — 100%, 60% and Replacement Wheels真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-8d2a061022d38919a9fffbcef71bcd281665330982181fa28de14b32af002f9b.png"
+      },
+      {
+        "src": "./assets/models/model-216132428621987-9de44f/gallery-03.png",
+        "alt": "一体打印混凝土搅拌车完整多版本包（100%、60%及前后替换轮）｜Print-in-Place Cement Mixer Complete Multi-Variant Package — 100%, 60% and Replacement Wheels真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-00911777349b5597b2009f35a9438ec99b5356d2cb0296abc98863faa4df504a.png"
+      },
+      {
+        "src": "./assets/models/model-216132428621987-9de44f/gallery-04.png",
+        "alt": "一体打印混凝土搅拌车完整多版本包（100%、60%及前后替换轮）｜Print-in-Place Cement Mixer Complete Multi-Variant Package — 100%, 60% and Replacement Wheels真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-70b21a3d0c0f2d5aa885621edbbfb57e63afc3d25b658bf4893501b6edcd3ed3.png"
+      },
+      {
+        "src": "./assets/models/model-216132428621987-9de44f/gallery-05.png",
+        "alt": "一体打印混凝土搅拌车完整多版本包（100%、60%及前后替换轮）｜Print-in-Place Cement Mixer Complete Multi-Variant Package — 100%, 60% and Replacement Wheels真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-14d0a76fad526e33af0085b4f5332b4729e6ab297d1b8e55dfb8359bbfb651c5.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-26056790aff4432e379f236b9f1eee1731b1f78fe259eaeb7e493ff068c803c4.png"
+  },
+  {
+    "id": "ouart-daily-six-20261023:female-manequin-d0cd86",
+    "publicationId": "ouart-daily-six-20261023:female-manequin-d0cd86",
+    "inventoryId": "female-manequin-d0cd86",
+    "name": "女性人体练习模特胸像完整四版本包（本体、底座与支杆展示变体）｜Female Practice Mannequin Bust Complete Four-Variant Package — Body, Base and Stand Options",
+    "date": "2026-10-23",
+    "displayDate": "2026.10.23",
+    "format": "STL",
+    "fileCount": 4,
+    "size": "11.44 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/female-manequin-d0cd86/female-manequin-d0cd86-主图@初艺ouart.png",
+    "description": "完整包是一件女性人体造型练习模特胸像作品，包含纯本体、带底座、本体带支杆，以及本体、支杆与底座合并的四种实际 STL 展示版本。底座和支杆是同一作品的展示组成或变体，不是独立作品；四个版本应在同一 daily release 中完整保留。代表展示采用已合并的 Body_Stand_Base 网格，以避免省略必要展示底座或虚构分件装配。",
+    "intro": "2026.10.23 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1IuUNIYnhdQnegnBD8a1GfQ",
+    "shareCode": "aefd",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261023",
+    "nameZh": "女性人体练习模特胸像完整四版本包（本体、底座与支杆展示变体）",
+    "nameEn": "Female Practice Mannequin Bust Complete Four-Variant Package — Body, Base and Stand Options",
+    "displayName": "女性人体练习模特胸像完整四版本包（本体、底座与支杆展示变体）｜Female Practice Mannequin Bust Complete Four-Variant Package — Body, Base and Stand Options",
+    "category": "人体艺术练习胸像/展示雕塑",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "女性人体练习模特胸像完整四版本包（本体、底座与支杆展示变体）｜Female Practice Mannequin Bust Complete Four-Variant Package — Body, Base and Stand OptionsAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包是一件女性人体造型练习模特胸像作品，包含纯本体、带底座、本体带支杆，以及本体、支杆与底座合并的四种实际 STL 展示版本。底座和支杆是同一作品的展示组成或变体，不是独立作品；四个版本应在同一 daily release 中完整保留。代表展示采用已合并的 Body_Stand_Base 网格，以避免省略必要展示底座或虚构分件装配。",
+          "该模型归入“人体艺术练习胸像/展示雕塑”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 4 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/female-manequin-d0cd86/gallery-01.png",
+        "alt": "女性人体练习模特胸像完整四版本包（本体、底座与支杆展示变体）｜Female Practice Mannequin Bust Complete Four-Variant Package — Body, Base and Stand Options真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-a409b7cf812026d71eece94e3c722f7d30009f076d3e1924c2a938b2be1d2cef.png"
+      },
+      {
+        "src": "./assets/models/female-manequin-d0cd86/gallery-02.png",
+        "alt": "女性人体练习模特胸像完整四版本包（本体、底座与支杆展示变体）｜Female Practice Mannequin Bust Complete Four-Variant Package — Body, Base and Stand Options真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-b3b7ad5727988fd2fb07ad2d879767b2f6bfb8e81a77a8da17c11f69225571ab.png"
+      },
+      {
+        "src": "./assets/models/female-manequin-d0cd86/gallery-03.png",
+        "alt": "女性人体练习模特胸像完整四版本包（本体、底座与支杆展示变体）｜Female Practice Mannequin Bust Complete Four-Variant Package — Body, Base and Stand Options真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-3e30883d1aab6ddfa32f7f1757bd683a3a0ffa7792b49db1eddf6a5be2877236.png"
+      },
+      {
+        "src": "./assets/models/female-manequin-d0cd86/gallery-04.png",
+        "alt": "女性人体练习模特胸像完整四版本包（本体、底座与支杆展示变体）｜Female Practice Mannequin Bust Complete Four-Variant Package — Body, Base and Stand Options真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-0d511a5af1c805dddba0144cc81ec8db673507a1af566f8369ccc8ca3efa1ee4.png"
+      },
+      {
+        "src": "./assets/models/female-manequin-d0cd86/gallery-05.png",
+        "alt": "女性人体练习模特胸像完整四版本包（本体、底座与支杆展示变体）｜Female Practice Mannequin Bust Complete Four-Variant Package — Body, Base and Stand Options真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-f45c99858c3a073b937a546457dc63adf38496fb9a53869b4569589f5c052cd4.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-19bc006d845cdc4f6e08ba1b761c50ad6d3d0f562261da1631e7d62d39df4691.png"
+  },
+  {
+    "id": "ouart-daily-six-20261023:kabuki-figures-naruto-bust-00d8ff",
+    "publicationId": "ouart-daily-six-20261023:kabuki-figures-naruto-bust-00d8ff",
+    "inventoryId": "kabuki-figures-naruto-bust-00d8ff",
+    "name": "漩涡鸣人与九尾底座半身像完整套装（含持械手、苦无及打印变体）｜Naruto Uzumaki Bust with Nine-Tails Base Complete Package — Hand, Kunai and Print Variants",
+    "date": "2026-10-23",
+    "displayDate": "2026.10.23",
+    "format": "STL",
+    "fileCount": 9,
+    "size": "579.12 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/kabuki-figures-naruto-bust-00d8ff/kabuki-figures-naruto-bust-00d8ff-主图@初艺ouart.png",
+    "description": "完整包是一件漩涡鸣人主题半身像作品，包含鸣人上身主体、持苦无的手、苦无、不可省略的九尾头部与查克拉火焰造型展示底座，并同时保留同作的另一组拆分、排版或支撑状态打印变体。原图确认这些元素共同组成一件完整成品：鸣人从九尾底座上方升起并在胸前持苦无。苦无不是独立武器作品，九尾也不是第二角色模型；它们均是这件胸像的必要组成。代表展示采用已有完整原生装配关系的 002–005 四个实际网格，完整发布包则保留两组同作变体及辅助边界文件。",
+    "intro": "2026.10.23 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1GdDRMHFmsM6p9OCGDfo0aA",
+    "shareCode": "18d3",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261023",
+    "nameZh": "漩涡鸣人与九尾底座半身像完整套装（含持械手、苦无及打印变体）",
+    "nameEn": "Naruto Uzumaki Bust with Nine-Tails Base Complete Package — Hand, Kunai and Print Variants",
+    "displayName": "漩涡鸣人与九尾底座半身像完整套装（含持械手、苦无及打印变体）｜Naruto Uzumaki Bust with Nine-Tails Base Complete Package — Hand, Kunai and Print Variants",
+    "category": "动漫角色半身像/多部件多版本雕像",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "漩涡鸣人与九尾底座半身像完整套装（含持械手、苦无及打印变体）｜Naruto Uzumaki Bust with Nine-Tails Base Complete Package — Hand, Kunai and Print VariantsAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包是一件漩涡鸣人主题半身像作品，包含鸣人上身主体、持苦无的手、苦无、不可省略的九尾头部与查克拉火焰造型展示底座，并同时保留同作的另一组拆分、排版或支撑状态打印变体。原图确认这些元素共同组成一件完整成品：鸣人从九尾底座上方升起并在胸前持苦无。苦无不是独立武器作品，九尾也不是第二角色模型；它们均是这件胸像的必要组成。代表展示采用已有完整原生装配关系的 002–005 四个实际网格，完整发布包则保留两组同作变体及辅助边界文件。",
+          "该模型归入“动漫角色半身像/多部件多版本雕像”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 9 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/kabuki-figures-naruto-bust-00d8ff/gallery-02.png",
+        "alt": "漩涡鸣人与九尾底座半身像完整套装（含持械手、苦无及打印变体）｜Naruto Uzumaki Bust with Nine-Tails Base Complete Package — Hand, Kunai and Print Variants真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-34fa5856fad7ee0e60a51bccddffaea78bcdaed1ec041bf9d5de9d50d49d3ccd.png"
+      },
+      {
+        "src": "./assets/models/kabuki-figures-naruto-bust-00d8ff/gallery-03.png",
+        "alt": "漩涡鸣人与九尾底座半身像完整套装（含持械手、苦无及打印变体）｜Naruto Uzumaki Bust with Nine-Tails Base Complete Package — Hand, Kunai and Print Variants真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-63be90535927513b7280979e220224fbd44cf5ef2b3bd83f88a7a536565af1eb.png"
+      },
+      {
+        "src": "./assets/models/kabuki-figures-naruto-bust-00d8ff/gallery-04.png",
+        "alt": "漩涡鸣人与九尾底座半身像完整套装（含持械手、苦无及打印变体）｜Naruto Uzumaki Bust with Nine-Tails Base Complete Package — Hand, Kunai and Print Variants真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-1735b3d0c03987e07213b2cafe15eb61d4e02e1f3f6642517f0f6973e41fbf85.png"
+      },
+      {
+        "src": "./assets/models/kabuki-figures-naruto-bust-00d8ff/gallery-05.png",
+        "alt": "漩涡鸣人与九尾底座半身像完整套装（含持械手、苦无及打印变体）｜Naruto Uzumaki Bust with Nine-Tails Base Complete Package — Hand, Kunai and Print Variants真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-e02b7bff31d4a7e0ef7b82c4f9062a08066f012795f2a5abf7cc0dc39853df68.png"
+      },
+      {
+        "src": "./assets/models/kabuki-figures-naruto-bust-00d8ff/gallery-06.png",
+        "alt": "漩涡鸣人与九尾底座半身像完整套装（含持械手、苦无及打印变体）｜Naruto Uzumaki Bust with Nine-Tails Base Complete Package — Hand, Kunai and Print Variants真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-6fdefb711b616ae8f1316bf711a7108c5a488088464f357514d6fbedb74a7382.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-0ad5426805be275072cb35651966de38fb448d7ffe900a4ad9945dcac5753f9f.png"
+  },
+  {
     "id": "ouart-daily-six-20261022:ms22-minecraft-sword-do3d-q3u6w9l0-ef1aa3",
     "publicationId": "ouart-daily-six-20261022:ms22-minecraft-sword-do3d-q3u6w9l0-ef1aa3",
     "inventoryId": "ms22-minecraft-sword-do3d-q3u6w9l0-ef1aa3",

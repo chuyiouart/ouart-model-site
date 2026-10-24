@@ -1,5 +1,320 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261024:evil-scarecrow-755138",
+    "publicationId": "ouart-daily-six-20261024:evil-scarecrow-755138",
+    "inventoryId": "evil-scarecrow-755138",
+    "name": "邪恶持镰稻草人全身雕像（无支撑与支撑双版本）｜Evil Scarecrow with Scythe Full-Figure Statue (Unsupported and Supported Variants)",
+    "date": "2026-10-24",
+    "displayDate": "2026.10.24",
+    "format": "STL",
+    "fileCount": 2,
+    "size": "33.24 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/evil-scarecrow-755138/evil-scarecrow-755138-主图@初艺ouart.png",
+    "description": "完整包是一件邪恶稻草人持镰全身雕像，包含同一完整造型的无支撑版与带打印支撑版两个实际 STL，并附同作品原始效果图。人物从蒙面头部、破旧衣装和双臂延伸至双腿及草束脚，镰刀已经属于完整角色造型；来源图未显示另需底座或台座。展示使用完整无支撑合并版，带支撑版作为同作品的打印变体一并保留。",
+    "intro": "2026.10.24 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1aqB2Lm5FC2ityAxE6P1WQQ",
+    "shareCode": "0238",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261024",
+    "nameZh": "邪恶持镰稻草人全身雕像（无支撑与支撑双版本）",
+    "nameEn": "Evil Scarecrow with Scythe Full-Figure Statue (Unsupported and Supported Variants)",
+    "displayName": "邪恶持镰稻草人全身雕像（无支撑与支撑双版本）｜Evil Scarecrow with Scythe Full-Figure Statue (Unsupported and Supported Variants)",
+    "category": "恐怖怪物角色全身雕像",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "邪恶持镰稻草人全身雕像（无支撑与支撑双版本）｜Evil Scarecrow with Scythe Full-Figure Statue (Unsupported and Supported Variants)AI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包是一件邪恶稻草人持镰全身雕像，包含同一完整造型的无支撑版与带打印支撑版两个实际 STL，并附同作品原始效果图。人物从蒙面头部、破旧衣装和双臂延伸至双腿及草束脚，镰刀已经属于完整角色造型；来源图未显示另需底座或台座。展示使用完整无支撑合并版，带支撑版作为同作品的打印变体一并保留。",
+          "该模型归入“恐怖怪物角色全身雕像”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 2 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/evil-scarecrow-755138/gallery-02.png",
+        "alt": "邪恶持镰稻草人全身雕像（无支撑与支撑双版本）｜Evil Scarecrow with Scythe Full-Figure Statue (Unsupported and Supported Variants)真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-ae72a210a81aa09ea0dc96cccc6681682dcae62bf9b9bc4403bee403a12e9609.png"
+      },
+      {
+        "src": "./assets/models/evil-scarecrow-755138/gallery-03.png",
+        "alt": "邪恶持镰稻草人全身雕像（无支撑与支撑双版本）｜Evil Scarecrow with Scythe Full-Figure Statue (Unsupported and Supported Variants)真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-0919734146cc52c4418339cbdf4b464a60b2ee025fac355411b0eae6102ef5f6.png"
+      },
+      {
+        "src": "./assets/models/evil-scarecrow-755138/gallery-04.png",
+        "alt": "邪恶持镰稻草人全身雕像（无支撑与支撑双版本）｜Evil Scarecrow with Scythe Full-Figure Statue (Unsupported and Supported Variants)真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-c3e614cc98c801dee635a0a617af11d48b2c4ae5c52f175ef87b329b07407bac.png"
+      },
+      {
+        "src": "./assets/models/evil-scarecrow-755138/gallery-05.png",
+        "alt": "邪恶持镰稻草人全身雕像（无支撑与支撑双版本）｜Evil Scarecrow with Scythe Full-Figure Statue (Unsupported and Supported Variants)真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-fafacda99ee860b97556b49cd141df6a83fa668cefb29e3c1b70ca2f63050a10.png"
+      },
+      {
+        "src": "./assets/models/evil-scarecrow-755138/gallery-06.png",
+        "alt": "邪恶持镰稻草人全身雕像（无支撑与支撑双版本）｜Evil Scarecrow with Scythe Full-Figure Statue (Unsupported and Supported Variants)真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-7821867407fd79754156835e875294df35af74d3a53bea03dbdc2e812e760cd5.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-6eb61317ad0e2c2d5fc2876d0a8179f43a14adc3e202e57d8b2e85acbeed51c1.png"
+  },
+  {
+    "id": "ouart-daily-six-20261024:bjd-a4a4d4",
+    "publicationId": "ouart-daily-six-20261024:bjd-a4a4d4",
+    "inventoryId": "bjd-a4a4d4",
+    "name": "希拉可动机械女性人偶｜Shira Articulated Robot Woman",
+    "date": "2026-10-24",
+    "displayDate": "2026.10.24",
+    "format": "STL",
+    "fileCount": 18,
+    "size": "123.47 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/bjd-a4a4d4/bjd-a4a4d4-主图@初艺ouart.png",
+    "description": "完整的希拉可动机械女性全身人偶套件，包含头部与眼睛组合变体、头盔、胸腹躯干、左右肩臂与手、髋关节、左右大腿、肘膝关节以及左右小腿足部，并附仅供查看整体造型的合并参考网格；原始成品照片显示其为无需独立底座的可动全身人偶。",
+    "intro": "2026.10.24 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1BTpU6941bA7IVzvaD41Fog",
+    "shareCode": "cbcb",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261024",
+    "nameZh": "希拉可动机械女性人偶",
+    "nameEn": "Shira Articulated Robot Woman",
+    "displayName": "希拉可动机械女性人偶｜Shira Articulated Robot Woman",
+    "category": "机器人",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "希拉可动机械女性人偶｜Shira Articulated Robot WomanAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整的希拉可动机械女性全身人偶套件，包含头部与眼睛组合变体、头盔、胸腹躯干、左右肩臂与手、髋关节、左右大腿、肘膝关节以及左右小腿足部，并附仅供查看整体造型的合并参考网格；原始成品照片显示其为无需独立底座的可动全身人偶。",
+          "该模型归入“机器人”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 18 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/bjd-a4a4d4/gallery-02.png",
+        "alt": "希拉可动机械女性人偶｜Shira Articulated Robot Woman真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-6102b962b626623caa51e4025c002334e7c6e928fb2e32ec5496b48630122f9e.png"
+      },
+      {
+        "src": "./assets/models/bjd-a4a4d4/gallery-03.png",
+        "alt": "希拉可动机械女性人偶｜Shira Articulated Robot Woman真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-8060f87b0f3a431da2836711056aa7890ddb338706c3780ed2d9a7c7d3bea659.png"
+      },
+      {
+        "src": "./assets/models/bjd-a4a4d4/gallery-04.png",
+        "alt": "希拉可动机械女性人偶｜Shira Articulated Robot Woman真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-14457eb377b4528a21a1c65a1ed01eabc9d7313ddd8a4c749477fad138810ccb.png"
+      },
+      {
+        "src": "./assets/models/bjd-a4a4d4/gallery-05.png",
+        "alt": "希拉可动机械女性人偶｜Shira Articulated Robot Woman真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-561a83bd19232320210e2b4e4adbb1f4be71016d32928e335e3335d01860e5bd.png"
+      },
+      {
+        "src": "./assets/models/bjd-a4a4d4/gallery-06.png",
+        "alt": "希拉可动机械女性人偶｜Shira Articulated Robot Woman真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-d841f46ad1dc2a62ce1d0e5be87d32612f9f84725c7e2186ad05d6d9ee8a72ea.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-66c051e43f163c0b1013a059a33b29abadb1d46f4b0c66e2eaf9bae891e1bc27.png"
+  },
+  {
+    "id": "ouart-daily-six-20261024:ellie-1-6-b0934d",
+    "publicationId": "ouart-daily-six-20261024:ellie-1-6-b0934d",
+    "inventoryId": "ellie-1-6-b0934d",
+    "name": "艾莉 1:6 全身雕像完整套装（含底座与鞋部连接变体）｜Ellie 1:6 Full-Figure Statue Complete Set with Base and Shoe Variants",
+    "date": "2026-10-24",
+    "displayDate": "2026.10.24",
+    "format": "STL",
+    "fileCount": 22,
+    "size": "133.88 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/ellie-1-6-b0934d/ellie-1-6-b0934d-主图@初艺ouart.png",
+    "description": "完整包包含艾莉 1:6 全身人物的躯干、腿部、头部、手臂、双手和多段头发，背包及左右背带、手电筒、枪、必要展示底座、普通左右鞋与带底座连接结构的左右鞋变体，并附 250 mm 高度标尺；代表展示版本采用实际提供的带底座连接鞋完整拆件与匹配底座，普通鞋作为同一作品的替代打印变体保留，不重复装入代表组合。",
+    "intro": "2026.10.24 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1yyOLmp0dAoESiFtU9FgI0g",
+    "shareCode": "5f87",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261024",
+    "nameZh": "艾莉 1:6 全身雕像完整套装（含底座与鞋部连接变体）",
+    "nameEn": "Ellie 1:6 Full-Figure Statue Complete Set with Base and Shoe Variants",
+    "displayName": "艾莉 1:6 全身雕像完整套装（含底座与鞋部连接变体）｜Ellie 1:6 Full-Figure Statue Complete Set with Base and Shoe Variants",
+    "category": "游戏角色全身雕像",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "艾莉 1:6 全身雕像完整套装（含底座与鞋部连接变体）｜Ellie 1:6 Full-Figure Statue Complete Set with Base and Shoe VariantsAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包包含艾莉 1:6 全身人物的躯干、腿部、头部、手臂、双手和多段头发，背包及左右背带、手电筒、枪、必要展示底座、普通左右鞋与带底座连接结构的左右鞋变体，并附 250 mm 高度标尺；代表展示版本采用实际提供的带底座连接鞋完整拆件与匹配底座，普通鞋作为同一作品的替代打印变体保留，不重复装入代表组合。",
+          "该模型归入“游戏角色全身雕像”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 22 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/ellie-1-6-b0934d/gallery-01.png",
+        "alt": "艾莉 1:6 全身雕像完整套装（含底座与鞋部连接变体）｜Ellie 1:6 Full-Figure Statue Complete Set with Base and Shoe Variants真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-98f1b38c73690da2139b496a81aeba7d7070d05170d441550f9e87387d54704e.png"
+      },
+      {
+        "src": "./assets/models/ellie-1-6-b0934d/gallery-02.png",
+        "alt": "艾莉 1:6 全身雕像完整套装（含底座与鞋部连接变体）｜Ellie 1:6 Full-Figure Statue Complete Set with Base and Shoe Variants真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-5a8edb94d9deac2d1dba26c8e8f5a12601a6287aec24507912accf14b7c6271b.png"
+      },
+      {
+        "src": "./assets/models/ellie-1-6-b0934d/gallery-03.png",
+        "alt": "艾莉 1:6 全身雕像完整套装（含底座与鞋部连接变体）｜Ellie 1:6 Full-Figure Statue Complete Set with Base and Shoe Variants真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-0c90918c1cd319203ea82642a9f4bcf51a9992939b674eeef04c53d0c09862d2.png"
+      },
+      {
+        "src": "./assets/models/ellie-1-6-b0934d/gallery-04.png",
+        "alt": "艾莉 1:6 全身雕像完整套装（含底座与鞋部连接变体）｜Ellie 1:6 Full-Figure Statue Complete Set with Base and Shoe Variants真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-a184addba9916bf06987bab63c57b7aa1aa3f33494cb4f1732ef7c2379a73a87.png"
+      },
+      {
+        "src": "./assets/models/ellie-1-6-b0934d/gallery-05.png",
+        "alt": "艾莉 1:6 全身雕像完整套装（含底座与鞋部连接变体）｜Ellie 1:6 Full-Figure Statue Complete Set with Base and Shoe Variants真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-b82ba64f790ab3b0cf1e885ae492d986e58d2bcaa6e58d920b242896b6924514.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-7ea8596132ea6ee3123c51fa6361b6fc2316aa54cec1f554bfb0b9786180f0ad.png"
+  },
+  {
     "id": "ouart-daily-six-20261023:model-216132428621987-9de44f",
     "publicationId": "ouart-daily-six-20261023:model-216132428621987-9de44f",
     "inventoryId": "model-216132428621987-9de44f",

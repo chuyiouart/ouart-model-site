@@ -1,5 +1,320 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261025:lamp-wavy-mesh-bc1636",
+    "publicationId": "ouart-daily-six-20261025:lamp-wavy-mesh-bc1636",
+    "inventoryId": "lamp-wavy-mesh-bc1636",
+    "name": "波浪网格台灯（含底座）｜Wavy Mesh Lamp with Base",
+    "date": "2026-10-25",
+    "displayDate": "2026.10.25",
+    "format": "STL",
+    "fileCount": 2,
+    "size": "69.37 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/lamp-wavy-mesh-bc1636/lamp-wavy-mesh-bc1636-主图@初艺ouart.png",
+    "description": "完整套件包含一体式波浪网格灯体和与其匹配的独立底座，可按原生装配坐标组合成原图所示的完整装饰台灯；文件包不包含灯泡、电线或其他电气硬件。",
+    "intro": "2026.10.25 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1ZA-OBJI22AP82_DoIr_LLw",
+    "shareCode": "d7a4",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261025",
+    "nameZh": "波浪网格台灯（含底座）",
+    "nameEn": "Wavy Mesh Lamp with Base",
+    "displayName": "波浪网格台灯（含底座）｜Wavy Mesh Lamp with Base",
+    "category": "灯具",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "波浪网格台灯（含底座）｜Wavy Mesh Lamp with BaseAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整套件包含一体式波浪网格灯体和与其匹配的独立底座，可按原生装配坐标组合成原图所示的完整装饰台灯；文件包不包含灯泡、电线或其他电气硬件。",
+          "该模型归入“灯具”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 2 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/lamp-wavy-mesh-bc1636/gallery-02.png",
+        "alt": "波浪网格台灯（含底座）｜Wavy Mesh Lamp with Base真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-a411d5dc79b8e5856ec3c2ed625594ad982b116d125b465e1a05acb45896a675.png"
+      },
+      {
+        "src": "./assets/models/lamp-wavy-mesh-bc1636/gallery-03.png",
+        "alt": "波浪网格台灯（含底座）｜Wavy Mesh Lamp with Base真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-2ed600f6f7a386c959e47cf492e579ead8970df19ed3d1baf4912e122d474c0c.png"
+      },
+      {
+        "src": "./assets/models/lamp-wavy-mesh-bc1636/gallery-04.png",
+        "alt": "波浪网格台灯（含底座）｜Wavy Mesh Lamp with Base真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-9074fa275bed05ff2105a89ec3c9e8542e429a8301ffc9ac62fe695e70dae0a6.png"
+      },
+      {
+        "src": "./assets/models/lamp-wavy-mesh-bc1636/gallery-05.png",
+        "alt": "波浪网格台灯（含底座）｜Wavy Mesh Lamp with Base真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-70b7d221caf4b3e6371162ab57611ad2cd922581359e2eab8ddf3de31f299ad0.png"
+      },
+      {
+        "src": "./assets/models/lamp-wavy-mesh-bc1636/gallery-06.png",
+        "alt": "波浪网格台灯（含底座）｜Wavy Mesh Lamp with Base真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-83a4a661d11ed2f7889322a8507e941c258c286c5902e1074b32a2d413714902.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-04ea13bbbaecd020e3fa8ab481abbd152e4036e44c8024a2095a60af31766424.png"
+  },
+  {
+    "id": "ouart-daily-six-20261025:kurt-cobain-18f1fd",
+    "publicationId": "ouart-daily-six-20261025:kurt-cobain-18f1fd",
+    "inventoryId": "kurt-cobain-18f1fd",
+    "name": "科特·柯本街头长椅场景雕像｜Kurt Cobain Bench Diorama",
+    "date": "2026-10-25",
+    "displayDate": "2026.10.25",
+    "format": "STL",
+    "fileCount": 14,
+    "size": "92.71 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/kurt-cobain-18f1fd/kurt-cobain-18f1fd-主图@初艺ouart.png",
+    "description": "完整分件场景包：科特·柯本全身坐姿人物（躯干、双臂、腿部与双鞋）、吉他、三件式长椅、消防栓、垃圾桶及两件底座，共14个STL；全部部件共同构成原图中的单一街头长椅作品。",
+    "intro": "2026.10.25 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1_ktYdVCJqU-KXCOXaY5hQQ",
+    "shareCode": "51c4",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261025",
+    "nameZh": "科特·柯本街头长椅场景雕像",
+    "nameEn": "Kurt Cobain Bench Diorama",
+    "displayName": "科特·柯本街头长椅场景雕像｜Kurt Cobain Bench Diorama",
+    "category": "人物场景雕像",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "科特·柯本街头长椅场景雕像｜Kurt Cobain Bench DioramaAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整分件场景包：科特·柯本全身坐姿人物（躯干、双臂、腿部与双鞋）、吉他、三件式长椅、消防栓、垃圾桶及两件底座，共14个STL；全部部件共同构成原图中的单一街头长椅作品。",
+          "该模型归入“人物场景雕像”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 14 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/kurt-cobain-18f1fd/gallery-02.png",
+        "alt": "科特·柯本街头长椅场景雕像｜Kurt Cobain Bench Diorama真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-f59f0800c82b1d6c8a6219da9d5ed063aaefca0c8d047982c201b7c494040d58.png"
+      },
+      {
+        "src": "./assets/models/kurt-cobain-18f1fd/gallery-03.png",
+        "alt": "科特·柯本街头长椅场景雕像｜Kurt Cobain Bench Diorama真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-bece7930ad701c8e73d47a6463067ed7fb3dd2893ca9ce0605132498c3d5b652.png"
+      },
+      {
+        "src": "./assets/models/kurt-cobain-18f1fd/gallery-04.png",
+        "alt": "科特·柯本街头长椅场景雕像｜Kurt Cobain Bench Diorama真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-bf69236d66f8f93ea8537785e260346154c62ba4bd150674cc270f44ff1d569a.png"
+      },
+      {
+        "src": "./assets/models/kurt-cobain-18f1fd/gallery-05.png",
+        "alt": "科特·柯本街头长椅场景雕像｜Kurt Cobain Bench Diorama真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-ba4934e1bec413ed394fd32de70e02210749070df97cc5c14f0b556e76a03635.png"
+      },
+      {
+        "src": "./assets/models/kurt-cobain-18f1fd/gallery-06.png",
+        "alt": "科特·柯本街头长椅场景雕像｜Kurt Cobain Bench Diorama真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-f346da958c578293aaa66499178c2f4d587b1bdb6a8e66b9b6ee90f424c52c97.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-e224882f5233a4a1af4bcc0ba2538ea8badd3e812f3c48472a47fc4172e98371.png"
+  },
+  {
+    "id": "ouart-daily-six-20261025:naruto-kyubi20200512-15745-qdga4x-ed31ff",
+    "publicationId": "ouart-daily-six-20261025:naruto-kyubi20200512-15745-qdga4x-ed31ff",
+    "inventoryId": "naruto-kyubi20200512-15745-qdga4x-ed31ff",
+    "name": "火影忍者九尾妖狐与地台完整模型包｜Naruto Nine-Tails (Kurama) Complete Figure and Base Model Pack",
+    "date": "2026-10-25",
+    "displayDate": "2026.10.25",
+    "format": "STL",
+    "fileCount": 5,
+    "size": "222.10 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/naruto-kyubi20200512-15745-qdga4x-ed31ff/naruto-kyubi20200512-15745-qdga4x-ed31ff-主图@初艺ouart.png",
+    "description": "同一件《火影忍者》九尾妖狐（九喇嘛）伏地全身雕像的完整发行包：包含九尾与匹配地台合并的标准版、加强尾巴合并版、独立地台，以及标准和易打印的无地台全身变体。代表展示采用实际提供的标准九尾与地台合并网格；所有拆分、合并及易打印变体均属于同一次发行，不是多件作品。",
+    "intro": "2026.10.25 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1cuXtHHscFXeOIIKwwDH8xg",
+    "shareCode": "056e",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261025",
+    "nameZh": "火影忍者九尾妖狐与地台完整模型包",
+    "nameEn": "Naruto Nine-Tails (Kurama) Complete Figure and Base Model Pack",
+    "displayName": "火影忍者九尾妖狐与地台完整模型包｜Naruto Nine-Tails (Kurama) Complete Figure and Base Model Pack",
+    "category": "动漫角色全身雕像",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "火影忍者九尾妖狐与地台完整模型包｜Naruto Nine-Tails (Kurama) Complete Figure and Base Model PackAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "同一件《火影忍者》九尾妖狐（九喇嘛）伏地全身雕像的完整发行包：包含九尾与匹配地台合并的标准版、加强尾巴合并版、独立地台，以及标准和易打印的无地台全身变体。代表展示采用实际提供的标准九尾与地台合并网格；所有拆分、合并及易打印变体均属于同一次发行，不是多件作品。",
+          "该模型归入“动漫角色全身雕像”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 5 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/naruto-kyubi20200512-15745-qdga4x-ed31ff/gallery-02.png",
+        "alt": "火影忍者九尾妖狐与地台完整模型包｜Naruto Nine-Tails (Kurama) Complete Figure and Base Model Pack真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-ceeedec835f9ea784f56edd1d7c85d6f5afb940a0f55da77295ba83393017b7a.png"
+      },
+      {
+        "src": "./assets/models/naruto-kyubi20200512-15745-qdga4x-ed31ff/gallery-03.png",
+        "alt": "火影忍者九尾妖狐与地台完整模型包｜Naruto Nine-Tails (Kurama) Complete Figure and Base Model Pack真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-e15da32750f7a9b4ce0f981c25b1a639bbdc3499f462eeb75441cfef95602f73.png"
+      },
+      {
+        "src": "./assets/models/naruto-kyubi20200512-15745-qdga4x-ed31ff/gallery-04.png",
+        "alt": "火影忍者九尾妖狐与地台完整模型包｜Naruto Nine-Tails (Kurama) Complete Figure and Base Model Pack真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-f712f46004c683284cd8a0da69b6476af8e4114b81aee73adc1c9fda7b8a066b.png"
+      },
+      {
+        "src": "./assets/models/naruto-kyubi20200512-15745-qdga4x-ed31ff/gallery-05.png",
+        "alt": "火影忍者九尾妖狐与地台完整模型包｜Naruto Nine-Tails (Kurama) Complete Figure and Base Model Pack真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-42dc1389f1f7e8064cbfa73c9c05e1ae15176aa35675db39e7372d4a8221f943.png"
+      },
+      {
+        "src": "./assets/models/naruto-kyubi20200512-15745-qdga4x-ed31ff/gallery-06.png",
+        "alt": "火影忍者九尾妖狐与地台完整模型包｜Naruto Nine-Tails (Kurama) Complete Figure and Base Model Pack真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-97fef6d47e70851621bb8ad0727c115bd053f93e9b69de42e9468d273bc4ed92.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-a46a0e5cacdf8c24ecb29c0831a8f8346a57f6255c2f156b1ce0d61b27dc84b8.png"
+  },
+  {
     "id": "ouart-daily-six-20261024:evil-scarecrow-755138",
     "publicationId": "ouart-daily-six-20261024:evil-scarecrow-755138",
     "inventoryId": "evil-scarecrow-755138",

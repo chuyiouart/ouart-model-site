@@ -1,6 +1,26 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20261025",
+    "date": "2026-10-25",
+    "displayDate": "2026.10.25",
+    "title": "2026.10.25｜OUART 今日3件",
+    "description": "本期共3件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-10-25/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-10-25 3模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20261025:lamp-wavy-mesh-bc1636",
+      "ouart-daily-six-20261025:kurt-cobain-18f1fd",
+      "ouart-daily-six-20261025:naruto-kyubi20200512-15745-qdga4x-ed31ff"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1Ye3IDXEKhUYXtTpBaggCog",
+    "shareCode": "c45f",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-10-25T10:31:53+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20261024",
     "date": "2026-10-24",
     "displayDate": "2026.10.24",

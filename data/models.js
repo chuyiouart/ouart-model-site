@@ -1,5 +1,110 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261026:model-105286438115054-22c3ac",
+    "publicationId": "ouart-daily-six-20261026:model-105286438115054-22c3ac",
+    "inventoryId": "model-105286438115054-22c3ac",
+    "name": "Klean-X 现代简约纸巾盒完整套件（上盖与底座）｜Klean-X Modern Minimalist Tissue Holder Complete Package (Top and Base)",
+    "date": "2026-10-26",
+    "displayDate": "2026.10.26",
+    "format": "STL",
+    "fileCount": 2,
+    "size": "5.99 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-105286438115054-22c3ac/model-105286438115054-22c3ac-主图@初艺ouart.png",
+    "description": "完整包是一件 Klean-X 现代简约纸巾盒，包含不可省略的上盖与底座两个可打印 STL，并附同作品的打印摆放 3MF、README 说明、品牌图与完整成品参考照片。上盖中央设抽纸开口，下座与上盖以匹配的矩形轮廓组成低矮盒体；两件结构件共同才是完整作品，应在同一次 daily release 中保留，不把任一件单独宣称为完整成品，也不把打印摆放文件或资料图误称为另一作品。",
+    "intro": "2026.10.26 OUART 每日模型合集成员；本期共1件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1dRD0U4I9H7Ypz3gEvl_Ebw",
+    "shareCode": "4886",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261026",
+    "nameZh": "Klean-X 现代简约纸巾盒完整套件（上盖与底座）",
+    "nameEn": "Klean-X Modern Minimalist Tissue Holder Complete Package (Top and Base)",
+    "displayName": "Klean-X 现代简约纸巾盒完整套件（上盖与底座）｜Klean-X Modern Minimalist Tissue Holder Complete Package (Top and Base)",
+    "category": "家居用品／纸巾盒",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "Klean-X 现代简约纸巾盒完整套件（上盖与底座）｜Klean-X Modern Minimalist Tissue Holder Complete Package (Top and Base)AI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包是一件 Klean-X 现代简约纸巾盒，包含不可省略的上盖与底座两个可打印 STL，并附同作品的打印摆放 3MF、README 说明、品牌图与完整成品参考照片。上盖中央设抽纸开口，下座与上盖以匹配的矩形轮廓组成低矮盒体；两件结构件共同才是完整作品，应在同一次 daily release 中保留，不把任一件单独宣称为完整成品，也不把打印摆放文件或资料图误称为另一作品。",
+          "该模型归入“家居用品／纸巾盒”，作为本期单件模型独立展示。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 2 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-105286438115054-22c3ac/gallery-02.png",
+        "alt": "Klean-X 现代简约纸巾盒完整套件（上盖与底座）｜Klean-X Modern Minimalist Tissue Holder Complete Package (Top and Base)真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-b67ce532ec2a8ce3f168341d1f4f31a3853e55565f48f05368d5581d4d50979a.png"
+      },
+      {
+        "src": "./assets/models/model-105286438115054-22c3ac/gallery-03.png",
+        "alt": "Klean-X 现代简约纸巾盒完整套件（上盖与底座）｜Klean-X Modern Minimalist Tissue Holder Complete Package (Top and Base)真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-8040a4bfae25c021189a8715bebf679f988abeea328e6042dc9cdd00c5ce763c.png"
+      },
+      {
+        "src": "./assets/models/model-105286438115054-22c3ac/gallery-04.png",
+        "alt": "Klean-X 现代简约纸巾盒完整套件（上盖与底座）｜Klean-X Modern Minimalist Tissue Holder Complete Package (Top and Base)真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-8c2a44846b9b24307e56ce561b244b057736be869a4aa4886f73eabb5658101b.png"
+      },
+      {
+        "src": "./assets/models/model-105286438115054-22c3ac/gallery-05.png",
+        "alt": "Klean-X 现代简约纸巾盒完整套件（上盖与底座）｜Klean-X Modern Minimalist Tissue Holder Complete Package (Top and Base)真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-559237768444dd96980282b840375738450ff974cba34163f2670b7c814aaf8a.png"
+      },
+      {
+        "src": "./assets/models/model-105286438115054-22c3ac/gallery-06.png",
+        "alt": "Klean-X 现代简约纸巾盒完整套件（上盖与底座）｜Klean-X Modern Minimalist Tissue Holder Complete Package (Top and Base)真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-0db5b0b8fa76d819a168ff8af33361991c2615441e23e34a462f8d8208a14137.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-13948bc77840ce5d0b7a9dda14efdd5263959692d2e5e6dc1349d8c04bcacc40.png"
+  },
+  {
     "id": "ouart-daily-six-20261025:lamp-wavy-mesh-bc1636",
     "publicationId": "ouart-daily-six-20261025:lamp-wavy-mesh-bc1636",
     "inventoryId": "lamp-wavy-mesh-bc1636",

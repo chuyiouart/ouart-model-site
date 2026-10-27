@@ -1,6 +1,26 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20261027",
+    "date": "2026-10-27",
+    "displayDate": "2026.10.27",
+    "title": "2026.10.27｜OUART 今日3件",
+    "description": "本期共3件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-10-27/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-10-27 3模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20261027:toyota-corolla-trueno-ae86-1983-1987-1343eb",
+      "ouart-daily-six-20261027:android-18-nsfw-hehestl-2-a809f9",
+      "ouart-daily-six-20261027:jesus-christ-jesus-cristo-c64948"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1Thy0eaWkzpFx3UF-kIrncg",
+    "shareCode": "8411",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-10-27T10:32:23+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20261026",
     "date": "2026-10-26",
     "displayDate": "2026.10.26",

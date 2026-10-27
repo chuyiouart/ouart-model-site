@@ -1,5 +1,320 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261027:toyota-corolla-trueno-ae86-1983-1987-1343eb",
+    "publicationId": "ouart-daily-six-20261027:toyota-corolla-trueno-ae86-1983-1987-1343eb",
+    "inventoryId": "toyota-corolla-trueno-ae86-1983-1987-1343eb",
+    "name": "丰田 Corolla/Sprinter Trueno AE86 Black Limited 后期型整车模型｜Toyota Corolla/Sprinter Trueno AE86 Black Limited Kouki Complete Car Model",
+    "date": "2026-10-27",
+    "displayDate": "2026.10.27",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "83.22 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/toyota-corolla-trueno-ae86-1983-1987-1343eb/toyota-corolla-trueno-ae86-1983-1987-1343eb-主图@初艺ouart.png",
+    "description": "完整包是一款丰田 AE86 Trueno Black Limited 后期型两门掀背车整车模型，包含一个已合并的实际 STL，以及展示同一车辆外观、车轮、前后细节、升起式前灯和右舵内饰的八张原始参考图；未发现需要另配的底座、支架或分离零件，也未混入其他车辆或独立作品。",
+    "intro": "2026.10.27 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1KXWMZkz1fFL7QIQ8TZbP3Q",
+    "shareCode": "54a0",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261027",
+    "nameZh": "丰田 Corolla/Sprinter Trueno AE86 Black Limited 后期型整车模型",
+    "nameEn": "Toyota Corolla/Sprinter Trueno AE86 Black Limited Kouki Complete Car Model",
+    "displayName": "丰田 Corolla/Sprinter Trueno AE86 Black Limited 后期型整车模型｜Toyota Corolla/Sprinter Trueno AE86 Black Limited Kouki Complete Car Model",
+    "category": "汽车整车模型",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "丰田 Corolla/Sprinter Trueno AE86 Black Limited 后期型整车模型｜Toyota Corolla/Sprinter Trueno AE86 Black Limited Kouki Complete Car ModelAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包是一款丰田 AE86 Trueno Black Limited 后期型两门掀背车整车模型，包含一个已合并的实际 STL，以及展示同一车辆外观、车轮、前后细节、升起式前灯和右舵内饰的八张原始参考图；未发现需要另配的底座、支架或分离零件，也未混入其他车辆或独立作品。",
+          "该模型归入“汽车整车模型”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/toyota-corolla-trueno-ae86-1983-1987-1343eb/gallery-09.png",
+        "alt": "丰田 Corolla/Sprinter Trueno AE86 Black Limited 后期型整车模型｜Toyota Corolla/Sprinter Trueno AE86 Black Limited Kouki Complete Car Model真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-0a9bdf8f2e5f4a2a762e5773a09128dd73b0ae86dacaf3fab751149eb4b6e761.png"
+      },
+      {
+        "src": "./assets/models/toyota-corolla-trueno-ae86-1983-1987-1343eb/gallery-10.png",
+        "alt": "丰田 Corolla/Sprinter Trueno AE86 Black Limited 后期型整车模型｜Toyota Corolla/Sprinter Trueno AE86 Black Limited Kouki Complete Car Model真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-b2697eb956778584208dc996cd7a8d65b02bedb966ae4c0c2e196f2c01577295.png"
+      },
+      {
+        "src": "./assets/models/toyota-corolla-trueno-ae86-1983-1987-1343eb/gallery-11.png",
+        "alt": "丰田 Corolla/Sprinter Trueno AE86 Black Limited 后期型整车模型｜Toyota Corolla/Sprinter Trueno AE86 Black Limited Kouki Complete Car Model真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-8b5156e31ca5eb2cf55a3834d899ebfa3e0c044654ae9e3e15928771a4b3f863.png"
+      },
+      {
+        "src": "./assets/models/toyota-corolla-trueno-ae86-1983-1987-1343eb/gallery-12.png",
+        "alt": "丰田 Corolla/Sprinter Trueno AE86 Black Limited 后期型整车模型｜Toyota Corolla/Sprinter Trueno AE86 Black Limited Kouki Complete Car Model真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-3b3fef91ef6c7586ba88b11a7ec678c690a08822bc713dc819c675d6e5451898.png"
+      },
+      {
+        "src": "./assets/models/toyota-corolla-trueno-ae86-1983-1987-1343eb/gallery-13.png",
+        "alt": "丰田 Corolla/Sprinter Trueno AE86 Black Limited 后期型整车模型｜Toyota Corolla/Sprinter Trueno AE86 Black Limited Kouki Complete Car Model真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-cfbdbbe748c70c2eca844aca762204fb0f2d713847737b1a043a0db533999c17.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-eb99a2b1bb0921a661269449348c2f42fd9036a06c23592c4e326034f723f9f8.png"
+  },
+  {
+    "id": "ouart-daily-six-20261027:android-18-nsfw-hehestl-2-a809f9",
+    "publicationId": "ouart-daily-six-20261027:android-18-nsfw-hehestl-2-a809f9",
+    "inventoryId": "android-18-nsfw-hehestl-2-a809f9",
+    "name": "人造人18号全身像（SFW版，含底座）｜Android 18 Full Figure (SFW Version with Base)",
+    "date": "2026-10-27",
+    "displayDate": "2026.10.27",
+    "format": "STL",
+    "fileCount": 2,
+    "size": "320.22 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/android-18-nsfw-hehestl-2-a809f9/android-18-nsfw-hehestl-2-a809f9-主图@初艺ouart.png",
+    "description": "完整包为人造人18号SFW全身立像及其匹配的圆形岩石纹理底座；人物采用夹克、长裤与长靴造型。目录中另有同作品的NSFW及支撑打印变体，但本次实际展示组件为无支撑的SFW完整人物与必要底座，不包含无关角色或道具合集。",
+    "intro": "2026.10.27 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1gz3_zhd70CshjcQm2o-Isg",
+    "shareCode": "05b3",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261027",
+    "nameZh": "人造人18号全身像（SFW版，含底座）",
+    "nameEn": "Android 18 Full Figure (SFW Version with Base)",
+    "displayName": "人造人18号全身像（SFW版，含底座）｜Android 18 Full Figure (SFW Version with Base)",
+    "category": "动漫角色",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "人造人18号全身像（SFW版，含底座）｜Android 18 Full Figure (SFW Version with Base)AI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包为人造人18号SFW全身立像及其匹配的圆形岩石纹理底座；人物采用夹克、长裤与长靴造型。目录中另有同作品的NSFW及支撑打印变体，但本次实际展示组件为无支撑的SFW完整人物与必要底座，不包含无关角色或道具合集。",
+          "该模型归入“动漫角色”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 2 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/android-18-nsfw-hehestl-2-a809f9/gallery-02.png",
+        "alt": "人造人18号全身像（SFW版，含底座）｜Android 18 Full Figure (SFW Version with Base)真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-9d58f104e7961283e73d0159fbbd4b9dc1c9998644f3c6ef41c65d22bdc7c6bf.png"
+      },
+      {
+        "src": "./assets/models/android-18-nsfw-hehestl-2-a809f9/gallery-03.png",
+        "alt": "人造人18号全身像（SFW版，含底座）｜Android 18 Full Figure (SFW Version with Base)真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-a68c744f96a3c1a86b19f3e89f7904f5c6918d10c97f94b861f581d27eb24d89.png"
+      },
+      {
+        "src": "./assets/models/android-18-nsfw-hehestl-2-a809f9/gallery-04.png",
+        "alt": "人造人18号全身像（SFW版，含底座）｜Android 18 Full Figure (SFW Version with Base)真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-c3b0129cc61f0a5272986c12751e770e4081f0435531e5cf7e38fcdcf5461342.png"
+      },
+      {
+        "src": "./assets/models/android-18-nsfw-hehestl-2-a809f9/gallery-05.png",
+        "alt": "人造人18号全身像（SFW版，含底座）｜Android 18 Full Figure (SFW Version with Base)真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-04e3489b53447a43e2daf422df0aaa8b165534b683227bb069f0584c540e0cc6.png"
+      },
+      {
+        "src": "./assets/models/android-18-nsfw-hehestl-2-a809f9/gallery-06.png",
+        "alt": "人造人18号全身像（SFW版，含底座）｜Android 18 Full Figure (SFW Version with Base)真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-7a18215a6286cba2886c5255aecb560d66398859e5c3acc99e9f00a0452afe54.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-2e4a714103281b6edaddabeb877821836132ac428bd0712bc57bc290e2e51426.png"
+  },
+  {
+    "id": "ouart-daily-six-20261027:jesus-christ-jesus-cristo-c64948",
+    "publicationId": "ouart-daily-six-20261027:jesus-christ-jesus-cristo-c64948",
+    "inventoryId": "jesus-christ-jesus-cristo-c64948",
+    "name": "耶稣圣心全身立像完整模型包｜Sacred Heart of Jesus Full-Figure Statue Complete Model Package",
+    "date": "2026-10-27",
+    "displayDate": "2026.10.27",
+    "format": "STL",
+    "fileCount": 2,
+    "size": "345.42 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/jesus-christ-jesus-cristo-c64948/jesus-christ-jesus-cristo-c64948-主图@初艺ouart.png",
+    "description": "完整包是一件耶稣圣心站姿全身雕像：包含完整头部、躯干、伸展双臂、垂地长袍、双脚以及不可省略的一体式多边形底座。包内提供约120万面与250万面两种同作品网格精度，并各有STL与OBJ格式版本；这些是同一完整作品的精度和文件格式变体，不是四件不同作品，也不包含支撑版、胸像或无关角色。代表展示选用250万面STL这一实际供应的高精度合并版本。",
+    "intro": "2026.10.27 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1E12mef_KpUzWp0AmKXMSlQ",
+    "shareCode": "bd81",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261027",
+    "nameZh": "耶稣圣心全身立像完整模型包",
+    "nameEn": "Sacred Heart of Jesus Full-Figure Statue Complete Model Package",
+    "displayName": "耶稣圣心全身立像完整模型包｜Sacred Heart of Jesus Full-Figure Statue Complete Model Package",
+    "category": "宗教人物全身雕像",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "耶稣圣心全身立像完整模型包｜Sacred Heart of Jesus Full-Figure Statue Complete Model PackageAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包是一件耶稣圣心站姿全身雕像：包含完整头部、躯干、伸展双臂、垂地长袍、双脚以及不可省略的一体式多边形底座。包内提供约120万面与250万面两种同作品网格精度，并各有STL与OBJ格式版本；这些是同一完整作品的精度和文件格式变体，不是四件不同作品，也不包含支撑版、胸像或无关角色。代表展示选用250万面STL这一实际供应的高精度合并版本。",
+          "该模型归入“宗教人物全身雕像”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 2 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/jesus-christ-jesus-cristo-c64948/gallery-02.png",
+        "alt": "耶稣圣心全身立像完整模型包｜Sacred Heart of Jesus Full-Figure Statue Complete Model Package真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-c2bf4a9d830ddc22c5225ad12a876136768b8234785acc44594488c7ef1b51b7.png"
+      },
+      {
+        "src": "./assets/models/jesus-christ-jesus-cristo-c64948/gallery-03.png",
+        "alt": "耶稣圣心全身立像完整模型包｜Sacred Heart of Jesus Full-Figure Statue Complete Model Package真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-69d35494c6dd284cbb1c38aef04b38802681a4fc0e16ffe0495c5a38602ed5a1.png"
+      },
+      {
+        "src": "./assets/models/jesus-christ-jesus-cristo-c64948/gallery-04.png",
+        "alt": "耶稣圣心全身立像完整模型包｜Sacred Heart of Jesus Full-Figure Statue Complete Model Package真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-b888f3f60914381bd428fcaef01fd2499e769a808f9583ae652d954f2f64d57a.png"
+      },
+      {
+        "src": "./assets/models/jesus-christ-jesus-cristo-c64948/gallery-05.png",
+        "alt": "耶稣圣心全身立像完整模型包｜Sacred Heart of Jesus Full-Figure Statue Complete Model Package真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-d543b2b5482a2cb5695d09a6e5e685d36bd2762bd34c39be37bd522b57ccaa9d.png"
+      },
+      {
+        "src": "./assets/models/jesus-christ-jesus-cristo-c64948/gallery-06.png",
+        "alt": "耶稣圣心全身立像完整模型包｜Sacred Heart of Jesus Full-Figure Statue Complete Model Package真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-88667df67fce243b74a2c979609bbb39bb945b5c61b1f6d20e99d3575cc1bd35.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-f1bc389ed4548fd5c1a99561602a3245c25ddf4c171bacf8f7d9dbed41b5d58d.png"
+  },
+  {
     "id": "ouart-daily-six-20261026:model-105286438115054-22c3ac",
     "publicationId": "ouart-daily-six-20261026:model-105286438115054-22c3ac",
     "inventoryId": "model-105286438115054-22c3ac",

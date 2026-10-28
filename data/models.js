@@ -1,5 +1,320 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261028:files-775482",
+    "publicationId": "ouart-daily-six-20261028:files-775482",
+    "inventoryId": "files-775482",
+    "name": "中空大写字母 I｜Hollow Uppercase Letter I",
+    "date": "2026-10-28",
+    "displayDate": "2026.10.28",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "0.76 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/files-775482/files-775482-主图@初艺ouart.png",
+    "description": "完整包包含 1 个中空大写字母 I 的 STL 单体模型；未提供也不需要独立底座、支架、拆分零件或支撑版。它可作为单字装饰、标识或组合文字中的字母组件使用。",
+    "intro": "2026.10.28 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/16_lvUKtwOLbGY5VG7R4ucQ",
+    "shareCode": "e465",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261028",
+    "nameZh": "中空大写字母 I",
+    "nameEn": "Hollow Uppercase Letter I",
+    "displayName": "中空大写字母 I｜Hollow Uppercase Letter I",
+    "category": "字母与标识",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "中空大写字母 I｜Hollow Uppercase Letter IAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包包含 1 个中空大写字母 I 的 STL 单体模型；未提供也不需要独立底座、支架、拆分零件或支撑版。它可作为单字装饰、标识或组合文字中的字母组件使用。",
+          "该模型归入“字母与标识”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/files-775482/gallery-01.png",
+        "alt": "中空大写字母 I｜Hollow Uppercase Letter I真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-3a5f6cd84b05b0fd0d9fb922a158f4218d622dbdc0053313a0dd58f7a966a45a.png"
+      },
+      {
+        "src": "./assets/models/files-775482/gallery-02.png",
+        "alt": "中空大写字母 I｜Hollow Uppercase Letter I真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-40c1ef1b59e53a58d1ab57a671359b9a50bd15a39bacf04311b2cd282bc1944a.png"
+      },
+      {
+        "src": "./assets/models/files-775482/gallery-03.png",
+        "alt": "中空大写字母 I｜Hollow Uppercase Letter I真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-abad0f589321d9d6796bbebe6b34f77fa8eff682edd68a1b9473320ed7cc2e19.png"
+      },
+      {
+        "src": "./assets/models/files-775482/gallery-04.png",
+        "alt": "中空大写字母 I｜Hollow Uppercase Letter I真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-701ec2307ee78c8cab40ebee121e6c53aabfc3cd4bf366a7f339a4cda7303e34.png"
+      },
+      {
+        "src": "./assets/models/files-775482/gallery-05.png",
+        "alt": "中空大写字母 I｜Hollow Uppercase Letter I真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-c2027f6c10ebe16e962b09c980d0484ac63afc1778a7aafb6cabbf533233e29b.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-20a15fd701a854c407e307cb485a54dae31e2ed297e10d51be0dc1e29e11f0db.png"
+  },
+  {
+    "id": "ouart-daily-six-20261028:kakashi-diorama-kabuki-figures-85e2f0",
+    "publicationId": "ouart-daily-six-20261028:kakashi-diorama-kabuki-figures-85e2f0",
+    "inventoryId": "kakashi-diorama-kabuki-figures-85e2f0",
+    "name": "旗木卡卡西雷切场景雕像｜Kakashi Hatake Lightning Blade Diorama",
+    "date": "2026-10-28",
+    "displayDate": "2026.10.28",
+    "format": "STL",
+    "fileCount": 40,
+    "size": "951.37 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/kakashi-diorama-kabuki-figures-85e2f0/kakashi-diorama-kabuki-figures-85e2f0-主图@初艺ouart.png",
+    "description": "完整包为一件旗木卡卡西动态全身场景雕像，包含卡卡西人物、岩石场景底座、雷电特效与注连绳纸垂装饰；同时提供80毫米合并版、可拆分版及对应带支撑打印版本，均属于同一作品的制作变体。",
+    "intro": "2026.10.28 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1mRnJIMYo6v9H0dLx2BuSIg",
+    "shareCode": "59ce",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261028",
+    "nameZh": "旗木卡卡西雷切场景雕像",
+    "nameEn": "Kakashi Hatake Lightning Blade Diorama",
+    "displayName": "旗木卡卡西雷切场景雕像｜Kakashi Hatake Lightning Blade Diorama",
+    "category": "动漫角色场景雕像",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "旗木卡卡西雷切场景雕像｜Kakashi Hatake Lightning Blade DioramaAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包为一件旗木卡卡西动态全身场景雕像，包含卡卡西人物、岩石场景底座、雷电特效与注连绳纸垂装饰；同时提供80毫米合并版、可拆分版及对应带支撑打印版本，均属于同一作品的制作变体。",
+          "该模型归入“动漫角色场景雕像”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 40 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/kakashi-diorama-kabuki-figures-85e2f0/gallery-02.png",
+        "alt": "旗木卡卡西雷切场景雕像｜Kakashi Hatake Lightning Blade Diorama真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-c9cfad296cd2266bd4ebac004715ad3fef129cc47511f734f4b479bc77c1aed1.png"
+      },
+      {
+        "src": "./assets/models/kakashi-diorama-kabuki-figures-85e2f0/gallery-03.png",
+        "alt": "旗木卡卡西雷切场景雕像｜Kakashi Hatake Lightning Blade Diorama真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-136b0a9f9ae45bd3b5b21903a799fb2962939804a1053de704b3c0bf3d510953.png"
+      },
+      {
+        "src": "./assets/models/kakashi-diorama-kabuki-figures-85e2f0/gallery-04.png",
+        "alt": "旗木卡卡西雷切场景雕像｜Kakashi Hatake Lightning Blade Diorama真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-dbd9ef060c48075e3a093d13dc115eb9848ef7039ccedd4209d8c814b3a2a550.png"
+      },
+      {
+        "src": "./assets/models/kakashi-diorama-kabuki-figures-85e2f0/gallery-05.png",
+        "alt": "旗木卡卡西雷切场景雕像｜Kakashi Hatake Lightning Blade Diorama真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-0c3e6488df135e29237b6116f845025aa1844112e5c5b3f85a445f273a0924f6.png"
+      },
+      {
+        "src": "./assets/models/kakashi-diorama-kabuki-figures-85e2f0/gallery-06.png",
+        "alt": "旗木卡卡西雷切场景雕像｜Kakashi Hatake Lightning Blade Diorama真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-51eb96421d3a9433c8768916b2da7765d353806992ab60e42edc97a81c6c4865.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-c2f8f5923882fe2be4e8abdc8417ad20d70b57f2df8dc9594643908ce3a4bd84.png"
+  },
+  {
+    "id": "ouart-daily-six-20261028:bases-31e281",
+    "publicationId": "ouart-daily-six-20261028:bases-31e281",
+    "inventoryId": "bases-31e281",
+    "name": "冰霜英雄战棋底座三尺寸套件｜Ice Hero Miniature Base Three-Size Set",
+    "date": "2026-10-28",
+    "displayDate": "2026.10.28",
+    "format": "STL",
+    "fileCount": 3,
+    "size": "13.03 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/bases-31e281/bases-31e281-主图@初艺ouart.png",
+    "description": "完整的冰霜主题英雄战棋底座套件，包含同一底座设计的25毫米、32毫米与40毫米三种实际STL尺寸变体；每个文件均为可独立使用的一体式底座，而不是需要彼此叠加的拆分零件。",
+    "intro": "2026.10.28 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1r5KTZ6LClY2XvyvTwRJpzw",
+    "shareCode": "c886",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261028",
+    "nameZh": "冰霜英雄战棋底座三尺寸套件",
+    "nameEn": "Ice Hero Miniature Base Three-Size Set",
+    "displayName": "冰霜英雄战棋底座三尺寸套件｜Ice Hero Miniature Base Three-Size Set",
+    "category": "战棋地形底座",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "冰霜英雄战棋底座三尺寸套件｜Ice Hero Miniature Base Three-Size SetAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整的冰霜主题英雄战棋底座套件，包含同一底座设计的25毫米、32毫米与40毫米三种实际STL尺寸变体；每个文件均为可独立使用的一体式底座，而不是需要彼此叠加的拆分零件。",
+          "该模型归入“战棋地形底座”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 3 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/bases-31e281/gallery-01.png",
+        "alt": "冰霜英雄战棋底座三尺寸套件｜Ice Hero Miniature Base Three-Size Set真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-93d4e9e58111ced4a1ecc78b89a607edfae1abbcad1bd2654313065f09cae075.png"
+      },
+      {
+        "src": "./assets/models/bases-31e281/gallery-02.png",
+        "alt": "冰霜英雄战棋底座三尺寸套件｜Ice Hero Miniature Base Three-Size Set真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-78296bca2cdc12d5a4c32211ae5fcbb003d57fbe32d2c19dc08b5fc2c07b4447.png"
+      },
+      {
+        "src": "./assets/models/bases-31e281/gallery-03.png",
+        "alt": "冰霜英雄战棋底座三尺寸套件｜Ice Hero Miniature Base Three-Size Set真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-31510fd8f98653248a99dfc04369c62df1d08d8503eb2b5235abc64c86926d8b.png"
+      },
+      {
+        "src": "./assets/models/bases-31e281/gallery-04.png",
+        "alt": "冰霜英雄战棋底座三尺寸套件｜Ice Hero Miniature Base Three-Size Set真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-a50c50b37795069d67f63ed5fd871a7be10e118b549dae631bd860e932fb1ada.png"
+      },
+      {
+        "src": "./assets/models/bases-31e281/gallery-05.png",
+        "alt": "冰霜英雄战棋底座三尺寸套件｜Ice Hero Miniature Base Three-Size Set真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-8a2b3dbf432be0de46c2bee2296c5136c5f9f884d4e629700ae52f8d92f82618.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-1d7fac7bebbc96f54053545733e7c37d19f175a497698693addb32010e52690a.png"
+  },
+  {
     "id": "ouart-daily-six-20261027:toyota-corolla-trueno-ae86-1983-1987-1343eb",
     "publicationId": "ouart-daily-six-20261027:toyota-corolla-trueno-ae86-1983-1987-1343eb",
     "inventoryId": "toyota-corolla-trueno-ae86-1983-1987-1343eb",

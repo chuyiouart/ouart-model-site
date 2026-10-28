@@ -1,6 +1,26 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20261028",
+    "date": "2026-10-28",
+    "displayDate": "2026.10.28",
+    "title": "2026.10.28｜OUART 今日3件",
+    "description": "本期共3件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-10-28/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-10-28 3模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20261028:files-775482",
+      "ouart-daily-six-20261028:kakashi-diorama-kabuki-figures-85e2f0",
+      "ouart-daily-six-20261028:bases-31e281"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1tMk8o64tQANfZpblWfMv_g",
+    "shareCode": "c683",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-10-28T10:32:06+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20261027",
     "date": "2026-10-27",
     "displayDate": "2026.10.27",

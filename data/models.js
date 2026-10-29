@@ -1,5 +1,215 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261029:texture-7960ae",
+    "publicationId": "ouart-daily-six-20261029:texture-7960ae",
+    "inventoryId": "texture-7960ae",
+    "name": "25毫米骷髅纹理地形片03（含支撑与无支撑版）｜25 mm Skull Texture Tile 03 (Supported and Unsupported)",
+    "date": "2026-10-29",
+    "displayDate": "2026.10.29",
+    "format": "STL",
+    "fileCount": 2,
+    "size": "6.71 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/texture-7960ae/texture-7960ae-主图@初艺ouart.png",
+    "description": "完整包是一款约25毫米规格的骷髅堆纹理地形片，包含同一造型的支撑版和无支撑版，便于按打印方式直接选用；无独立底座或其他必要零件，也不包含同目录下其他编号、尺寸或椭圆款纹理片。",
+    "intro": "2026.10.29 OUART 每日模型合集成员；本期共2件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1BWBdmrqbRlPVhLkKWTD2Xg",
+    "shareCode": "dc25",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261029",
+    "nameZh": "25毫米骷髅纹理地形片03（含支撑与无支撑版）",
+    "nameEn": "25 mm Skull Texture Tile 03 (Supported and Unsupported)",
+    "displayName": "25毫米骷髅纹理地形片03（含支撑与无支撑版）｜25 mm Skull Texture Tile 03 (Supported and Unsupported)",
+    "category": "桌面地形与底座纹理",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "25毫米骷髅纹理地形片03（含支撑与无支撑版）｜25 mm Skull Texture Tile 03 (Supported and Unsupported)AI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包是一款约25毫米规格的骷髅堆纹理地形片，包含同一造型的支撑版和无支撑版，便于按打印方式直接选用；无独立底座或其他必要零件，也不包含同目录下其他编号、尺寸或椭圆款纹理片。",
+          "该模型归入“桌面地形与底座纹理”，与同批其他1件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 2 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/texture-7960ae/gallery-01.png",
+        "alt": "25毫米骷髅纹理地形片03（含支撑与无支撑版）｜25 mm Skull Texture Tile 03 (Supported and Unsupported)真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-3ab607019d2b753cd23e1bc952e965b3c121df33949cf89d3a4230568286fbbb.png"
+      },
+      {
+        "src": "./assets/models/texture-7960ae/gallery-02.png",
+        "alt": "25毫米骷髅纹理地形片03（含支撑与无支撑版）｜25 mm Skull Texture Tile 03 (Supported and Unsupported)真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-ed2b7c295a4f4f170a354d35bd075b145c98c2c0db34e765d0358f15b333141c.png"
+      },
+      {
+        "src": "./assets/models/texture-7960ae/gallery-03.png",
+        "alt": "25毫米骷髅纹理地形片03（含支撑与无支撑版）｜25 mm Skull Texture Tile 03 (Supported and Unsupported)真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-4c66150b129760e5bcc624af151bd7c0a2e1362f16f7b1c0e411b7945645d909.png"
+      },
+      {
+        "src": "./assets/models/texture-7960ae/gallery-04.png",
+        "alt": "25毫米骷髅纹理地形片03（含支撑与无支撑版）｜25 mm Skull Texture Tile 03 (Supported and Unsupported)真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-2c4771fdf9b1aada50b68e88a8ef703b20c838c791c17031da7cac4a53958d40.png"
+      },
+      {
+        "src": "./assets/models/texture-7960ae/gallery-05.png",
+        "alt": "25毫米骷髅纹理地形片03（含支撑与无支撑版）｜25 mm Skull Texture Tile 03 (Supported and Unsupported)真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-25cc9509cb00918f3e7d62f5c017d69b75f1bb235f75a84a04aa507875902c25.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-cecf5e92d85003f55949e166607679757be495d7008840918afe788182067e89.png"
+  },
+  {
+    "id": "ouart-daily-six-20261029:drape-tote-vase-bf5bcb",
+    "publicationId": "ouart-daily-six-20261029:drape-tote-vase-bf5bcb",
+    "inventoryId": "drape-tote-vase-bf5bcb",
+    "name": "垂褶手提袋绳柄花瓶（袋身、绳柄及彩色版）｜Drape Tote Vase with Rope Handle (Body, Handle and Coloured Version)",
+    "date": "2026-10-29",
+    "displayDate": "2026.10.29",
+    "format": "STL",
+    "fileCount": 2,
+    "size": "148.90 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/drape-tote-vase-bf5bcb/drape-tote-vase-bf5bcb-主图@初艺ouart.png",
+    "description": "完整包是一件垂褶布袋造型花瓶，包含完成成品所必需的独立袋身 STL、绳柄 STL，以及同一作品的彩色 3MF 打印版本。袋身提供可插花的容器主体，绳柄安装在顶部两侧形成完整手提袋轮廓；这些文件共同描述一件完整花器，而不是多个独立作品。",
+    "intro": "2026.10.29 OUART 每日模型合集成员；本期共2件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1PCeb7N7oaHS_n6ZDJ-i-ig",
+    "shareCode": "d868",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261029",
+    "nameZh": "垂褶手提袋绳柄花瓶（袋身、绳柄及彩色版）",
+    "nameEn": "Drape Tote Vase with Rope Handle (Body, Handle and Coloured Version)",
+    "displayName": "垂褶手提袋绳柄花瓶（袋身、绳柄及彩色版）｜Drape Tote Vase with Rope Handle (Body, Handle and Coloured Version)",
+    "category": "花器与家居装饰",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "垂褶手提袋绳柄花瓶（袋身、绳柄及彩色版）｜Drape Tote Vase with Rope Handle (Body, Handle and Coloured Version)AI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包是一件垂褶布袋造型花瓶，包含完成成品所必需的独立袋身 STL、绳柄 STL，以及同一作品的彩色 3MF 打印版本。袋身提供可插花的容器主体，绳柄安装在顶部两侧形成完整手提袋轮廓；这些文件共同描述一件完整花器，而不是多个独立作品。",
+          "该模型归入“花器与家居装饰”，与同批其他1件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 2 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/drape-tote-vase-bf5bcb/gallery-02.png",
+        "alt": "垂褶手提袋绳柄花瓶（袋身、绳柄及彩色版）｜Drape Tote Vase with Rope Handle (Body, Handle and Coloured Version)真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-1d453992cdb18203fc2c29003bce28d6046480d51a44718d7062d0438d24c4da.png"
+      },
+      {
+        "src": "./assets/models/drape-tote-vase-bf5bcb/gallery-03.png",
+        "alt": "垂褶手提袋绳柄花瓶（袋身、绳柄及彩色版）｜Drape Tote Vase with Rope Handle (Body, Handle and Coloured Version)真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-42ade9c1a4356b0f193df420d33b5fd97d25a18c93a3c20ede00b0b9f41acc4b.png"
+      },
+      {
+        "src": "./assets/models/drape-tote-vase-bf5bcb/gallery-04.png",
+        "alt": "垂褶手提袋绳柄花瓶（袋身、绳柄及彩色版）｜Drape Tote Vase with Rope Handle (Body, Handle and Coloured Version)真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-53ccf7f60b86862cdb29dc1aa4cb8f4f051183bbc5bf01d2953080252ff79b19.png"
+      },
+      {
+        "src": "./assets/models/drape-tote-vase-bf5bcb/gallery-05.png",
+        "alt": "垂褶手提袋绳柄花瓶（袋身、绳柄及彩色版）｜Drape Tote Vase with Rope Handle (Body, Handle and Coloured Version)真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-235be1908e8bd8e5c064d128c768889e490e7f956b07c5a6e420cebf047c15ff.png"
+      },
+      {
+        "src": "./assets/models/drape-tote-vase-bf5bcb/gallery-06.png",
+        "alt": "垂褶手提袋绳柄花瓶（袋身、绳柄及彩色版）｜Drape Tote Vase with Rope Handle (Body, Handle and Coloured Version)真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-f7e273b8ba4df42d3f7723a2dc724013dbd455f4bdfa526ce97c5c9d4302cccc.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-452c0f50696cc74a6ce6c3dcf7ed9cad7bb8356845df911255489049018ed602.png"
+  },
+  {
     "id": "ouart-daily-six-20261028:files-775482",
     "publicationId": "ouart-daily-six-20261028:files-775482",
     "inventoryId": "files-775482",

@@ -1,6 +1,27 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20261030",
+    "date": "2026-10-30",
+    "displayDate": "2026.10.30",
+    "title": "2026.10.30｜OUART 今日4件",
+    "description": "本期共4件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-10-30/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-10-30 4模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20261030:onepiece-cfdf44",
+      "ouart-daily-six-20261030:grandpa-son-gohan-1-6-1c14bb",
+      "ouart-daily-six-20261030:model-15609826062339-cba71e",
+      "ouart-daily-six-20261030:ukupalua-hololive-gawr-gura-4687d0"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1PlCVw_x_Hy6A4tsm7NxZSg",
+    "shareCode": "2747",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-10-30T10:32:42+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20261029",
     "date": "2026-10-29",
     "displayDate": "2026.10.29",

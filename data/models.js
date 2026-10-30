@@ -1,5 +1,425 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261030:onepiece-cfdf44",
+    "publicationId": "ouart-daily-six-20261030:onepiece-cfdf44",
+    "inventoryId": "onepiece-cfdf44",
+    "name": "32毫米酒馆柜台完整一体模型（无支撑版）｜32mm Tavern Counter Complete One-Piece Model (Unsupported)",
+    "date": "2026-10-30",
+    "displayDate": "2026.10.30",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "7.64 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/onepiece-cfdf44/onepiece-cfdf44-主图@初艺ouart.png",
+    "description": "完整包是一件适用于32毫米桌面场景的酒馆柜台一体模型，供应内容为单个无支撑、已合并的 Complete STL；柜台主体及其模型内已有细节作为一个实际网格共同交付，无需另行拼接，也没有把局部件、支撑版或其他作品遗漏在本发布之外。",
+    "intro": "2026.10.30 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1EdZ7LdksqdJ1LCsu_0k_Uw",
+    "shareCode": "052e",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261030",
+    "nameZh": "32毫米酒馆柜台完整一体模型（无支撑版）",
+    "nameEn": "32mm Tavern Counter Complete One-Piece Model (Unsupported)",
+    "displayName": "32毫米酒馆柜台完整一体模型（无支撑版）｜32mm Tavern Counter Complete One-Piece Model (Unsupported)",
+    "category": "桌面场景与建筑内饰",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "32毫米酒馆柜台完整一体模型（无支撑版）｜32mm Tavern Counter Complete One-Piece Model (Unsupported)AI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包是一件适用于32毫米桌面场景的酒馆柜台一体模型，供应内容为单个无支撑、已合并的 Complete STL；柜台主体及其模型内已有细节作为一个实际网格共同交付，无需另行拼接，也没有把局部件、支撑版或其他作品遗漏在本发布之外。",
+          "该模型归入“桌面场景与建筑内饰”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/onepiece-cfdf44/gallery-01.png",
+        "alt": "32毫米酒馆柜台完整一体模型（无支撑版）｜32mm Tavern Counter Complete One-Piece Model (Unsupported)真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-30a2404babca2dacbcfb57e642c29f75d66d7c4961007e281625675a0654a4fb.png"
+      },
+      {
+        "src": "./assets/models/onepiece-cfdf44/gallery-02.png",
+        "alt": "32毫米酒馆柜台完整一体模型（无支撑版）｜32mm Tavern Counter Complete One-Piece Model (Unsupported)真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-b5e4287dc1278f6cb2d201d869f57a03f728708516343ada5ad5027b037d6df0.png"
+      },
+      {
+        "src": "./assets/models/onepiece-cfdf44/gallery-03.png",
+        "alt": "32毫米酒馆柜台完整一体模型（无支撑版）｜32mm Tavern Counter Complete One-Piece Model (Unsupported)真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-b68c9224130ea90cdfeac31dc3255c7d87e9ccc6f32981d98cf5ddbcf99933d7.png"
+      },
+      {
+        "src": "./assets/models/onepiece-cfdf44/gallery-04.png",
+        "alt": "32毫米酒馆柜台完整一体模型（无支撑版）｜32mm Tavern Counter Complete One-Piece Model (Unsupported)真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-dc1900ba7d0b42329f2a144c69b5b44979efb397023325f0b41d32262386da5f.png"
+      },
+      {
+        "src": "./assets/models/onepiece-cfdf44/gallery-05.png",
+        "alt": "32毫米酒馆柜台完整一体模型（无支撑版）｜32mm Tavern Counter Complete One-Piece Model (Unsupported)真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-92f4680067bdc904c077d1fc02816e01c255946b0723c5e666ec27dd94d169c9.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-3008f2b370b4a844b10b0e0982599f69bad1f03be01e8783dea3499833dc9566.png"
+  },
+  {
+    "id": "ouart-daily-six-20261030:grandpa-son-gohan-1-6-1c14bb",
+    "publicationId": "ouart-daily-six-20261030:grandpa-son-gohan-1-6-1c14bb",
+    "inventoryId": "grandpa-son-gohan-1-6-1c14bb",
+    "name": "孙悟饭爷爷 1/6 全身雕像完整套件｜Grandpa Son Gohan 1/6 Full-Figure Statue Complete Package",
+    "date": "2026-10-30",
+    "displayDate": "2026.10.30",
+    "format": "STL",
+    "fileCount": 12,
+    "size": "303.10 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/grandpa-son-gohan-1-6-1c14bb/grandpa-son-gohan-1-6-1c14bb-主图@初艺ouart.png",
+    "description": "完整的1/6比例孙悟饭爷爷全身雕像套件，包含头部、躯干、双臂、双手、下肢与底座合并版本、独立展示底座、手持面具和头顶光环；另含下肢拆分变体及高度参考柱。所选展示方案使用下肢与其底部结构合并的实际网格，并保留匹配的独立展示底座，不把支撑或变体误称为另一件作品。",
+    "intro": "2026.10.30 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1G87AC9V0Ux20fDkBd6CyTQ",
+    "shareCode": "caa3",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261030",
+    "nameZh": "孙悟饭爷爷 1/6 全身雕像完整套件",
+    "nameEn": "Grandpa Son Gohan 1/6 Full-Figure Statue Complete Package",
+    "displayName": "孙悟饭爷爷 1/6 全身雕像完整套件｜Grandpa Son Gohan 1/6 Full-Figure Statue Complete Package",
+    "category": "动漫人物全身雕像",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "孙悟饭爷爷 1/6 全身雕像完整套件｜Grandpa Son Gohan 1/6 Full-Figure Statue Complete PackageAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整的1/6比例孙悟饭爷爷全身雕像套件，包含头部、躯干、双臂、双手、下肢与底座合并版本、独立展示底座、手持面具和头顶光环；另含下肢拆分变体及高度参考柱。所选展示方案使用下肢与其底部结构合并的实际网格，并保留匹配的独立展示底座，不把支撑或变体误称为另一件作品。",
+          "该模型归入“动漫人物全身雕像”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 12 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/grandpa-son-gohan-1-6-1c14bb/gallery-02.png",
+        "alt": "孙悟饭爷爷 1/6 全身雕像完整套件｜Grandpa Son Gohan 1/6 Full-Figure Statue Complete Package真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-cdd21e035339da3f640da7044bce9c8259e606a5afa00a38c4badbaae28e151f.png"
+      },
+      {
+        "src": "./assets/models/grandpa-son-gohan-1-6-1c14bb/gallery-03.png",
+        "alt": "孙悟饭爷爷 1/6 全身雕像完整套件｜Grandpa Son Gohan 1/6 Full-Figure Statue Complete Package真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-8c5bed5394d3100c131131da97d3a7840fd8bf1f19d35e089bba08f393c427f7.png"
+      },
+      {
+        "src": "./assets/models/grandpa-son-gohan-1-6-1c14bb/gallery-04.png",
+        "alt": "孙悟饭爷爷 1/6 全身雕像完整套件｜Grandpa Son Gohan 1/6 Full-Figure Statue Complete Package真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-6424c83cf08d73f5fe7e5d0edf122921cef0a87b00b8fbebd86fb716853e2758.png"
+      },
+      {
+        "src": "./assets/models/grandpa-son-gohan-1-6-1c14bb/gallery-05.png",
+        "alt": "孙悟饭爷爷 1/6 全身雕像完整套件｜Grandpa Son Gohan 1/6 Full-Figure Statue Complete Package真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-feefd8dfd3d22358b5ac0ccc64f43502ec1a2c2b2c516b6483e51940bdc93667.png"
+      },
+      {
+        "src": "./assets/models/grandpa-son-gohan-1-6-1c14bb/gallery-06.png",
+        "alt": "孙悟饭爷爷 1/6 全身雕像完整套件｜Grandpa Son Gohan 1/6 Full-Figure Statue Complete Package真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-b1617f259a47eebf238f519777590581393aff1acd289bc866300539fbdaf2fb.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-f9f95d20756baee42c780da496f9cc9021e6f86af4325adb6f7dfea41a3ab0a5.png"
+  },
+  {
+    "id": "ouart-daily-six-20261030:model-15609826062339-cba71e",
+    "publicationId": "ouart-daily-six-20261030:model-15609826062339-cba71e",
+    "inventoryId": "model-15609826062339-cba71e",
+    "name": "萌系骷髅蜡烛小灯座（实心与镂空双版本）｜Cute Creepy Skull Candle Holder (Solid and Hollow Variants)",
+    "date": "2026-10-30",
+    "displayDate": "2026.10.30",
+    "format": "STL",
+    "fileCount": 2,
+    "size": "66.32 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-15609826062339-cba71e/model-15609826062339-cba71e-主图@初艺ouart.png",
+    "description": "完整包为同一款一体式萌系骷髅蜡烛小灯座，包含实心眼部版本与镂空眼部版本两种可替代打印方案；两款均为完整独立模型，不需要另配底座、支架或拼装零件。照片中的发光蜡烛仅用于展示使用场景，不属于所提供的网格组件。",
+    "intro": "2026.10.30 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1pIW9DKqhrJrFmwBQR8Ws8A",
+    "shareCode": "fbc8",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261030",
+    "nameZh": "萌系骷髅蜡烛小灯座（实心与镂空双版本）",
+    "nameEn": "Cute Creepy Skull Candle Holder (Solid and Hollow Variants)",
+    "displayName": "萌系骷髅蜡烛小灯座（实心与镂空双版本）｜Cute Creepy Skull Candle Holder (Solid and Hollow Variants)",
+    "category": "家居装饰 / 蜡烛灯座",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "萌系骷髅蜡烛小灯座（实心与镂空双版本）｜Cute Creepy Skull Candle Holder (Solid and Hollow Variants)AI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包为同一款一体式萌系骷髅蜡烛小灯座，包含实心眼部版本与镂空眼部版本两种可替代打印方案；两款均为完整独立模型，不需要另配底座、支架或拼装零件。照片中的发光蜡烛仅用于展示使用场景，不属于所提供的网格组件。",
+          "该模型归入“家居装饰 / 蜡烛灯座”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 2 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-15609826062339-cba71e/gallery-07.png",
+        "alt": "萌系骷髅蜡烛小灯座（实心与镂空双版本）｜Cute Creepy Skull Candle Holder (Solid and Hollow Variants)真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-8ffb94ca541dd5bd57c18dabd1f0322d0b35a7eabf73b57fd087847001e98a79.png"
+      },
+      {
+        "src": "./assets/models/model-15609826062339-cba71e/gallery-08.png",
+        "alt": "萌系骷髅蜡烛小灯座（实心与镂空双版本）｜Cute Creepy Skull Candle Holder (Solid and Hollow Variants)真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-ccb43436f8e2e9db4aef26c89e70b073d12864c9f57ad3b78f951a00d14e2180.png"
+      },
+      {
+        "src": "./assets/models/model-15609826062339-cba71e/gallery-09.png",
+        "alt": "萌系骷髅蜡烛小灯座（实心与镂空双版本）｜Cute Creepy Skull Candle Holder (Solid and Hollow Variants)真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-b78c745b7af494e247b68b300706c3ec3f361facbcc4a235cc26ee38dadcb4f9.png"
+      },
+      {
+        "src": "./assets/models/model-15609826062339-cba71e/gallery-10.png",
+        "alt": "萌系骷髅蜡烛小灯座（实心与镂空双版本）｜Cute Creepy Skull Candle Holder (Solid and Hollow Variants)真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-3911c7428a2d765f2489d5b008a92ddc978d79933c92c406821878f737d97dfb.png"
+      },
+      {
+        "src": "./assets/models/model-15609826062339-cba71e/gallery-11.png",
+        "alt": "萌系骷髅蜡烛小灯座（实心与镂空双版本）｜Cute Creepy Skull Candle Holder (Solid and Hollow Variants)真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-cf0b1f6532f1192e57942525c9b91fd721bf341c5a045ddce33bda341d73c492.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-bebdc90fb59cc0d9e9eab0a26b5f8ae365fa7c77faf69a722598152849608351.png"
+  },
+  {
+    "id": "ouart-daily-six-20261030:ukupalua-hololive-gawr-gura-4687d0",
+    "publicationId": "ouart-daily-six-20261030:ukupalua-hololive-gawr-gura-4687d0",
+    "inventoryId": "ukupalua-hololive-gawr-gura-4687d0",
+    "name": "噶呜·古拉海滩度假场景雕像｜Gawr Gura Beach Vacation Diorama",
+    "date": "2026-10-30",
+    "displayDate": "2026.10.30",
+    "format": "STL",
+    "fileCount": 31,
+    "size": "173.13 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/ukupalua-hololive-gawr-gura-4687d0/ukupalua-hololive-gawr-gura-4687d0-主图@初艺ouart.png",
+    "description": "完整的噶呜·古拉海滩度假全身场景模型包，包含坐姿人物全部拆件、沙滩地台、塑料椅、桌子、遮阳伞、行李箱、包与背带、Bloop及其配件、饮品和餐具，并包含冰淇淋右臂的合并/拆分替代方案以及标准伞面/金属杆适配伞面变体。",
+    "intro": "2026.10.30 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1LzyH6aewUNeqL1IYokuDdw",
+    "shareCode": "557a",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261030",
+    "nameZh": "噶呜·古拉海滩度假场景雕像",
+    "nameEn": "Gawr Gura Beach Vacation Diorama",
+    "displayName": "噶呜·古拉海滩度假场景雕像｜Gawr Gura Beach Vacation Diorama",
+    "category": "动漫游戏角色",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "噶呜·古拉海滩度假场景雕像｜Gawr Gura Beach Vacation DioramaAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整的噶呜·古拉海滩度假全身场景模型包，包含坐姿人物全部拆件、沙滩地台、塑料椅、桌子、遮阳伞、行李箱、包与背带、Bloop及其配件、饮品和餐具，并包含冰淇淋右臂的合并/拆分替代方案以及标准伞面/金属杆适配伞面变体。",
+          "该模型归入“动漫游戏角色”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 31 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/ukupalua-hololive-gawr-gura-4687d0/gallery-08.png",
+        "alt": "噶呜·古拉海滩度假场景雕像｜Gawr Gura Beach Vacation Diorama真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-32822df9e4f3b223facaf093d4a6b38ca46281a39057057514d54a3ee5346416.png"
+      },
+      {
+        "src": "./assets/models/ukupalua-hololive-gawr-gura-4687d0/gallery-09.png",
+        "alt": "噶呜·古拉海滩度假场景雕像｜Gawr Gura Beach Vacation Diorama真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-ed1d1099aec47e0098a0cd932865378f51d243c35fd84d0c52734bd9ac540efa.png"
+      },
+      {
+        "src": "./assets/models/ukupalua-hololive-gawr-gura-4687d0/gallery-10.png",
+        "alt": "噶呜·古拉海滩度假场景雕像｜Gawr Gura Beach Vacation Diorama真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-e22e505d1bd5c2e87685e1d779ee2f6af67a5a726750ff320db2f127dad58a49.png"
+      },
+      {
+        "src": "./assets/models/ukupalua-hololive-gawr-gura-4687d0/gallery-11.png",
+        "alt": "噶呜·古拉海滩度假场景雕像｜Gawr Gura Beach Vacation Diorama真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-9e4490b502dccd0b0beda815a8fce558e625e2238760b9a95023db12cf829894.png"
+      },
+      {
+        "src": "./assets/models/ukupalua-hololive-gawr-gura-4687d0/gallery-12.png",
+        "alt": "噶呜·古拉海滩度假场景雕像｜Gawr Gura Beach Vacation Diorama真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-0ae45f7a32055ad4d4d317cc3e1ebb7462667070072142301df93167a9c5f71b.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-b4dd2c9c825c184e9eccd34ec57040d74bec05b4501fcbec04a8ac9a27f5f06e.png"
+  },
+  {
     "id": "ouart-daily-six-20261029:texture-7960ae",
     "publicationId": "ouart-daily-six-20261029:texture-7960ae",
     "inventoryId": "texture-7960ae",

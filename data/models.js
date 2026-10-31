@@ -1,5 +1,425 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261031:027-boss-rabbit-car-ac73ff",
+    "publicationId": "ouart-daily-six-20261031:027-boss-rabbit-car-ac73ff",
+    "inventoryId": "027-boss-rabbit-car-ac73ff",
+    "name": "老板兔兔车｜Boss Rabbit Car",
+    "date": "2026-10-31",
+    "displayDate": "2026.10.31",
+    "format": "STL",
+    "fileCount": 11,
+    "size": "98.35 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/027-boss-rabbit-car-ac73ff/027-boss-rabbit-car-ac73ff-主图@初艺ouart.png",
+    "description": "完整的老板兔兔车分件模型包，包含车身、左右兔耳、左右后视镜、兔尾和四个独立车轮，并附带一个100毫米高度参考柱；展示装配使用全部十个实际车辆部件，高度参考柱仅为尺寸校准附件，不属于成品造型。",
+    "intro": "2026.10.31 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1-6lUsNu11mPCu4avZlRf2Q",
+    "shareCode": "a926",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261031",
+    "nameZh": "老板兔兔车",
+    "nameEn": "Boss Rabbit Car",
+    "displayName": "老板兔兔车｜Boss Rabbit Car",
+    "category": "卡通载具",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "老板兔兔车｜Boss Rabbit CarAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整的老板兔兔车分件模型包，包含车身、左右兔耳、左右后视镜、兔尾和四个独立车轮，并附带一个100毫米高度参考柱；展示装配使用全部十个实际车辆部件，高度参考柱仅为尺寸校准附件，不属于成品造型。",
+          "该模型归入“卡通载具”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 11 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/027-boss-rabbit-car-ac73ff/gallery-11.png",
+        "alt": "老板兔兔车｜Boss Rabbit Car真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-6c9c75beb47cc5f834ca40e40ff266b0f043ffc82e635f2e491b04199fbd7ed1.png"
+      },
+      {
+        "src": "./assets/models/027-boss-rabbit-car-ac73ff/gallery-12.png",
+        "alt": "老板兔兔车｜Boss Rabbit Car真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-a457af0761e6bccbbb6206d2aa1a4b64305e4cb7f1d7157f718e8ca253e95c8b.png"
+      },
+      {
+        "src": "./assets/models/027-boss-rabbit-car-ac73ff/gallery-13.png",
+        "alt": "老板兔兔车｜Boss Rabbit Car真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-e48a91248875a2c6682c89c88b01a117705c9b49c7f98b27d46c178c205f3ad5.png"
+      },
+      {
+        "src": "./assets/models/027-boss-rabbit-car-ac73ff/gallery-14.png",
+        "alt": "老板兔兔车｜Boss Rabbit Car真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-c53869cbe00fbc021e1c8f97fe5a6e6aca0242ed77bd2453863590fce3fcdd79.png"
+      },
+      {
+        "src": "./assets/models/027-boss-rabbit-car-ac73ff/gallery-15.png",
+        "alt": "老板兔兔车｜Boss Rabbit Car真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-9a29aec7ea385363bc629e3378d2a17d87786a3fb1a14bdf4408c0a632112690.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-ef2f7ebf58d2f54ca1d87de9316b71f69c79337e73967874166344509aec0933.png"
+  },
+  {
+    "id": "ouart-daily-six-20261031:mona-lisa-la-gioconda-f35388",
+    "publicationId": "ouart-daily-six-20261031:mona-lisa-la-gioconda-f35388",
+    "inventoryId": "mona-lisa-la-gioconda-f35388",
+    "name": "蒙娜丽莎半身雕像与平面变体套装｜Mona Lisa (La Gioconda) Bust and Flat Variant Set",
+    "date": "2026-10-31",
+    "displayDate": "2026.10.31",
+    "format": "STL",
+    "fileCount": 2,
+    "size": "53.29 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/mona-lisa-la-gioconda-f35388/mona-lisa-la-gioconda-f35388-主图@初艺ouart.png",
+    "description": "完整包包含一件带一体式椭圆底座的蒙娜丽莎半身陈列雕像，以及一件独立的同主题15毫米厚平面STL变体；两者作为同一作品的展示形式一并发布，平面变体不被虚构为雕像的底座或连接件。",
+    "intro": "2026.10.31 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1TO0n73TnpnIDuMJcGXvxiA",
+    "shareCode": "b5c0",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261031",
+    "nameZh": "蒙娜丽莎半身雕像与平面变体套装",
+    "nameEn": "Mona Lisa (La Gioconda) Bust and Flat Variant Set",
+    "displayName": "蒙娜丽莎半身雕像与平面变体套装｜Mona Lisa (La Gioconda) Bust and Flat Variant Set",
+    "category": "艺术雕塑",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "蒙娜丽莎半身雕像与平面变体套装｜Mona Lisa (La Gioconda) Bust and Flat Variant SetAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包包含一件带一体式椭圆底座的蒙娜丽莎半身陈列雕像，以及一件独立的同主题15毫米厚平面STL变体；两者作为同一作品的展示形式一并发布，平面变体不被虚构为雕像的底座或连接件。",
+          "该模型归入“艺术雕塑”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 2 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/mona-lisa-la-gioconda-f35388/gallery-02.png",
+        "alt": "蒙娜丽莎半身雕像与平面变体套装｜Mona Lisa (La Gioconda) Bust and Flat Variant Set真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-e593563cb8b1bb416ff4e66d778e56ab37edb5891660aa01af01f7e283d794ac.png"
+      },
+      {
+        "src": "./assets/models/mona-lisa-la-gioconda-f35388/gallery-03.png",
+        "alt": "蒙娜丽莎半身雕像与平面变体套装｜Mona Lisa (La Gioconda) Bust and Flat Variant Set真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-0c3a9dd60bc92ffd5d15a7ddf94c335de49f82cafcb88c11b1cf9deb2f3f447f.png"
+      },
+      {
+        "src": "./assets/models/mona-lisa-la-gioconda-f35388/gallery-04.png",
+        "alt": "蒙娜丽莎半身雕像与平面变体套装｜Mona Lisa (La Gioconda) Bust and Flat Variant Set真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-031bfac8e33c5b7ec70b12316ad449f6217021a6dbd30b0f7f24dab2d24c1c40.png"
+      },
+      {
+        "src": "./assets/models/mona-lisa-la-gioconda-f35388/gallery-05.png",
+        "alt": "蒙娜丽莎半身雕像与平面变体套装｜Mona Lisa (La Gioconda) Bust and Flat Variant Set真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-dab963671fd3e0f888a0702d5735c8927b97d293b585aca69469ff3ab24a1222.png"
+      },
+      {
+        "src": "./assets/models/mona-lisa-la-gioconda-f35388/gallery-06.png",
+        "alt": "蒙娜丽莎半身雕像与平面变体套装｜Mona Lisa (La Gioconda) Bust and Flat Variant Set真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-4c2c3ba8044861c1a7b39d4a6196021704ff157c34eb3f2dc79f311f1212e72b.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-4d34bf7789d5538b15ef403a63a7d65b2e97f9d8a342e43df48deeb818f07d4b.png"
+  },
+  {
+    "id": "ouart-daily-six-20261031:pinocchio-7eb310",
+    "publicationId": "ouart-daily-six-20261031:pinocchio-7eb310",
+    "inventoryId": "pinocchio-7eb310",
+    "name": "匹诺曹坐姿书本场景雕像完整套装｜Pinocchio Seated on Book Scene Complete Set",
+    "date": "2026-10-31",
+    "displayDate": "2026.10.31",
+    "format": "STL",
+    "fileCount": 12,
+    "size": "100.58 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/pinocchio-7eb310/pinocchio-7eb310-主图@初艺ouart.png",
+    "description": "完整包包含匹诺曹全身坐姿人物的头部、身体、左右手臂、左右腿、帽子与领结拆件，以及不可省略的书本展示底座、苹果、蟋蟀和带字块状场景件；全部文件共同组成原图所示的一件完整叙事场景，不是独立散件合集，也没有把支撑文件误称为另一件作品。",
+    "intro": "2026.10.31 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1Y7VRXmXxD4xRpHHI-hL99g",
+    "shareCode": "2533",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261031",
+    "nameZh": "匹诺曹坐姿书本场景雕像完整套装",
+    "nameEn": "Pinocchio Seated on Book Scene Complete Set",
+    "displayName": "匹诺曹坐姿书本场景雕像完整套装｜Pinocchio Seated on Book Scene Complete Set",
+    "category": "卡通角色全身场景雕像",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "匹诺曹坐姿书本场景雕像完整套装｜Pinocchio Seated on Book Scene Complete SetAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包包含匹诺曹全身坐姿人物的头部、身体、左右手臂、左右腿、帽子与领结拆件，以及不可省略的书本展示底座、苹果、蟋蟀和带字块状场景件；全部文件共同组成原图所示的一件完整叙事场景，不是独立散件合集，也没有把支撑文件误称为另一件作品。",
+          "该模型归入“卡通角色全身场景雕像”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 12 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/pinocchio-7eb310/gallery-02.png",
+        "alt": "匹诺曹坐姿书本场景雕像完整套装｜Pinocchio Seated on Book Scene Complete Set真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-06255885ee588017639aed02cf643ffbb78e32852feafaaa59b5789491bb46ea.png"
+      },
+      {
+        "src": "./assets/models/pinocchio-7eb310/gallery-03.png",
+        "alt": "匹诺曹坐姿书本场景雕像完整套装｜Pinocchio Seated on Book Scene Complete Set真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-661356af570f17fcc94bbd191fa118508424286abd70daf9da527160e0e72c88.png"
+      },
+      {
+        "src": "./assets/models/pinocchio-7eb310/gallery-04.png",
+        "alt": "匹诺曹坐姿书本场景雕像完整套装｜Pinocchio Seated on Book Scene Complete Set真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-b6eebd7f3c4debea0c0e929cc85a6d21e2cd14aa617d1493932136672de90a84.png"
+      },
+      {
+        "src": "./assets/models/pinocchio-7eb310/gallery-05.png",
+        "alt": "匹诺曹坐姿书本场景雕像完整套装｜Pinocchio Seated on Book Scene Complete Set真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-353a4c9ea5905f8ea263adb73fed80ba01a14f1700d9892debdcea8a4b6533ab.png"
+      },
+      {
+        "src": "./assets/models/pinocchio-7eb310/gallery-06.png",
+        "alt": "匹诺曹坐姿书本场景雕像完整套装｜Pinocchio Seated on Book Scene Complete Set真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-c80de4bad632f57e104afd753472dea0b7b08129baf1f636ecbff9078e29cc89.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-a685a3f8914980b524d412c875996232b2b8df829b7eb2c66d8baa376df3f50e.png"
+  },
+  {
+    "id": "ouart-daily-six-20261031:joker-bust-b0e6f2",
+    "publicationId": "ouart-daily-six-20261031:joker-bust-b0e6f2",
+    "inventoryId": "joker-bust-b0e6f2",
+    "name": "小丑胸像完整套装（合并版及底座四分件版）｜Joker Bust Complete Set — Merged Version and Four-Part Base Assembly",
+    "date": "2026-10-31",
+    "displayDate": "2026.10.31",
+    "format": "STL",
+    "fileCount": 5,
+    "size": "323.57 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/joker-bust-b0e6f2/joker-bust-b0e6f2-主图@初艺ouart.png",
+    "description": "完整包包含一件小丑人物胸像的五个实际 STL：可直接展示的完整合并版，以及由专用底座、身体、胸花和头部组成的四分件版。两种形态属于同一作品、同一次发行；底座是完整包的必要组成，未被省略，拆分版也不被误称为另一件作品。",
+    "intro": "2026.10.31 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1xCHUQjJufUwCu76v0RbIsg",
+    "shareCode": "f774",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261031",
+    "nameZh": "小丑胸像完整套装（合并版及底座四分件版）",
+    "nameEn": "Joker Bust Complete Set — Merged Version and Four-Part Base Assembly",
+    "displayName": "小丑胸像完整套装（合并版及底座四分件版）｜Joker Bust Complete Set — Merged Version and Four-Part Base Assembly",
+    "category": "人物胸像",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "小丑胸像完整套装（合并版及底座四分件版）｜Joker Bust Complete Set — Merged Version and Four-Part Base AssemblyAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包包含一件小丑人物胸像的五个实际 STL：可直接展示的完整合并版，以及由专用底座、身体、胸花和头部组成的四分件版。两种形态属于同一作品、同一次发行；底座是完整包的必要组成，未被省略，拆分版也不被误称为另一件作品。",
+          "该模型归入“人物胸像”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 5 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/joker-bust-b0e6f2/gallery-01.png",
+        "alt": "小丑胸像完整套装（合并版及底座四分件版）｜Joker Bust Complete Set — Merged Version and Four-Part Base Assembly真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-771d7104bb2d99da8ebdd6bd8e8298ae02f4b4269ee88decbd37542bacae08cf.png"
+      },
+      {
+        "src": "./assets/models/joker-bust-b0e6f2/gallery-02.png",
+        "alt": "小丑胸像完整套装（合并版及底座四分件版）｜Joker Bust Complete Set — Merged Version and Four-Part Base Assembly真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-551dde112618cdccb23d9dc6a97c33f9b11406943ecf55a68897c4d216872624.png"
+      },
+      {
+        "src": "./assets/models/joker-bust-b0e6f2/gallery-03.png",
+        "alt": "小丑胸像完整套装（合并版及底座四分件版）｜Joker Bust Complete Set — Merged Version and Four-Part Base Assembly真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-7ea02f43bfdbfcd4642d5245950d2e1c0901a2b396ab47ba08c5f2c7c6bf1a9e.png"
+      },
+      {
+        "src": "./assets/models/joker-bust-b0e6f2/gallery-04.png",
+        "alt": "小丑胸像完整套装（合并版及底座四分件版）｜Joker Bust Complete Set — Merged Version and Four-Part Base Assembly真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-57f5ab9a8657def19344b85b0ef0b0f75fd61039cd70d4bb4622960f313d306f.png"
+      },
+      {
+        "src": "./assets/models/joker-bust-b0e6f2/gallery-05.png",
+        "alt": "小丑胸像完整套装（合并版及底座四分件版）｜Joker Bust Complete Set — Merged Version and Four-Part Base Assembly真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-294cbeb2c7e32a27e4880ee8af675024bb98a6d9c2f649d913914785dc04ece1.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/10/ouart-model-8ad44c64df92f0cdf3718d5891af28178d1bba6e62650461c3457e5d07cbf62b.png"
+  },
+  {
     "id": "ouart-daily-six-20261030:onepiece-cfdf44",
     "publicationId": "ouart-daily-six-20261030:onepiece-cfdf44",
     "inventoryId": "onepiece-cfdf44",

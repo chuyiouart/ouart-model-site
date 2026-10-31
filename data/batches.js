@@ -1,6 +1,27 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20261031",
+    "date": "2026-10-31",
+    "displayDate": "2026.10.31",
+    "title": "2026.10.31｜OUART 今日4件",
+    "description": "本期共4件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-10-31/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-10-31 4模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20261031:027-boss-rabbit-car-ac73ff",
+      "ouart-daily-six-20261031:mona-lisa-la-gioconda-f35388",
+      "ouart-daily-six-20261031:pinocchio-7eb310",
+      "ouart-daily-six-20261031:joker-bust-b0e6f2"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1kFsnUpy0hsnrSXpwlTc57Q",
+    "shareCode": "bb2f",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-10-31T10:32:31+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20261030",
     "date": "2026-10-30",
     "displayDate": "2026.10.30",

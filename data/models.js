@@ -1,5 +1,425 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261101:arale-dr-slump-stl-zone-ae2bd2",
+    "publicationId": "ouart-daily-six-20261101:arale-dr-slump-stl-zone-ae2bd2",
+    "inventoryId": "arale-dr-slump-stl-zone-ae2bd2",
+    "name": "阿拉蕾奔跑全身像（含眼镜、便便棒、帽饰文字与专属台座）｜Arale Running Full Figure with Glasses, Poop Stick, Hat Text and Display Base",
+    "date": "2026-11-01",
+    "displayDate": "2026.11.01",
+    "format": "STL",
+    "fileCount": 7,
+    "size": "321.18 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/arale-dr-slump-stl-zone-ae2bd2/arale-dr-slump-stl-zone-ae2bd2-主图@初艺ouart.png",
+    "description": "完整包是一件《阿拉蕾／Dr. Slump》角色奔跑全身像，共含身体、双腿、独立手部、眼镜、便便棒配件、帽饰文字以及不可省略的圆形专属台座七个实际 STL 分件；这些分件共同构成原图所示的同一件完整作品，不是多个独立角色或道具的合集，包内也没有另列支撑版、无支撑版、胸像版或合并版变体。",
+    "intro": "2026.11.01 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1XG3zQdhTX4L37CvACrTK8Q",
+    "shareCode": "204e",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261101",
+    "nameZh": "阿拉蕾奔跑全身像（含眼镜、便便棒、帽饰文字与专属台座）",
+    "nameEn": "Arale Running Full Figure with Glasses, Poop Stick, Hat Text and Display Base",
+    "displayName": "阿拉蕾奔跑全身像（含眼镜、便便棒、帽饰文字与专属台座）｜Arale Running Full Figure with Glasses, Poop Stick, Hat Text and Display Base",
+    "category": "动漫角色全身雕像",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "阿拉蕾奔跑全身像（含眼镜、便便棒、帽饰文字与专属台座）｜Arale Running Full Figure with Glasses, Poop Stick, Hat Text and Display BaseAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包是一件《阿拉蕾／Dr. Slump》角色奔跑全身像，共含身体、双腿、独立手部、眼镜、便便棒配件、帽饰文字以及不可省略的圆形专属台座七个实际 STL 分件；这些分件共同构成原图所示的同一件完整作品，不是多个独立角色或道具的合集，包内也没有另列支撑版、无支撑版、胸像版或合并版变体。",
+          "该模型归入“动漫角色全身雕像”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 7 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/arale-dr-slump-stl-zone-ae2bd2/gallery-02.png",
+        "alt": "阿拉蕾奔跑全身像（含眼镜、便便棒、帽饰文字与专属台座）｜Arale Running Full Figure with Glasses, Poop Stick, Hat Text and Display Base真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-b5b78415c05f80a059343cf03be2cad35d1a1332f897c38db17addd8668b4660.png"
+      },
+      {
+        "src": "./assets/models/arale-dr-slump-stl-zone-ae2bd2/gallery-03.png",
+        "alt": "阿拉蕾奔跑全身像（含眼镜、便便棒、帽饰文字与专属台座）｜Arale Running Full Figure with Glasses, Poop Stick, Hat Text and Display Base真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-c9fcba97ec7c7d3c052ec36ad5df33e28da2f5779b84c05ae0781ec6f0028eb2.png"
+      },
+      {
+        "src": "./assets/models/arale-dr-slump-stl-zone-ae2bd2/gallery-04.png",
+        "alt": "阿拉蕾奔跑全身像（含眼镜、便便棒、帽饰文字与专属台座）｜Arale Running Full Figure with Glasses, Poop Stick, Hat Text and Display Base真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-d70f427ad6765c417bad5ae30062c0e48897720c8f3c5502baf755faa7bdda58.png"
+      },
+      {
+        "src": "./assets/models/arale-dr-slump-stl-zone-ae2bd2/gallery-05.png",
+        "alt": "阿拉蕾奔跑全身像（含眼镜、便便棒、帽饰文字与专属台座）｜Arale Running Full Figure with Glasses, Poop Stick, Hat Text and Display Base真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-c7450005f76ca04b4b700fddc292a1d923a50c81b457deef195ad2feeb107d8d.png"
+      },
+      {
+        "src": "./assets/models/arale-dr-slump-stl-zone-ae2bd2/gallery-06.png",
+        "alt": "阿拉蕾奔跑全身像（含眼镜、便便棒、帽饰文字与专属台座）｜Arale Running Full Figure with Glasses, Poop Stick, Hat Text and Display Base真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-1272fe9b664ebf609cefce1f63c2d1b4ab57a521eda16c8866da62b8a020fc5b.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-dcd616969b89303eba973cacf5766467d93be03ebc924679cb1c19677dc16da3.png"
+  },
+  {
+    "id": "ouart-daily-six-20261101:low-poly-dragon-without-ground-printtt3d-d79367",
+    "publicationId": "ouart-daily-six-20261101:low-poly-dragon-without-ground-printtt3d-d79367",
+    "inventoryId": "low-poly-dragon-without-ground-printtt3d-d79367",
+    "name": "低多边形翼龙全身雕塑（带地台及无地台双版本）｜Low-Poly Winged Dragon Full-Figure Sculpture (With-Base and Baseless Variants)",
+    "date": "2026-11-01",
+    "displayDate": "2026.11.01",
+    "format": "STL",
+    "fileCount": 2,
+    "size": "38.93 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/low-poly-dragon-without-ground-printtt3d-d79367/low-poly-dragon-without-ground-printtt3d-d79367-主图@初艺ouart.png",
+    "description": "完整包是一件低多边形风格的站立翼龙全身雕塑，包含同一作品的两个实际 STL：一个完整龙的无地台版本，以及一个把完整龙与匹配薄矩形地台合并为单一网格的展示版本。作品具备头部、躯干、四肢、双翼和弯曲长尾，不是胸像，也没有需要另行补齐的独立身体部件；发布时应把带地台与无地台版本作为同一完整作品的打印选择一并保留。",
+    "intro": "2026.11.01 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1MCLmhxUFNWBuELX_P452xw",
+    "shareCode": "4f01",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261101",
+    "nameZh": "低多边形翼龙全身雕塑（带地台及无地台双版本）",
+    "nameEn": "Low-Poly Winged Dragon Full-Figure Sculpture (With-Base and Baseless Variants)",
+    "displayName": "低多边形翼龙全身雕塑（带地台及无地台双版本）｜Low-Poly Winged Dragon Full-Figure Sculpture (With-Base and Baseless Variants)",
+    "category": "奇幻生物全身雕塑",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "低多边形翼龙全身雕塑（带地台及无地台双版本）｜Low-Poly Winged Dragon Full-Figure Sculpture (With-Base and Baseless Variants)AI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包是一件低多边形风格的站立翼龙全身雕塑，包含同一作品的两个实际 STL：一个完整龙的无地台版本，以及一个把完整龙与匹配薄矩形地台合并为单一网格的展示版本。作品具备头部、躯干、四肢、双翼和弯曲长尾，不是胸像，也没有需要另行补齐的独立身体部件；发布时应把带地台与无地台版本作为同一完整作品的打印选择一并保留。",
+          "该模型归入“奇幻生物全身雕塑”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 2 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/low-poly-dragon-without-ground-printtt3d-d79367/gallery-02.png",
+        "alt": "低多边形翼龙全身雕塑（带地台及无地台双版本）｜Low-Poly Winged Dragon Full-Figure Sculpture (With-Base and Baseless Variants)真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-bbbec7190db58472f328005f77746d60d24e003dfc18ea028011332e085140d6.png"
+      },
+      {
+        "src": "./assets/models/low-poly-dragon-without-ground-printtt3d-d79367/gallery-03.png",
+        "alt": "低多边形翼龙全身雕塑（带地台及无地台双版本）｜Low-Poly Winged Dragon Full-Figure Sculpture (With-Base and Baseless Variants)真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-4643cea94ec3d6fad28b6b9d7051d8ded9da140c163d89f67f430ca36002ed92.png"
+      },
+      {
+        "src": "./assets/models/low-poly-dragon-without-ground-printtt3d-d79367/gallery-04.png",
+        "alt": "低多边形翼龙全身雕塑（带地台及无地台双版本）｜Low-Poly Winged Dragon Full-Figure Sculpture (With-Base and Baseless Variants)真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-a96c34569b3da72f9e0f414d67a884f45a2e83f5a191ffa4c794a572400a223f.png"
+      },
+      {
+        "src": "./assets/models/low-poly-dragon-without-ground-printtt3d-d79367/gallery-05.png",
+        "alt": "低多边形翼龙全身雕塑（带地台及无地台双版本）｜Low-Poly Winged Dragon Full-Figure Sculpture (With-Base and Baseless Variants)真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-d2a670b7c536acf823c0cae3d784debd54a5587145ff3fdb1e99ec4e5f4e9a07.png"
+      },
+      {
+        "src": "./assets/models/low-poly-dragon-without-ground-printtt3d-d79367/gallery-06.png",
+        "alt": "低多边形翼龙全身雕塑（带地台及无地台双版本）｜Low-Poly Winged Dragon Full-Figure Sculpture (With-Base and Baseless Variants)真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-7da34c0b5c0f43310564544298e6ac8ab5bde6f9efa9a521732b2e73b5359577.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-b37d213dcaba6c05adfdc5cd334ef938004ad4e489c033a787fa803746872184.png"
+  },
+  {
+    "id": "ouart-daily-six-20261101:tomb-raider-a8d0cc",
+    "publicationId": "ouart-daily-six-20261101:tomb-raider-a8d0cc",
+    "inventoryId": "tomb-raider-a8d0cc",
+    "name": "古墓丽影劳拉·克劳馥双枪全身雕像｜Tomb Raider Lara Croft Dual-Pistol Full-Figure Statue",
+    "date": "2026-11-01",
+    "displayDate": "2026.11.01",
+    "format": "STL",
+    "fileCount": 16,
+    "size": "232.27 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/tomb-raider-a8d0cc/tomb-raider-a8d0cc-主图@初艺ouart.png",
+    "description": "完整包为一件劳拉·克劳馥双枪全身雕像，共16个STL文件：分件式头部、腰身、双臂、双手、双腿、辫子、刘海、背包、左右枪套及必要圆形展示底座，并附两种眼镜版本；两种眼镜是同一作品的可替换造型，不是独立作品。",
+    "intro": "2026.11.01 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1J9WwA4F7h5JMu8KOKqlatw",
+    "shareCode": "3dab",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261101",
+    "nameZh": "古墓丽影劳拉·克劳馥双枪全身雕像",
+    "nameEn": "Tomb Raider Lara Croft Dual-Pistol Full-Figure Statue",
+    "displayName": "古墓丽影劳拉·克劳馥双枪全身雕像｜Tomb Raider Lara Croft Dual-Pistol Full-Figure Statue",
+    "category": "游戏角色全身雕像",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "古墓丽影劳拉·克劳馥双枪全身雕像｜Tomb Raider Lara Croft Dual-Pistol Full-Figure StatueAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包为一件劳拉·克劳馥双枪全身雕像，共16个STL文件：分件式头部、腰身、双臂、双手、双腿、辫子、刘海、背包、左右枪套及必要圆形展示底座，并附两种眼镜版本；两种眼镜是同一作品的可替换造型，不是独立作品。",
+          "该模型归入“游戏角色全身雕像”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 16 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/tomb-raider-a8d0cc/gallery-02.png",
+        "alt": "古墓丽影劳拉·克劳馥双枪全身雕像｜Tomb Raider Lara Croft Dual-Pistol Full-Figure Statue真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-f0f787d7e1d54ec2792f38ce7c36cbf57eff05caced97d0a97e5dfd84c928bdf.png"
+      },
+      {
+        "src": "./assets/models/tomb-raider-a8d0cc/gallery-03.png",
+        "alt": "古墓丽影劳拉·克劳馥双枪全身雕像｜Tomb Raider Lara Croft Dual-Pistol Full-Figure Statue真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-dae14f31d2aeae91b769c585519a360780a2617f6801bd441d569c373e5e11b8.png"
+      },
+      {
+        "src": "./assets/models/tomb-raider-a8d0cc/gallery-04.png",
+        "alt": "古墓丽影劳拉·克劳馥双枪全身雕像｜Tomb Raider Lara Croft Dual-Pistol Full-Figure Statue真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-aad9fe57c6f945d5c29d8351187a49872bb037d7e1ad794b07e97d370e103d1b.png"
+      },
+      {
+        "src": "./assets/models/tomb-raider-a8d0cc/gallery-05.png",
+        "alt": "古墓丽影劳拉·克劳馥双枪全身雕像｜Tomb Raider Lara Croft Dual-Pistol Full-Figure Statue真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-3af981538b490b50d6806018a164b0988c7ee84b75e33e6de7cc91855001afc8.png"
+      },
+      {
+        "src": "./assets/models/tomb-raider-a8d0cc/gallery-06.png",
+        "alt": "古墓丽影劳拉·克劳馥双枪全身雕像｜Tomb Raider Lara Croft Dual-Pistol Full-Figure Statue真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-27973510edad98860a0b2fa08a35cc7a4fe3239245352ddc7887c2b52aef9016.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-9dd66ee2953f28728b9791c711c98d6db892c1bff6e55785ce548144809f6977.png"
+  },
+  {
+    "id": "ouart-daily-six-20261101:carbos21-gaara-b125e0",
+    "publicationId": "ouart-daily-six-20261101:carbos21-gaara-b125e0",
+    "inventoryId": "carbos21-gaara-b125e0",
+    "name": "我爱罗与沙之巨爪全身场景雕像｜Gaara with Giant Sand Claw Full-Figure Diorama",
+    "date": "2026-11-01",
+    "displayDate": "2026.11.01",
+    "format": "STL",
+    "fileCount": 5,
+    "size": "25.68 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/carbos21-gaara-b125e0/carbos21-gaara-b125e0-主图@初艺ouart.png",
+    "description": "完整无支撑分件包为同一件我爱罗全身场景作品：包含圆形装饰底座及其上的下半身与地景主体、上身和头部、两段环绕人物的沙之枝状特效，以及一只大型沙之巨爪；五个实际STL共同组成原图所示的完整动态雕像，不把沙之特效、巨爪或底座拆作独立作品。",
+    "intro": "2026.11.01 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/16sLRtPSSCGgtSo1NbzU1hA",
+    "shareCode": "ff85",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261101",
+    "nameZh": "我爱罗与沙之巨爪全身场景雕像",
+    "nameEn": "Gaara with Giant Sand Claw Full-Figure Diorama",
+    "displayName": "我爱罗与沙之巨爪全身场景雕像｜Gaara with Giant Sand Claw Full-Figure Diorama",
+    "category": "动漫角色全身场景雕塑",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "我爱罗与沙之巨爪全身场景雕像｜Gaara with Giant Sand Claw Full-Figure DioramaAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整无支撑分件包为同一件我爱罗全身场景作品：包含圆形装饰底座及其上的下半身与地景主体、上身和头部、两段环绕人物的沙之枝状特效，以及一只大型沙之巨爪；五个实际STL共同组成原图所示的完整动态雕像，不把沙之特效、巨爪或底座拆作独立作品。",
+          "该模型归入“动漫角色全身场景雕塑”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 5 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/carbos21-gaara-b125e0/gallery-04.png",
+        "alt": "我爱罗与沙之巨爪全身场景雕像｜Gaara with Giant Sand Claw Full-Figure Diorama真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-6a2cd510b3333931adcb4881e0afcda3b1826c90f58b3d878058133f4bc9a555.png"
+      },
+      {
+        "src": "./assets/models/carbos21-gaara-b125e0/gallery-05.png",
+        "alt": "我爱罗与沙之巨爪全身场景雕像｜Gaara with Giant Sand Claw Full-Figure Diorama真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-a7c726b261457b1fda983f39b2814652681dae0805f37f34104d3a8e32be1025.png"
+      },
+      {
+        "src": "./assets/models/carbos21-gaara-b125e0/gallery-06.png",
+        "alt": "我爱罗与沙之巨爪全身场景雕像｜Gaara with Giant Sand Claw Full-Figure Diorama真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-6341592424fe55fa106fc578aa8a7861a09a45eca7b12a51000777f9a93e53d9.png"
+      },
+      {
+        "src": "./assets/models/carbos21-gaara-b125e0/gallery-07.png",
+        "alt": "我爱罗与沙之巨爪全身场景雕像｜Gaara with Giant Sand Claw Full-Figure Diorama真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-4a05790f18e342ec49d41abcf4239067af0781bdcec6225469ec490af2e90a3c.png"
+      },
+      {
+        "src": "./assets/models/carbos21-gaara-b125e0/gallery-08.png",
+        "alt": "我爱罗与沙之巨爪全身场景雕像｜Gaara with Giant Sand Claw Full-Figure Diorama真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-9cf86a3613b9adda0cedcc8a4f86bcad9233eb767259e9e826df881713756462.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-96030c8dca98babab6291936812b3953159288c50d31e2aefca3f734b714de60.png"
+  },
+  {
     "id": "ouart-daily-six-20261031:027-boss-rabbit-car-ac73ff",
     "publicationId": "ouart-daily-six-20261031:027-boss-rabbit-car-ac73ff",
     "inventoryId": "027-boss-rabbit-car-ac73ff",

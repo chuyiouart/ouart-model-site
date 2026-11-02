@@ -1,5 +1,320 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261102:black-goku-rose-shogun-04058e",
+    "publicationId": "ouart-daily-six-20261102:black-goku-rose-shogun-04058e",
+    "inventoryId": "black-goku-rose-shogun-04058e",
+    "name": "黑悟空玫瑰武士｜Black Goku Rose Shogun",
+    "date": "2026-11-02",
+    "displayDate": "2026.11.02",
+    "format": "STL",
+    "fileCount": 3,
+    "size": "166.12 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/black-goku-rose-shogun-04058e/black-goku-rose-shogun-04058e-主图@初艺ouart.png",
+    "description": "完整包包含黑悟空玫瑰武士全身人物主体、独立头部以及原图所示的匹配圆形底座；三件实际STL共同组成一件可完整展示的全身雕像。",
+    "intro": "2026.11.02 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1SPaCNlaZ_cvdptfdGVg0Wg",
+    "shareCode": "ff19",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261102",
+    "nameZh": "黑悟空玫瑰武士",
+    "nameEn": "Black Goku Rose Shogun",
+    "displayName": "黑悟空玫瑰武士｜Black Goku Rose Shogun",
+    "category": "动漫角色全身雕像",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "黑悟空玫瑰武士｜Black Goku Rose ShogunAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包包含黑悟空玫瑰武士全身人物主体、独立头部以及原图所示的匹配圆形底座；三件实际STL共同组成一件可完整展示的全身雕像。",
+          "该模型归入“动漫角色全身雕像”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 3 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/black-goku-rose-shogun-04058e/gallery-03.png",
+        "alt": "黑悟空玫瑰武士｜Black Goku Rose Shogun真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-7ef1619c02f73c14bef076a04c04130a39673fd37e17255f3dc7d9375e0aea1f.png"
+      },
+      {
+        "src": "./assets/models/black-goku-rose-shogun-04058e/gallery-04.png",
+        "alt": "黑悟空玫瑰武士｜Black Goku Rose Shogun真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-ae72ccba8e8dcf5e2f4c5129ea79cc4469b3fdaa449bcce053b97f613cc1f84d.png"
+      },
+      {
+        "src": "./assets/models/black-goku-rose-shogun-04058e/gallery-05.png",
+        "alt": "黑悟空玫瑰武士｜Black Goku Rose Shogun真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-1f13e5ab89c60fa5bee85b0b77f95e578a10b213cdd7b8bfc14d929b45a976f0.png"
+      },
+      {
+        "src": "./assets/models/black-goku-rose-shogun-04058e/gallery-06.png",
+        "alt": "黑悟空玫瑰武士｜Black Goku Rose Shogun真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-4aac8738f42d978902efb7f76f8bb060703a420017c98d6066883170471f8a18.png"
+      },
+      {
+        "src": "./assets/models/black-goku-rose-shogun-04058e/gallery-07.png",
+        "alt": "黑悟空玫瑰武士｜Black Goku Rose Shogun真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-0fca95e23a0d33a05b6708a69f86d004f472917e513f0bafc98ec65a82a3b820.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-0aa54021594fd942672aed924ee46a1bce10292abe1204f3c26880f821b258a0.png"
+  },
+  {
+    "id": "ouart-daily-six-20261102:elephant-statue-3a5839",
+    "publicationId": "ouart-daily-six-20261102:elephant-statue-3a5839",
+    "inventoryId": "elephant-statue-3a5839",
+    "name": "奔马全身雕塑完整单体版｜Running Horse Full-Figure Sculpture — Complete Merged Version",
+    "date": "2026-11-02",
+    "displayDate": "2026.11.02",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "69.32 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/elephant-statue-3a5839/elephant-statue-3a5839-主图@初艺ouart.png",
+    "description": "这是一件奔跑姿态的马匹全身雕塑完整单体包，实际交付内容为一个高精度、无分件装配需求的合并 STL。当前候选没有可验证的同作品独立底座、支架、拆分件或支撑/非支撑变体；父目录中的大象 OBJ/3MF 是另一件作品，未并入本次奔马发布。",
+    "intro": "2026.11.02 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1ZPXITaebsXxtWO5Kx3xhGg",
+    "shareCode": "efc7",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261102",
+    "nameZh": "奔马全身雕塑完整单体版",
+    "nameEn": "Running Horse Full-Figure Sculpture — Complete Merged Version",
+    "displayName": "奔马全身雕塑完整单体版｜Running Horse Full-Figure Sculpture — Complete Merged Version",
+    "category": "动物全身雕塑",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "奔马全身雕塑完整单体版｜Running Horse Full-Figure Sculpture — Complete Merged VersionAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "这是一件奔跑姿态的马匹全身雕塑完整单体包，实际交付内容为一个高精度、无分件装配需求的合并 STL。当前候选没有可验证的同作品独立底座、支架、拆分件或支撑/非支撑变体；父目录中的大象 OBJ/3MF 是另一件作品，未并入本次奔马发布。",
+          "该模型归入“动物全身雕塑”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/elephant-statue-3a5839/gallery-01.png",
+        "alt": "奔马全身雕塑完整单体版｜Running Horse Full-Figure Sculpture — Complete Merged Version真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-7ed6bd06787fcb2547d9104885da3b07361577244dba6d55f763ea789e59699c.png"
+      },
+      {
+        "src": "./assets/models/elephant-statue-3a5839/gallery-02.png",
+        "alt": "奔马全身雕塑完整单体版｜Running Horse Full-Figure Sculpture — Complete Merged Version真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-6ba081d1c6efcf0489ff6ee29b9a65cc7d66e52941e250d88c5f5fa8a20c24ad.png"
+      },
+      {
+        "src": "./assets/models/elephant-statue-3a5839/gallery-03.png",
+        "alt": "奔马全身雕塑完整单体版｜Running Horse Full-Figure Sculpture — Complete Merged Version真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-2dce5b1ab59feb28967ffa8f1a625d2b43a24e7bd88e72da5c301949c8564d0f.png"
+      },
+      {
+        "src": "./assets/models/elephant-statue-3a5839/gallery-04.png",
+        "alt": "奔马全身雕塑完整单体版｜Running Horse Full-Figure Sculpture — Complete Merged Version真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-0d3cb1bfa965dda1f3a2fad7aa47ef099cc0807648447e89c86a7e1b0f9b03fb.png"
+      },
+      {
+        "src": "./assets/models/elephant-statue-3a5839/gallery-05.png",
+        "alt": "奔马全身雕塑完整单体版｜Running Horse Full-Figure Sculpture — Complete Merged Version真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-4cc87fc9cb38eed6497ea814bc12c14e4c60a1b6698b6afdcd61d9bdaec25e76.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-e53ea23acbddf5f0551e0354063d5444ccf1b9bca874ad5cf26c4706ee42e7da.png"
+  },
+  {
+    "id": "ouart-daily-six-20261102:files-d5b3ab",
+    "publicationId": "ouart-daily-six-20261102:files-d5b3ab",
+    "inventoryId": "files-d5b3ab",
+    "name": "兵马俑将军俑全身雕塑完整包｜Terracotta General Full-Figure Sculpture Complete Package",
+    "date": "2026-11-02",
+    "displayDate": "2026.11.02",
+    "format": "STL",
+    "fileCount": 5,
+    "size": "74.56 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/files-d5b3ab/files-d5b3ab-主图@初艺ouart.png",
+    "description": "完整交付包包含兵马俑将军俑的合并全身 STL，以及身体、头部和双手的拆分打印版本，共五个实际网格。代表展示采用完整合并版；拆分件作为同一作品的打印选择一并保留。当前候选没有可验证的独立底座、支架、支撑版或其他必要附件，也没有混入无关作品。",
+    "intro": "2026.11.02 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1JOSgz6nNx1GCe2azJ6HJ7A",
+    "shareCode": "6c64",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261102",
+    "nameZh": "兵马俑将军俑全身雕塑完整包",
+    "nameEn": "Terracotta General Full-Figure Sculpture Complete Package",
+    "displayName": "兵马俑将军俑全身雕塑完整包｜Terracotta General Full-Figure Sculpture Complete Package",
+    "category": "历史人物全身雕塑",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "兵马俑将军俑全身雕塑完整包｜Terracotta General Full-Figure Sculpture Complete PackageAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整交付包包含兵马俑将军俑的合并全身 STL，以及身体、头部和双手的拆分打印版本，共五个实际网格。代表展示采用完整合并版；拆分件作为同一作品的打印选择一并保留。当前候选没有可验证的独立底座、支架、支撑版或其他必要附件，也没有混入无关作品。",
+          "该模型归入“历史人物全身雕塑”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 5 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/files-d5b3ab/gallery-01.png",
+        "alt": "兵马俑将军俑全身雕塑完整包｜Terracotta General Full-Figure Sculpture Complete Package真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-37d26e9bba08cb0cd924da23dae81d38da6da1ef61588246361b96405832ab2c.png"
+      },
+      {
+        "src": "./assets/models/files-d5b3ab/gallery-02.png",
+        "alt": "兵马俑将军俑全身雕塑完整包｜Terracotta General Full-Figure Sculpture Complete Package真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-d08944135b601130ef90aeac109cb5273e36c1cce88fa850e7b76f8fdcef7529.png"
+      },
+      {
+        "src": "./assets/models/files-d5b3ab/gallery-03.png",
+        "alt": "兵马俑将军俑全身雕塑完整包｜Terracotta General Full-Figure Sculpture Complete Package真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-332a70988266fb8d33fa5b334e1d4ca1d2000e288ebc793e71c93de707dbb2da.png"
+      },
+      {
+        "src": "./assets/models/files-d5b3ab/gallery-04.png",
+        "alt": "兵马俑将军俑全身雕塑完整包｜Terracotta General Full-Figure Sculpture Complete Package真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-7246d5c3c4f0afa596baa4afb7f27815b2b74ad1e1b7c20781c283ba2b10cfe3.png"
+      },
+      {
+        "src": "./assets/models/files-d5b3ab/gallery-05.png",
+        "alt": "兵马俑将军俑全身雕塑完整包｜Terracotta General Full-Figure Sculpture Complete Package真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-54be9599f7ab26bdbbfef7c6fb3d50eea0c58b34d97a661fe232ddab1dd71a40.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-f9d6148cab95d426beaabd53157ad69d50f913a2e4d99e785e4f45c3194dd32e.png"
+  },
+  {
     "id": "ouart-daily-six-20261101:arale-dr-slump-stl-zone-ae2bd2",
     "publicationId": "ouart-daily-six-20261101:arale-dr-slump-stl-zone-ae2bd2",
     "inventoryId": "arale-dr-slump-stl-zone-ae2bd2",

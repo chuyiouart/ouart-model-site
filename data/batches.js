@@ -1,6 +1,26 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20261102",
+    "date": "2026-11-02",
+    "displayDate": "2026.11.02",
+    "title": "2026.11.02｜OUART 今日3件",
+    "description": "本期共3件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-11-02/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-11-02 3模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20261102:black-goku-rose-shogun-04058e",
+      "ouart-daily-six-20261102:elephant-statue-3a5839",
+      "ouart-daily-six-20261102:files-d5b3ab"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/18jPj9x4FZgBDix5SIYk57Q",
+    "shareCode": "cdfd",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-11-02T10:32:19+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20261101",
     "date": "2026-11-01",
     "displayDate": "2026.11.01",

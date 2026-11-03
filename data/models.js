@@ -1,5 +1,110 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261103:chopper-v2-9aa2a9",
+    "publicationId": "ouart-daily-six-20261103:chopper-v2-9aa2a9",
+    "inventoryId": "chopper-v2-9aa2a9",
+    "name": "乔巴V2太空服飞船底座全身雕像｜Chopper V2 Spacesuit-and-Ship Full-Figure Statue",
+    "date": "2026-11-03",
+    "displayDate": "2026.11.03",
+    "format": "STL",
+    "fileCount": 17,
+    "size": "293.42 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/chopper-v2-9aa2a9/chopper-v2-9aa2a9-主图@初艺ouart.png",
+    "description": "完整包是一件乔巴V2太空服造型全身雕像及其飞船场景底座：角色由身体、左右手臂、左右靴、头部和左右角组成，站在完整飞船上，飞船再安装于独立圆形台座。包内同时保留完整飞船与前后拆分飞船、完整头部与A/B拆分头部、普通靴与带底部延伸的BOOT_BASE靴等同作品拆分/合并变体，并含150毫米高度参考柱；这些均属于同一作品的制作与打印选项，不是其他作品。代表展示采用实际供应的完整飞船、独立台座、完整头部及其余角色分件，并选用与底座展示关系明确的左右BOOT_BASE靴版本；不采用分离在打印床位置的前后飞船拆件，也不把高度参考柱作为成品组成部分。",
+    "intro": "2026.11.03 OUART 每日模型合集成员；本期共1件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1L6TfrjACb2INleKsjMMSrQ",
+    "shareCode": "2fcb",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261103",
+    "nameZh": "乔巴V2太空服飞船底座全身雕像",
+    "nameEn": "Chopper V2 Spacesuit-and-Ship Full-Figure Statue",
+    "displayName": "乔巴V2太空服飞船底座全身雕像｜Chopper V2 Spacesuit-and-Ship Full-Figure Statue",
+    "category": "动漫角色全身雕像",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "乔巴V2太空服飞船底座全身雕像｜Chopper V2 Spacesuit-and-Ship Full-Figure StatueAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包是一件乔巴V2太空服造型全身雕像及其飞船场景底座：角色由身体、左右手臂、左右靴、头部和左右角组成，站在完整飞船上，飞船再安装于独立圆形台座。包内同时保留完整飞船与前后拆分飞船、完整头部与A/B拆分头部、普通靴与带底部延伸的BOOT_BASE靴等同作品拆分/合并变体，并含150毫米高度参考柱；这些均属于同一作品的制作与打印选项，不是其他作品。代表展示采用实际供应的完整飞船、独立台座、完整头部及其余角色分件，并选用与底座展示关系明确的左右BOOT_BASE靴版本；不采用分离在打印床位置的前后飞船拆件，也不把高度参考柱作为成品组成部分。",
+          "该模型归入“动漫角色全身雕像”，作为本期单件模型独立展示。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 17 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/chopper-v2-9aa2a9/gallery-02.png",
+        "alt": "乔巴V2太空服飞船底座全身雕像｜Chopper V2 Spacesuit-and-Ship Full-Figure Statue真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-d24706522931c7eb52ac60cfb0064741e1a9802f14a835da50555ecd6eb65a3c.png"
+      },
+      {
+        "src": "./assets/models/chopper-v2-9aa2a9/gallery-03.png",
+        "alt": "乔巴V2太空服飞船底座全身雕像｜Chopper V2 Spacesuit-and-Ship Full-Figure Statue真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-aaec1b55ad823e4ec33aaaefbf2b9f45f560f67fe0f5063676d1c7855df60582.png"
+      },
+      {
+        "src": "./assets/models/chopper-v2-9aa2a9/gallery-04.png",
+        "alt": "乔巴V2太空服飞船底座全身雕像｜Chopper V2 Spacesuit-and-Ship Full-Figure Statue真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-4731313fb979f6ac8e1a061a5240c232d8d48eaf0d8a246d03fd83753de8c9cb.png"
+      },
+      {
+        "src": "./assets/models/chopper-v2-9aa2a9/gallery-05.png",
+        "alt": "乔巴V2太空服飞船底座全身雕像｜Chopper V2 Spacesuit-and-Ship Full-Figure Statue真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-f48f2b47b7af4c46f522cf61817a8ab138e92bf68b461dca6a64efa4cbb5cfb6.png"
+      },
+      {
+        "src": "./assets/models/chopper-v2-9aa2a9/gallery-06.png",
+        "alt": "乔巴V2太空服飞船底座全身雕像｜Chopper V2 Spacesuit-and-Ship Full-Figure Statue真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-4a11cdcfc155fd412649e9e42671b630a31737d61a912363903bd71611f157d5.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-11e50684ba65f4eaf91bcd2636ac896e28aa6354e8b522e5f8cd3599f8c468fd.png"
+  },
+  {
     "id": "ouart-daily-six-20261102:black-goku-rose-shogun-04058e",
     "publicationId": "ouart-daily-six-20261102:black-goku-rose-shogun-04058e",
     "inventoryId": "black-goku-rose-shogun-04058e",

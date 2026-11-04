@@ -1,5 +1,215 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261104:stretech-goals-b72e2e",
+    "publicationId": "ouart-daily-six-20261104:stretech-goals-b72e2e",
+    "inventoryId": "stretech-goals-b72e2e",
+    "name": "科幻龙门架步道模块套装（5款建筑轮廓与5款地板）｜Sci-Fi Gantry Walkthroughs Modular Set (5 Building Profiles and 5 Floors)",
+    "date": "2026-11-04",
+    "displayDate": "2026.11.04",
+    "format": "STL",
+    "fileCount": 10,
+    "size": "27.74 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/stretech-goals-b72e2e/stretech-goals-b72e2e-主图@初艺ouart.png",
+    "description": "完整包包含10个实际STL：Corner、Diamond、Hex、Standard、Tri五种轮廓各一款完整建筑步道模块及一款对应地板模块。它们是同一龙门架步道系统的形状与功能变体，应在一次daily release中完整保留；代表展示采用Standard建筑实际网格，但其余四款建筑轮廓和全部五款地板仍是交付内容。输入未提供可靠装配视图或实测配合候选，因此不宣称任一Floor已按特定变换装到Building上。",
+    "intro": "2026.11.04 OUART 每日模型合集成员；本期共2件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/10nCfX1ztrjPTHmdEdqrGKA",
+    "shareCode": "5e90",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261104",
+    "nameZh": "科幻龙门架步道模块套装（5款建筑轮廓与5款地板）",
+    "nameEn": "Sci-Fi Gantry Walkthroughs Modular Set (5 Building Profiles and 5 Floors)",
+    "displayName": "科幻龙门架步道模块套装（5款建筑轮廓与5款地板）｜Sci-Fi Gantry Walkthroughs Modular Set (5 Building Profiles and 5 Floors)",
+    "category": "建筑场景 / 模块化科幻城市地形",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "科幻龙门架步道模块套装（5款建筑轮廓与5款地板）｜Sci-Fi Gantry Walkthroughs Modular Set (5 Building Profiles and 5 Floors)AI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包包含10个实际STL：Corner、Diamond、Hex、Standard、Tri五种轮廓各一款完整建筑步道模块及一款对应地板模块。它们是同一龙门架步道系统的形状与功能变体，应在一次daily release中完整保留；代表展示采用Standard建筑实际网格，但其余四款建筑轮廓和全部五款地板仍是交付内容。输入未提供可靠装配视图或实测配合候选，因此不宣称任一Floor已按特定变换装到Building上。",
+          "该模型归入“建筑场景 / 模块化科幻城市地形”，与同批其他1件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 10 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/stretech-goals-b72e2e/gallery-01.png",
+        "alt": "科幻龙门架步道模块套装（5款建筑轮廓与5款地板）｜Sci-Fi Gantry Walkthroughs Modular Set (5 Building Profiles and 5 Floors)真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-9d361c540a25453f7efe419e6a1d8b5e544ec84f6d969042f4026d8ace26d210.png"
+      },
+      {
+        "src": "./assets/models/stretech-goals-b72e2e/gallery-02.png",
+        "alt": "科幻龙门架步道模块套装（5款建筑轮廓与5款地板）｜Sci-Fi Gantry Walkthroughs Modular Set (5 Building Profiles and 5 Floors)真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-b784121dfb59b64148994de9ccdacb95a0f18ab88ca236e83f6497c232674b07.png"
+      },
+      {
+        "src": "./assets/models/stretech-goals-b72e2e/gallery-03.png",
+        "alt": "科幻龙门架步道模块套装（5款建筑轮廓与5款地板）｜Sci-Fi Gantry Walkthroughs Modular Set (5 Building Profiles and 5 Floors)真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-47b646e4a16592ed486fce7cedd5cdf24d663960425cac0411458e745359ab0b.png"
+      },
+      {
+        "src": "./assets/models/stretech-goals-b72e2e/gallery-04.png",
+        "alt": "科幻龙门架步道模块套装（5款建筑轮廓与5款地板）｜Sci-Fi Gantry Walkthroughs Modular Set (5 Building Profiles and 5 Floors)真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-39c464e7f1ae519719c2789c75b73296feafbca3d7a2a486bfd092260a508104.png"
+      },
+      {
+        "src": "./assets/models/stretech-goals-b72e2e/gallery-05.png",
+        "alt": "科幻龙门架步道模块套装（5款建筑轮廓与5款地板）｜Sci-Fi Gantry Walkthroughs Modular Set (5 Building Profiles and 5 Floors)真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-b9fb5a923c57a050f6892af61c0155fdbadc6e5fa0bdb5da621d1284beb5f869.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-be5a2657cba49439216cdb8b5a3721fc6ef9afc27166547d985ef1adb4b87f3a.png"
+  },
+  {
+    "id": "ouart-daily-six-20261104:llantas-stl-77793b",
+    "publicationId": "ouart-daily-six-20261104:llantas-stl-77793b",
+    "inventoryId": "llantas-stl-77793b",
+    "name": "Work Design DH 汽车轮毂｜Work Design DH Automotive Wheel",
+    "date": "2026-11-04",
+    "displayDate": "2026.11.04",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "0.26 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/llantas-stl-77793b/llantas-stl-77793b-主图@初艺ouart.png",
+    "description": "完整包包含一件一体式Work Design DH汽车轮毂/轮圈STL网格，作为单文件独立模型提供；包内没有轮胎、车辆、底座、支撑版、拆分件或其他轮毂型号，也不对未提供的配件作完整性声明。该实际网格本身即为本次单件展示与交付版本。",
+    "intro": "2026.11.04 OUART 每日模型合集成员；本期共2件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1525e3ii98ZvUVKdzIWwHIA",
+    "shareCode": "4b14",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261104",
+    "nameZh": "Work Design DH 汽车轮毂",
+    "nameEn": "Work Design DH Automotive Wheel",
+    "displayName": "Work Design DH 汽车轮毂｜Work Design DH Automotive Wheel",
+    "category": "汽车与模型车轮毂",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "Work Design DH 汽车轮毂｜Work Design DH Automotive WheelAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包包含一件一体式Work Design DH汽车轮毂/轮圈STL网格，作为单文件独立模型提供；包内没有轮胎、车辆、底座、支撑版、拆分件或其他轮毂型号，也不对未提供的配件作完整性声明。该实际网格本身即为本次单件展示与交付版本。",
+          "该模型归入“汽车与模型车轮毂”，与同批其他1件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/llantas-stl-77793b/gallery-01.png",
+        "alt": "Work Design DH 汽车轮毂｜Work Design DH Automotive Wheel真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-a10adaabfc1ecaefa1bc07251a384e26da3735b333abbe09ccc690341097ecd9.png"
+      },
+      {
+        "src": "./assets/models/llantas-stl-77793b/gallery-02.png",
+        "alt": "Work Design DH 汽车轮毂｜Work Design DH Automotive Wheel真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-c6215c9ea97ad853d4b38b6cee1bc7fe9711c765891af63510c204a415c5a95f.png"
+      },
+      {
+        "src": "./assets/models/llantas-stl-77793b/gallery-03.png",
+        "alt": "Work Design DH 汽车轮毂｜Work Design DH Automotive Wheel真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-25e15c52f4851972279b2e60b4a2102a553583120f1fcecbc1ab7142fc8f0da8.png"
+      },
+      {
+        "src": "./assets/models/llantas-stl-77793b/gallery-04.png",
+        "alt": "Work Design DH 汽车轮毂｜Work Design DH Automotive Wheel真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-da795f36102f527e1aeca5dca3f9e88923f92faf33fe0601f161e5b1dcdfb4ad.png"
+      },
+      {
+        "src": "./assets/models/llantas-stl-77793b/gallery-05.png",
+        "alt": "Work Design DH 汽车轮毂｜Work Design DH Automotive Wheel真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-bbda9d11b7412e90bb990b8fae4bb0f1f5a1af7ca4ba0ae5d4b6012b0fcc7bb6.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-cfee0cdbc8f82c1d44207a2511d149f27e71a0346e76ddcd1d61056920515d83.png"
+  },
+  {
     "id": "ouart-daily-six-20261103:chopper-v2-9aa2a9",
     "publicationId": "ouart-daily-six-20261103:chopper-v2-9aa2a9",
     "inventoryId": "chopper-v2-9aa2a9",

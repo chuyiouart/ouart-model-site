@@ -1,5 +1,110 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261105:model-909152737012482-373d1f",
+    "publicationId": "ouart-daily-six-20261105:model-909152737012482-373d1f",
+    "inventoryId": "model-909152737012482-373d1f",
+    "name": "叼骨头的万圣节幽灵狗｜Halloween Ghost Dog with Bone",
+    "date": "2026-11-05",
+    "displayDate": "2026.11.05",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "8.93 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-909152737012482-373d1f/model-909152737012482-373d1f-主图@初艺ouart.png",
+    "description": "完整交付包是一件可直接展示与打印的合并式万圣节幽灵狗摆件：狗从落地幽灵披布中露出头部，并横叼一根卡通骨头；头部、骨头、披布身体和自稳的落地下缘均已包含在同一个非支撑 STL 中，同时附有一张同作品原始参考截图。该作品不需要另配底座、支架或分离部件，也不包含父目录中的另外两只幽灵狗。",
+    "intro": "2026.11.05 OUART 每日模型合集成员；本期共1件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1JNQRy8M8UoTIFiu7zaRM0g",
+    "shareCode": "9e5e",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261105",
+    "nameZh": "叼骨头的万圣节幽灵狗",
+    "nameEn": "Halloween Ghost Dog with Bone",
+    "displayName": "叼骨头的万圣节幽灵狗｜Halloween Ghost Dog with Bone",
+    "category": "动物卡通摆件",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "叼骨头的万圣节幽灵狗｜Halloween Ghost Dog with BoneAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整交付包是一件可直接展示与打印的合并式万圣节幽灵狗摆件：狗从落地幽灵披布中露出头部，并横叼一根卡通骨头；头部、骨头、披布身体和自稳的落地下缘均已包含在同一个非支撑 STL 中，同时附有一张同作品原始参考截图。该作品不需要另配底座、支架或分离部件，也不包含父目录中的另外两只幽灵狗。",
+          "该模型归入“动物卡通摆件”，作为本期单件模型独立展示。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-909152737012482-373d1f/gallery-02.png",
+        "alt": "叼骨头的万圣节幽灵狗｜Halloween Ghost Dog with Bone真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-f90dac0f97142addeed359e7283ced51e1b0d84ace29536b2aa9e3330ddf7789.png"
+      },
+      {
+        "src": "./assets/models/model-909152737012482-373d1f/gallery-03.png",
+        "alt": "叼骨头的万圣节幽灵狗｜Halloween Ghost Dog with Bone真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-537175489bb7e3db444c628309a8b5df1c6cb106539e1eeea5ad4d92a1e74ec3.png"
+      },
+      {
+        "src": "./assets/models/model-909152737012482-373d1f/gallery-04.png",
+        "alt": "叼骨头的万圣节幽灵狗｜Halloween Ghost Dog with Bone真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-fbd2fd34536bc5a9c106daafc137fb4aa0110b47b2a72b20b7c3ecccd068cac8.png"
+      },
+      {
+        "src": "./assets/models/model-909152737012482-373d1f/gallery-05.png",
+        "alt": "叼骨头的万圣节幽灵狗｜Halloween Ghost Dog with Bone真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-144b25f3320a6e63ef0cfa9e20dcf24b5f644005696de9be91003e3a9375b7a5.png"
+      },
+      {
+        "src": "./assets/models/model-909152737012482-373d1f/gallery-06.png",
+        "alt": "叼骨头的万圣节幽灵狗｜Halloween Ghost Dog with Bone真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-df1bd82630bfcd0a9fcdbc6aa7f81acdb45b51274be4ce8956eeb2b4c894ff15.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-82e9e23a4361cfc381f3540a21818fcdf4ef7c373a9110910575085517d61546.png"
+  },
+  {
     "id": "ouart-daily-six-20261104:stretech-goals-b72e2e",
     "publicationId": "ouart-daily-six-20261104:stretech-goals-b72e2e",
     "inventoryId": "stretech-goals-b72e2e",

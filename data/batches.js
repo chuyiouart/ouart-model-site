@@ -1,6 +1,25 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20261106",
+    "date": "2026-11-06",
+    "displayDate": "2026.11.06",
+    "title": "2026.11.06｜OUART 今日2件",
+    "description": "本期共2件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-11-06/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-11-06 2模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20261106:1-9-217b9d",
+      "ouart-daily-six-20261106:fast-and-furious-model-3d-print-model-27d16e"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1vYvBg-92vMFASKsYZdKUQg",
+    "shareCode": "0003",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-11-06T10:30:40+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20261105",
     "date": "2026-11-05",
     "displayDate": "2026.11.05",

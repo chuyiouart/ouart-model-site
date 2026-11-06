@@ -1,5 +1,215 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261106:1-9-217b9d",
+    "publicationId": "ouart-daily-six-20261106:1-9-217b9d",
+    "inventoryId": "1-9-217b9d",
+    "name": "奇幻神龟胸像与匹配支架底座｜Fantasy Turtle Bust with Matching Pedestal Base",
+    "date": "2026-11-06",
+    "displayDate": "2026.11.06",
+    "format": "STL",
+    "fileCount": 2,
+    "size": "196.75 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/1-9-217b9d/1-9-217b9d-主图@初艺ouart.png",
+    "description": "完整包包含一件非支撑的一体式奇幻神龟胸像，以及带方形展示板、承托臂和连接榫的匹配支架底座；两件共同构成一个可陈列的胸像作品，必须作为同一次日更发布保留，不能把底座遗漏或另算作品。",
+    "intro": "2026.11.06 OUART 每日模型合集成员；本期共2件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1d0yE678e_bs5udb4nzYKhQ",
+    "shareCode": "0982",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261106",
+    "nameZh": "奇幻神龟胸像与匹配支架底座",
+    "nameEn": "Fantasy Turtle Bust with Matching Pedestal Base",
+    "displayName": "奇幻神龟胸像与匹配支架底座｜Fantasy Turtle Bust with Matching Pedestal Base",
+    "category": "奇幻生物胸像",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "奇幻神龟胸像与匹配支架底座｜Fantasy Turtle Bust with Matching Pedestal BaseAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包包含一件非支撑的一体式奇幻神龟胸像，以及带方形展示板、承托臂和连接榫的匹配支架底座；两件共同构成一个可陈列的胸像作品，必须作为同一次日更发布保留，不能把底座遗漏或另算作品。",
+          "该模型归入“奇幻生物胸像”，与同批其他1件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 2 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/1-9-217b9d/gallery-01.png",
+        "alt": "奇幻神龟胸像与匹配支架底座｜Fantasy Turtle Bust with Matching Pedestal Base真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-7b888f739b004a7d671d20a9692e373611d558962c0508086a471f055a53cdad.png"
+      },
+      {
+        "src": "./assets/models/1-9-217b9d/gallery-02.png",
+        "alt": "奇幻神龟胸像与匹配支架底座｜Fantasy Turtle Bust with Matching Pedestal Base真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-6732c23516c3951a9e0e4c966b4b57f54f63da076c40f1e2151b67d35f7461e5.png"
+      },
+      {
+        "src": "./assets/models/1-9-217b9d/gallery-03.png",
+        "alt": "奇幻神龟胸像与匹配支架底座｜Fantasy Turtle Bust with Matching Pedestal Base真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-d7d4da87c253f256f21b153181bebce18ef4e9e60461441ca35fe24e9129fcb1.png"
+      },
+      {
+        "src": "./assets/models/1-9-217b9d/gallery-04.png",
+        "alt": "奇幻神龟胸像与匹配支架底座｜Fantasy Turtle Bust with Matching Pedestal Base真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-9f5915372ea113c260209a0ef9e7d6da9efd6f30198f9ccdc01286117c9bd51b.png"
+      },
+      {
+        "src": "./assets/models/1-9-217b9d/gallery-05.png",
+        "alt": "奇幻神龟胸像与匹配支架底座｜Fantasy Turtle Bust with Matching Pedestal Base真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-42358cd7d608f60e47d21853d0bdbebcca9362aeb5a74a5be37d5cdf5a5a9130.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-d46b00786585a8983bba22fe93dd2ba30e9a3e6dc4dc604cae2802a684847862.png"
+  },
+  {
+    "id": "ouart-daily-six-20261106:fast-and-furious-model-3d-print-model-27d16e",
+    "publicationId": "ouart-daily-six-20261106:fast-and-furious-model-3d-print-model-27d16e",
+    "inventoryId": "fast-and-furious-model-3d-print-model-27d16e",
+    "name": "米歇尔·罗德里格兹站姿全身人物雕像｜Michelle Rodriguez Standing Full-Figure Statue",
+    "date": "2026-11-06",
+    "displayDate": "2026.11.06",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "75.65 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/fast-and-furious-model-3d-print-model-27d16e/fast-and-furious-model-3d-print-model-27d16e-主图@初艺ouart.png",
+    "description": "完整包包含一件非支撑、合并的一体式女性站姿全身人物 STL，头部、躯干、双臂、双腿与双靴均已包含，实际几何未显示必须另配的底座或支架。它应作为米歇尔·罗德里格兹全身人物雕像的一次完整日更发布；父目录中的其他演员人物属于独立作品，未纳入本包，也不应与本件合并计算。",
+    "intro": "2026.11.06 OUART 每日模型合集成员；本期共2件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1vlVlmGMpoPhTahV12vY5uw",
+    "shareCode": "97f5",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261106",
+    "nameZh": "米歇尔·罗德里格兹站姿全身人物雕像",
+    "nameEn": "Michelle Rodriguez Standing Full-Figure Statue",
+    "displayName": "米歇尔·罗德里格兹站姿全身人物雕像｜Michelle Rodriguez Standing Full-Figure Statue",
+    "category": "影视人物全身雕像",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "米歇尔·罗德里格兹站姿全身人物雕像｜Michelle Rodriguez Standing Full-Figure StatueAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包包含一件非支撑、合并的一体式女性站姿全身人物 STL，头部、躯干、双臂、双腿与双靴均已包含，实际几何未显示必须另配的底座或支架。它应作为米歇尔·罗德里格兹全身人物雕像的一次完整日更发布；父目录中的其他演员人物属于独立作品，未纳入本包，也不应与本件合并计算。",
+          "该模型归入“影视人物全身雕像”，与同批其他1件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/fast-and-furious-model-3d-print-model-27d16e/gallery-01.png",
+        "alt": "米歇尔·罗德里格兹站姿全身人物雕像｜Michelle Rodriguez Standing Full-Figure Statue真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-7e61dc777c4c474b6274b2ea067611ed91e5b0cb0370adcad0827f54b67b48bf.png"
+      },
+      {
+        "src": "./assets/models/fast-and-furious-model-3d-print-model-27d16e/gallery-02.png",
+        "alt": "米歇尔·罗德里格兹站姿全身人物雕像｜Michelle Rodriguez Standing Full-Figure Statue真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-35ffb7eea4fd462f9d836e590b61c5961f4a15cbe105373920fdc18b6a89b747.png"
+      },
+      {
+        "src": "./assets/models/fast-and-furious-model-3d-print-model-27d16e/gallery-03.png",
+        "alt": "米歇尔·罗德里格兹站姿全身人物雕像｜Michelle Rodriguez Standing Full-Figure Statue真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-f1d9744466cc5a420460aa43eb0c72f250339266ebfd6b91e93e4266c1b6be25.png"
+      },
+      {
+        "src": "./assets/models/fast-and-furious-model-3d-print-model-27d16e/gallery-04.png",
+        "alt": "米歇尔·罗德里格兹站姿全身人物雕像｜Michelle Rodriguez Standing Full-Figure Statue真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-0ffbd101c41c19ebaa07ec82394b987c3f4ebeeb4fa5a7ea974a1c35905a9873.png"
+      },
+      {
+        "src": "./assets/models/fast-and-furious-model-3d-print-model-27d16e/gallery-05.png",
+        "alt": "米歇尔·罗德里格兹站姿全身人物雕像｜Michelle Rodriguez Standing Full-Figure Statue真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-45f8620f816f45795c268e05ce93fa5ba708c394b2ad7352bbda1f67c7ff8122.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-a460e983c0839964f5b1ae6cd72ac215f4070612b848a84e479a8873756c367e.png"
+  },
+  {
     "id": "ouart-daily-six-20261105:model-909152737012482-373d1f",
     "publicationId": "ouart-daily-six-20261105:model-909152737012482-373d1f",
     "inventoryId": "model-909152737012482-373d1f",

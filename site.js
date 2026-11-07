@@ -96,12 +96,18 @@
   // Build the source URL from two literals so the legacy mirror plugin's
   // destination rewrite cannot accidentally turn a fallback into another 404.
   const SOURCE_SITE_BASE = "https://chuyiouart.github.io" + "/ouart-model-site/";
+  const SOURCE_ORIGINAL_BASE = "https://raw.githubusercontent.com" + "/chuyiouart/ouart-model-site/main/";
 
   function sourceAsset(relative) {
     const value = String(relative || "").trim();
     if (!value) return "";
     try {
-      return new URL(value, SOURCE_SITE_BASE).href;
+      const resolved = new URL(value, SOURCE_SITE_BASE);
+      const source = new URL(SOURCE_SITE_BASE);
+      if (resolved.origin === source.origin && resolved.pathname.startsWith(source.pathname + "assets/")) {
+        return new URL(resolved.pathname.slice(source.pathname.length) + resolved.search, SOURCE_ORIGINAL_BASE).href;
+      }
+      return resolved.href;
     } catch {
       return "";
     }

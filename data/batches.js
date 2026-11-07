@@ -1,6 +1,27 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20261107",
+    "date": "2026-11-07",
+    "displayDate": "2026.11.07",
+    "title": "2026.11.07｜OUART 今日4件",
+    "description": "本期共4件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-11-07/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-11-07 4模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20261107:apartment-floor-a7246f",
+      "ouart-daily-six-20261107:gun-c6e22b",
+      "ouart-daily-six-20261107:heisenberg-gigan3d-590adc",
+      "ouart-daily-six-20261107:wolf-6512de"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1uA47Qqmb2MF-RW0s_m5N1g",
+    "shareCode": "90d5",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-11-07T10:30:23+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20261106",
     "date": "2026-11-06",
     "displayDate": "2026.11.06",

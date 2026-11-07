@@ -1,5 +1,425 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261107:apartment-floor-a7246f",
+    "publicationId": "ouart-daily-six-20261107:apartment-floor-a7246f",
+    "inventoryId": "apartment-floor-a7246f",
+    "name": "模块化公寓二号楼梯间（普通版与檐口版）｜Modular Apartments Stairwell 2 (Standard and Cornice Variants)",
+    "date": "2026-11-07",
+    "displayDate": "2026.11.07",
+    "format": "STL",
+    "fileCount": 2,
+    "size": "39.35 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/apartment-floor-a7246f/apartment-floor-a7246f-主图@初艺ouart.png",
+    "description": "完整发布包包含同一模块化公寓二号楼梯间的两个可直接打印、独立完整的外观版本：普通版与带檐口/线脚底缘版。每个版本均包含砖砌窗墙、侧墙、地面及内部楼梯和平台，不需要另配底座或支架；两版属于同一建筑作品的装饰变体，应在同一次发布中一并提供。",
+    "intro": "2026.11.07 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1tj3DgfQz8xW-lT3dzcADvQ",
+    "shareCode": "a81e",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261107",
+    "nameZh": "模块化公寓二号楼梯间（普通版与檐口版）",
+    "nameEn": "Modular Apartments Stairwell 2 (Standard and Cornice Variants)",
+    "displayName": "模块化公寓二号楼梯间（普通版与檐口版）｜Modular Apartments Stairwell 2 (Standard and Cornice Variants)",
+    "category": "建筑场景模型",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "模块化公寓二号楼梯间（普通版与檐口版）｜Modular Apartments Stairwell 2 (Standard and Cornice Variants)AI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整发布包包含同一模块化公寓二号楼梯间的两个可直接打印、独立完整的外观版本：普通版与带檐口/线脚底缘版。每个版本均包含砖砌窗墙、侧墙、地面及内部楼梯和平台，不需要另配底座或支架；两版属于同一建筑作品的装饰变体，应在同一次发布中一并提供。",
+          "该模型归入“建筑场景模型”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 2 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/apartment-floor-a7246f/gallery-01.png",
+        "alt": "模块化公寓二号楼梯间（普通版与檐口版）｜Modular Apartments Stairwell 2 (Standard and Cornice Variants)真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-5bafeeb53306c1428c8246da6102e1aacf4069b2f96ffd95661f3773c5fe1c27.png"
+      },
+      {
+        "src": "./assets/models/apartment-floor-a7246f/gallery-02.png",
+        "alt": "模块化公寓二号楼梯间（普通版与檐口版）｜Modular Apartments Stairwell 2 (Standard and Cornice Variants)真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-7ec21fc7d09238c912b0ac53dcb002d74ec683bfb2494df3e9d8b6bfc422596c.png"
+      },
+      {
+        "src": "./assets/models/apartment-floor-a7246f/gallery-03.png",
+        "alt": "模块化公寓二号楼梯间（普通版与檐口版）｜Modular Apartments Stairwell 2 (Standard and Cornice Variants)真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-3ba4390850d795b27f0aa3f8255408c4d2c8df067f85ff2b829d699206090e00.png"
+      },
+      {
+        "src": "./assets/models/apartment-floor-a7246f/gallery-04.png",
+        "alt": "模块化公寓二号楼梯间（普通版与檐口版）｜Modular Apartments Stairwell 2 (Standard and Cornice Variants)真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-d68131f80396c51cdea265d3b529d937aefb623014b0095b0f0909f1a9e945b3.png"
+      },
+      {
+        "src": "./assets/models/apartment-floor-a7246f/gallery-05.png",
+        "alt": "模块化公寓二号楼梯间（普通版与檐口版）｜Modular Apartments Stairwell 2 (Standard and Cornice Variants)真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-40fa83a18f370a2b23f0339ae19912a804bf2a5bc7113230f5e60a56bc7edb18.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-80141eaab989e16377d62631427f111537e48b9f56dd1fc81016802b748f038e.png"
+  },
+  {
+    "id": "ouart-daily-six-20261107:gun-c6e22b",
+    "publicationId": "ouart-daily-six-20261107:gun-c6e22b",
+    "inventoryId": "gun-c6e22b",
+    "name": "Gun 4 预支撑科幻枪械模型｜Gun 4 Pre-Supported Sci-Fi Gun Model",
+    "date": "2026-11-07",
+    "displayDate": "2026.11.07",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "108.89 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/gun-c6e22b/gun-c6e22b-主图@初艺ouart.png",
+    "description": "完整包提供 Gun 4 的一件预支撑科幻枪械 STL，模型在同一实际文件中包含完整枪口、机械枪身、侧面细节、握把以及配套打印支撑与底筏；没有另需装配的枪械分件、独立展示底座、未支撑版或拆分变体。目录内其他编号枪械是候选之外的独立作品，不属于本包。",
+    "intro": "2026.11.07 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1S66o4hYmlh2oD2nddaFFAw",
+    "shareCode": "78c1",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261107",
+    "nameZh": "Gun 4 预支撑科幻枪械模型",
+    "nameEn": "Gun 4 Pre-Supported Sci-Fi Gun Model",
+    "displayName": "Gun 4 预支撑科幻枪械模型｜Gun 4 Pre-Supported Sci-Fi Gun Model",
+    "category": "科幻武器道具",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "Gun 4 预支撑科幻枪械模型｜Gun 4 Pre-Supported Sci-Fi Gun ModelAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包提供 Gun 4 的一件预支撑科幻枪械 STL，模型在同一实际文件中包含完整枪口、机械枪身、侧面细节、握把以及配套打印支撑与底筏；没有另需装配的枪械分件、独立展示底座、未支撑版或拆分变体。目录内其他编号枪械是候选之外的独立作品，不属于本包。",
+          "该模型归入“科幻武器道具”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/gun-c6e22b/gallery-01.png",
+        "alt": "Gun 4 预支撑科幻枪械模型｜Gun 4 Pre-Supported Sci-Fi Gun Model真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-fae103e0d0082f1376ec6e2bf407e06afae86a60c5fe374b56121a94ac08cc99.png"
+      },
+      {
+        "src": "./assets/models/gun-c6e22b/gallery-02.png",
+        "alt": "Gun 4 预支撑科幻枪械模型｜Gun 4 Pre-Supported Sci-Fi Gun Model真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-8a6bbe14a69ae9b509d0213be2b9275eef2d19a462621c5abc309a6366415d89.png"
+      },
+      {
+        "src": "./assets/models/gun-c6e22b/gallery-03.png",
+        "alt": "Gun 4 预支撑科幻枪械模型｜Gun 4 Pre-Supported Sci-Fi Gun Model真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-43d5f71788b1d37d0392f1ba362d22f32d37bcbb65febe2203383b713084a49b.png"
+      },
+      {
+        "src": "./assets/models/gun-c6e22b/gallery-04.png",
+        "alt": "Gun 4 预支撑科幻枪械模型｜Gun 4 Pre-Supported Sci-Fi Gun Model真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-8d0b42c097d4a9cf26a8173f608254642e72368a0e116dda0b9703c58ad6c221.png"
+      },
+      {
+        "src": "./assets/models/gun-c6e22b/gallery-05.png",
+        "alt": "Gun 4 预支撑科幻枪械模型｜Gun 4 Pre-Supported Sci-Fi Gun Model真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-457a214e31a3d00c7d1b727e25169ca6acecc171df72f3fef8c02c5fca2b32e4.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-61fc2141430e3ebe2fd526bd34bac1fca6ffd232a6feadd94067a72cd6decaf2.png"
+  },
+  {
+    "id": "ouart-daily-six-20261107:heisenberg-gigan3d-590adc",
+    "publicationId": "ouart-daily-six-20261107:heisenberg-gigan3d-590adc",
+    "inventoryId": "heisenberg-gigan3d-590adc",
+    "name": "海森堡（沃尔特·怀特）全身像完整分件与合并版｜Heisenberg (Walter White) Full-Figure Statue Complete Split and Merged Package",
+    "date": "2026-11-07",
+    "displayDate": "2026.11.07",
+    "format": "STL",
+    "fileCount": 5,
+    "size": "140.75 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/heisenberg-gigan3d-590adc/heisenberg-gigan3d-590adc-主图@初艺ouart.png",
+    "description": "完整包为《绝命毒师》海森堡（沃尔特·怀特）全身角色雕像，包含可直接展示的无打印支撑合并全身版，以及同一作品的 BODY、PANTS 人物分件和 GUN、METH 角色道具分件；帽子、眼镜、服装、完整四肢与双脚均在合并版中可见。全部分件、道具与合并版本作为同一次发布保留，不把枪或冰毒道具误称为另一件作品，也不省略完整包内容。",
+    "intro": "2026.11.07 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1DjR94fP0-zL7RoPbQyE9qA",
+    "shareCode": "918b",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261107",
+    "nameZh": "海森堡（沃尔特·怀特）全身像完整分件与合并版",
+    "nameEn": "Heisenberg (Walter White) Full-Figure Statue Complete Split and Merged Package",
+    "displayName": "海森堡（沃尔特·怀特）全身像完整分件与合并版｜Heisenberg (Walter White) Full-Figure Statue Complete Split and Merged Package",
+    "category": "影视角色全身雕像",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "海森堡（沃尔特·怀特）全身像完整分件与合并版｜Heisenberg (Walter White) Full-Figure Statue Complete Split and Merged PackageAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包为《绝命毒师》海森堡（沃尔特·怀特）全身角色雕像，包含可直接展示的无打印支撑合并全身版，以及同一作品的 BODY、PANTS 人物分件和 GUN、METH 角色道具分件；帽子、眼镜、服装、完整四肢与双脚均在合并版中可见。全部分件、道具与合并版本作为同一次发布保留，不把枪或冰毒道具误称为另一件作品，也不省略完整包内容。",
+          "该模型归入“影视角色全身雕像”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 5 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/heisenberg-gigan3d-590adc/gallery-01.png",
+        "alt": "海森堡（沃尔特·怀特）全身像完整分件与合并版｜Heisenberg (Walter White) Full-Figure Statue Complete Split and Merged Package真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-51241e95ccff8dd7fc4001a4a6cf492d3f3519d15b6c08e634682b12dee7e74a.png"
+      },
+      {
+        "src": "./assets/models/heisenberg-gigan3d-590adc/gallery-02.png",
+        "alt": "海森堡（沃尔特·怀特）全身像完整分件与合并版｜Heisenberg (Walter White) Full-Figure Statue Complete Split and Merged Package真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-a193ba6dffec9e814e80ba351e4e992fd27625c5504ffb4b97f9450d7ba99908.png"
+      },
+      {
+        "src": "./assets/models/heisenberg-gigan3d-590adc/gallery-03.png",
+        "alt": "海森堡（沃尔特·怀特）全身像完整分件与合并版｜Heisenberg (Walter White) Full-Figure Statue Complete Split and Merged Package真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-2db0f5f9757abafb46c3269e3bebe0ccb35ce2e0f287d6a28b116a8e63f81a69.png"
+      },
+      {
+        "src": "./assets/models/heisenberg-gigan3d-590adc/gallery-04.png",
+        "alt": "海森堡（沃尔特·怀特）全身像完整分件与合并版｜Heisenberg (Walter White) Full-Figure Statue Complete Split and Merged Package真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-28738201dac0ba8d7dda9f6b076f5d972d275fc3af997c133aa450c19229864b.png"
+      },
+      {
+        "src": "./assets/models/heisenberg-gigan3d-590adc/gallery-05.png",
+        "alt": "海森堡（沃尔特·怀特）全身像完整分件与合并版｜Heisenberg (Walter White) Full-Figure Statue Complete Split and Merged Package真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-3710946e5bbdceb835deedee6298b59cd8590c87ac9ffd4bc1c471e22131402c.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-a3d5d5d7e5489600728440a73f767b2b29a242e0ee683be3e5c43f97ecf919be.png"
+  },
+  {
+    "id": "ouart-daily-six-20261107:wolf-6512de",
+    "publicationId": "ouart-daily-six-20261107:wolf-6512de",
+    "inventoryId": "wolf-6512de",
+    "name": "狼头骨（无支撑及预支撑版）｜Wolf Skull (Unsupported and Presupported Versions)",
+    "date": "2026-11-07",
+    "displayDate": "2026.11.07",
+    "format": "STL",
+    "fileCount": 2,
+    "size": "6.18 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/wolf-6512de/wolf-6512de-主图@初艺ouart.png",
+    "description": "完整狼头骨模型包，包含同一作品的无支撑展示/自行切片版本与带打印支撑和筏的预支撑版本；头骨本体为完整一体网格，无需另配底座或装配零件。",
+    "intro": "2026.11.07 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1uX_KM46P6OXGEMp_YyWhew",
+    "shareCode": "bd3d",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261107",
+    "nameZh": "狼头骨（无支撑及预支撑版）",
+    "nameEn": "Wolf Skull (Unsupported and Presupported Versions)",
+    "displayName": "狼头骨（无支撑及预支撑版）｜Wolf Skull (Unsupported and Presupported Versions)",
+    "category": "动物骨骼",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "狼头骨（无支撑及预支撑版）｜Wolf Skull (Unsupported and Presupported Versions)AI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整狼头骨模型包，包含同一作品的无支撑展示/自行切片版本与带打印支撑和筏的预支撑版本；头骨本体为完整一体网格，无需另配底座或装配零件。",
+          "该模型归入“动物骨骼”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 2 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/wolf-6512de/gallery-01.png",
+        "alt": "狼头骨（无支撑及预支撑版）｜Wolf Skull (Unsupported and Presupported Versions)真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-ff7153b59746fd513dbf8df0a749212fdc74e5248773ab3f7e4c432b0cdf8fb9.png"
+      },
+      {
+        "src": "./assets/models/wolf-6512de/gallery-02.png",
+        "alt": "狼头骨（无支撑及预支撑版）｜Wolf Skull (Unsupported and Presupported Versions)真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-bc1c7417ffdfe1f9886e599c638307b09174dc9f318c11e30c5593e869a0a0dc.png"
+      },
+      {
+        "src": "./assets/models/wolf-6512de/gallery-03.png",
+        "alt": "狼头骨（无支撑及预支撑版）｜Wolf Skull (Unsupported and Presupported Versions)真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-9d52bdd8b732d9db6ef67519b4aea478411eb470e069b02764dd4efc54a3b771.png"
+      },
+      {
+        "src": "./assets/models/wolf-6512de/gallery-04.png",
+        "alt": "狼头骨（无支撑及预支撑版）｜Wolf Skull (Unsupported and Presupported Versions)真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-2b1d9bfdc0e3d629e7f0cc100705e2c789dd1223b69bc4713c5507e1ded3ea70.png"
+      },
+      {
+        "src": "./assets/models/wolf-6512de/gallery-05.png",
+        "alt": "狼头骨（无支撑及预支撑版）｜Wolf Skull (Unsupported and Presupported Versions)真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-ccab5ac94fe78a14510111ac8c6544c46ca66adf3b0b28c662bc366d0cbdabab.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-17cb95cb850c03d19640a3937b3428c5a67a1c57daaadfae8e4c6e9e7046ba85.png"
+  },
+  {
     "id": "ouart-daily-six-20261106:1-9-217b9d",
     "publicationId": "ouart-daily-six-20261106:1-9-217b9d",
     "inventoryId": "1-9-217b9d",

@@ -1,5 +1,215 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261108:hie-hie-devil-fruit-1e9fd3",
+    "publicationId": "ouart-daily-six-20261108:hie-hie-devil-fruit-1e9fd3",
+    "inventoryId": "hie-hie-devil-fruit-1e9fd3",
+    "name": "炸弹果实完整分件摆件｜Bomu Bomu Devil Fruit Complete Multipart Display Model",
+    "date": "2026-11-08",
+    "displayDate": "2026.11.08",
+    "format": "STL",
+    "fileCount": 2,
+    "size": "29.99 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/hie-hie-devil-fruit-1e9fd3/hie-hie-devil-fruit-1e9fd3-主图@初艺ouart.png",
+    "description": "完整包是一件《海贼王》炸弹果实（Bomu Bomu Devil Fruit）摆件，由带螺旋纹的球形果实主体和带插接柄的弯曲果梗两件实际 STL 分件组成；两件是同一作品的必要组成部分，应在同一次发布中完整保留。作品无需另配底座或支架，果实主体自身落地展示。",
+    "intro": "2026.11.08 OUART 每日模型合集成员；本期共2件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1XIjriYkd_e8rI9_oOXsHcA",
+    "shareCode": "3ed6",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261108",
+    "nameZh": "炸弹果实完整分件摆件",
+    "nameEn": "Bomu Bomu Devil Fruit Complete Multipart Display Model",
+    "displayName": "炸弹果实完整分件摆件｜Bomu Bomu Devil Fruit Complete Multipart Display Model",
+    "category": "动漫道具摆件",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "炸弹果实完整分件摆件｜Bomu Bomu Devil Fruit Complete Multipart Display ModelAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包是一件《海贼王》炸弹果实（Bomu Bomu Devil Fruit）摆件，由带螺旋纹的球形果实主体和带插接柄的弯曲果梗两件实际 STL 分件组成；两件是同一作品的必要组成部分，应在同一次发布中完整保留。作品无需另配底座或支架，果实主体自身落地展示。",
+          "该模型归入“动漫道具摆件”，与同批其他1件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 2 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/hie-hie-devil-fruit-1e9fd3/gallery-02.png",
+        "alt": "炸弹果实完整分件摆件｜Bomu Bomu Devil Fruit Complete Multipart Display Model真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-5a12f69daae8b2981aa6f88f2805ea733da7a8ed32196c22affd6f3be1520808.png"
+      },
+      {
+        "src": "./assets/models/hie-hie-devil-fruit-1e9fd3/gallery-03.png",
+        "alt": "炸弹果实完整分件摆件｜Bomu Bomu Devil Fruit Complete Multipart Display Model真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-ff5b6cb8eddd2b7211b44acac1c705181ac7877d7746ec2b1c6bd6a0b0db25fe.png"
+      },
+      {
+        "src": "./assets/models/hie-hie-devil-fruit-1e9fd3/gallery-04.png",
+        "alt": "炸弹果实完整分件摆件｜Bomu Bomu Devil Fruit Complete Multipart Display Model真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-eaacc944cb161efa342d054b6cebba28756a49604faede21cf5eab4c2be92a9a.png"
+      },
+      {
+        "src": "./assets/models/hie-hie-devil-fruit-1e9fd3/gallery-05.png",
+        "alt": "炸弹果实完整分件摆件｜Bomu Bomu Devil Fruit Complete Multipart Display Model真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-8843c1fcbef7369e67035986bb375bc94047eb2f856636d5f4042db6a85b3c91.png"
+      },
+      {
+        "src": "./assets/models/hie-hie-devil-fruit-1e9fd3/gallery-06.png",
+        "alt": "炸弹果实完整分件摆件｜Bomu Bomu Devil Fruit Complete Multipart Display Model真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-dae51b08fe0bc5a0d486f76099742973742dc490d46ddb8fdb306c82699a752d.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-c627ea3e3a9ccddcf65b35f7e5079d1182df03597fb7657bdd8618c8fcb213ed.png"
+  },
+  {
+    "id": "ouart-daily-six-20261108:model-544447294502073-ada47b",
+    "publicationId": "ouart-daily-six-20261108:model-544447294502073-ada47b",
+    "inventoryId": "model-544447294502073-ada47b",
+    "name": "唐纳德·特朗普西装肖像胸像完整模型｜Donald Trump Suit Portrait Bust Complete Model",
+    "date": "2026-11-08",
+    "displayDate": "2026.11.08",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "47.80 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-544447294502073-ada47b/model-544447294502073-ada47b-主图@初艺ouart.png",
+    "description": "完整包提供一件唐纳德·特朗普西装领带肖像胸像的无支撑单体 STL，并附同作正面参考图。模型已将头部、颈部、领带、西装翻领、胸肩与自立式宽底面合并为完整可展示作品，不需要独立底座或额外装配件；同目录中的拜登模型属于另一作品，不在本包内。",
+    "intro": "2026.11.08 OUART 每日模型合集成员；本期共2件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1cPdeT5hyNB-Phrm-Rw-pAQ",
+    "shareCode": "6df3",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261108",
+    "nameZh": "唐纳德·特朗普西装肖像胸像完整模型",
+    "nameEn": "Donald Trump Suit Portrait Bust Complete Model",
+    "displayName": "唐纳德·特朗普西装肖像胸像完整模型｜Donald Trump Suit Portrait Bust Complete Model",
+    "category": "公众人物肖像胸像",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "唐纳德·特朗普西装肖像胸像完整模型｜Donald Trump Suit Portrait Bust Complete ModelAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包提供一件唐纳德·特朗普西装领带肖像胸像的无支撑单体 STL，并附同作正面参考图。模型已将头部、颈部、领带、西装翻领、胸肩与自立式宽底面合并为完整可展示作品，不需要独立底座或额外装配件；同目录中的拜登模型属于另一作品，不在本包内。",
+          "该模型归入“公众人物肖像胸像”，与同批其他1件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-544447294502073-ada47b/gallery-02.png",
+        "alt": "唐纳德·特朗普西装肖像胸像完整模型｜Donald Trump Suit Portrait Bust Complete Model真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-66e3e5a5cce23ea9c25bdb2d119051a5385a6f5a28df3810534e986f168b9562.png"
+      },
+      {
+        "src": "./assets/models/model-544447294502073-ada47b/gallery-03.png",
+        "alt": "唐纳德·特朗普西装肖像胸像完整模型｜Donald Trump Suit Portrait Bust Complete Model真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-83179ab8299ec33915e57b0fa2482a888fa78ab8a6afc5ff525e76693f712a27.png"
+      },
+      {
+        "src": "./assets/models/model-544447294502073-ada47b/gallery-04.png",
+        "alt": "唐纳德·特朗普西装肖像胸像完整模型｜Donald Trump Suit Portrait Bust Complete Model真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-14994990a2a8076fdfa1dc2aa342ffcd448496fb29d08a5b53b660d2342cb7b9.png"
+      },
+      {
+        "src": "./assets/models/model-544447294502073-ada47b/gallery-05.png",
+        "alt": "唐纳德·特朗普西装肖像胸像完整模型｜Donald Trump Suit Portrait Bust Complete Model真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-e5a7ff171b0f590583ee5a6e37db838f48b99ee222a92ca43fa703c64fc181d3.png"
+      },
+      {
+        "src": "./assets/models/model-544447294502073-ada47b/gallery-06.png",
+        "alt": "唐纳德·特朗普西装肖像胸像完整模型｜Donald Trump Suit Portrait Bust Complete Model真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-fa1760ed34cbd124541ecb55cb6c1a09d7e6a3981f52e2aa58dfc7e2a503d763.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-bb0b1712ca5321965110377b1790e786f6edeb35a859bb0846b7cf3d4cea64e9.png"
+  },
+  {
     "id": "ouart-daily-six-20261107:apartment-floor-a7246f",
     "publicationId": "ouart-daily-six-20261107:apartment-floor-a7246f",
     "inventoryId": "apartment-floor-a7246f",

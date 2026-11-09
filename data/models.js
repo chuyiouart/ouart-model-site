@@ -1,5 +1,215 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261109:1-017683",
+    "publicationId": "ouart-daily-six-20261109:1-017683",
+    "inventoryId": "1-017683",
+    "name": "阿瑞露·沃勒什翼魔全身雕像｜Areelu Vorlesh Winged Full-Figure Statue",
+    "date": "2026-11-09",
+    "displayDate": "2026.11.09",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "322.07 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/1-017683/1-017683-主图@初艺ouart.png",
+    "description": "阿瑞露·沃勒什奇幻翼角色完整全身雕像包：人物、双翼、尾部/服装、底部场景装饰与圆形底座为一体合并网格，并附同一作品的正面、四分之三和背面原始展示图及整体压缩包。",
+    "intro": "2026.11.09 OUART 每日模型合集成员；本期共2件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1PrSKLuOqaoka_pd5SLTqjQ",
+    "shareCode": "1f33",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261109",
+    "nameZh": "阿瑞露·沃勒什翼魔全身雕像",
+    "nameEn": "Areelu Vorlesh Winged Full-Figure Statue",
+    "displayName": "阿瑞露·沃勒什翼魔全身雕像｜Areelu Vorlesh Winged Full-Figure Statue",
+    "category": "角色雕像",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "阿瑞露·沃勒什翼魔全身雕像｜Areelu Vorlesh Winged Full-Figure StatueAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "阿瑞露·沃勒什奇幻翼角色完整全身雕像包：人物、双翼、尾部/服装、底部场景装饰与圆形底座为一体合并网格，并附同一作品的正面、四分之三和背面原始展示图及整体压缩包。",
+          "该模型归入“角色雕像”，与同批其他1件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/1-017683/gallery-04.png",
+        "alt": "阿瑞露·沃勒什翼魔全身雕像｜Areelu Vorlesh Winged Full-Figure Statue真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-b32d5f46e2569f1cb7d8a3086ee83564af4099b4e27a529a417d569c928cd631.png"
+      },
+      {
+        "src": "./assets/models/1-017683/gallery-05.png",
+        "alt": "阿瑞露·沃勒什翼魔全身雕像｜Areelu Vorlesh Winged Full-Figure Statue真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-45d5236c426f5a0d58e68ca7600345352312c0490ea724f860600b5e5964545b.png"
+      },
+      {
+        "src": "./assets/models/1-017683/gallery-06.png",
+        "alt": "阿瑞露·沃勒什翼魔全身雕像｜Areelu Vorlesh Winged Full-Figure Statue真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-1a3ff461d1cbd4e63bf9db06374c8e4c41dd0fbbf60ee1aea7bbed0f7ee1721a.png"
+      },
+      {
+        "src": "./assets/models/1-017683/gallery-07.png",
+        "alt": "阿瑞露·沃勒什翼魔全身雕像｜Areelu Vorlesh Winged Full-Figure Statue真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-a58398b7e174b894b0a405548df349f814d3417d991f89f16eb9cce5e323780a.png"
+      },
+      {
+        "src": "./assets/models/1-017683/gallery-08.png",
+        "alt": "阿瑞露·沃勒什翼魔全身雕像｜Areelu Vorlesh Winged Full-Figure Statue真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-1b912372eae5097aaa2ede3c1244f8dcc014f39af425a3fcdf4688b3eaec5a6b.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-c6b62cce268ee4ad780de86c3bb27d6add2238375232c8c07240d94d735c0ac2.png"
+  },
+  {
+    "id": "ouart-daily-six-20261109:gong-95b54c",
+    "publicationId": "ouart-daily-six-20261109:gong-95b54c",
+    "inventoryId": "gong-95b54c",
+    "name": "新年铜锣与中式支架｜New Year Gong with Traditional Chinese Stand",
+    "date": "2026-11-09",
+    "displayDate": "2026.11.09",
+    "format": "STL",
+    "fileCount": 2,
+    "size": "27.09 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/gong-95b54c/gong-95b54c-主图@初艺ouart.png",
+    "description": "完整的新年中式铜锣摆件套装，包含带双绳环的浮雕铜锣、带双悬挂柱的中式牌坊形支架，以及同一铜锣作品的预支撑 CHITUBOX 打印版本；无支撑 STL 与预支撑版本均作为同一日发布中的打印变体保留。",
+    "intro": "2026.11.09 OUART 每日模型合集成员；本期共2件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1X8ADLUBuI19S-hDalfW72g",
+    "shareCode": "b1de",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261109",
+    "nameZh": "新年铜锣与中式支架",
+    "nameEn": "New Year Gong with Traditional Chinese Stand",
+    "displayName": "新年铜锣与中式支架｜New Year Gong with Traditional Chinese Stand",
+    "category": "节日装饰",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "新年铜锣与中式支架｜New Year Gong with Traditional Chinese StandAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整的新年中式铜锣摆件套装，包含带双绳环的浮雕铜锣、带双悬挂柱的中式牌坊形支架，以及同一铜锣作品的预支撑 CHITUBOX 打印版本；无支撑 STL 与预支撑版本均作为同一日发布中的打印变体保留。",
+          "该模型归入“节日装饰”，与同批其他1件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 2 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/gong-95b54c/gallery-01.png",
+        "alt": "新年铜锣与中式支架｜New Year Gong with Traditional Chinese Stand真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-a7989414ab9f821c4a62352291ce77332101403b37624864977b6134fa45d89e.png"
+      },
+      {
+        "src": "./assets/models/gong-95b54c/gallery-02.png",
+        "alt": "新年铜锣与中式支架｜New Year Gong with Traditional Chinese Stand真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-e4b5c38470bbd488a4354e0fce1409322c963696a31390730c296f35d7a47f01.png"
+      },
+      {
+        "src": "./assets/models/gong-95b54c/gallery-03.png",
+        "alt": "新年铜锣与中式支架｜New Year Gong with Traditional Chinese Stand真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-38d27915aa63a5b8034d647f609158b60e030da91ba87b03ff64d4e780593944.png"
+      },
+      {
+        "src": "./assets/models/gong-95b54c/gallery-04.png",
+        "alt": "新年铜锣与中式支架｜New Year Gong with Traditional Chinese Stand真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-c95f0d72fb8ee7828d13a1f5482c38b5a32e0359e25ee48731a1c61b83d7e8ca.png"
+      },
+      {
+        "src": "./assets/models/gong-95b54c/gallery-05.png",
+        "alt": "新年铜锣与中式支架｜New Year Gong with Traditional Chinese Stand真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-5e3093ce6d3d69d23294d495591be9eb70375f18334196ebb63216567defb178.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-05481a4ff2bb86a9668128bd2a1f07753be0e8f42171ad9d44937b58f031ceaa.png"
+  },
+  {
     "id": "ouart-daily-six-20261108:hie-hie-devil-fruit-1e9fd3",
     "publicationId": "ouart-daily-six-20261108:hie-hie-devil-fruit-1e9fd3",
     "inventoryId": "hie-hie-devil-fruit-1e9fd3",

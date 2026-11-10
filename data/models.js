@@ -1,5 +1,110 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261110:002-982ca4",
+    "publicationId": "ouart-daily-six-20261110:002-982ca4",
+    "inventoryId": "002-982ca4",
+    "name": "盘腿仰首的男人｜Seated Man Looking Up",
+    "date": "2026-11-10",
+    "displayDate": "2026.11.10",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "0.13 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/002-982ca4/002-982ca4-主图@初艺ouart.png",
+    "description": "完整包为一件一体式盘腿打坐男性全身人物雕塑，人物头部、躯干、双臂、双手及盘腿姿态均已并入同一实际 STL 网格；该造型可凭自身盘坐接触面稳定展示，不需要另配底座、支架或支撑版。本次包内仅有这一实际网格版本。",
+    "intro": "2026.11.10 OUART 每日模型合集成员；本期共1件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1UKTEwlFHW1HVr4vL9744ZQ",
+    "shareCode": "4da9",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261110",
+    "nameZh": "盘腿仰首的男人",
+    "nameEn": "Seated Man Looking Up",
+    "displayName": "盘腿仰首的男人｜Seated Man Looking Up",
+    "category": "人物雕塑",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "盘腿仰首的男人｜Seated Man Looking UpAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包为一件一体式盘腿打坐男性全身人物雕塑，人物头部、躯干、双臂、双手及盘腿姿态均已并入同一实际 STL 网格；该造型可凭自身盘坐接触面稳定展示，不需要另配底座、支架或支撑版。本次包内仅有这一实际网格版本。",
+          "该模型归入“人物雕塑”，作为本期单件模型独立展示。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/002-982ca4/gallery-01.png",
+        "alt": "盘腿仰首的男人｜Seated Man Looking Up真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-d1fe06823e94ec1c84e60ba178b5be5f2732eb668f072f49fde836020c6bae53.png"
+      },
+      {
+        "src": "./assets/models/002-982ca4/gallery-02.png",
+        "alt": "盘腿仰首的男人｜Seated Man Looking Up真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-c68147ea16378e010d0a44f2c20f8fffcae3dfab502821a50aa5d6e103387ae4.png"
+      },
+      {
+        "src": "./assets/models/002-982ca4/gallery-03.png",
+        "alt": "盘腿仰首的男人｜Seated Man Looking Up真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-bb65ecb1f28f1a8b39a49c5cb2dd3650647fc6c950c0f17a42361aca6378a7cb.png"
+      },
+      {
+        "src": "./assets/models/002-982ca4/gallery-04.png",
+        "alt": "盘腿仰首的男人｜Seated Man Looking Up真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-f49caa2fa224ffc27586e55f6dd375e27566e896cd7b290410fbdb8c0ae6f54e.png"
+      },
+      {
+        "src": "./assets/models/002-982ca4/gallery-05.png",
+        "alt": "盘腿仰首的男人｜Seated Man Looking Up真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-d4ad9af6856ff234fbbca744aa192e5ff3a83544d810b2d8fb8966c4ebeb7f3f.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-be7f893778a3c6276115f6ba73cb8936dffbef22bfd5b53c3cc99f2c99807e10.png"
+  },
+  {
     "id": "ouart-daily-six-20261109:1-017683",
     "publicationId": "ouart-daily-six-20261109:1-017683",
     "inventoryId": "1-017683",

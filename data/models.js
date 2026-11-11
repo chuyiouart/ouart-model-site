@@ -1,5 +1,110 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261111:dorohedoro-logo-0d6b73",
+    "publicationId": "ouart-daily-six-20261111:dorohedoro-logo-0d6b73",
+    "inventoryId": "dorohedoro-logo-0d6b73",
+    "name": "《异兽魔都》标志浮雕牌完整双版本包｜Dorohedoro Logo Relief Plaque Complete Two-Version Pack",
+    "date": "2026-11-11",
+    "displayDate": "2026.11.11",
+    "format": "STL",
+    "fileCount": 2,
+    "size": "0.69 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/dorohedoro-logo-0d6b73/dorohedoro-logo-0d6b73-主图@初艺ouart.png",
+    "description": "完整包是一套《异兽魔都》标志浮雕装饰模型，共含两个实际 STL：一个是自包含的无框文字浮雕，另一个是同一标志与矩形装饰边框已经合并的一体式带框浮雕牌。二者是同一作品的无框/带框展示变体，应在一次发布中完整提供；包内不含独立人物、武器或建筑，也没有证据表明还缺少必须另配的底座、支架或连接件。",
+    "intro": "2026.11.11 OUART 每日模型合集成员；本期共1件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1FBK12b6VyWc8RCtdyUYDNw",
+    "shareCode": "11f6",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261111",
+    "nameZh": "《异兽魔都》标志浮雕牌完整双版本包",
+    "nameEn": "Dorohedoro Logo Relief Plaque Complete Two-Version Pack",
+    "displayName": "《异兽魔都》标志浮雕牌完整双版本包｜Dorohedoro Logo Relief Plaque Complete Two-Version Pack",
+    "category": "动漫标志浮雕装饰牌",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "《异兽魔都》标志浮雕牌完整双版本包｜Dorohedoro Logo Relief Plaque Complete Two-Version PackAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包是一套《异兽魔都》标志浮雕装饰模型，共含两个实际 STL：一个是自包含的无框文字浮雕，另一个是同一标志与矩形装饰边框已经合并的一体式带框浮雕牌。二者是同一作品的无框/带框展示变体，应在一次发布中完整提供；包内不含独立人物、武器或建筑，也没有证据表明还缺少必须另配的底座、支架或连接件。",
+          "该模型归入“动漫标志浮雕装饰牌”，作为本期单件模型独立展示。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 2 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/dorohedoro-logo-0d6b73/gallery-01.png",
+        "alt": "《异兽魔都》标志浮雕牌完整双版本包｜Dorohedoro Logo Relief Plaque Complete Two-Version Pack真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-3d0dc3cde80c982b8619794e1d98e5c834c1615e2a1b75579f70f0fe4c172eae.png"
+      },
+      {
+        "src": "./assets/models/dorohedoro-logo-0d6b73/gallery-02.png",
+        "alt": "《异兽魔都》标志浮雕牌完整双版本包｜Dorohedoro Logo Relief Plaque Complete Two-Version Pack真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-ccaa9a1c2283eab6508d0b3833e8e8f807666ef8ca571e0159089f99f3c169b4.png"
+      },
+      {
+        "src": "./assets/models/dorohedoro-logo-0d6b73/gallery-03.png",
+        "alt": "《异兽魔都》标志浮雕牌完整双版本包｜Dorohedoro Logo Relief Plaque Complete Two-Version Pack真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-03caa7e339b5986e0ee8805ce842745612126cf39ce85f2320a5ffeb686d26ec.png"
+      },
+      {
+        "src": "./assets/models/dorohedoro-logo-0d6b73/gallery-04.png",
+        "alt": "《异兽魔都》标志浮雕牌完整双版本包｜Dorohedoro Logo Relief Plaque Complete Two-Version Pack真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-8f79de10326d3117bbc199a3bb722e91e3b3708d02e75b0585ac4454c158e7d1.png"
+      },
+      {
+        "src": "./assets/models/dorohedoro-logo-0d6b73/gallery-05.png",
+        "alt": "《异兽魔都》标志浮雕牌完整双版本包｜Dorohedoro Logo Relief Plaque Complete Two-Version Pack真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-02442b9349265f926ce3e4f28fe7fa70b1c056666fc02b3a0a4a92aeaaa5dcd9.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-14a0e9575aebbf45de9f3b86656b02796d39bbbd00c9ef9c589b0d86a5b07d09.png"
+  },
+  {
     "id": "ouart-daily-six-20261110:002-982ca4",
     "publicationId": "ouart-daily-six-20261110:002-982ca4",
     "inventoryId": "002-982ca4",

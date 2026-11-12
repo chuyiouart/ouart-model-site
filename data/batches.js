@@ -1,6 +1,25 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20261112",
+    "date": "2026-11-12",
+    "displayDate": "2026.11.12",
+    "title": "2026.11.12｜OUART 今日2件",
+    "description": "本期共2件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-11-12/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-11-12 2模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20261112:model-315943428121538-6d7623",
+      "ouart-daily-six-20261112:bolas-dragon-ball-macetas-1-3e8d12"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1rHmjy_ZIIYlLvrIUOsy22Q",
+    "shareCode": "7cd5",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-11-12T10:30:09+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20261111",
     "date": "2026-11-11",
     "displayDate": "2026.11.11",

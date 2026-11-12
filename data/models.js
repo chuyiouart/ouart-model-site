@@ -1,5 +1,215 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261112:model-315943428121538-6d7623",
+    "publicationId": "ouart-daily-six-20261112:model-315943428121538-6d7623",
+    "inventoryId": "model-315943428121538-6d7623",
+    "name": "万圣节幽灵猫三件套｜Trio of Halloween Ghost Cats",
+    "date": "2026-11-12",
+    "displayDate": "2026.11.12",
+    "format": "STL",
+    "fileCount": 3,
+    "size": "16.35 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-315943428121538-6d7623/model-315943428121538-6d7623-主图@初艺ouart.png",
+    "description": "完整套装包含站立、伸展与行走三种姿态的万圣节幽灵猫独立摆件 STL，并附原始成品合照与说明 PDF；三只均为自带落地裙摆的完整单体造型，无需另配底座或支架，全部姿态应在同一次发布中保留。",
+    "intro": "2026.11.12 OUART 每日模型合集成员；本期共2件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1Pn1VoMYsES8ikSgM1eDF6Q",
+    "shareCode": "f070",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261112",
+    "nameZh": "万圣节幽灵猫三件套",
+    "nameEn": "Trio of Halloween Ghost Cats",
+    "displayName": "万圣节幽灵猫三件套｜Trio of Halloween Ghost Cats",
+    "category": "动物摆件",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "万圣节幽灵猫三件套｜Trio of Halloween Ghost CatsAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整套装包含站立、伸展与行走三种姿态的万圣节幽灵猫独立摆件 STL，并附原始成品合照与说明 PDF；三只均为自带落地裙摆的完整单体造型，无需另配底座或支架，全部姿态应在同一次发布中保留。",
+          "该模型归入“动物摆件”，与同批其他1件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 3 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-315943428121538-6d7623/gallery-02.png",
+        "alt": "万圣节幽灵猫三件套｜Trio of Halloween Ghost Cats真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-3dba711777bca9a8d6f428eee602053685afacc39dbbb94bd2936b7bf87af510.png"
+      },
+      {
+        "src": "./assets/models/model-315943428121538-6d7623/gallery-03.png",
+        "alt": "万圣节幽灵猫三件套｜Trio of Halloween Ghost Cats真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-6eb40af1f7cd3f748fece046901abca457bce6b168b1abcc9a3c791a4c9e4e0a.png"
+      },
+      {
+        "src": "./assets/models/model-315943428121538-6d7623/gallery-04.png",
+        "alt": "万圣节幽灵猫三件套｜Trio of Halloween Ghost Cats真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-9a4e9f3b4c32e9870f5a421dd85b3c080d5f9a113778fba75d76aa8601b4b9e5.png"
+      },
+      {
+        "src": "./assets/models/model-315943428121538-6d7623/gallery-05.png",
+        "alt": "万圣节幽灵猫三件套｜Trio of Halloween Ghost Cats真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-0415338c73c7cb5d7d502399a00011fb4f65a8a8be98078ac06bba06d3a427ad.png"
+      },
+      {
+        "src": "./assets/models/model-315943428121538-6d7623/gallery-06.png",
+        "alt": "万圣节幽灵猫三件套｜Trio of Halloween Ghost Cats真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-3f7daa8813a6b8f424a96bfcd307181061cd69cba386585cc3c14ef9570ff8b7.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-0bb22c7a35c65d7833b2f4f8dfa22b7b5622307444b1dd9d7be72e1f8c512dd9.png"
+  },
+  {
+    "id": "ouart-daily-six-20261112:bolas-dragon-ball-macetas-1-3e8d12",
+    "publicationId": "ouart-daily-six-20261112:bolas-dragon-ball-macetas-1-3e8d12",
+    "inventoryId": "bolas-dragon-ball-macetas-1-3e8d12",
+    "name": "七款龙珠星球花盆套装｜Dragon Ball One-to-Seven-Star Planter Set",
+    "date": "2026-11-12",
+    "displayDate": "2026.11.12",
+    "format": "STL",
+    "fileCount": 7,
+    "size": "3.38 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/bolas-dragon-ball-macetas-1-3e8d12/bolas-dragon-ball-macetas-1-3e8d12-主图@初艺ouart.png",
+    "description": "完整包包含一星至七星共7款可独立使用的龙珠造型花盆变体；每款均为带平底、完整盆壁和顶部种植开口的一体式无支撑网格，不需要另配底座、支架或拼装零件，7款应作为同一日发布中的同一系列完整交付。",
+    "intro": "2026.11.12 OUART 每日模型合集成员；本期共2件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/19VdX3me_koVtpMuiblkTLw",
+    "shareCode": "760f",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261112",
+    "nameZh": "七款龙珠星球花盆套装",
+    "nameEn": "Dragon Ball One-to-Seven-Star Planter Set",
+    "displayName": "七款龙珠星球花盆套装｜Dragon Ball One-to-Seven-Star Planter Set",
+    "category": "花盆与家居装饰",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "七款龙珠星球花盆套装｜Dragon Ball One-to-Seven-Star Planter SetAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包包含一星至七星共7款可独立使用的龙珠造型花盆变体；每款均为带平底、完整盆壁和顶部种植开口的一体式无支撑网格，不需要另配底座、支架或拼装零件，7款应作为同一日发布中的同一系列完整交付。",
+          "该模型归入“花盆与家居装饰”，与同批其他1件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 7 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/bolas-dragon-ball-macetas-1-3e8d12/gallery-02.png",
+        "alt": "七款龙珠星球花盆套装｜Dragon Ball One-to-Seven-Star Planter Set真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-b8dfbdfc09999467d3a78772e2c497cc899a6e08ab98b477b94ad3ae22e674bc.png"
+      },
+      {
+        "src": "./assets/models/bolas-dragon-ball-macetas-1-3e8d12/gallery-03.png",
+        "alt": "七款龙珠星球花盆套装｜Dragon Ball One-to-Seven-Star Planter Set真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-2bc93c366981a4069166aff4b9356e88bf9b5287db7199e2516da2de6a98cbf5.png"
+      },
+      {
+        "src": "./assets/models/bolas-dragon-ball-macetas-1-3e8d12/gallery-04.png",
+        "alt": "七款龙珠星球花盆套装｜Dragon Ball One-to-Seven-Star Planter Set真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-37d9207285a808a6820ae451aa7b51238b0c86652fbc8926f56977d4b6d2d1a7.png"
+      },
+      {
+        "src": "./assets/models/bolas-dragon-ball-macetas-1-3e8d12/gallery-05.png",
+        "alt": "七款龙珠星球花盆套装｜Dragon Ball One-to-Seven-Star Planter Set真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-3cd6dea49fff53d8e39b9b8dd757623a620b1ac7aba2a4dceca275c86974704a.png"
+      },
+      {
+        "src": "./assets/models/bolas-dragon-ball-macetas-1-3e8d12/gallery-06.png",
+        "alt": "七款龙珠星球花盆套装｜Dragon Ball One-to-Seven-Star Planter Set真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-620ecd849be9405ec7890c865b9de6576c3e7aeb93491359acf258815de13244.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-fb82bf4dfcd8df954bbab956e12d5c6e27bbd0b3064f4c9bb3f43da1f4b51491.png"
+  },
+  {
     "id": "ouart-daily-six-20261111:dorohedoro-logo-0d6b73",
     "publicationId": "ouart-daily-six-20261111:dorohedoro-logo-0d6b73",
     "inventoryId": "dorohedoro-logo-0d6b73",

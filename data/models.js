@@ -1,5 +1,425 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261113:sid-naique-walter-white-aka-heisenberg-bryan-d8fd65",
+    "publicationId": "ouart-daily-six-20261113:sid-naique-walter-white-aka-heisenberg-bryan-d8fd65",
+    "inventoryId": "sid-naique-walter-white-aka-heisenberg-bryan-d8fd65",
+    "name": "《绝命毒师》沃尔特·怀特（海森堡）半身像套装｜Walter White aka Heisenberg Bust Set",
+    "date": "2026-11-13",
+    "displayDate": "2026.11.13",
+    "format": "STL",
+    "fileCount": 6,
+    "size": "138.90 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/sid-naique-walter-white-aka-heisenberg-bryan-d8fd65/sid-naique-walter-white-aka-heisenberg-bryan-d8fd65-主图@初艺ouart.png",
+    "description": "完整的沃尔特·怀特（海森堡）半身像打印套装：包含可直接展示的一体化 MrWhite 半身像、可分件打印的身体与头部版本，以及帽子、普通眼镜和墨镜两种可替换造型配件；躯干下缘为半身像自身的稳定展示底面，不另需独立底座。",
+    "intro": "2026.11.13 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1LA_uaDpyOdAwIAJ7avIytw",
+    "shareCode": "e753",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261113",
+    "nameZh": "《绝命毒师》沃尔特·怀特（海森堡）半身像套装",
+    "nameEn": "Walter White aka Heisenberg Bust Set",
+    "displayName": "《绝命毒师》沃尔特·怀特（海森堡）半身像套装｜Walter White aka Heisenberg Bust Set",
+    "category": "影视人物半身像",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "《绝命毒师》沃尔特·怀特（海森堡）半身像套装｜Walter White aka Heisenberg Bust SetAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整的沃尔特·怀特（海森堡）半身像打印套装：包含可直接展示的一体化 MrWhite 半身像、可分件打印的身体与头部版本，以及帽子、普通眼镜和墨镜两种可替换造型配件；躯干下缘为半身像自身的稳定展示底面，不另需独立底座。",
+          "该模型归入“影视人物半身像”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 6 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/sid-naique-walter-white-aka-heisenberg-bryan-d8fd65/gallery-05.png",
+        "alt": "《绝命毒师》沃尔特·怀特（海森堡）半身像套装｜Walter White aka Heisenberg Bust Set真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-5dd863ec15d1b59559f32dd76ea44739db3fab802abe85db2e57957939e8d80a.png"
+      },
+      {
+        "src": "./assets/models/sid-naique-walter-white-aka-heisenberg-bryan-d8fd65/gallery-06.png",
+        "alt": "《绝命毒师》沃尔特·怀特（海森堡）半身像套装｜Walter White aka Heisenberg Bust Set真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-be8f9616273ee62012af59f9753ccec162161f0ec5e245008fcdd75fdfbbe5c3.png"
+      },
+      {
+        "src": "./assets/models/sid-naique-walter-white-aka-heisenberg-bryan-d8fd65/gallery-07.png",
+        "alt": "《绝命毒师》沃尔特·怀特（海森堡）半身像套装｜Walter White aka Heisenberg Bust Set真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-ef0cecc90fb388a817a5002cb418fa3cfae439fda76848fdd07833b64f4ec1e9.png"
+      },
+      {
+        "src": "./assets/models/sid-naique-walter-white-aka-heisenberg-bryan-d8fd65/gallery-08.png",
+        "alt": "《绝命毒师》沃尔特·怀特（海森堡）半身像套装｜Walter White aka Heisenberg Bust Set真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-ba4518629283a7efe79c645ab6b9ad46a7a359fb5dfa9abd670e9067e5e9cc15.png"
+      },
+      {
+        "src": "./assets/models/sid-naique-walter-white-aka-heisenberg-bryan-d8fd65/gallery-09.png",
+        "alt": "《绝命毒师》沃尔特·怀特（海森堡）半身像套装｜Walter White aka Heisenberg Bust Set真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-7540e99de3741ca126e07e9e016bb1de54072212e3479762151db0cc709071ab.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-889031e7059236cd1c62f616a74219aff8a802613f8830a2e8b72d08ecd1d1a6.png"
+  },
+  {
+    "id": "ouart-daily-six-20261113:sasuke-uchiha-14d1f0",
+    "publicationId": "ouart-daily-six-20261113:sasuke-uchiha-14d1f0",
+    "inventoryId": "sasuke-uchiha-14d1f0",
+    "name": "宇智波佐助持剑披风全身雕像套装｜Sasuke Uchiha Full-Figure Statue Set with Sword and Cloak",
+    "date": "2026-11-13",
+    "displayDate": "2026.11.13",
+    "format": "STL",
+    "fileCount": 10,
+    "size": "251.04 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/sasuke-uchiha-14d1f0/sasuke-uchiha-14d1f0-主图@初艺ouart.png",
+    "description": "完整的宇智波佐助持剑披风全身雕像打印包，共含10个实际 STL：必要的宇智波标志展示底座、披风、左右脚、手、头部、腿部、剑和躯干九个组装分件，以及一件可选的“t.me/stl_pirate”文字牌附属件。代表展示版使用前九件按原生零平移装配，完整呈现原图中的正立持剑角色与底座；文字牌保留在同一次发布包中但不是人物完整性所必需，也不是另一件作品。",
+    "intro": "2026.11.13 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/14bu-ESkR-mSlPRVwefKd5w",
+    "shareCode": "85a0",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261113",
+    "nameZh": "宇智波佐助持剑披风全身雕像套装",
+    "nameEn": "Sasuke Uchiha Full-Figure Statue Set with Sword and Cloak",
+    "displayName": "宇智波佐助持剑披风全身雕像套装｜Sasuke Uchiha Full-Figure Statue Set with Sword and Cloak",
+    "category": "动漫人物全身雕像",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "宇智波佐助持剑披风全身雕像套装｜Sasuke Uchiha Full-Figure Statue Set with Sword and CloakAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整的宇智波佐助持剑披风全身雕像打印包，共含10个实际 STL：必要的宇智波标志展示底座、披风、左右脚、手、头部、腿部、剑和躯干九个组装分件，以及一件可选的“t.me/stl_pirate”文字牌附属件。代表展示版使用前九件按原生零平移装配，完整呈现原图中的正立持剑角色与底座；文字牌保留在同一次发布包中但不是人物完整性所必需，也不是另一件作品。",
+          "该模型归入“动漫人物全身雕像”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 10 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/sasuke-uchiha-14d1f0/gallery-02.png",
+        "alt": "宇智波佐助持剑披风全身雕像套装｜Sasuke Uchiha Full-Figure Statue Set with Sword and Cloak真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-92201c109001c7f0c877777691010e8664bf09230fffb191c8fb37d0cec5751c.png"
+      },
+      {
+        "src": "./assets/models/sasuke-uchiha-14d1f0/gallery-03.png",
+        "alt": "宇智波佐助持剑披风全身雕像套装｜Sasuke Uchiha Full-Figure Statue Set with Sword and Cloak真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-b3f5c1ea618a47ebc5ee3f1870c41b249139ca8b753ddd322497b6a14d44d0dd.png"
+      },
+      {
+        "src": "./assets/models/sasuke-uchiha-14d1f0/gallery-04.png",
+        "alt": "宇智波佐助持剑披风全身雕像套装｜Sasuke Uchiha Full-Figure Statue Set with Sword and Cloak真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-9b7cb59def614b1ad6c73bea11e68afead121297e3ad4e860bf6e7a205c6d0d5.png"
+      },
+      {
+        "src": "./assets/models/sasuke-uchiha-14d1f0/gallery-05.png",
+        "alt": "宇智波佐助持剑披风全身雕像套装｜Sasuke Uchiha Full-Figure Statue Set with Sword and Cloak真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-e2f09ceed1478b52ebff598e4ac81f5b06c9ab47eb5717bad1cd4335ff34c392.png"
+      },
+      {
+        "src": "./assets/models/sasuke-uchiha-14d1f0/gallery-06.png",
+        "alt": "宇智波佐助持剑披风全身雕像套装｜Sasuke Uchiha Full-Figure Statue Set with Sword and Cloak真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-cc73c0b7d682268e9264d55664e941703cf3c46f9343ba5d0a3772c1f0cefe29.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-a40ba80470bed5d8a8f023d7dbea7a2d529d945b37f09643e4fe71afc0052787.png"
+  },
+  {
+    "id": "ouart-daily-six-20261113:tcdm4004-hell-knights-f42a2c",
+    "publicationId": "ouart-daily-six-20261113:tcdm4004-hell-knights-f42a2c",
+    "inventoryId": "tcdm4004-hell-knights-f42a2c",
+    "name": "地狱骑士（火炮）｜Hell Knight (Cannon)",
+    "date": "2026-11-13",
+    "displayDate": "2026.11.13",
+    "format": "STL",
+    "fileCount": 2,
+    "size": "258.24 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/tcdm4004-hell-knights-f42a2c/tcdm4004-hell-knights-f42a2c-主图@初艺ouart.png",
+    "description": "地狱骑士火炮全身像完整模型包，包含同一作品的无支撑合并 STL、带支撑 STL、LYS 支撑工程文件、三张同款参考图及说明文档。角色、火炮、四肢和披挂均已合并在完整全身模型中；无独立且必需的底座零件。",
+    "intro": "2026.11.13 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1FATPiVZhvnYmojF_IAWZGA",
+    "shareCode": "9fdb",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261113",
+    "nameZh": "地狱骑士（火炮）",
+    "nameEn": "Hell Knight (Cannon)",
+    "displayName": "地狱骑士（火炮）｜Hell Knight (Cannon)",
+    "category": "人物角色",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "地狱骑士（火炮）｜Hell Knight (Cannon)AI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "地狱骑士火炮全身像完整模型包，包含同一作品的无支撑合并 STL、带支撑 STL、LYS 支撑工程文件、三张同款参考图及说明文档。角色、火炮、四肢和披挂均已合并在完整全身模型中；无独立且必需的底座零件。",
+          "该模型归入“人物角色”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 2 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/tcdm4004-hell-knights-f42a2c/gallery-04.png",
+        "alt": "地狱骑士（火炮）｜Hell Knight (Cannon)真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-07df47ccaeb72153045ae8c4dc55bedebb626b8f6947e1412d1447d2478210dc.png"
+      },
+      {
+        "src": "./assets/models/tcdm4004-hell-knights-f42a2c/gallery-05.png",
+        "alt": "地狱骑士（火炮）｜Hell Knight (Cannon)真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-2086c9e69669ba3b09e25dbcc6481837ba5785072fdbaece4aecbfe63071c750.png"
+      },
+      {
+        "src": "./assets/models/tcdm4004-hell-knights-f42a2c/gallery-06.png",
+        "alt": "地狱骑士（火炮）｜Hell Knight (Cannon)真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-866f3ac561b844747cfc488a75c96ffbc826a262f107b768fa60acbaf5642f80.png"
+      },
+      {
+        "src": "./assets/models/tcdm4004-hell-knights-f42a2c/gallery-07.png",
+        "alt": "地狱骑士（火炮）｜Hell Knight (Cannon)真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-2830344c42ee6afad7960d4b5e981904cef8511298ecddd45f13cce4fcf28917.png"
+      },
+      {
+        "src": "./assets/models/tcdm4004-hell-knights-f42a2c/gallery-08.png",
+        "alt": "地狱骑士（火炮）｜Hell Knight (Cannon)真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-3052a46f9ab1409bc7929b9797e17ee913f12a3a6e819eb8a26558cc8d629f9b.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-d5db5a07b920f646a96c30c0893a9499d224ef0aa4c020909705a7098e31f560.png"
+  },
+  {
+    "id": "ouart-daily-six-20261113:bulma-lunar-new-year-1310d2",
+    "publicationId": "ouart-daily-six-20261113:bulma-lunar-new-year-1310d2",
+    "inventoryId": "bulma-lunar-new-year-1310d2",
+    "name": "布尔玛农历新年全身场景手办｜Bulma Lunar New Year Full-Figure Scene",
+    "date": "2026-11-13",
+    "displayDate": "2026.11.13",
+    "format": "STL",
+    "fileCount": 7,
+    "size": "66.25 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/bulma-lunar-new-year-1310d2/bulma-lunar-new-year-1310d2-主图@初艺ouart.png",
+    "description": "完整分件全身人物场景包，包含布尔玛身体、头部、左右手、灯笼、悬挂式新年背景架与专用底座；各分件共同组成原图所示的同一件农历新年主题展示作品。",
+    "intro": "2026.11.13 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/17GzOz84-rsuZZccCTm_Pxw",
+    "shareCode": "128b",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261113",
+    "nameZh": "布尔玛农历新年全身场景手办",
+    "nameEn": "Bulma Lunar New Year Full-Figure Scene",
+    "displayName": "布尔玛农历新年全身场景手办｜Bulma Lunar New Year Full-Figure Scene",
+    "category": "人物手办",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "布尔玛农历新年全身场景手办｜Bulma Lunar New Year Full-Figure SceneAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整分件全身人物场景包，包含布尔玛身体、头部、左右手、灯笼、悬挂式新年背景架与专用底座；各分件共同组成原图所示的同一件农历新年主题展示作品。",
+          "该模型归入“人物手办”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 7 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/bulma-lunar-new-year-1310d2/gallery-03.png",
+        "alt": "布尔玛农历新年全身场景手办｜Bulma Lunar New Year Full-Figure Scene真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-aeb377ec5c44a2ea5d689ce94fd9077f0c362c801e182bf29d6fe3a166148fba.png"
+      },
+      {
+        "src": "./assets/models/bulma-lunar-new-year-1310d2/gallery-04.png",
+        "alt": "布尔玛农历新年全身场景手办｜Bulma Lunar New Year Full-Figure Scene真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-af706783f1af0fbd88a49335b6ded627ad18b2612a4d9568150576f9b7d44735.png"
+      },
+      {
+        "src": "./assets/models/bulma-lunar-new-year-1310d2/gallery-05.png",
+        "alt": "布尔玛农历新年全身场景手办｜Bulma Lunar New Year Full-Figure Scene真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-5c856c8d45a3e9cd839d1d3fd5d54beb3626298bc83f2ddce898a0ce8d3be473.png"
+      },
+      {
+        "src": "./assets/models/bulma-lunar-new-year-1310d2/gallery-06.png",
+        "alt": "布尔玛农历新年全身场景手办｜Bulma Lunar New Year Full-Figure Scene真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-673d76467713544372ef0e1b4708243d4d410615c4ed029737505e454062ab03.png"
+      },
+      {
+        "src": "./assets/models/bulma-lunar-new-year-1310d2/gallery-07.png",
+        "alt": "布尔玛农历新年全身场景手办｜Bulma Lunar New Year Full-Figure Scene真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-031e2024892760f3fd7b2ea7defb490b11ced75c33ccfb7119a08de4f7786246.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-e39255de1076fabd0bf4010d2ccde11229315f93d7b840f61ba5b2a56f8f2ca7.png"
+  },
+  {
     "id": "ouart-daily-six-20261112:model-315943428121538-6d7623",
     "publicationId": "ouart-daily-six-20261112:model-315943428121538-6d7623",
     "inventoryId": "model-315943428121538-6d7623",

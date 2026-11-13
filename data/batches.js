@@ -1,6 +1,27 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20261113",
+    "date": "2026-11-13",
+    "displayDate": "2026.11.13",
+    "title": "2026.11.13｜OUART 今日4件",
+    "description": "本期共4件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-11-13/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-11-13 4模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20261113:sid-naique-walter-white-aka-heisenberg-bryan-d8fd65",
+      "ouart-daily-six-20261113:sasuke-uchiha-14d1f0",
+      "ouart-daily-six-20261113:tcdm4004-hell-knights-f42a2c",
+      "ouart-daily-six-20261113:bulma-lunar-new-year-1310d2"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1PE_q2C0aKrO5AqrXj2JolQ",
+    "shareCode": "5335",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-11-13T10:30:55+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20261112",
     "date": "2026-11-12",
     "displayDate": "2026.11.12",

@@ -1,5 +1,425 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261114:model-1113876384894566-cdec20",
+    "publicationId": "ouart-daily-six-20261114:model-1113876384894566-cdec20",
+    "inventoryId": "model-1113876384894566-cdec20",
+    "name": "《街头霸王》肯·马斯特斯波动拳全身场景雕像｜Ken Masters Hadouken Full-Figure Diorama",
+    "date": "2026-11-14",
+    "displayDate": "2026.11.14",
+    "format": "STL",
+    "fileCount": 11,
+    "size": "104.04 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-1113876384894566-cdec20/model-1113876384894566-cdec20-主图@初艺ouart.png",
+    "description": "完整的肯·马斯特斯波动拳全身场景雕像分件包，包含头部、躯干、腰带、左右手臂、左右腿、波动拳特效、两件式场景底座及街头霸王标志牌；全部为同一件作品的必要组成部分，不是独立角色或武器合集。",
+    "intro": "2026.11.14 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1YEDBdX1-mqUxs0FCzAsMVA",
+    "shareCode": "e7c4",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261114",
+    "nameZh": "《街头霸王》肯·马斯特斯波动拳全身场景雕像",
+    "nameEn": "Ken Masters Hadouken Full-Figure Diorama",
+    "displayName": "《街头霸王》肯·马斯特斯波动拳全身场景雕像｜Ken Masters Hadouken Full-Figure Diorama",
+    "category": "游戏角色全身雕像",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "《街头霸王》肯·马斯特斯波动拳全身场景雕像｜Ken Masters Hadouken Full-Figure DioramaAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整的肯·马斯特斯波动拳全身场景雕像分件包，包含头部、躯干、腰带、左右手臂、左右腿、波动拳特效、两件式场景底座及街头霸王标志牌；全部为同一件作品的必要组成部分，不是独立角色或武器合集。",
+          "该模型归入“游戏角色全身雕像”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 11 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-1113876384894566-cdec20/gallery-02.png",
+        "alt": "《街头霸王》肯·马斯特斯波动拳全身场景雕像｜Ken Masters Hadouken Full-Figure Diorama真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-2a2fc9a3eae2f705917afc64d4d52e06d2d2f42c18f980bbe3adf81b9ae18809.png"
+      },
+      {
+        "src": "./assets/models/model-1113876384894566-cdec20/gallery-03.png",
+        "alt": "《街头霸王》肯·马斯特斯波动拳全身场景雕像｜Ken Masters Hadouken Full-Figure Diorama真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-9ac8126aba5e52462ae00ac8c0402993ef26b1b1249e33cd89fc0a52b0c2080a.png"
+      },
+      {
+        "src": "./assets/models/model-1113876384894566-cdec20/gallery-04.png",
+        "alt": "《街头霸王》肯·马斯特斯波动拳全身场景雕像｜Ken Masters Hadouken Full-Figure Diorama真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-bf708d8325e1e40d453c155d27121b631475db18b0184f2d9152c7262ab5792e.png"
+      },
+      {
+        "src": "./assets/models/model-1113876384894566-cdec20/gallery-05.png",
+        "alt": "《街头霸王》肯·马斯特斯波动拳全身场景雕像｜Ken Masters Hadouken Full-Figure Diorama真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-12aacb647035c2cb5e2c86100d39de0a6ef4aaab034f3dd49013f2b2d2680f47.png"
+      },
+      {
+        "src": "./assets/models/model-1113876384894566-cdec20/gallery-06.png",
+        "alt": "《街头霸王》肯·马斯特斯波动拳全身场景雕像｜Ken Masters Hadouken Full-Figure Diorama真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-7e7c9a4d0c520e6e1dd5fc990ffd1ba0afac481cc2e980ec0de4b43851249799.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-9e4cac78069f74685ad4e1a7c14e2e76bd336d0c8f922f3461a2a6bf737ae655.png"
+  },
+  {
+    "id": "ouart-daily-six-20261114:thousand-sunny-510af1",
+    "publicationId": "ouart-daily-six-20261114:thousand-sunny-510af1",
+    "inventoryId": "thousand-sunny-510af1",
+    "name": "桑尼号狮子船首徽章挂件｜Thousand Sunny Lion Figurehead Emblem Keychain Ornament",
+    "date": "2026-11-14",
+    "displayDate": "2026.11.14",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "39.44 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/thousand-sunny-510af1/thousand-sunny-510af1-主图@初艺ouart.png",
+    "description": "完整包包含一个桑尼号狮子船首徽章挂件主体的合并 STL，以及一张展示同款挂件使用效果的原始参考图；模型本体整合了狮子太阳脸、放射状鬃毛、交叉骨饰和圆形背板，无需另配可打印底座或支架。参考图中的金属钥匙圈为外部五金，不属于 STL 几何；同目录的梅利号文件是另一作品且未纳入本包。",
+    "intro": "2026.11.14 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1ZiW7XiQuvJpcksHCdmewEg",
+    "shareCode": "c514",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261114",
+    "nameZh": "桑尼号狮子船首徽章挂件",
+    "nameEn": "Thousand Sunny Lion Figurehead Emblem Keychain Ornament",
+    "displayName": "桑尼号狮子船首徽章挂件｜Thousand Sunny Lion Figurehead Emblem Keychain Ornament",
+    "category": "动漫船舶徽章挂件",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "桑尼号狮子船首徽章挂件｜Thousand Sunny Lion Figurehead Emblem Keychain OrnamentAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包包含一个桑尼号狮子船首徽章挂件主体的合并 STL，以及一张展示同款挂件使用效果的原始参考图；模型本体整合了狮子太阳脸、放射状鬃毛、交叉骨饰和圆形背板，无需另配可打印底座或支架。参考图中的金属钥匙圈为外部五金，不属于 STL 几何；同目录的梅利号文件是另一作品且未纳入本包。",
+          "该模型归入“动漫船舶徽章挂件”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/thousand-sunny-510af1/gallery-02.png",
+        "alt": "桑尼号狮子船首徽章挂件｜Thousand Sunny Lion Figurehead Emblem Keychain Ornament真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-11c6e6c1f77b769d98e46d77aa5f30d697dd97fe4df3ec37e0f0387714846d4e.png"
+      },
+      {
+        "src": "./assets/models/thousand-sunny-510af1/gallery-03.png",
+        "alt": "桑尼号狮子船首徽章挂件｜Thousand Sunny Lion Figurehead Emblem Keychain Ornament真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-4473c0ede18f4cbbc6982c8e1377f3dbf946f30b2776bbbc8105bfb4bc96fc12.png"
+      },
+      {
+        "src": "./assets/models/thousand-sunny-510af1/gallery-04.png",
+        "alt": "桑尼号狮子船首徽章挂件｜Thousand Sunny Lion Figurehead Emblem Keychain Ornament真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-55e061700c1a70cd8a237405da601153f7611db58779da414bb1d16180edacc7.png"
+      },
+      {
+        "src": "./assets/models/thousand-sunny-510af1/gallery-05.png",
+        "alt": "桑尼号狮子船首徽章挂件｜Thousand Sunny Lion Figurehead Emblem Keychain Ornament真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-15b48047793cef8c4e60c88886f36a773cfa88135cfa61f3ea70aba5f693ef95.png"
+      },
+      {
+        "src": "./assets/models/thousand-sunny-510af1/gallery-06.png",
+        "alt": "桑尼号狮子船首徽章挂件｜Thousand Sunny Lion Figurehead Emblem Keychain Ornament真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-be850454a2ebe718f5eace701036bf938801b3fa110adea459da3943b8f73b36.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-0b8f710920683926da3bf04b715e5be3848ebab2b8bbb245ead3880ef5aa4fd1.png"
+  },
+  {
+    "id": "ouart-daily-six-20261114:01saitama-tatsumaki-splitversion-stl-azerama-078abe",
+    "publicationId": "ouart-daily-six-20261114:01saitama-tatsumaki-splitversion-stl-azerama-078abe",
+    "inventoryId": "01saitama-tatsumaki-splitversion-stl-azerama-078abe",
+    "name": "埼玉与龙卷双人场景雕像（标准版拆分套装）｜Saitama and Tatsumaki Duo Diorama — Standard Split Set",
+    "date": "2026-11-14",
+    "displayDate": "2026.11.14",
+    "format": "STL",
+    "fileCount": 21,
+    "size": "203.69 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/01saitama-tatsumaki-splitversion-stl-azerama-078abe/01saitama-tatsumaki-splitversion-stl-azerama-078abe-主图@初艺ouart.png",
+    "description": "完整包是一件《一拳超人》埼玉与龙卷双人全身场景雕像的标准版拆分套装：包含埼玉的头、躯干、双臂、双腿、短裤和左右底座，龙卷的头、躯干、髋部、双腿、手臂、手、主底座和砖块底座，并同时提供两人相连的 HandSaitama 互动手型与各自独立展示用替换手型。代表展示采用互动手型，两个独立手仅作为同作品变体保留；所有人物、必要底座和替换变体均属于同一次完整发行。",
+    "intro": "2026.11.14 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1VzS1pX9uPaqZcLP8H0exHg",
+    "shareCode": "68f0",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261114",
+    "nameZh": "埼玉与龙卷双人场景雕像（标准版拆分套装）",
+    "nameEn": "Saitama and Tatsumaki Duo Diorama — Standard Split Set",
+    "displayName": "埼玉与龙卷双人场景雕像（标准版拆分套装）｜Saitama and Tatsumaki Duo Diorama — Standard Split Set",
+    "category": "动漫人物双人场景雕像",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "埼玉与龙卷双人场景雕像（标准版拆分套装）｜Saitama and Tatsumaki Duo Diorama — Standard Split SetAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包是一件《一拳超人》埼玉与龙卷双人全身场景雕像的标准版拆分套装：包含埼玉的头、躯干、双臂、双腿、短裤和左右底座，龙卷的头、躯干、髋部、双腿、手臂、手、主底座和砖块底座，并同时提供两人相连的 HandSaitama 互动手型与各自独立展示用替换手型。代表展示采用互动手型，两个独立手仅作为同作品变体保留；所有人物、必要底座和替换变体均属于同一次完整发行。",
+          "该模型归入“动漫人物双人场景雕像”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 21 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/01saitama-tatsumaki-splitversion-stl-azerama-078abe/gallery-02.png",
+        "alt": "埼玉与龙卷双人场景雕像（标准版拆分套装）｜Saitama and Tatsumaki Duo Diorama — Standard Split Set真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-679339229e25216f3aae1a5907b6bd7561c3624ca874169ae7378d6093fb3233.png"
+      },
+      {
+        "src": "./assets/models/01saitama-tatsumaki-splitversion-stl-azerama-078abe/gallery-03.png",
+        "alt": "埼玉与龙卷双人场景雕像（标准版拆分套装）｜Saitama and Tatsumaki Duo Diorama — Standard Split Set真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-b4b2c6a18407a7a09650ee4175b2c73d7fe050f6c3f4142fc7bc377133419ec4.png"
+      },
+      {
+        "src": "./assets/models/01saitama-tatsumaki-splitversion-stl-azerama-078abe/gallery-04.png",
+        "alt": "埼玉与龙卷双人场景雕像（标准版拆分套装）｜Saitama and Tatsumaki Duo Diorama — Standard Split Set真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-d6dfe7f14f31e13781b542272f3123da5b4c85d1507569f5c58b742e4682d1b0.png"
+      },
+      {
+        "src": "./assets/models/01saitama-tatsumaki-splitversion-stl-azerama-078abe/gallery-05.png",
+        "alt": "埼玉与龙卷双人场景雕像（标准版拆分套装）｜Saitama and Tatsumaki Duo Diorama — Standard Split Set真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-87e2480ad68b3db45f7adb4f0700405ce2b0d33dd68149088defcb8f2c30a072.png"
+      },
+      {
+        "src": "./assets/models/01saitama-tatsumaki-splitversion-stl-azerama-078abe/gallery-06.png",
+        "alt": "埼玉与龙卷双人场景雕像（标准版拆分套装）｜Saitama and Tatsumaki Duo Diorama — Standard Split Set真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-2de02c99b574cb2ddbbe270bbf3441be06cfa154d19edd762fbfd5c028cfbc6a.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-375bb848cd2b6948cd5315c5b8aaa6cf28a1ba9a319aa34e40d8af841f9fd196.png"
+  },
+  {
+    "id": "ouart-daily-six-20261114:three-cute-bunnies-model-files-199c83",
+    "publicationId": "ouart-daily-six-20261114:three-cute-bunnies-model-files-199c83",
+    "inventoryId": "three-cute-bunnies-model-files-199c83",
+    "name": "三只可爱兔子摆件套装｜Three Cute Bunnies Figurine Set",
+    "date": "2026-11-14",
+    "displayDate": "2026.11.14",
+    "format": "STL",
+    "fileCount": 3,
+    "size": "178.74 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/three-cute-bunnies-model-files-199c83/three-cute-bunnies-model-files-199c83-主图@初艺ouart.png",
+    "description": "完整包包含三只不同动作的可爱坐姿兔子全身摆件STL、三只合集3MF，以及随附说明和参考资料；三只模型共同组成同一主题套装，均无需独立底座或支架。",
+    "intro": "2026.11.14 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1nvtK_s7fwRpGgTr49IMtPQ",
+    "shareCode": "064a",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261114",
+    "nameZh": "三只可爱兔子摆件套装",
+    "nameEn": "Three Cute Bunnies Figurine Set",
+    "displayName": "三只可爱兔子摆件套装｜Three Cute Bunnies Figurine Set",
+    "category": "动物摆件",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "三只可爱兔子摆件套装｜Three Cute Bunnies Figurine SetAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包包含三只不同动作的可爱坐姿兔子全身摆件STL、三只合集3MF，以及随附说明和参考资料；三只模型共同组成同一主题套装，均无需独立底座或支架。",
+          "该模型归入“动物摆件”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 3 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/three-cute-bunnies-model-files-199c83/gallery-02.png",
+        "alt": "三只可爱兔子摆件套装｜Three Cute Bunnies Figurine Set真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-21653dbbb398505eda8d9175ed2df6307350a30e1661bf8f16a0f8faf324fb9c.png"
+      },
+      {
+        "src": "./assets/models/three-cute-bunnies-model-files-199c83/gallery-03.png",
+        "alt": "三只可爱兔子摆件套装｜Three Cute Bunnies Figurine Set真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-62f347b629eb68b223a8685c97af4a7f87bd36cef4168394d1adb1faaba2841a.png"
+      },
+      {
+        "src": "./assets/models/three-cute-bunnies-model-files-199c83/gallery-04.png",
+        "alt": "三只可爱兔子摆件套装｜Three Cute Bunnies Figurine Set真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-bfc6b6f1cb5f85ff56ac5db80445d0097c252d1919fb9f445f45b01b05ac13f8.png"
+      },
+      {
+        "src": "./assets/models/three-cute-bunnies-model-files-199c83/gallery-05.png",
+        "alt": "三只可爱兔子摆件套装｜Three Cute Bunnies Figurine Set真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-f6825d098e3795599cae390762577c5300ca0d27be94bd046bf1796f7aa549a4.png"
+      },
+      {
+        "src": "./assets/models/three-cute-bunnies-model-files-199c83/gallery-06.png",
+        "alt": "三只可爱兔子摆件套装｜Three Cute Bunnies Figurine Set真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-5841299cce10c408e58a375df3ac3ba933c476542cde7a84a033d6a29281f587.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-822d84049bfff2694872b17ad61ed2fa8b388a14685985af1c97b41ff185d400.png"
+  },
+  {
     "id": "ouart-daily-six-20261113:sid-naique-walter-white-aka-heisenberg-bryan-d8fd65",
     "publicationId": "ouart-daily-six-20261113:sid-naique-walter-white-aka-heisenberg-bryan-d8fd65",
     "inventoryId": "sid-naique-walter-white-aka-heisenberg-bryan-d8fd65",

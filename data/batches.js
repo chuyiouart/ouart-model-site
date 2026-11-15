@@ -1,6 +1,24 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20261115",
+    "date": "2026-11-15",
+    "displayDate": "2026.11.15",
+    "title": "2026.11.15｜OUART 今日1件",
+    "description": "本期共1件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-11-15/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-11-15 1模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20261115:luffy-snakeman-200mm-205571"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1Vj4Iu1V9vW8BaUTsU2XH0w",
+    "shareCode": "b5af",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-11-15T10:30:28+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20261114",
     "date": "2026-11-14",
     "displayDate": "2026.11.14",

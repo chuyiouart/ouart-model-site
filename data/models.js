@@ -1,5 +1,110 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261115:luffy-snakeman-200mm-205571",
+    "publicationId": "ouart-daily-six-20261115:luffy-snakeman-200mm-205571",
+    "inventoryId": "luffy-snakeman-200mm-205571",
+    "name": "路飞蛇人形态200毫米胸像完整套件｜Luffy Snakeman 200 mm Bust Complete Kit",
+    "date": "2026-11-15",
+    "displayDate": "2026.11.15",
+    "format": "STL",
+    "fileCount": 6,
+    "size": "222.27 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/luffy-snakeman-200mm-205571/luffy-snakeman-200mm-205571-主图@初艺ouart.png",
+    "description": "完整包是一件路飞蛇人形态约200毫米胸像，包含不可省略的圆形展示底座、躯干、头部与头发、环绕烟雾特效，以及同作品的草帽配件；另含一件200毫米高度标尺辅助网格。六个STL均应随同一次发布保留，其中高度标尺不是雕像展示部件，也不是另一件作品。",
+    "intro": "2026.11.15 OUART 每日模型合集成员；本期共1件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1Vj4Iu1V9vW8BaUTsU2XH0w",
+    "shareCode": "b5af",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261115",
+    "nameZh": "路飞蛇人形态200毫米胸像完整套件",
+    "nameEn": "Luffy Snakeman 200 mm Bust Complete Kit",
+    "displayName": "路飞蛇人形态200毫米胸像完整套件｜Luffy Snakeman 200 mm Bust Complete Kit",
+    "category": "动漫人物胸像",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "路飞蛇人形态200毫米胸像完整套件｜Luffy Snakeman 200 mm Bust Complete KitAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包是一件路飞蛇人形态约200毫米胸像，包含不可省略的圆形展示底座、躯干、头部与头发、环绕烟雾特效，以及同作品的草帽配件；另含一件200毫米高度标尺辅助网格。六个STL均应随同一次发布保留，其中高度标尺不是雕像展示部件，也不是另一件作品。",
+          "该模型归入“动漫人物胸像”，作为本期单件模型独立展示。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 6 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/luffy-snakeman-200mm-205571/gallery-02.png",
+        "alt": "路飞蛇人形态200毫米胸像完整套件｜Luffy Snakeman 200 mm Bust Complete Kit真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-66280428214b133f56e5b8cd6d39e05233f1df58fb7ac5f247b7dc3973b3725f.png"
+      },
+      {
+        "src": "./assets/models/luffy-snakeman-200mm-205571/gallery-03.png",
+        "alt": "路飞蛇人形态200毫米胸像完整套件｜Luffy Snakeman 200 mm Bust Complete Kit真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-2c9bd4be63f856b6c329a3096a97465cacafc1c483b20c5f9639245d68fab864.png"
+      },
+      {
+        "src": "./assets/models/luffy-snakeman-200mm-205571/gallery-04.png",
+        "alt": "路飞蛇人形态200毫米胸像完整套件｜Luffy Snakeman 200 mm Bust Complete Kit真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-0f133e65a9294f1574032ea9a18eb64f857e01a4de73b509d9aaab900ee9b8ae.png"
+      },
+      {
+        "src": "./assets/models/luffy-snakeman-200mm-205571/gallery-05.png",
+        "alt": "路飞蛇人形态200毫米胸像完整套件｜Luffy Snakeman 200 mm Bust Complete Kit真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-a2a9c380fd239cb680b98a49726ca32ca9420670204f60d664bd243da20a9afa.png"
+      },
+      {
+        "src": "./assets/models/luffy-snakeman-200mm-205571/gallery-06.png",
+        "alt": "路飞蛇人形态200毫米胸像完整套件｜Luffy Snakeman 200 mm Bust Complete Kit真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-fb7c5a84b67fccfc28df1eb220658ca127a462a4377b6fc213e8072b0dc18458.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-0a1467134cc15f2224d52b0f052a3e775cdcfc942600b9d3f0ac12131c5abff6.png"
+  },
+  {
     "id": "ouart-daily-six-20261114:model-1113876384894566-cdec20",
     "publicationId": "ouart-daily-six-20261114:model-1113876384894566-cdec20",
     "inventoryId": "model-1113876384894566-cdec20",

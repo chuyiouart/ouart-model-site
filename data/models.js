@@ -1,5 +1,110 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261116:thex-bases-f84dfd",
+    "publicationId": "ouart-daily-six-20261116:thex-bases-f84dfd",
+    "inventoryId": "thex-bases-f84dfd",
+    "name": "THex三角纹理圆形地台15款完整套装｜THex Triangular-Pattern Round Bases — Complete 15-Variant Set",
+    "date": "2026-11-16",
+    "displayDate": "2026.11.16",
+    "format": "STL",
+    "fileCount": 15,
+    "size": "3.19 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/thex-bases-f84dfd/thex-bases-f84dfd-主图@初艺ouart.png",
+    "description": "完整包是一套用于桌游微缩模型或展示模型的THex圆形地台，共含25mm、32mm、40mm三种尺寸，每种提供001至005五种三角几何纹理构图，总计15个自包含STL。每个STL都是完整地台，三种尺寸与五种纹理属于同一系列变体并应在同一次发布中全部保留；所选40mm 002仅作为代表展示版本，不是完整包的全部内容。",
+    "intro": "2026.11.16 OUART 每日模型合集成员；本期共1件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1W2v9WDJc44JccegNdVFLxQ",
+    "shareCode": "65d4",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261116",
+    "nameZh": "THex三角纹理圆形地台15款完整套装",
+    "nameEn": "THex Triangular-Pattern Round Bases — Complete 15-Variant Set",
+    "displayName": "THex三角纹理圆形地台15款完整套装｜THex Triangular-Pattern Round Bases — Complete 15-Variant Set",
+    "category": "桌游微缩模型地台套装",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "THex三角纹理圆形地台15款完整套装｜THex Triangular-Pattern Round Bases — Complete 15-Variant SetAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包是一套用于桌游微缩模型或展示模型的THex圆形地台，共含25mm、32mm、40mm三种尺寸，每种提供001至005五种三角几何纹理构图，总计15个自包含STL。每个STL都是完整地台，三种尺寸与五种纹理属于同一系列变体并应在同一次发布中全部保留；所选40mm 002仅作为代表展示版本，不是完整包的全部内容。",
+          "该模型归入“桌游微缩模型地台套装”，作为本期单件模型独立展示。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 15 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/thex-bases-f84dfd/gallery-02.png",
+        "alt": "THex三角纹理圆形地台15款完整套装｜THex Triangular-Pattern Round Bases — Complete 15-Variant Set真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-acc2f7260679e8b4b79ce1bd5df6fe6ab65fcb8cb88f8d8d5ea260fbbbc070a5.png"
+      },
+      {
+        "src": "./assets/models/thex-bases-f84dfd/gallery-03.png",
+        "alt": "THex三角纹理圆形地台15款完整套装｜THex Triangular-Pattern Round Bases — Complete 15-Variant Set真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-32e7e7173913887e4351e8afcd999cbf7e926b2d3ca88e57bf42726c6f841318.png"
+      },
+      {
+        "src": "./assets/models/thex-bases-f84dfd/gallery-04.png",
+        "alt": "THex三角纹理圆形地台15款完整套装｜THex Triangular-Pattern Round Bases — Complete 15-Variant Set真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-febcf6da94eee0f72755cad1396f33e37fecae6861cc19217ddaafa858495797.png"
+      },
+      {
+        "src": "./assets/models/thex-bases-f84dfd/gallery-05.png",
+        "alt": "THex三角纹理圆形地台15款完整套装｜THex Triangular-Pattern Round Bases — Complete 15-Variant Set真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-7b67f166eeea8649449043a5799ee43391bbf8e443a28cf854b36c1c1d1f7735.png"
+      },
+      {
+        "src": "./assets/models/thex-bases-f84dfd/gallery-06.png",
+        "alt": "THex三角纹理圆形地台15款完整套装｜THex Triangular-Pattern Round Bases — Complete 15-Variant Set真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-5025cc4c2eabd5ef4d2c19b824607004559c0da4eb9fc9f59faee3038085680c.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-fd98394453d13b00107b0d999a7a6075c522a232c965ff1ec1722bb34f774684.png"
+  },
+  {
     "id": "ouart-daily-six-20261115:luffy-snakeman-200mm-205571",
     "publicationId": "ouart-daily-six-20261115:luffy-snakeman-200mm-205571",
     "inventoryId": "luffy-snakeman-200mm-205571",

@@ -1,5 +1,320 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261117:bases-3e3f99",
+    "publicationId": "ouart-daily-six-20261117:bases-3e3f99",
+    "inventoryId": "bases-3e3f99",
+    "name": "25毫米圆形微缩底座六款完整套装｜25 mm Round Miniature Bases Complete Six-Variant Set",
+    "date": "2026-11-17",
+    "displayDate": "2026.11.17",
+    "format": "STL",
+    "fileCount": 6,
+    "size": "22.06 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/bases-3e3f99/bases-3e3f99-主图@初艺ouart.png",
+    "description": "完整包提供六款同规格 25 毫米圆形微缩模型底座：砖纹、光面、裂纹、裂纹仿石、仿石与圆桌纹。每款都是可独立承托微缩模型的完整、自包含底座版本，包含圆形展示面、边缘和背面结构，不是支撑件、人物残片或必须相互拼接的零件；六款作为一个表面造型选择套装在同一次发布中完整保留。",
+    "intro": "2026.11.17 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/114BEbd2UXAvyng1an7lhPw",
+    "shareCode": "0bcc",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261117",
+    "nameZh": "25毫米圆形微缩底座六款完整套装",
+    "nameEn": "25 mm Round Miniature Bases Complete Six-Variant Set",
+    "displayName": "25毫米圆形微缩底座六款完整套装｜25 mm Round Miniature Bases Complete Six-Variant Set",
+    "category": "微缩模型配件 / 25毫米圆形底座",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "25毫米圆形微缩底座六款完整套装｜25 mm Round Miniature Bases Complete Six-Variant SetAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包提供六款同规格 25 毫米圆形微缩模型底座：砖纹、光面、裂纹、裂纹仿石、仿石与圆桌纹。每款都是可独立承托微缩模型的完整、自包含底座版本，包含圆形展示面、边缘和背面结构，不是支撑件、人物残片或必须相互拼接的零件；六款作为一个表面造型选择套装在同一次发布中完整保留。",
+          "该模型归入“微缩模型配件 / 25毫米圆形底座”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 6 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/bases-3e3f99/gallery-01.png",
+        "alt": "25毫米圆形微缩底座六款完整套装｜25 mm Round Miniature Bases Complete Six-Variant Set真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-86eb2e009ae4385372348ab7f1af29186ed805df223b9af44b6af91417ba4096.png"
+      },
+      {
+        "src": "./assets/models/bases-3e3f99/gallery-02.png",
+        "alt": "25毫米圆形微缩底座六款完整套装｜25 mm Round Miniature Bases Complete Six-Variant Set真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-b89864b74e967edd597cd2d9e7c91bbe887618fd8efad2546f5c6ba8c803d1b2.png"
+      },
+      {
+        "src": "./assets/models/bases-3e3f99/gallery-03.png",
+        "alt": "25毫米圆形微缩底座六款完整套装｜25 mm Round Miniature Bases Complete Six-Variant Set真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-5ff225938dfc78e2dea83b639620ee97ca44c7ab7cb130a32b9190f10748bc4e.png"
+      },
+      {
+        "src": "./assets/models/bases-3e3f99/gallery-04.png",
+        "alt": "25毫米圆形微缩底座六款完整套装｜25 mm Round Miniature Bases Complete Six-Variant Set真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-ad246f2131aca2d49364e52cbc21cc5646167fca022d301a8d4ef2c9e22587fe.png"
+      },
+      {
+        "src": "./assets/models/bases-3e3f99/gallery-05.png",
+        "alt": "25毫米圆形微缩底座六款完整套装｜25 mm Round Miniature Bases Complete Six-Variant Set真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-922ca305a8ce917839d8ef67973136ba72db1e643ba9bed7ae34b35ccad566a8.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-389518cac5b584a94f7bd71a74f637dca2cd6576a939b4003778048696ecdde4.png"
+  },
+  {
+    "id": "ouart-daily-six-20261117:files-fb84ae",
+    "publicationId": "ouart-daily-six-20261117:files-fb84ae",
+    "inventoryId": "files-fb84ae",
+    "name": "中空字母Q｜Hollow Letter Q",
+    "date": "2026-11-17",
+    "displayDate": "2026.11.17",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "2.25 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/files-fb84ae/files-fb84ae-主图@初艺ouart.png",
+    "description": "完整包包含一个可独立展示和打印的一体式中空字母 Q STL；无分件、底座、支架或其他变体需要补充。",
+    "intro": "2026.11.17 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1T3Wkc8Euc22Gc-WoD2W3AA",
+    "shareCode": "776a",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261117",
+    "nameZh": "中空字母Q",
+    "nameEn": "Hollow Letter Q",
+    "displayName": "中空字母Q｜Hollow Letter Q",
+    "category": "字母模型",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "中空字母Q｜Hollow Letter QAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包包含一个可独立展示和打印的一体式中空字母 Q STL；无分件、底座、支架或其他变体需要补充。",
+          "该模型归入“字母模型”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/files-fb84ae/gallery-01.png",
+        "alt": "中空字母Q｜Hollow Letter Q真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-061505565ee3f91888d55ae255c700681587d734e0f775b566c0892e6c11e6ec.png"
+      },
+      {
+        "src": "./assets/models/files-fb84ae/gallery-02.png",
+        "alt": "中空字母Q｜Hollow Letter Q真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-0a9850c03413c1ccd14398c142bdd3f93c5b22e911589eb4f57ea4752fdf966b.png"
+      },
+      {
+        "src": "./assets/models/files-fb84ae/gallery-03.png",
+        "alt": "中空字母Q｜Hollow Letter Q真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-af060230cf988777b1a33f567b2ef53ff51ed601ba2513002f04ab945cd2741e.png"
+      },
+      {
+        "src": "./assets/models/files-fb84ae/gallery-04.png",
+        "alt": "中空字母Q｜Hollow Letter Q真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-15f47988044e1a96d14329423763073102d9842afd44c5dd50959901816f114b.png"
+      },
+      {
+        "src": "./assets/models/files-fb84ae/gallery-05.png",
+        "alt": "中空字母Q｜Hollow Letter Q真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-b3caf960739375a81d6629be8b56f59e775f646bab03b8c52e4cb56c88f9efe5.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-89eecb1d1740d9542f9a9cc9ea4cd085e425a10cc313df06dc60d732a8cf1638.png"
+  },
+  {
+    "id": "ouart-daily-six-20261117:goku-ssj4tp-v1-c23f00",
+    "publicationId": "ouart-daily-six-20261117:goku-ssj4tp-v1-c23f00",
+    "inventoryId": "goku-ssj4tp-v1-c23f00",
+    "name": "超级赛亚人4孙悟空全身立像｜Super Saiyan 4 Son Goku Full Figure Statue",
+    "date": "2026-11-17",
+    "displayDate": "2026.11.17",
+    "format": "STL",
+    "fileCount": 12,
+    "size": "349.14 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/goku-ssj4tp-v1-c23f00/goku-ssj4tp-v1-c23f00-主图@初艺ouart.png",
+    "description": "完整分件版超级赛亚人4孙悟空全身立像套件，包含头部、躯干、双臂、裤装、双脚、尾巴、腰带飘带、披风/背部衣片、附属包件及配套椭圆底座，共12个实际STL分件。",
+    "intro": "2026.11.17 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1Pa5vE_cRqgAfYBfV1haEOA",
+    "shareCode": "4c1f",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261117",
+    "nameZh": "超级赛亚人4孙悟空全身立像",
+    "nameEn": "Super Saiyan 4 Son Goku Full Figure Statue",
+    "displayName": "超级赛亚人4孙悟空全身立像｜Super Saiyan 4 Son Goku Full Figure Statue",
+    "category": "动漫人物",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "超级赛亚人4孙悟空全身立像｜Super Saiyan 4 Son Goku Full Figure StatueAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整分件版超级赛亚人4孙悟空全身立像套件，包含头部、躯干、双臂、裤装、双脚、尾巴、腰带飘带、披风/背部衣片、附属包件及配套椭圆底座，共12个实际STL分件。",
+          "该模型归入“动漫人物”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 12 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/goku-ssj4tp-v1-c23f00/gallery-02.png",
+        "alt": "超级赛亚人4孙悟空全身立像｜Super Saiyan 4 Son Goku Full Figure Statue真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-421c77129753a35a9fa5de57a6209b134139478d10bb64e10138b94cbaa4a1aa.png"
+      },
+      {
+        "src": "./assets/models/goku-ssj4tp-v1-c23f00/gallery-03.png",
+        "alt": "超级赛亚人4孙悟空全身立像｜Super Saiyan 4 Son Goku Full Figure Statue真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-ce346efdf6dd3196a49d4147b6fdab6461eea5fee22310b7df7992785569c5d6.png"
+      },
+      {
+        "src": "./assets/models/goku-ssj4tp-v1-c23f00/gallery-04.png",
+        "alt": "超级赛亚人4孙悟空全身立像｜Super Saiyan 4 Son Goku Full Figure Statue真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-20c43d32b181f9ffac3a8f95fd5fdf021b82b4883580bd50e78bc5e7d13fc748.png"
+      },
+      {
+        "src": "./assets/models/goku-ssj4tp-v1-c23f00/gallery-05.png",
+        "alt": "超级赛亚人4孙悟空全身立像｜Super Saiyan 4 Son Goku Full Figure Statue真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-d8f62290df28b5fd93fe1c14c7dd3c09260cefbb78a501897a427ad0c582c660.png"
+      },
+      {
+        "src": "./assets/models/goku-ssj4tp-v1-c23f00/gallery-06.png",
+        "alt": "超级赛亚人4孙悟空全身立像｜Super Saiyan 4 Son Goku Full Figure Statue真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-71ed77699414cc59c7d9d0f0952eae93cde26cfe1f292b64f41f9668a1587a27.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-aa62b0d00bfc825ebd93487499469e1a7e00c0589d60ebc503a0b48d78eedcfd.png"
+  },
+  {
     "id": "ouart-daily-six-20261116:thex-bases-f84dfd",
     "publicationId": "ouart-daily-six-20261116:thex-bases-f84dfd",
     "inventoryId": "thex-bases-f84dfd",

@@ -1,5 +1,215 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261118:llantas-stl-dcaaf7",
+    "publicationId": "ouart-daily-six-20261118:llantas-stl-dcaaf7",
+    "inventoryId": "llantas-stl-dcaaf7",
+    "name": "IDK风格汽车轮毂｜IDK-Style Automotive Wheel Rim",
+    "date": "2026-11-18",
+    "displayDate": "2026.11.18",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "0.25 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/llantas-stl-dcaaf7/llantas-stl-dcaaf7-主图@初艺ouart.png",
+    "description": "完整单件汽车轮毂模型包，包含一体成型的轮辋筒体、辐条式轮面、中心轮毂与安装孔，可用于汽车模型改装、比例场景展示或作为轮毂打印件；包内没有需要另行装配的底座、支架或变体。",
+    "intro": "2026.11.18 OUART 每日模型合集成员；本期共2件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1k40sXuKyBE4wrYjSGkCETg",
+    "shareCode": "8c3a",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261118",
+    "nameZh": "IDK风格汽车轮毂",
+    "nameEn": "IDK-Style Automotive Wheel Rim",
+    "displayName": "IDK风格汽车轮毂｜IDK-Style Automotive Wheel Rim",
+    "category": "汽车配件",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "IDK风格汽车轮毂｜IDK-Style Automotive Wheel RimAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整单件汽车轮毂模型包，包含一体成型的轮辋筒体、辐条式轮面、中心轮毂与安装孔，可用于汽车模型改装、比例场景展示或作为轮毂打印件；包内没有需要另行装配的底座、支架或变体。",
+          "该模型归入“汽车配件”，与同批其他1件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/llantas-stl-dcaaf7/gallery-01.png",
+        "alt": "IDK风格汽车轮毂｜IDK-Style Automotive Wheel Rim真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-da8b3689d9910552462cc52bef03b760e32eadafc1873bb09730460c7625c8b5.png"
+      },
+      {
+        "src": "./assets/models/llantas-stl-dcaaf7/gallery-02.png",
+        "alt": "IDK风格汽车轮毂｜IDK-Style Automotive Wheel Rim真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-c6186dde10e4bf543790c276788965cc085c3bb16ab2a1ab21dc3bfbaa5dddd1.png"
+      },
+      {
+        "src": "./assets/models/llantas-stl-dcaaf7/gallery-03.png",
+        "alt": "IDK风格汽车轮毂｜IDK-Style Automotive Wheel Rim真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-8e18149b28e4e63008e30c5ca1f80c5975bbe73af50d6e29205d291ceee609ab.png"
+      },
+      {
+        "src": "./assets/models/llantas-stl-dcaaf7/gallery-04.png",
+        "alt": "IDK风格汽车轮毂｜IDK-Style Automotive Wheel Rim真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-8b15e7c5b86281658cefbf03d505308183c20e5d94e6ddc68ac3f5e53212aac9.png"
+      },
+      {
+        "src": "./assets/models/llantas-stl-dcaaf7/gallery-05.png",
+        "alt": "IDK风格汽车轮毂｜IDK-Style Automotive Wheel Rim真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-10576c161135a9682340cdf41abb471ad8d2ad79bd24ecacdf9498dfb5784e86.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-d5f08ee48636c099c8320f8bb1aed1993b79360cc982887ea115ba8a4c5244d8.png"
+  },
+  {
+    "id": "ouart-daily-six-20261118:model-521264579867623-b0e3fc",
+    "publicationId": "ouart-daily-six-20261118:model-521264579867623-b0e3fc",
+    "inventoryId": "model-521264579867623-b0e3fc",
+    "name": "幽灵腊肠犬全身雕像｜Ghost Sausage Dog Full-Figure Statue",
+    "date": "2026-11-18",
+    "displayDate": "2026.11.18",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "5.80 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-521264579867623-b0e3fc/model-521264579867623-b0e3fc-主图@初艺ouart.png",
+    "description": "完整包是一件幽灵腊肠犬全身雕像，单个实际 STL 已合并包含犬头、长躯干、上翘尾部、双眼及向下展开并可自行落地的幽灵布褶；它不是胸像，也不需要独立底座或支架。随包原图索引 0 精确对应同一作品。父目录中的另外两只幽灵犬和合集 PDF 不属于本候选，本包也没有受支撑版、拆分版或其他变体需要另行归组。",
+    "intro": "2026.11.18 OUART 每日模型合集成员；本期共2件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1x4UPdCSHnkSE9JkRSRN1MQ",
+    "shareCode": "d7fb",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261118",
+    "nameZh": "幽灵腊肠犬全身雕像",
+    "nameEn": "Ghost Sausage Dog Full-Figure Statue",
+    "displayName": "幽灵腊肠犬全身雕像｜Ghost Sausage Dog Full-Figure Statue",
+    "category": "万圣节动物全身雕像",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "幽灵腊肠犬全身雕像｜Ghost Sausage Dog Full-Figure StatueAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包是一件幽灵腊肠犬全身雕像，单个实际 STL 已合并包含犬头、长躯干、上翘尾部、双眼及向下展开并可自行落地的幽灵布褶；它不是胸像，也不需要独立底座或支架。随包原图索引 0 精确对应同一作品。父目录中的另外两只幽灵犬和合集 PDF 不属于本候选，本包也没有受支撑版、拆分版或其他变体需要另行归组。",
+          "该模型归入“万圣节动物全身雕像”，与同批其他1件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-521264579867623-b0e3fc/gallery-02.png",
+        "alt": "幽灵腊肠犬全身雕像｜Ghost Sausage Dog Full-Figure Statue真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-3df0fe521943a78c11331c7403465930940735a88b50a90b07abf5a04b7ef072.png"
+      },
+      {
+        "src": "./assets/models/model-521264579867623-b0e3fc/gallery-03.png",
+        "alt": "幽灵腊肠犬全身雕像｜Ghost Sausage Dog Full-Figure Statue真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-5f7cd8eac2b6e93ad8169fd1afa2ebfc3fdfe62e5329a2a5a32ff5365349741f.png"
+      },
+      {
+        "src": "./assets/models/model-521264579867623-b0e3fc/gallery-04.png",
+        "alt": "幽灵腊肠犬全身雕像｜Ghost Sausage Dog Full-Figure Statue真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-be56ba32f742dbd58253f9c648ed5489048e64a9fbdcc30a4ff85950fb35f68f.png"
+      },
+      {
+        "src": "./assets/models/model-521264579867623-b0e3fc/gallery-05.png",
+        "alt": "幽灵腊肠犬全身雕像｜Ghost Sausage Dog Full-Figure Statue真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-f313f64307a3ca8baa285031cab395dbfd8ce36cb7c0a7f7e02290a5cf086c8f.png"
+      },
+      {
+        "src": "./assets/models/model-521264579867623-b0e3fc/gallery-06.png",
+        "alt": "幽灵腊肠犬全身雕像｜Ghost Sausage Dog Full-Figure Statue真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-9c420b69735a85e732b9d7e31e159fe5e209f38262f119b1edfc5f0cd7408295.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-cdfcea859fdeeeffb33211e237de46f7343a977faf60fef4bf504ab93c8815cd.png"
+  },
+  {
     "id": "ouart-daily-six-20261117:bases-3e3f99",
     "publicationId": "ouart-daily-six-20261117:bases-3e3f99",
     "inventoryId": "bases-3e3f99",

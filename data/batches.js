@@ -1,6 +1,25 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20261118",
+    "date": "2026-11-18",
+    "displayDate": "2026.11.18",
+    "title": "2026.11.18｜OUART 今日2件",
+    "description": "本期共2件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-11-18/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-11-18 2模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20261118:llantas-stl-dcaaf7",
+      "ouart-daily-six-20261118:model-521264579867623-b0e3fc"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1oWXkPEJ6x1WqpUE7qvjrrg",
+    "shareCode": "fa7d",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-11-18T10:30:09+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20261117",
     "date": "2026-11-17",
     "displayDate": "2026.11.17",

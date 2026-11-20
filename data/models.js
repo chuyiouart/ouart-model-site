@@ -1,5 +1,110 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261119:llantas-stl-550357",
+    "publicationId": "ouart-daily-six-20261119:llantas-stl-550357",
+    "inventoryId": "llantas-stl-550357",
+    "name": "HRE C103 多辐汽车轮毂｜HRE C103 Multi-Spoke Car Wheel Rim",
+    "date": "2026-11-19",
+    "displayDate": "2026.11.19",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "0.26 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/llantas-stl-550357/llantas-stl-550357-主图@初艺ouart.png",
+    "description": "完整包包含一件 HRE C103 多辐汽车轮毂 STL；轮辋筒体、辐条、中心盘与螺栓孔已合并在同一实际网格中，无需另配底座、支架或其他装配零件。父目录中的其他轮毂款式不属于本包，本包也不包含轮胎、制动系统或整车模型。",
+    "intro": "2026.11.19 OUART 每日模型合集成员；本期共1件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1Tjrl0-_Jjt32iHaEaZjtbA",
+    "shareCode": "35d4",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261119",
+    "nameZh": "HRE C103 多辐汽车轮毂",
+    "nameEn": "HRE C103 Multi-Spoke Car Wheel Rim",
+    "displayName": "HRE C103 多辐汽车轮毂｜HRE C103 Multi-Spoke Car Wheel Rim",
+    "category": "汽车零部件模型",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "HRE C103 多辐汽车轮毂｜HRE C103 Multi-Spoke Car Wheel RimAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包包含一件 HRE C103 多辐汽车轮毂 STL；轮辋筒体、辐条、中心盘与螺栓孔已合并在同一实际网格中，无需另配底座、支架或其他装配零件。父目录中的其他轮毂款式不属于本包，本包也不包含轮胎、制动系统或整车模型。",
+          "该模型归入“汽车零部件模型”，作为本期单件模型独立展示。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/llantas-stl-550357/gallery-01.png",
+        "alt": "HRE C103 多辐汽车轮毂｜HRE C103 Multi-Spoke Car Wheel Rim真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-d7c6c9366307db7171bfa350f164b43e258e886ea245bf4063f223d3f61a5539.png"
+      },
+      {
+        "src": "./assets/models/llantas-stl-550357/gallery-02.png",
+        "alt": "HRE C103 多辐汽车轮毂｜HRE C103 Multi-Spoke Car Wheel Rim真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-69eab59e5fe5158ec24bb57c109475d18ad861a2aabd7380b725091a7ec2d567.png"
+      },
+      {
+        "src": "./assets/models/llantas-stl-550357/gallery-03.png",
+        "alt": "HRE C103 多辐汽车轮毂｜HRE C103 Multi-Spoke Car Wheel Rim真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-37da93705180ffefc994193ba983d19a6af4fd50bf7513a7b7dee0dcd75a9501.png"
+      },
+      {
+        "src": "./assets/models/llantas-stl-550357/gallery-04.png",
+        "alt": "HRE C103 多辐汽车轮毂｜HRE C103 Multi-Spoke Car Wheel Rim真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-bbdf7ed979e93a60d89d498934c07b69a74154b159bf6b2cd3a4865f7df67860.png"
+      },
+      {
+        "src": "./assets/models/llantas-stl-550357/gallery-05.png",
+        "alt": "HRE C103 多辐汽车轮毂｜HRE C103 Multi-Spoke Car Wheel Rim真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-5dec5ab24e68f78a1dca75c740976e35605d04f4b5beb0950ea0a891cb0ebdc3.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-f84526c42524c037207c2dfb222668fd562be24c116a9ca9bce09769ccf6b25d.png"
+  },
+  {
     "id": "ouart-daily-six-20261118:llantas-stl-dcaaf7",
     "publicationId": "ouart-daily-six-20261118:llantas-stl-dcaaf7",
     "inventoryId": "llantas-stl-dcaaf7",

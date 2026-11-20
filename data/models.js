@@ -1,5 +1,110 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261120:angel-deco-right-stls-c246d7",
+    "publicationId": "ouart-daily-six-20261120:angel-deco-right-stls-c246d7",
+    "inventoryId": "angel-deco-right-stls-c246d7",
+    "name": "门框右侧天使浮雕装饰｜Right-Side Door Frame Angel Relief Ornament",
+    "date": "2026-11-20",
+    "displayDate": "2026.11.20",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "96.97 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/angel-deco-right-stls-c246d7/angel-deco-right-stls-c246d7-主图@初艺ouart.png",
+    "description": "完整包是一件用于门框右侧或墙面安装的整体式天使浮雕 STL，包含完整女性天使、头发与双臂、长裙下摆和成对羽翼；模型本身是无需另配底座或支架的自成整体浅浮雕。包内没有拆分件、支撑版或其他作品，现有唯一 STL 即为代表展示版本。",
+    "intro": "2026.11.20 OUART 每日模型合集成员；本期共1件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1IPsJZHDO72elDlvsKyT7ZA",
+    "shareCode": "164b",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261120",
+    "nameZh": "门框右侧天使浮雕装饰",
+    "nameEn": "Right-Side Door Frame Angel Relief Ornament",
+    "displayName": "门框右侧天使浮雕装饰｜Right-Side Door Frame Angel Relief Ornament",
+    "category": "建筑装饰天使浮雕",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "门框右侧天使浮雕装饰｜Right-Side Door Frame Angel Relief OrnamentAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包是一件用于门框右侧或墙面安装的整体式天使浮雕 STL，包含完整女性天使、头发与双臂、长裙下摆和成对羽翼；模型本身是无需另配底座或支架的自成整体浅浮雕。包内没有拆分件、支撑版或其他作品，现有唯一 STL 即为代表展示版本。",
+          "该模型归入“建筑装饰天使浮雕”，作为本期单件模型独立展示。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/angel-deco-right-stls-c246d7/gallery-02.png",
+        "alt": "门框右侧天使浮雕装饰｜Right-Side Door Frame Angel Relief Ornament真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-42e4716c97b6d9b4c4da7464524a0220204e59b13d228fd71226991ae64d73b9.png"
+      },
+      {
+        "src": "./assets/models/angel-deco-right-stls-c246d7/gallery-03.png",
+        "alt": "门框右侧天使浮雕装饰｜Right-Side Door Frame Angel Relief Ornament真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-a551860fa8c6bf15935b3ab8b86b0b1eda5358bba52cb23abe505a9c40804984.png"
+      },
+      {
+        "src": "./assets/models/angel-deco-right-stls-c246d7/gallery-04.png",
+        "alt": "门框右侧天使浮雕装饰｜Right-Side Door Frame Angel Relief Ornament真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-80d1da43ed2eed4e1a300a778c934cb176265d9461a437a8d490b60b88ea0e68.png"
+      },
+      {
+        "src": "./assets/models/angel-deco-right-stls-c246d7/gallery-05.png",
+        "alt": "门框右侧天使浮雕装饰｜Right-Side Door Frame Angel Relief Ornament真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-6f1934c486b1177e3822c3fe4ca345bc5d3c1c1521f82f658aef4c50e1135460.png"
+      },
+      {
+        "src": "./assets/models/angel-deco-right-stls-c246d7/gallery-06.png",
+        "alt": "门框右侧天使浮雕装饰｜Right-Side Door Frame Angel Relief Ornament真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-1c78253d8e715145bf7240da17394030b717323f57a0da9ca6430924b14111b9.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-a4aea5c7773c0288306130b0663d88ce776055e62e63cc553902daa87e17878b.png"
+  },
+  {
     "id": "ouart-daily-six-20261119:llantas-stl-550357",
     "publicationId": "ouart-daily-six-20261119:llantas-stl-550357",
     "inventoryId": "llantas-stl-550357",

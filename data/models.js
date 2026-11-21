@@ -1,5 +1,320 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261121:marvel-thorbuster-helmet-yosh-studios-256070",
+    "publicationId": "ouart-daily-six-20261121:marvel-thorbuster-helmet-yosh-studios-256070",
+    "inventoryId": "marvel-thorbuster-helmet-yosh-studios-256070",
+    "name": "漫威雷神破坏者磁吸头盔完整套件｜Marvel ThorBuster Magnetic Helmet Complete Package",
+    "date": "2026-11-21",
+    "displayDate": "2026.11.21",
+    "format": "STL",
+    "fileCount": 3,
+    "size": "62.02 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/marvel-thorbuster-helmet-yosh-studios-256070/marvel-thorbuster-helmet-yosh-studios-256070-主图@初艺ouart.png",
+    "description": "完整包是一件漫威雷神破坏者风格的可穿戴磁吸头盔，包含头盔主体外壳、额前磁吸装甲件和完整磁吸面罩三份实际STL；三者在原生共同坐标中组成同一顶完整头盔，均属于同一日发行，不是三件独立作品。原作展示未使用底座或支架，实际完整头盔也不需要另加底座才能成立。",
+    "intro": "2026.11.21 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1zFpUd8zXHUKuTCLTTzz_vg",
+    "shareCode": "6408",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261121",
+    "nameZh": "漫威雷神破坏者磁吸头盔完整套件",
+    "nameEn": "Marvel ThorBuster Magnetic Helmet Complete Package",
+    "displayName": "漫威雷神破坏者磁吸头盔完整套件｜Marvel ThorBuster Magnetic Helmet Complete Package",
+    "category": "影视角色可穿戴头盔道具",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "漫威雷神破坏者磁吸头盔完整套件｜Marvel ThorBuster Magnetic Helmet Complete PackageAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包是一件漫威雷神破坏者风格的可穿戴磁吸头盔，包含头盔主体外壳、额前磁吸装甲件和完整磁吸面罩三份实际STL；三者在原生共同坐标中组成同一顶完整头盔，均属于同一日发行，不是三件独立作品。原作展示未使用底座或支架，实际完整头盔也不需要另加底座才能成立。",
+          "该模型归入“影视角色可穿戴头盔道具”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 3 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/marvel-thorbuster-helmet-yosh-studios-256070/gallery-02.png",
+        "alt": "漫威雷神破坏者磁吸头盔完整套件｜Marvel ThorBuster Magnetic Helmet Complete Package真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-735eca4c2252b44351a885e3f7ba99f978fd365b4648a4ba3e268f70be2d8f6f.png"
+      },
+      {
+        "src": "./assets/models/marvel-thorbuster-helmet-yosh-studios-256070/gallery-03.png",
+        "alt": "漫威雷神破坏者磁吸头盔完整套件｜Marvel ThorBuster Magnetic Helmet Complete Package真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-a618d264bd35dc811dcb02b4ef4efb2b3e6c4b43298a820049ca18d417b066e0.png"
+      },
+      {
+        "src": "./assets/models/marvel-thorbuster-helmet-yosh-studios-256070/gallery-04.png",
+        "alt": "漫威雷神破坏者磁吸头盔完整套件｜Marvel ThorBuster Magnetic Helmet Complete Package真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-024d2d8421fd97753f94e471dbd24f0cb112abd1bb5ca18ca71f07d8af869a6a.png"
+      },
+      {
+        "src": "./assets/models/marvel-thorbuster-helmet-yosh-studios-256070/gallery-05.png",
+        "alt": "漫威雷神破坏者磁吸头盔完整套件｜Marvel ThorBuster Magnetic Helmet Complete Package真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-c1642fd7bf736dc5f5fcbe4280edbd4cd3360762807ecf92aab35fe0a59c40f2.png"
+      },
+      {
+        "src": "./assets/models/marvel-thorbuster-helmet-yosh-studios-256070/gallery-06.png",
+        "alt": "漫威雷神破坏者磁吸头盔完整套件｜Marvel ThorBuster Magnetic Helmet Complete Package真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-a7ad55fe0fdc7877af57a6a486ecfdd7614c57dec1cfa727b588d861e378d09f.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-2bc866a8236ae5c993a614bcd4b23d90f60d8a2a0573470fad2d9de68e71412c.png"
+  },
+  {
+    "id": "ouart-daily-six-20261121:aquarius-256595",
+    "publicationId": "ouart-daily-six-20261121:aquarius-256595",
+    "inventoryId": "aquarius-256595",
+    "name": "水瓶座幻想雕像｜Aquarius Fantasy Figure",
+    "date": "2026-11-21",
+    "displayDate": "2026.11.21",
+    "format": "STL",
+    "fileCount": 4,
+    "size": "150.44 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/aquarius-256595/aquarius-256595-主图@初艺ouart.png",
+    "description": "完整的水瓶座幻想人物雕像四件套，包含人物主体、专用圆形底座及左右两件水瓶流水连接构件；四个STL在原生公共坐标中组成同一件全身展示作品，均应保留在同一发布包内。",
+    "intro": "2026.11.21 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/11z-G4lVb4ThjLuVBkz8ydg",
+    "shareCode": "5d5d",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261121",
+    "nameZh": "水瓶座幻想雕像",
+    "nameEn": "Aquarius Fantasy Figure",
+    "displayName": "水瓶座幻想雕像｜Aquarius Fantasy Figure",
+    "category": "星座幻想人物雕像",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "水瓶座幻想雕像｜Aquarius Fantasy FigureAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整的水瓶座幻想人物雕像四件套，包含人物主体、专用圆形底座及左右两件水瓶流水连接构件；四个STL在原生公共坐标中组成同一件全身展示作品，均应保留在同一发布包内。",
+          "该模型归入“星座幻想人物雕像”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 4 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/aquarius-256595/gallery-01.png",
+        "alt": "水瓶座幻想雕像｜Aquarius Fantasy Figure真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-f786096f17d65252bb4f7adb724f201846cb20b969b3c6e0d8a2bdc953b0252b.png"
+      },
+      {
+        "src": "./assets/models/aquarius-256595/gallery-02.png",
+        "alt": "水瓶座幻想雕像｜Aquarius Fantasy Figure真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-f619a19e9e1d12a140dcd38d3b3b4c7d3cf8add65d419d295af208bf5c71b705.png"
+      },
+      {
+        "src": "./assets/models/aquarius-256595/gallery-03.png",
+        "alt": "水瓶座幻想雕像｜Aquarius Fantasy Figure真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-3769c9a409484c7de8bbbe4c652bc9f325c03e8df2fbfeb1e987770d570a742e.png"
+      },
+      {
+        "src": "./assets/models/aquarius-256595/gallery-04.png",
+        "alt": "水瓶座幻想雕像｜Aquarius Fantasy Figure真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-e874b1a31a25a53496e411e4c928f7815be948ee6d77820eddfcf9dd6259943f.png"
+      },
+      {
+        "src": "./assets/models/aquarius-256595/gallery-05.png",
+        "alt": "水瓶座幻想雕像｜Aquarius Fantasy Figure真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-cb837d1c9ab96946617537d34ff5edb6dede1249e9813ed4b70f08185abb0194.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-cb909888954024c1b59ea356edacff7b5f1b904564677510f5e04e30559cc6ff.png"
+  },
+  {
+    "id": "ouart-daily-six-20261121:model-18479142648065-b34c32",
+    "publicationId": "ouart-daily-six-20261121:model-18479142648065-b34c32",
+    "inventoryId": "model-18479142648065-b34c32",
+    "name": "古典少女胸像（带一体式圆形底座）｜Classical Young Woman Bust with Integrated Round Base",
+    "date": "2026-11-21",
+    "displayDate": "2026.11.21",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "47.97 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-18479142648065-b34c32/model-18479142648065-b34c32-主图@初艺ouart.png",
+    "description": "完整包是一件古典少女肖像胸像，包含头部、盘发、颈肩、衣褶胸身以及与胸像合并为同一实际网格的一体式圆形展示底座；候选同时保留同作品的STL与OBJ格式文件，应作为同一日的一件完整作品发布，而不是把格式版本、胸像或底座拆分成不同作品。",
+    "intro": "2026.11.21 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1qpV05_ddLuACaK7GktJBPg",
+    "shareCode": "5eef",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261121",
+    "nameZh": "古典少女胸像（带一体式圆形底座）",
+    "nameEn": "Classical Young Woman Bust with Integrated Round Base",
+    "displayName": "古典少女胸像（带一体式圆形底座）｜Classical Young Woman Bust with Integrated Round Base",
+    "category": "古典女性人物胸像",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "古典少女胸像（带一体式圆形底座）｜Classical Young Woman Bust with Integrated Round BaseAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包是一件古典少女肖像胸像，包含头部、盘发、颈肩、衣褶胸身以及与胸像合并为同一实际网格的一体式圆形展示底座；候选同时保留同作品的STL与OBJ格式文件，应作为同一日的一件完整作品发布，而不是把格式版本、胸像或底座拆分成不同作品。",
+          "该模型归入“古典女性人物胸像”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-18479142648065-b34c32/gallery-01.png",
+        "alt": "古典少女胸像（带一体式圆形底座）｜Classical Young Woman Bust with Integrated Round Base真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-11e891f582b00ef529120e93cc220e149954dff66fe43063c4b9060735300ee2.png"
+      },
+      {
+        "src": "./assets/models/model-18479142648065-b34c32/gallery-02.png",
+        "alt": "古典少女胸像（带一体式圆形底座）｜Classical Young Woman Bust with Integrated Round Base真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-bbbf5a4ab6f9d9c763d6739e4fa1304ac7810d4eba498b1c8489e12d6652fe08.png"
+      },
+      {
+        "src": "./assets/models/model-18479142648065-b34c32/gallery-03.png",
+        "alt": "古典少女胸像（带一体式圆形底座）｜Classical Young Woman Bust with Integrated Round Base真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-6fe1933e6e3c07788d4ce0a966818d0e3b2f86abcfffb991a6a981d448207aa7.png"
+      },
+      {
+        "src": "./assets/models/model-18479142648065-b34c32/gallery-04.png",
+        "alt": "古典少女胸像（带一体式圆形底座）｜Classical Young Woman Bust with Integrated Round Base真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-da8e3d033fa4f4bc5725be9323bd18864265eb1aa7c6e78094712c2f244a4f25.png"
+      },
+      {
+        "src": "./assets/models/model-18479142648065-b34c32/gallery-05.png",
+        "alt": "古典少女胸像（带一体式圆形底座）｜Classical Young Woman Bust with Integrated Round Base真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-254184617181bbadd182c7d1c9a1c6cfc69b43176fa6ed86a36df0c6cf33c784.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-f18c045a657f01a2c743ce8d249d41f02a1d6419387432aae9b7eafe786dcda9.png"
+  },
+  {
     "id": "ouart-daily-six-20261120:angel-deco-right-stls-c246d7",
     "publicationId": "ouart-daily-six-20261120:angel-deco-right-stls-c246d7",
     "inventoryId": "angel-deco-right-stls-c246d7",

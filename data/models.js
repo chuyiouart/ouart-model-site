@@ -1,5 +1,110 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261122:shiva-from-final-fantasy-xvi-nomnom-f8e81b",
+    "publicationId": "ouart-daily-six-20261122:shiva-from-final-fantasy-xvi-nomnom-f8e81b",
+    "inventoryId": "shiva-from-final-fantasy-xvi-nomnom-f8e81b",
+    "name": "最终幻想VII 爱丽丝胸像｜Aerith Bust - Final Fantasy VII",
+    "date": "2026-11-22",
+    "displayDate": "2026.11.22",
+    "format": "STL",
+    "fileCount": 5,
+    "size": "55.17 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/shiva-from-final-fantasy-xvi-nomnom-f8e81b/shiva-from-final-fantasy-xvi-nomnom-f8e81b-主图@初艺ouart.png",
+    "description": "《最终幻想VII》爱丽丝完整分件胸像套件，包含头部、刘海、长辫后发、上半身躯干及带 Nom Nom Figures 铭牌的匹配柱式底座，共5件实际 STL；所有必要分件与底座作为同一次发布保留。",
+    "intro": "2026.11.22 OUART 每日模型合集成员；本期共1件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1IjUjIg9Qo4RBm49OeX2PNw",
+    "shareCode": "19f1",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261122",
+    "nameZh": "最终幻想VII 爱丽丝胸像",
+    "nameEn": "Aerith Bust - Final Fantasy VII",
+    "displayName": "最终幻想VII 爱丽丝胸像｜Aerith Bust - Final Fantasy VII",
+    "category": "人物胸像",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "最终幻想VII 爱丽丝胸像｜Aerith Bust - Final Fantasy VIIAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "《最终幻想VII》爱丽丝完整分件胸像套件，包含头部、刘海、长辫后发、上半身躯干及带 Nom Nom Figures 铭牌的匹配柱式底座，共5件实际 STL；所有必要分件与底座作为同一次发布保留。",
+          "该模型归入“人物胸像”，作为本期单件模型独立展示。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 5 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/shiva-from-final-fantasy-xvi-nomnom-f8e81b/gallery-01.png",
+        "alt": "最终幻想VII 爱丽丝胸像｜Aerith Bust - Final Fantasy VII真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-07915b7e733e29fd7859f9c8a49226b6f711f3f92ea719d4a2cdc27cac59c94d.png"
+      },
+      {
+        "src": "./assets/models/shiva-from-final-fantasy-xvi-nomnom-f8e81b/gallery-02.png",
+        "alt": "最终幻想VII 爱丽丝胸像｜Aerith Bust - Final Fantasy VII真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-3fb3a0c217eb1dde1c3114c95594cb0d4b0efba5a037f1edbb778fafea5218a9.png"
+      },
+      {
+        "src": "./assets/models/shiva-from-final-fantasy-xvi-nomnom-f8e81b/gallery-03.png",
+        "alt": "最终幻想VII 爱丽丝胸像｜Aerith Bust - Final Fantasy VII真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-49f50376d5bf3286075db3ffd694ea87ba9976e23c4d67c4aea27300b0655da6.png"
+      },
+      {
+        "src": "./assets/models/shiva-from-final-fantasy-xvi-nomnom-f8e81b/gallery-04.png",
+        "alt": "最终幻想VII 爱丽丝胸像｜Aerith Bust - Final Fantasy VII真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-764f3a0de7e1100cfdfb0f5b2eb91cefc09a0309079425e8117b5110eaa45de3.png"
+      },
+      {
+        "src": "./assets/models/shiva-from-final-fantasy-xvi-nomnom-f8e81b/gallery-05.png",
+        "alt": "最终幻想VII 爱丽丝胸像｜Aerith Bust - Final Fantasy VII真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-cd11f3f151c1a66c5f41a729d1844170e4e438829cf6906c76340995b3f8a701.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-bed3589272b039ea332598e599a4a7e5d680e2012f6846e5c7957b819ba79b20.png"
+  },
+  {
     "id": "ouart-daily-six-20261121:marvel-thorbuster-helmet-yosh-studios-256070",
     "publicationId": "ouart-daily-six-20261121:marvel-thorbuster-helmet-yosh-studios-256070",
     "inventoryId": "marvel-thorbuster-helmet-yosh-studios-256070",

@@ -1,5 +1,320 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261123:1-assassin-not-supported-23c828",
+    "publicationId": "ouart-daily-six-20261123:1-assassin-not-supported-23c828",
+    "inventoryId": "1-assassin-not-supported-23c828",
+    "name": "激情刺客半身像（着衫与赤膊无支撑版，含配套手臂及底座）｜Passionate Assassin Bust (Shirt and Shirtless Unsupported Variants with Matching Arms and Base)",
+    "date": "2026-11-23",
+    "displayDate": "2026.11.23",
+    "format": "STL",
+    "fileCount": 5,
+    "size": "106.06 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/1-assassin-not-supported-23c828/1-assassin-not-supported-23c828-主图@初艺ouart.png",
+    "description": "完整包为同一激情刺客男性半身像作品，包含着衫与赤膊两种无支撑身体版本、各自匹配的持刀手臂，以及一件共同使用的装饰立柱底座；展示方案选用着衫身体、着衫配套手臂和底座，包内其余文件作为同作品替换版本一并发布。",
+    "intro": "2026.11.23 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1UY8NSVJkuRhj8F63htjGcA",
+    "shareCode": "d70f",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261123",
+    "nameZh": "激情刺客半身像（着衫与赤膊无支撑版，含配套手臂及底座）",
+    "nameEn": "Passionate Assassin Bust (Shirt and Shirtless Unsupported Variants with Matching Arms and Base)",
+    "displayName": "激情刺客半身像（着衫与赤膊无支撑版，含配套手臂及底座）｜Passionate Assassin Bust (Shirt and Shirtless Unsupported Variants with Matching Arms and Base)",
+    "category": "人物半身像",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "激情刺客半身像（着衫与赤膊无支撑版，含配套手臂及底座）｜Passionate Assassin Bust (Shirt and Shirtless Unsupported Variants with Matching Arms and Base)AI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包为同一激情刺客男性半身像作品，包含着衫与赤膊两种无支撑身体版本、各自匹配的持刀手臂，以及一件共同使用的装饰立柱底座；展示方案选用着衫身体、着衫配套手臂和底座，包内其余文件作为同作品替换版本一并发布。",
+          "该模型归入“人物半身像”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 5 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/1-assassin-not-supported-23c828/gallery-01.png",
+        "alt": "激情刺客半身像（着衫与赤膊无支撑版，含配套手臂及底座）｜Passionate Assassin Bust (Shirt and Shirtless Unsupported Variants with Matching Arms and Base)真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-ca54f927437875ca560b106abb81313b28349a6f1f715545a734db8afc95c32b.png"
+      },
+      {
+        "src": "./assets/models/1-assassin-not-supported-23c828/gallery-02.png",
+        "alt": "激情刺客半身像（着衫与赤膊无支撑版，含配套手臂及底座）｜Passionate Assassin Bust (Shirt and Shirtless Unsupported Variants with Matching Arms and Base)真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-7b67cbbf4a04ecca51210fc5d55fa9bb3d222a4854ea7895763233a85dc0e05f.png"
+      },
+      {
+        "src": "./assets/models/1-assassin-not-supported-23c828/gallery-03.png",
+        "alt": "激情刺客半身像（着衫与赤膊无支撑版，含配套手臂及底座）｜Passionate Assassin Bust (Shirt and Shirtless Unsupported Variants with Matching Arms and Base)真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-97d3a22a16f9bcd1d8b53e5d76d717e6a832d906a1789d1e8ec9cccc0d7a5ecf.png"
+      },
+      {
+        "src": "./assets/models/1-assassin-not-supported-23c828/gallery-04.png",
+        "alt": "激情刺客半身像（着衫与赤膊无支撑版，含配套手臂及底座）｜Passionate Assassin Bust (Shirt and Shirtless Unsupported Variants with Matching Arms and Base)真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-9af1ad64a48aa99e5f3c76cb0c87a895a00c74e52a447524442cf0f0fbc5c841.png"
+      },
+      {
+        "src": "./assets/models/1-assassin-not-supported-23c828/gallery-05.png",
+        "alt": "激情刺客半身像（着衫与赤膊无支撑版，含配套手臂及底座）｜Passionate Assassin Bust (Shirt and Shirtless Unsupported Variants with Matching Arms and Base)真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-e609849bbd2738bf746394072abfd772afa859ce20ce32513ab7636393f3ad5e.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-29ce63f26c5dd78524120fc53f9208284fc61a68a855a61e650cc5294a45d0b3.png"
+  },
+  {
+    "id": "ouart-daily-six-20261123:single-piece-c4833f",
+    "publicationId": "ouart-daily-six-20261123:single-piece-c4833f",
+    "inventoryId": "single-piece-c4833f",
+    "name": "《苹果核战记》Landmate 100毫米三姿态机甲套装｜Appleseed Landmate 100mm Three-Pose Mecha Set",
+    "date": "2026-11-23",
+    "displayDate": "2026.11.23",
+    "format": "STL",
+    "fileCount": 3,
+    "size": "197.16 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/single-piece-c4833f/single-piece-c4833f-主图@初艺ouart.png",
+    "description": "完整包包含同一款《苹果核战记》Landmate 100毫米机甲的 Pose 01、Pose 02、Pose 03 三个无打印支撑全身单件姿态变体；每个姿态都是独立完整网格，三种姿态须在同一次发布中一并保留，代表展示采用 Pose 02，不包含另行提供的独立底座或支架。",
+    "intro": "2026.11.23 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1z-V7gkMNL_27hWiJ3kTt8A",
+    "shareCode": "5c4f",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261123",
+    "nameZh": "《苹果核战记》Landmate 100毫米三姿态机甲套装",
+    "nameEn": "Appleseed Landmate 100mm Three-Pose Mecha Set",
+    "displayName": "《苹果核战记》Landmate 100毫米三姿态机甲套装｜Appleseed Landmate 100mm Three-Pose Mecha Set",
+    "category": "机器人/机甲",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "《苹果核战记》Landmate 100毫米三姿态机甲套装｜Appleseed Landmate 100mm Three-Pose Mecha SetAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包包含同一款《苹果核战记》Landmate 100毫米机甲的 Pose 01、Pose 02、Pose 03 三个无打印支撑全身单件姿态变体；每个姿态都是独立完整网格，三种姿态须在同一次发布中一并保留，代表展示采用 Pose 02，不包含另行提供的独立底座或支架。",
+          "该模型归入“机器人/机甲”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 3 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/single-piece-c4833f/gallery-01.png",
+        "alt": "《苹果核战记》Landmate 100毫米三姿态机甲套装｜Appleseed Landmate 100mm Three-Pose Mecha Set真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-4e509ca6d629d8c161959bdd10fb3e50045d0f5f09f4a57d1dd095d47fb8c6e5.png"
+      },
+      {
+        "src": "./assets/models/single-piece-c4833f/gallery-02.png",
+        "alt": "《苹果核战记》Landmate 100毫米三姿态机甲套装｜Appleseed Landmate 100mm Three-Pose Mecha Set真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-1830bd679a349dad56e2598147edc51ca5b5d5d44fbd1f00c0a785c280818faf.png"
+      },
+      {
+        "src": "./assets/models/single-piece-c4833f/gallery-03.png",
+        "alt": "《苹果核战记》Landmate 100毫米三姿态机甲套装｜Appleseed Landmate 100mm Three-Pose Mecha Set真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-d0c5539fc735c4cd8a0d54b52b7c33c5d80795ce3c6e55d8fd3af8da9fd642bd.png"
+      },
+      {
+        "src": "./assets/models/single-piece-c4833f/gallery-04.png",
+        "alt": "《苹果核战记》Landmate 100毫米三姿态机甲套装｜Appleseed Landmate 100mm Three-Pose Mecha Set真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-7c96b1bb44f72227fbd25961c423292b54b79b5368d7b344e06e17193d4a832a.png"
+      },
+      {
+        "src": "./assets/models/single-piece-c4833f/gallery-05.png",
+        "alt": "《苹果核战记》Landmate 100毫米三姿态机甲套装｜Appleseed Landmate 100mm Three-Pose Mecha Set真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-c65d817da362258f88c2f649d10dc9cf6a2802a860b13284c5721ef1ba827ac7.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-1135645bf6b5893bebe5a76cef88789869cc786a0e456bbfb175224e316ab958.png"
+  },
+  {
+    "id": "ouart-daily-six-20261123:model-935225104721634-09812c",
+    "publicationId": "ouart-daily-six-20261123:model-935225104721634-09812c",
+    "inventoryId": "model-935225104721634-09812c",
+    "name": "卡通小人骑滑板车全身场景（含头部、身体、车辆与底座）｜Cartoon Rider on a Scooter Full-Figure Scene (Head, Body, Scooter and Base)",
+    "date": "2026-11-23",
+    "displayDate": "2026.11.23",
+    "format": "STL",
+    "fileCount": 4,
+    "size": "171.65 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/model-935225104721634-09812c/model-935225104721634-09812c-主图@初艺ouart.png",
+    "description": "完整包是一件卡通小人骑滑板车的全身场景摆件，包含必须共同使用的场景底座、角色身体、独立头部和完整滑板车四个无支撑网格；四件均保留在同一发布中，并以其原生公共坐标组合展示，不把车辆、底座或角色零件误称为独立作品。",
+    "intro": "2026.11.23 OUART 每日模型合集成员；本期共3件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/19v07yyHD2rwcCie1M1LMUA",
+    "shareCode": "d2a2",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261123",
+    "nameZh": "卡通小人骑滑板车全身场景（含头部、身体、车辆与底座）",
+    "nameEn": "Cartoon Rider on a Scooter Full-Figure Scene (Head, Body, Scooter and Base)",
+    "displayName": "卡通小人骑滑板车全身场景（含头部、身体、车辆与底座）｜Cartoon Rider on a Scooter Full-Figure Scene (Head, Body, Scooter and Base)",
+    "category": "卡通人物全身场景摆件",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "卡通小人骑滑板车全身场景（含头部、身体、车辆与底座）｜Cartoon Rider on a Scooter Full-Figure Scene (Head, Body, Scooter and Base)AI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包是一件卡通小人骑滑板车的全身场景摆件，包含必须共同使用的场景底座、角色身体、独立头部和完整滑板车四个无支撑网格；四件均保留在同一发布中，并以其原生公共坐标组合展示，不把车辆、底座或角色零件误称为独立作品。",
+          "该模型归入“卡通人物全身场景摆件”，与同批其他2件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 4 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/model-935225104721634-09812c/gallery-01.png",
+        "alt": "卡通小人骑滑板车全身场景（含头部、身体、车辆与底座）｜Cartoon Rider on a Scooter Full-Figure Scene (Head, Body, Scooter and Base)真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-20d3daa4c355550d9b368323b18aa0f870024a3c9d29b75cd4e4caae1a8b0ccf.png"
+      },
+      {
+        "src": "./assets/models/model-935225104721634-09812c/gallery-02.png",
+        "alt": "卡通小人骑滑板车全身场景（含头部、身体、车辆与底座）｜Cartoon Rider on a Scooter Full-Figure Scene (Head, Body, Scooter and Base)真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-f204965b981cc8df98d88c9991be72684578fd679aea6a3cbecafb3fd23fa2cf.png"
+      },
+      {
+        "src": "./assets/models/model-935225104721634-09812c/gallery-03.png",
+        "alt": "卡通小人骑滑板车全身场景（含头部、身体、车辆与底座）｜Cartoon Rider on a Scooter Full-Figure Scene (Head, Body, Scooter and Base)真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-d1ee420bd73b0f68c6b54612984f4c13fca57f57253538691cf55835f0491522.png"
+      },
+      {
+        "src": "./assets/models/model-935225104721634-09812c/gallery-04.png",
+        "alt": "卡通小人骑滑板车全身场景（含头部、身体、车辆与底座）｜Cartoon Rider on a Scooter Full-Figure Scene (Head, Body, Scooter and Base)真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-a2086bb597464a81554750aee661b073d97ff0eee2b21dae839d5e6ce6b1e02c.png"
+      },
+      {
+        "src": "./assets/models/model-935225104721634-09812c/gallery-05.png",
+        "alt": "卡通小人骑滑板车全身场景（含头部、身体、车辆与底座）｜Cartoon Rider on a Scooter Full-Figure Scene (Head, Body, Scooter and Base)真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-3a333733118a152aa0b2b0d48f6ee9a495fd605d9cd0ee376a7368401e40f297.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-09321443b4aca35d7d7447369d11de38cf0d0d7274255d7626eb2d031def0072.png"
+  },
+  {
     "id": "ouart-daily-six-20261122:shiva-from-final-fantasy-xvi-nomnom-f8e81b",
     "publicationId": "ouart-daily-six-20261122:shiva-from-final-fantasy-xvi-nomnom-f8e81b",
     "inventoryId": "shiva-from-final-fantasy-xvi-nomnom-f8e81b",

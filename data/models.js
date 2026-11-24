@@ -1,5 +1,425 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261124:tlj2v-a10263",
+    "publicationId": "ouart-daily-six-20261124:tlj2v-a10263",
+    "inventoryId": "tlj2v-a10263",
+    "name": "汤米·李·琼斯西装胸像｜Tommy Lee Jones Suit Bust",
+    "date": "2026-11-24",
+    "displayDate": "2026.11.24",
+    "format": "STL",
+    "fileCount": 3,
+    "size": "72.89 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/tlj2v-a10263/tlj2v-a10263-主图@初艺ouart.png",
+    "description": "完整人物胸像套件：包含一体式西装躯干与底部展示基座，以及带瞳孔、无瞳孔两种可替换头部版本；两种头部是同一作品的造型变体，随同一日发布。",
+    "intro": "2026.11.24 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1Q32lIDga-cshLioRP5WQaQ",
+    "shareCode": "124c",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261124",
+    "nameZh": "汤米·李·琼斯西装胸像",
+    "nameEn": "Tommy Lee Jones Suit Bust",
+    "displayName": "汤米·李·琼斯西装胸像｜Tommy Lee Jones Suit Bust",
+    "category": "人物胸像",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "汤米·李·琼斯西装胸像｜Tommy Lee Jones Suit BustAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整人物胸像套件：包含一体式西装躯干与底部展示基座，以及带瞳孔、无瞳孔两种可替换头部版本；两种头部是同一作品的造型变体，随同一日发布。",
+          "该模型归入“人物胸像”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 3 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/tlj2v-a10263/gallery-01.png",
+        "alt": "汤米·李·琼斯西装胸像｜Tommy Lee Jones Suit Bust真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-71173a1a6bdc434817875e93bdcae6b345514c88d42ed0c9fc6441d6f4cd6825.png"
+      },
+      {
+        "src": "./assets/models/tlj2v-a10263/gallery-02.png",
+        "alt": "汤米·李·琼斯西装胸像｜Tommy Lee Jones Suit Bust真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-3e31fa91144368ecb14c896908fad41fa37402cf390b5451870dac2de225c095.png"
+      },
+      {
+        "src": "./assets/models/tlj2v-a10263/gallery-03.png",
+        "alt": "汤米·李·琼斯西装胸像｜Tommy Lee Jones Suit Bust真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-d69306ca444b48b7a6802c4e2df9525bdddb3ff2f9f3b7db88c159de529625bc.png"
+      },
+      {
+        "src": "./assets/models/tlj2v-a10263/gallery-04.png",
+        "alt": "汤米·李·琼斯西装胸像｜Tommy Lee Jones Suit Bust真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-0cfb92c1c8e87610fa750aaa244d765230473748e7a3e3c4f811b770ac8463b1.png"
+      },
+      {
+        "src": "./assets/models/tlj2v-a10263/gallery-05.png",
+        "alt": "汤米·李·琼斯西装胸像｜Tommy Lee Jones Suit Bust真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-6f30ddaa92a9e0e080010842b42ee83113b647a2c63d2bec87a902e05fcdeebb.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-12de7c5a33b3f1ee3b1ac026507655154b8066c9066c36186edf0b0091a0b342.png"
+  },
+  {
+    "id": "ouart-daily-six-20261124:pipe-front-2-parts-a1d574",
+    "publicationId": "ouart-daily-six-20261124:pipe-front-2-parts-a1d574",
+    "inventoryId": "pipe-front-2-parts-a1d574",
+    "name": "鳄鱼人场景前部管道（两件式）｜Killer Croc Front Pipe (Two-Part)",
+    "date": "2026-11-24",
+    "displayDate": "2026.11.24",
+    "format": "STL",
+    "fileCount": 2,
+    "size": "140.44 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/pipe-front-2-parts-a1d574/pipe-front-2-parts-a1d574-主图@初艺ouart.png",
+    "description": "完整包包含两件相互配合的前部管道网格：一件带阀门与长管身，另一件带端部结构及上方包裹状细节；两件共同组成一段首尾封闭、可独立展示的工业管道场景道具，并非把受支撑文件误作另一件作品。",
+    "intro": "2026.11.24 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1aQEOInVNZACwRPHu93_5Sg",
+    "shareCode": "210d",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261124",
+    "nameZh": "鳄鱼人场景前部管道（两件式）",
+    "nameEn": "Killer Croc Front Pipe (Two-Part)",
+    "displayName": "鳄鱼人场景前部管道（两件式）｜Killer Croc Front Pipe (Two-Part)",
+    "category": "场景道具",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "鳄鱼人场景前部管道（两件式）｜Killer Croc Front Pipe (Two-Part)AI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包包含两件相互配合的前部管道网格：一件带阀门与长管身，另一件带端部结构及上方包裹状细节；两件共同组成一段首尾封闭、可独立展示的工业管道场景道具，并非把受支撑文件误作另一件作品。",
+          "该模型归入“场景道具”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 2 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/pipe-front-2-parts-a1d574/gallery-01.png",
+        "alt": "鳄鱼人场景前部管道（两件式）｜Killer Croc Front Pipe (Two-Part)真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-8ad51eb5962f5d4fd1d5ce415ce26735dee3e77a120a82b555fd719a851c8b46.png"
+      },
+      {
+        "src": "./assets/models/pipe-front-2-parts-a1d574/gallery-02.png",
+        "alt": "鳄鱼人场景前部管道（两件式）｜Killer Croc Front Pipe (Two-Part)真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-b2aa4effc88085eae16d93a6870003ab8b3d7a302018f02ebfc1741307bd7691.png"
+      },
+      {
+        "src": "./assets/models/pipe-front-2-parts-a1d574/gallery-03.png",
+        "alt": "鳄鱼人场景前部管道（两件式）｜Killer Croc Front Pipe (Two-Part)真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-ec80bc447187f5cf5d0c816e953519bbfb40775c890e07c797a307e168bf1773.png"
+      },
+      {
+        "src": "./assets/models/pipe-front-2-parts-a1d574/gallery-04.png",
+        "alt": "鳄鱼人场景前部管道（两件式）｜Killer Croc Front Pipe (Two-Part)真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-6bbcaafe808118bdfa0594e439d82193828a508a69f4d36101184a5d4bf75a47.png"
+      },
+      {
+        "src": "./assets/models/pipe-front-2-parts-a1d574/gallery-05.png",
+        "alt": "鳄鱼人场景前部管道（两件式）｜Killer Croc Front Pipe (Two-Part)真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-0dc7432f42f304a5acd81b7dd2251606ebe0af09c513e14ba8e05d031f0bc3d6.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-a2b5fa4691a4066ee0947bec5c5a708f82d77dededf618f2c06ab4674cc08246.png"
+  },
+  {
+    "id": "ouart-daily-six-20261124:140mm-28a4ec",
+    "publicationId": "ouart-daily-six-20261124:140mm-28a4ec",
+    "inventoryId": "140mm-28a4ec",
+    "name": "夜之声舞者｜Sound of Night Dancer",
+    "date": "2026-11-24",
+    "displayDate": "2026.11.24",
+    "format": "STL",
+    "fileCount": 18,
+    "size": "1477.42 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/140mm-28a4ec/140mm-28a4ec-主图@初艺ouart.png",
+    "description": "140毫米舞者全身雕像完整打印包，包含匹配底座、无支撑一体有底座与无底座版本、无支撑分件版本，以及对应的预支撑STL和LYS文件；这些均为同一舞者作品的打印与装配变体。",
+    "intro": "2026.11.24 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1h3MVqtnaOL5cNvWLYSgfWg",
+    "shareCode": "a3df",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261124",
+    "nameZh": "夜之声舞者",
+    "nameEn": "Sound of Night Dancer",
+    "displayName": "夜之声舞者｜Sound of Night Dancer",
+    "category": "人物雕像",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "夜之声舞者｜Sound of Night DancerAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "140毫米舞者全身雕像完整打印包，包含匹配底座、无支撑一体有底座与无底座版本、无支撑分件版本，以及对应的预支撑STL和LYS文件；这些均为同一舞者作品的打印与装配变体。",
+          "该模型归入“人物雕像”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 18 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/140mm-28a4ec/gallery-01.png",
+        "alt": "夜之声舞者｜Sound of Night Dancer真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-7f0df383c1a4f6e76012e00bcca518484a38dc8d560a0c1d9ca9ff7fed12ecce.png"
+      },
+      {
+        "src": "./assets/models/140mm-28a4ec/gallery-02.png",
+        "alt": "夜之声舞者｜Sound of Night Dancer真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-028aeddc304bf9508036b5b7be849e77083095c79ee7f009818349a4623e2676.png"
+      },
+      {
+        "src": "./assets/models/140mm-28a4ec/gallery-03.png",
+        "alt": "夜之声舞者｜Sound of Night Dancer真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-5c44bc42a1321f85cc50b13335cd81886f1f16b2ce6df9de5b9422e8e5bd6cfa.png"
+      },
+      {
+        "src": "./assets/models/140mm-28a4ec/gallery-04.png",
+        "alt": "夜之声舞者｜Sound of Night Dancer真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-a0d34918e294a81b39f28376f5ddc1c7a9078471f25c415abe28665d3588b65d.png"
+      },
+      {
+        "src": "./assets/models/140mm-28a4ec/gallery-05.png",
+        "alt": "夜之声舞者｜Sound of Night Dancer真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-1efcf618095aaa8b8451b6c0ac8780a6d4f75da5a58798e0e59ae47f9072b81a.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-676c200fb4acbbbf681dc874bef9d1b6369240debac4f5f17cbf235f27aa05be.png"
+  },
+  {
+    "id": "ouart-daily-six-20261124:bmo-adventure-time-fanart-3-poses20250413-1-32a586",
+    "publicationId": "ouart-daily-six-20261124:bmo-adventure-time-fanart-3-poses20250413-1-32a586",
+    "inventoryId": "bmo-adventure-time-fanart-3-poses20250413-1-32a586",
+    "name": "探险时光 BMO 三姿态与蜜蜂套装｜Adventure Time BMO - 3 Poses and Bee Companions",
+    "date": "2026-11-24",
+    "displayDate": "2026.11.24",
+    "format": "STL",
+    "fileCount": 5,
+    "size": "22.63 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/bmo-adventure-time-fanart-3-poses20250413-1-32a586/bmo-adventure-time-fanart-3-poses20250413-1-32a586-主图@初艺ouart.png",
+    "description": "完整包包含 BMO 的直立、坐姿和单臂动作三种全身合并姿态，以及大、小蜜蜂两个同主题配件；代表展示采用无需独立底座的直立完整网格，全部姿态和配件作为同一日发布中的同作品变体与内容一并保留。",
+    "intro": "2026.11.24 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1-3sUH8FK2huKUn7umfa6aA",
+    "shareCode": "e893",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261124",
+    "nameZh": "探险时光 BMO 三姿态与蜜蜂套装",
+    "nameEn": "Adventure Time BMO - 3 Poses and Bee Companions",
+    "displayName": "探险时光 BMO 三姿态与蜜蜂套装｜Adventure Time BMO - 3 Poses and Bee Companions",
+    "category": "动漫角色",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "探险时光 BMO 三姿态与蜜蜂套装｜Adventure Time BMO - 3 Poses and Bee CompanionsAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包包含 BMO 的直立、坐姿和单臂动作三种全身合并姿态，以及大、小蜜蜂两个同主题配件；代表展示采用无需独立底座的直立完整网格，全部姿态和配件作为同一日发布中的同作品变体与内容一并保留。",
+          "该模型归入“动漫角色”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 5 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/bmo-adventure-time-fanart-3-poses20250413-1-32a586/gallery-01.png",
+        "alt": "探险时光 BMO 三姿态与蜜蜂套装｜Adventure Time BMO - 3 Poses and Bee Companions真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-408073ff64b3fd84178240bfad2dbdc8751a4e3ffd5c9dfba7e3fa9ad281b060.png"
+      },
+      {
+        "src": "./assets/models/bmo-adventure-time-fanart-3-poses20250413-1-32a586/gallery-02.png",
+        "alt": "探险时光 BMO 三姿态与蜜蜂套装｜Adventure Time BMO - 3 Poses and Bee Companions真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-8814815075d9efda141671e99009d7267bd41f9609a304d7955cb5c59a4fec8c.png"
+      },
+      {
+        "src": "./assets/models/bmo-adventure-time-fanart-3-poses20250413-1-32a586/gallery-03.png",
+        "alt": "探险时光 BMO 三姿态与蜜蜂套装｜Adventure Time BMO - 3 Poses and Bee Companions真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-b14714439e640a5bfd9b26f2857f5dfdb79f99f4cdb0a02b6bad553fa6501ddc.png"
+      },
+      {
+        "src": "./assets/models/bmo-adventure-time-fanart-3-poses20250413-1-32a586/gallery-04.png",
+        "alt": "探险时光 BMO 三姿态与蜜蜂套装｜Adventure Time BMO - 3 Poses and Bee Companions真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-801451c5050bb93a043f9ea044da93cf23d2f61ae498d7285e4389c6bc7d85e0.png"
+      },
+      {
+        "src": "./assets/models/bmo-adventure-time-fanart-3-poses20250413-1-32a586/gallery-05.png",
+        "alt": "探险时光 BMO 三姿态与蜜蜂套装｜Adventure Time BMO - 3 Poses and Bee Companions真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-057fa19fc12769bd7f82d7cdd682d4b920a4e30491601465a0d7fa79bb30f47b.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-a3e56f9f01102d212018956effc2524f3382cdf34e926ddf0284af0e93cdea5e.png"
+  },
+  {
     "id": "ouart-daily-six-20261123:1-assassin-not-supported-23c828",
     "publicationId": "ouart-daily-six-20261123:1-assassin-not-supported-23c828",
     "inventoryId": "1-assassin-not-supported-23c828",

@@ -1,5 +1,110 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261125:accessories-for-urban-bugs-bunny-print3dworld-4ca667",
+    "publicationId": "ouart-daily-six-20261125:accessories-for-urban-bugs-bunny-print3dworld-4ca667",
+    "inventoryId": "accessories-for-urban-bugs-bunny-print3dworld-4ca667",
+    "name": "城市兔角色背包配件套装｜Urban Bugs Bunny Backpack Accessory Set",
+    "date": "2026-11-25",
+    "displayDate": "2026.11.25",
+    "format": "STL",
+    "fileCount": 3,
+    "size": "35.05 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/accessories-for-urban-bugs-bunny-print3dworld-4ca667/accessories-for-urban-bugs-bunny-print3dworld-4ca667-主图@初艺ouart.png",
+    "description": "完整的角色背包配件包，包含普通背包、加固背包两种同作品变体以及独立肩带；代表展示采用无需支撑结构、可独立辨识的普通背包合并网格，全部变体与肩带保留在同一发布包中。",
+    "intro": "2026.11.25 OUART 每日模型合集成员；本期共1件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1trotrY1CnNPdqeZ12HiptA",
+    "shareCode": "e9ea",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261125",
+    "nameZh": "城市兔角色背包配件套装",
+    "nameEn": "Urban Bugs Bunny Backpack Accessory Set",
+    "displayName": "城市兔角色背包配件套装｜Urban Bugs Bunny Backpack Accessory Set",
+    "category": "角色配件",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "城市兔角色背包配件套装｜Urban Bugs Bunny Backpack Accessory SetAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整的角色背包配件包，包含普通背包、加固背包两种同作品变体以及独立肩带；代表展示采用无需支撑结构、可独立辨识的普通背包合并网格，全部变体与肩带保留在同一发布包中。",
+          "该模型归入“角色配件”，作为本期单件模型独立展示。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 3 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/accessories-for-urban-bugs-bunny-print3dworld-4ca667/gallery-01.png",
+        "alt": "城市兔角色背包配件套装｜Urban Bugs Bunny Backpack Accessory Set真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-8dd1d7656db400a605946244b47269a0edb93bf8a0f4355506b286484d727381.png"
+      },
+      {
+        "src": "./assets/models/accessories-for-urban-bugs-bunny-print3dworld-4ca667/gallery-02.png",
+        "alt": "城市兔角色背包配件套装｜Urban Bugs Bunny Backpack Accessory Set真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-53f93ae192cbe83a1fe14926c3ee88bb6cf383d36b0e80dd1470908b0c560802.png"
+      },
+      {
+        "src": "./assets/models/accessories-for-urban-bugs-bunny-print3dworld-4ca667/gallery-03.png",
+        "alt": "城市兔角色背包配件套装｜Urban Bugs Bunny Backpack Accessory Set真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-4257ff1fb479c1722855cdc1f2420b4b1eb27ed0c30b0bd07d49db52c8d625a6.png"
+      },
+      {
+        "src": "./assets/models/accessories-for-urban-bugs-bunny-print3dworld-4ca667/gallery-04.png",
+        "alt": "城市兔角色背包配件套装｜Urban Bugs Bunny Backpack Accessory Set真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-0cbf8d36c4548159ca18e9c2effa99284bb5fd1be890495bc3014ab2ea92fe0c.png"
+      },
+      {
+        "src": "./assets/models/accessories-for-urban-bugs-bunny-print3dworld-4ca667/gallery-05.png",
+        "alt": "城市兔角色背包配件套装｜Urban Bugs Bunny Backpack Accessory Set真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-3779f9684933667494a4494146ff27513061de1994ceebd4bf2d1b819055e873.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-c831e0a9bb0482688087d7ced47102d2e6bffda93354877f71983da9f735a2a2.png"
+  },
+  {
     "id": "ouart-daily-six-20261124:tlj2v-a10263",
     "publicationId": "ouart-daily-six-20261124:tlj2v-a10263",
     "inventoryId": "tlj2v-a10263",

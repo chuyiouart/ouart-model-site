@@ -1,6 +1,24 @@
 window.OUART_BATCHES = [
   {
     "schemaVersion": 2,
+    "id": "ouart-daily-six-20261125",
+    "date": "2026-11-25",
+    "displayDate": "2026.11.25",
+    "title": "2026.11.25｜OUART 今日1件",
+    "description": "本期共1件合格模型，按实际通过数量稳定更新。",
+    "published": true,
+    "collage": "./assets/batches/2026-11-25/ouart-daily-six-collage.png",
+    "collageAlt": "OUART 2026-11-25 1模型静态拼图",
+    "modelIds": [
+      "ouart-daily-six-20261125:accessories-for-urban-bugs-bunny-print3dworld-4ca667"
+    ],
+    "downloadUrl": "https://pan.baidu.com/s/1trotrY1CnNPdqeZ12HiptA",
+    "shareCode": "e9ea",
+    "separateLinksRequired": false,
+    "publishedAt": "2026-11-25T10:30:10+08:00"
+  },
+  {
+    "schemaVersion": 2,
     "id": "ouart-daily-six-20261124",
     "date": "2026-11-24",
     "displayDate": "2026.11.24",

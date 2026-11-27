@@ -1,5 +1,215 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261127:lions-head-model-files-4a42ea",
+    "publicationId": "ouart-daily-six-20261127:lions-head-model-files-4a42ea",
+    "inventoryId": "lions-head-model-files-4a42ea",
+    "name": "狮子头壁挂浮雕（合并版与分板变体完整包）｜Lion Head Wall Relief (Complete Merged and Split-Plate Variants Package)",
+    "date": "2026-11-27",
+    "displayDate": "2026.11.27",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "24.60 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/lions-head-model-files-4a42ea/lions-head-model-files-4a42ea-主图@初艺ouart.png",
+    "description": "完整包是一件可直接打印的狮子头装饰浮雕：包含已核验的一体式合并 STL、同作 3MF、配套 PDF、同款打印成品照片，并在目录上下文中保留大号六分板与中号四分板版本。主体由完整狮脸和环绕鬃毛构成，背面平整，适合作为壁挂或平背装饰件；不需要另加底座或支架。合并版与分板/尺寸版本都是同一作品的打印选择，不是多件无关模型。",
+    "intro": "2026.11.27 OUART 每日模型合集成员；本期共2件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1zpfCKBIuC2N-8D2ZtbrzgA",
+    "shareCode": "0d09",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261127",
+    "nameZh": "狮子头壁挂浮雕（合并版与分板变体完整包）",
+    "nameEn": "Lion Head Wall Relief (Complete Merged and Split-Plate Variants Package)",
+    "displayName": "狮子头壁挂浮雕（合并版与分板变体完整包）｜Lion Head Wall Relief (Complete Merged and Split-Plate Variants Package)",
+    "category": "动物壁挂浮雕",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "狮子头壁挂浮雕（合并版与分板变体完整包）｜Lion Head Wall Relief (Complete Merged and Split-Plate Variants Package)AI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包是一件可直接打印的狮子头装饰浮雕：包含已核验的一体式合并 STL、同作 3MF、配套 PDF、同款打印成品照片，并在目录上下文中保留大号六分板与中号四分板版本。主体由完整狮脸和环绕鬃毛构成，背面平整，适合作为壁挂或平背装饰件；不需要另加底座或支架。合并版与分板/尺寸版本都是同一作品的打印选择，不是多件无关模型。",
+          "该模型归入“动物壁挂浮雕”，与同批其他1件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/lions-head-model-files-4a42ea/gallery-02.png",
+        "alt": "狮子头壁挂浮雕（合并版与分板变体完整包）｜Lion Head Wall Relief (Complete Merged and Split-Plate Variants Package)真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-3436a965abdeb92903386edbb8a634691dc3600a056cbfe226cefd7a6dedfec2.png"
+      },
+      {
+        "src": "./assets/models/lions-head-model-files-4a42ea/gallery-03.png",
+        "alt": "狮子头壁挂浮雕（合并版与分板变体完整包）｜Lion Head Wall Relief (Complete Merged and Split-Plate Variants Package)真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-401e72ac98c2ff35f56d45b35f71d64824359184014b6184f42f10613030d66f.png"
+      },
+      {
+        "src": "./assets/models/lions-head-model-files-4a42ea/gallery-04.png",
+        "alt": "狮子头壁挂浮雕（合并版与分板变体完整包）｜Lion Head Wall Relief (Complete Merged and Split-Plate Variants Package)真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-5612e5416abb9374d5c7176425f2b39a1608e366384b3b8acf720d6a6c88819f.png"
+      },
+      {
+        "src": "./assets/models/lions-head-model-files-4a42ea/gallery-05.png",
+        "alt": "狮子头壁挂浮雕（合并版与分板变体完整包）｜Lion Head Wall Relief (Complete Merged and Split-Plate Variants Package)真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-81175cc6dd601f331390760227552458a3ae9df7bb90526800656776e151dd8e.png"
+      },
+      {
+        "src": "./assets/models/lions-head-model-files-4a42ea/gallery-06.png",
+        "alt": "狮子头壁挂浮雕（合并版与分板变体完整包）｜Lion Head Wall Relief (Complete Merged and Split-Plate Variants Package)真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-507a5a640469c11a2de11b630e412be4baea0d2cbc7012e91681abab41fb7706.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-00ab537626b0c024d3e0fce4a630745ee4b55a4f70f7c0aa9b862b792f5f4194.png"
+  },
+  {
+    "id": "ouart-daily-six-20261127:kaelan-5837e3",
+    "publicationId": "ouart-daily-six-20261127:kaelan-5837e3",
+    "inventoryId": "kaelan-5837e3",
+    "name": "凯兰·星影｜Kaelan Starshade",
+    "date": "2026-11-27",
+    "displayDate": "2026.11.27",
+    "format": "STL",
+    "fileCount": 2,
+    "size": "11.54 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/kaelan-5837e3/kaelan-5837e3-主图@初艺ouart.png",
+    "description": "凯兰·星影奇幻战士完整非支撑版模型包，包含一体式完整角色主体及其匹配的圆形底座，共2个实际STL文件；底座属于成品展示与打印所需组件，未被省略，也未将其误判为另一件作品。",
+    "intro": "2026.11.27 OUART 每日模型合集成员；本期共2件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1rU0EYNCYmZd2n5rggUmAkg",
+    "shareCode": "fd5e",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261127",
+    "nameZh": "凯兰·星影",
+    "nameEn": "Kaelan Starshade",
+    "displayName": "凯兰·星影｜Kaelan Starshade",
+    "category": "奇幻角色战棋小雕像",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "凯兰·星影｜Kaelan StarshadeAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "凯兰·星影奇幻战士完整非支撑版模型包，包含一体式完整角色主体及其匹配的圆形底座，共2个实际STL文件；底座属于成品展示与打印所需组件，未被省略，也未将其误判为另一件作品。",
+          "该模型归入“奇幻角色战棋小雕像”，与同批其他1件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 2 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/kaelan-5837e3/gallery-01.png",
+        "alt": "凯兰·星影｜Kaelan Starshade真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-7ba16228a74991e8969cdf8e4580185d1eaedab392be64224ee10580a29220f6.png"
+      },
+      {
+        "src": "./assets/models/kaelan-5837e3/gallery-02.png",
+        "alt": "凯兰·星影｜Kaelan Starshade真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-b5f6773a7518f3c7a5a99e4840bcd5854980502bf789da41a78603c17dfa5643.png"
+      },
+      {
+        "src": "./assets/models/kaelan-5837e3/gallery-03.png",
+        "alt": "凯兰·星影｜Kaelan Starshade真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-88a9ba250c3f959d2547c711b73b4755f26c0232f1deb632e18ab5de803df962.png"
+      },
+      {
+        "src": "./assets/models/kaelan-5837e3/gallery-04.png",
+        "alt": "凯兰·星影｜Kaelan Starshade真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-330240ab171cd782696abb0105d8dec766b377d9b8c44c6081420fde4c084938.png"
+      },
+      {
+        "src": "./assets/models/kaelan-5837e3/gallery-05.png",
+        "alt": "凯兰·星影｜Kaelan Starshade真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-335608a66c4f30f63cb17b178b5fb9b9c2734569c1b5b5f0e3f22c8ec1a45bd5.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-2614d2a84cd307885d0645013d4daae1f32501f14f86dc750c0ec984a2022a00.png"
+  },
+  {
     "id": "ouart-daily-six-20261126:stl-oolong-115mm-bluespray-bc6340",
     "publicationId": "ouart-daily-six-20261126:stl-oolong-115mm-bluespray-bc6340",
     "inventoryId": "stl-oolong-115mm-bluespray-bc6340",

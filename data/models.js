@@ -1,5 +1,425 @@
 window.OUART_MODELS = [
   {
+    "id": "ouart-daily-six-20261128:basepequena-624be5",
+    "publicationId": "ouart-daily-six-20261128:basepequena-624be5",
+    "inventoryId": "basepequena-624be5",
+    "name": "藏马小型植物妖兽场景底座｜Kurama Small Botanical Demon Diorama Base",
+    "date": "2026-11-28",
+    "displayDate": "2026.11.28",
+    "format": "STL",
+    "fileCount": 5,
+    "size": "256.85 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/basepequena-624be5/basepequena-624be5-主图@初艺ouart.png",
+    "description": "完整包是一件藏马主题的小型植物妖兽场景底座，共含五个保持共同装配坐标的拆分 STL：圆形承托底盘、盘绕其上的带刺植物妖兽／藤蔓主体、叶片包覆的球形花苞以及连接细节。五件均属于同一场景且应在同一日发布中保留；它不是藏马人物全身像，也没有证据把其中任何一件认作独立作品或支撑版变体。",
+    "intro": "2026.11.28 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1JNSji35XpTkX7VhbVdN_Uw",
+    "shareCode": "54f7",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261128",
+    "nameZh": "藏马小型植物妖兽场景底座",
+    "nameEn": "Kurama Small Botanical Demon Diorama Base",
+    "displayName": "藏马小型植物妖兽场景底座｜Kurama Small Botanical Demon Diorama Base",
+    "category": "动漫主题场景与展示底座",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "藏马小型植物妖兽场景底座｜Kurama Small Botanical Demon Diorama BaseAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包是一件藏马主题的小型植物妖兽场景底座，共含五个保持共同装配坐标的拆分 STL：圆形承托底盘、盘绕其上的带刺植物妖兽／藤蔓主体、叶片包覆的球形花苞以及连接细节。五件均属于同一场景且应在同一日发布中保留；它不是藏马人物全身像，也没有证据把其中任何一件认作独立作品或支撑版变体。",
+          "该模型归入“动漫主题场景与展示底座”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 5 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/basepequena-624be5/gallery-01.png",
+        "alt": "藏马小型植物妖兽场景底座｜Kurama Small Botanical Demon Diorama Base真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-95ce8c5e070c6321fbbdec0673b8426688b879f0a27cf7cde5faf843693a336e.png"
+      },
+      {
+        "src": "./assets/models/basepequena-624be5/gallery-02.png",
+        "alt": "藏马小型植物妖兽场景底座｜Kurama Small Botanical Demon Diorama Base真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-70a4227fde7e509dfa6e6e60a774b5421d9b31b4a25db41c0bf8cb33be3b8c5f.png"
+      },
+      {
+        "src": "./assets/models/basepequena-624be5/gallery-03.png",
+        "alt": "藏马小型植物妖兽场景底座｜Kurama Small Botanical Demon Diorama Base真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-da9f42b3990955d33ed773e5eca1b5e64dd82423bc1b0c672d56673c85c5fb07.png"
+      },
+      {
+        "src": "./assets/models/basepequena-624be5/gallery-04.png",
+        "alt": "藏马小型植物妖兽场景底座｜Kurama Small Botanical Demon Diorama Base真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-ab3ab635b5e09c8ce9ccbb9e123cb0ac3ca8b4bfeeb0eb9f5202078b5de07fa4.png"
+      },
+      {
+        "src": "./assets/models/basepequena-624be5/gallery-05.png",
+        "alt": "藏马小型植物妖兽场景底座｜Kurama Small Botanical Demon Diorama Base真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-41cd857023170f3501acc2541a470285f25ba639b15f24d62ebf4ddc77350bfa.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-ac8936f9a0fa302bf750842fdb2d9932b993089fdd57ad71c2d7068db7d0789f.png"
+  },
+  {
+    "id": "ouart-daily-six-20261128:gamepad-tower-7d0508",
+    "publicationId": "ouart-daily-six-20261128:gamepad-tower-7d0508",
+    "inventoryId": "gamepad-tower-7d0508",
+    "name": "双层游戏手柄收纳塔｜Two-Tier Gamepad Tower",
+    "date": "2026-11-28",
+    "displayDate": "2026.11.28",
+    "format": "STL",
+    "fileCount": 3,
+    "size": "142.88 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/gamepad-tower-7d0508/gamepad-tower-7d0508-主图@初艺ouart.png",
+    "description": "完整的双层游戏手柄收纳塔套件，可收纳多只游戏手柄，并包含可直接展示的一体式单件版本，以及分体塔身与配套螺纹圆形底座版本；两种结构版本属于同一作品、应在同一日发布。",
+    "intro": "2026.11.28 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/16mzHCaL-7TNCzCj0KbFUrA",
+    "shareCode": "27aa",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261128",
+    "nameZh": "双层游戏手柄收纳塔",
+    "nameEn": "Two-Tier Gamepad Tower",
+    "displayName": "双层游戏手柄收纳塔｜Two-Tier Gamepad Tower",
+    "category": "游戏配件收纳支架",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "双层游戏手柄收纳塔｜Two-Tier Gamepad TowerAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整的双层游戏手柄收纳塔套件，可收纳多只游戏手柄，并包含可直接展示的一体式单件版本，以及分体塔身与配套螺纹圆形底座版本；两种结构版本属于同一作品、应在同一日发布。",
+          "该模型归入“游戏配件收纳支架”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 3 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/gamepad-tower-7d0508/gallery-03.png",
+        "alt": "双层游戏手柄收纳塔｜Two-Tier Gamepad Tower真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-11c6d2fdf039950df2a1818907d8ae75f533621fbce9e935432832e6fd991ad8.png"
+      },
+      {
+        "src": "./assets/models/gamepad-tower-7d0508/gallery-04.png",
+        "alt": "双层游戏手柄收纳塔｜Two-Tier Gamepad Tower真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-e4561af0dcbfce23eac85a3bfc387d7945b6432a56a5e1b7415beb72651ae223.png"
+      },
+      {
+        "src": "./assets/models/gamepad-tower-7d0508/gallery-05.png",
+        "alt": "双层游戏手柄收纳塔｜Two-Tier Gamepad Tower真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-57d7ed640949982fb3ed91a76c9816b752f219d8dabae8ffd77bc7e73aa6cb11.png"
+      },
+      {
+        "src": "./assets/models/gamepad-tower-7d0508/gallery-06.png",
+        "alt": "双层游戏手柄收纳塔｜Two-Tier Gamepad Tower真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-11d84f865827c031058a535c56bfc84d6645adc947da5527d3f541cc7e9ac306.png"
+      },
+      {
+        "src": "./assets/models/gamepad-tower-7d0508/gallery-07.png",
+        "alt": "双层游戏手柄收纳塔｜Two-Tier Gamepad Tower真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-0cd2f272a263a88039afa3f42915ebb45b1c6feedd99752a5e500654eac4fa4d.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-ae0e0fbdad3558bb0bd11aa2c38362df8c7b850c3511f0ec5b1d399916e4fe67.png"
+  },
+  {
+    "id": "ouart-daily-six-20261128:city-industrial-bases-27mm-fe9053",
+    "publicationId": "ouart-daily-six-20261128:city-industrial-bases-27mm-fe9053",
+    "inventoryId": "city-industrial-bases-27mm-fe9053",
+    "name": "27毫米城市工业圆形底座12号｜27mm City Industrial Round Base No. 12",
+    "date": "2026-11-28",
+    "displayDate": "2026.11.28",
+    "format": "STL",
+    "fileCount": 1,
+    "size": "0.17 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/city-industrial-bases-27mm-fe9053/city-industrial-bases-27mm-fe9053-主图@初艺ouart.png",
+    "description": "完整包是一件可直接打印和使用的27毫米城市工业风圆形微缩模型底座，包含连续的圆形底体、工业斜槽纹理、分区台阶与边缘细节；仅有一个自包含STL，不需要另配支架或其他装配零件。",
+    "intro": "2026.11.28 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/12AnGF8n__7-GK6dldChl5g",
+    "shareCode": "ad26",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261128",
+    "nameZh": "27毫米城市工业圆形底座12号",
+    "nameEn": "27mm City Industrial Round Base No. 12",
+    "displayName": "27毫米城市工业圆形底座12号｜27mm City Industrial Round Base No. 12",
+    "category": "桌游微缩模型底座",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "27毫米城市工业圆形底座12号｜27mm City Industrial Round Base No. 12AI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整包是一件可直接打印和使用的27毫米城市工业风圆形微缩模型底座，包含连续的圆形底体、工业斜槽纹理、分区台阶与边缘细节；仅有一个自包含STL，不需要另配支架或其他装配零件。",
+          "该模型归入“桌游微缩模型底座”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 1 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/city-industrial-bases-27mm-fe9053/gallery-01.png",
+        "alt": "27毫米城市工业圆形底座12号｜27mm City Industrial Round Base No. 12真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-d1f35cfef4003284166527df5920227e9e34c4ee5e99f0e169799dcd6ef6a552.png"
+      },
+      {
+        "src": "./assets/models/city-industrial-bases-27mm-fe9053/gallery-02.png",
+        "alt": "27毫米城市工业圆形底座12号｜27mm City Industrial Round Base No. 12真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-2895acdcd5590aa0452852f9269835d410d56c0c8f6df4c51caec083bb8aa425.png"
+      },
+      {
+        "src": "./assets/models/city-industrial-bases-27mm-fe9053/gallery-03.png",
+        "alt": "27毫米城市工业圆形底座12号｜27mm City Industrial Round Base No. 12真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-cc20931e9ea8118ac016cb74468552bf749cceec21beb5035afbf08f399c363f.png"
+      },
+      {
+        "src": "./assets/models/city-industrial-bases-27mm-fe9053/gallery-04.png",
+        "alt": "27毫米城市工业圆形底座12号｜27mm City Industrial Round Base No. 12真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-a386a2c690380eb496781c24603dff6db9ede309a16d04c60ee2e3589cdbb900.png"
+      },
+      {
+        "src": "./assets/models/city-industrial-bases-27mm-fe9053/gallery-05.png",
+        "alt": "27毫米城市工业圆形底座12号｜27mm City Industrial Round Base No. 12真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-9e1b6e46e7d5dad84a8cf013c115ee521415b2f679c8041dca631f949d5c7bcd.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-a63202c7afd927ddbffcc980c61cbac7e22f0017de579dd16293bbc24f12ce84.png"
+  },
+  {
+    "id": "ouart-daily-six-20261128:1-9-8d3cb0",
+    "publicationId": "ouart-daily-six-20261128:1-9-8d3cb0",
+    "inventoryId": "1-9-8d3cb0",
+    "name": "格温毒液胸像｜Gwenom Bust",
+    "date": "2026-11-28",
+    "displayDate": "2026.11.28",
+    "format": "STL",
+    "fileCount": 3,
+    "size": "341.20 MB",
+    "usage": "个人学习、打印、组装、涂装与场景设计参考；许可请以原始发布者说明为准",
+    "image": "./assets/models/1-9-8d3cb0/1-9-8d3cb0-主图@初艺ouart.png",
+    "description": "完整套件是一件格温毒液漫画角色胸像，包含共用方榫连接底座，以及Gwenom_Bust_1与Gwenom_Bust_2两个同作品替换主体版本；两版均带完整头部、上躯干和共生体触须细节，其中代表展示采用细节更丰富的Bust_2与匹配底座装配。两个主体变体和必要底座应作为同一日发布完整保留，不能只发布单个有方形接口的胸像主体，也不能把任一版本误称为另一作品。",
+    "intro": "2026.11.28 OUART 每日模型合集成员；本期共4件，提供独立详情、制作观察与已验证下载信息。 主图为 AI 涂装与工作室场景效果示意，非实物照片；真实灰模视图保留在下方。",
+    "downloadUrl": "https://pan.baidu.com/s/1vvV6VV7fdAfmGNewC-iX0A",
+    "shareCode": "c935",
+    "published": true,
+    "schemaVersion": 6,
+    "batchId": "ouart-daily-six-20261128",
+    "nameZh": "格温毒液胸像",
+    "nameEn": "Gwenom Bust",
+    "displayName": "格温毒液胸像｜Gwenom Bust",
+    "category": "漫画角色胸像模型",
+    "mainImageRole": "ai_painted_studio_reference",
+    "alt": "格温毒液胸像｜Gwenom BustAI涂装场景效果示意，非实物照片",
+    "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+    "license": "许可请以原始发布者说明为准",
+    "authorLicense": {
+      "author": "来源：用户已有模型库存；作者及许可请以原始文件说明为准",
+      "license": "未发现可公开确认的开放许可声明",
+      "note": "本页不主张获得作者、工作室或角色权利方官方授权；使用范围以原始发布者说明为准。"
+    },
+    "imageDisclosure": "AI 涂装与工作室场景效果示意，非实物照片；模型结构请以保留的真实灰模视图及源文件为准。",
+    "publicTechnicalRenders": [],
+    "secondaryScenes": [],
+    "sections": [
+      {
+        "id": "design",
+        "title": "设计与功能观察",
+        "paragraphs": [
+          "完整套件是一件格温毒液漫画角色胸像，包含共用方榫连接底座，以及Gwenom_Bust_1与Gwenom_Bust_2两个同作品替换主体版本；两版均带完整头部、上躯干和共生体触须细节，其中代表展示采用细节更丰富的Bust_2与匹配底座装配。两个主体变体和必要底座应作为同一日发布完整保留，不能只发布单个有方形接口的胸像主体，也不能把任一版本误称为另一作品。",
+          "该模型归入“漫画角色胸像模型”，与同批其他3件形成多样的展示与制作组合。"
+        ]
+      },
+      {
+        "id": "print",
+        "title": "打印、结构与风险",
+        "paragraphs": [
+          "内部审计记录 3 个可解析 STL；打印前仍需复核单位、缩放、壁厚、支撑、排液、接缝、接口与逐层预览。",
+          "大包的轻微拓扑或装配歧义按本批次合同记录为制作提示，不等于免除安全、完整性或可解析性检查。"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "材料与表面方案",
+        "paragraphs": [
+          "展陈方向：使用低饱和底色与局部高光，强调主体轮廓和层次。",
+          "材料方向：按受力与表面需求选择树脂、PLA/PETG或混合制作，并先做接口试件。",
+          "表面方向：可选自然材质、金属旧化或高对比图形化处理，分别建立底色、阴影和保护层。"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "使用与延展",
+        "paragraphs": [
+          "可用于单件展示、主题组合、桌游场景或功能验证；缩放前先验证薄件、孔位和装配余量。",
+          "可通过替换地台、模块组合、灯光或材料对比形成新的展示关系。",
+          "可加微信“chuyimeishu01”，备注“模型资源”入群！"
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "./assets/models/1-9-8d3cb0/gallery-01.png",
+        "alt": "格温毒液胸像｜Gwenom Bust真实模型·正面",
+        "label": "真实模型·正面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-c0fe1cf8fdcf6cd2250600dc6d084cd7beac0e6c45be00fabc6003f54aec5a90.png"
+      },
+      {
+        "src": "./assets/models/1-9-8d3cb0/gallery-02.png",
+        "alt": "格温毒液胸像｜Gwenom Bust真实模型·背面",
+        "label": "真实模型·背面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-e5efd9b1517451bd21dbf974b08de77601630a820ae423ab4e34010def60da63.png"
+      },
+      {
+        "src": "./assets/models/1-9-8d3cb0/gallery-03.png",
+        "alt": "格温毒液胸像｜Gwenom Bust真实模型·左面",
+        "label": "真实模型·左面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-6de87a0b02790be88d8f347d4fac0e0e201738811856eabbc0d142747254d99b.png"
+      },
+      {
+        "src": "./assets/models/1-9-8d3cb0/gallery-04.png",
+        "alt": "格温毒液胸像｜Gwenom Bust真实模型·右面",
+        "label": "真实模型·右面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-7b0d57386e74c9e85be3ae315af3398853caf3400b0a2fd4c72680fb9f116365.png"
+      },
+      {
+        "src": "./assets/models/1-9-8d3cb0/gallery-05.png",
+        "alt": "格温毒液胸像｜Gwenom Bust真实模型·顶面",
+        "label": "真实模型·顶面",
+        "domesticSrc": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-edb9ae4bac5a3f4e4b6e7ecdbc097de3800547aa5b2edd87742dfc02d60e75ce.png"
+      }
+    ],
+    "domesticImage": "https://chuyiouart.com/wp-content/uploads/2026/11/ouart-model-5f21f1e0af9a3e9b7263bcf5f9d1f8e5fbaf3d17e18095858497d580d32941ff.png"
+  },
+  {
     "id": "ouart-daily-six-20261127:lions-head-model-files-4a42ea",
     "publicationId": "ouart-daily-six-20261127:lions-head-model-files-4a42ea",
     "inventoryId": "lions-head-model-files-4a42ea",
